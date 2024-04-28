@@ -1,32 +1,26 @@
 # Top Menu
 topmenu:
+  - title: Home
+    url: ''
 
-- title: Home
-  url: ""
+  - title: About
+    url: 'about/'
 
-- title: About
-  url: "about/"
+  - title: Contact Us
+    url: 'contact/'
 
-- title: Contact
-  url: "contact/"
-
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+  - title: Steam
+    url: https://store.steampowered.com/curator/1850-Mr-Game-and-Sweat/
+    class: 'ml-2 btn btn-dark text-white px-3'
+    external: true
 
 # Footer Menu
 footermenu:
+  - title: Home
+    url: ''
 
-- title: Home
-  url: ""
+  - title: Want us to review your game?
+    url: 'review-request/'
 
-- title: Privacy Policy
-  url: "privacy-policy/"
-
-- title: Contact
-  url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+  - title: Contact Us
+    url: 'contact/'

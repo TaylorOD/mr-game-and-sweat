@@ -5,11 +5,8 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Mr Game and Sweat
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Welcome to Mr. Game and Sweat, your go-to destination where gaming and fitness collide! Created by a passionate gamer and fitness enthusiast, our blog is dedicated to reviewing video games that not only challenge your gaming skills but also encourage you to move more.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Here, we explore innovative ways to integrate exercise into your gaming sessions, making fitness fun and accessible. Whether you're looking to sweat it out with motion-based games or seeking tips on staying active during marathon gaming sessions, Mr. Game and Sweat is here to help you level up both your game and your health. Join us as we push the boundaries of what it means to be a gamer and a fitness buff in one!
