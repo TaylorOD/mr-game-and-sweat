@@ -24,22 +24,30 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Todd
-    display_name: Todd
-    avatar: 'assets/images/sal.png'
-    email: toddmrgameandsweat@gmail.com
+  taylor:
+    name: Taylor
+    display_name: Taylor
+    avatar: 'assets/images/taylor.png'
+    email: taylormrgameandsweat@gmail.com
     web:
     twitter:
-    description: 'Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.'
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: 'This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages.'
+    description: 'Author and founder of Mr. Game and Sweat. He can be found running on a treadmill with an xbox controller in hand playing Balatro most days of the week'
+  jonas:
+    name: Jonas
+    display_name: Jonas
+    avatar: 'assets/images/jonas.png'
+    email: jonasmrgameandsweat@gmail.com
+    web:
+    twitter:
+    description: 'Jonas is an experienced writer and gamer. He loves Diablo IV, the NBA 2k series, and Fallout 4. He mostly games while riding his exercise bike and watching the latest sports news.'
+  megan:
+    name: megan
+    display_name: megan
+    avatar: 'assets/images/megan.png'
+    email: meganmrgameandsweat@gmail.com
+    web:
+    twitter:
+    description: 'Megan enjoys playing games like Stardew Valley, Vampire Survivors, and XCOM 2. If its raining you know Megan is gaming while walking on her treadmill..'
 
 # Social
 social:
