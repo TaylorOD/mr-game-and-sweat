@@ -6,10 +6,10 @@ topmenu:
   - title: About
     url: 'about/'
 
-  - title: Contact Us
+  - title: Review?
     url: 'contact/'
 
-  - title: Steam
+  - title: Steam Page
     url: https://store.steampowered.com/curator/1850-Mr-Game-and-Sweat/
     class: 'ml-2 btn btn-dark text-white px-3'
     external: true
