@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Mr Game and Sweat
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/mr-game-and-watch.png
+image_height: 375px
 ---
-
-Mr Game and Sweat
 
 Welcome to Mr. Game and Sweat, your go-to destination where gaming and fitness collide! Created by a passionate gamer and fitness enthusiast, our blog is dedicated to reviewing video games that not only challenge your gaming skills but also encourage you to move more.
 
