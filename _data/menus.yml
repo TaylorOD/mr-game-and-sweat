@@ -21,6 +21,7 @@ footermenu:
 
   - title: Want us to review your game?
     url: 'https://store.steampowered.com/curator/45035411/'
+    external: true
 
   - title: Contact Us
     url: 'contact/'
