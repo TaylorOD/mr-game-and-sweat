@@ -4,7 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Vampire Survivors"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
-image: assets/images/vampire-survivors.jpg
+image: assets/images/review-images/vampire-survivors.jpg
 ---
 
 Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Vampire Survivors," a game that offers a unique blend of roguelike mechanics and bullet hell gameplay with a vampire twist. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

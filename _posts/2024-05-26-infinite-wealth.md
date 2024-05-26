@@ -4,7 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth"
 author: taylor
 categories: [ review, rpg ]
 comments: false
-image: assets/images/like-a-dragon-infinite-wealth.jpg
+image: assets/images/review-images/like-a-dragon-infinite-wealth.jpg
 ---
 
 Welcome to Mr. Game and Sweat, where we blend the thrill of gaming with the benefits of staying active! Today, we’re diving into "Like a Dragon Infinite Wealth," a game that promises intense action, compelling storytelling, and an immersive experience. Let’s see how it stacks up on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
