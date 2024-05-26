@@ -3,7 +3,7 @@ layout: post
 title:  "Mr. Game and Sweat Reviews: Enter the Gungeon"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
-image: assets/images/3.jpg
+image: assets/images/enter-the-gungeon.jpg
 ---
 
 Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Enter the Gungeon," a game that offers a unique blend of roguelike mechanics and bullet hell gameplay. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

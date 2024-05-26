@@ -2,6 +2,7 @@ title: 'Mr Game and Sweat'
 email: mrgameandsweat@gmail.com
 timezone: UTC
 baseurl: ''
+url: 'http://mrgameandsweat.com'
 permalink: '/:title/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'

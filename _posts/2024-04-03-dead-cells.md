@@ -3,7 +3,7 @@ layout: post
 title:  "Mr. Game and Sweat Reviews: Dead Cells"
 author: jonas
 categories: [ review, roguelike, metroidvania ]
-image: assets/images/5.jpg
+image: assets/images/dead-cells.jpg
 ---
 
 Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Dead Cells," a game that masterfully combines roguelike mechanics with metroidvania-style exploration. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
