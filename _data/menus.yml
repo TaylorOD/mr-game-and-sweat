@@ -20,7 +20,7 @@ footermenu:
     url: ''
 
   - title: Want us to review your game?
-    url: 'review-request/'
+    url: 'https://store.steampowered.com/curator/45035411/'
 
   - title: Contact Us
     url: 'contact/'
