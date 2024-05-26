@@ -1,14 +1,14 @@
-title: 'Mr Game and Sweat'
+title: 'Mr. Game and Sweat'
 email: mrgameandsweat@gmail.com
 timezone: UTC
 baseurl: ''
-url: 'http://mrgameandsweat.com'
+url: 'http://www.mrgameandsweat.com'
 permalink: '/:title/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: The Mr Game and Sweat Team
+author: The Mr. Game and Sweat Team
 paginate: 30
-disqus: 'demowebsite'
+disqus: false
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -41,14 +41,6 @@ authors:
     web:
     twitter:
     description: 'Jonas is an experienced writer and gamer. He loves Diablo IV, the NBA 2k series, and Fallout 4. He mostly games while riding his exercise bike and watching the latest sports news.'
-  megan:
-    name: Megan
-    display_name: Megan
-    avatar: 'assets/images/megan.png'
-    email: meganmrgameandsweat@gmail.com
-    web:
-    twitter:
-    description: 'Megan enjoys playing games like Stardew Valley, Vampire Survivors, and XCOM 2. If its raining you know Megan is gaming while walking on her treadmill..'
 
 # Social
 social:
