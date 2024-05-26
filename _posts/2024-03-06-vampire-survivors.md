@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Mr. Game and Sweat Reviews: Vampire Survivors"
-author: megan
+author: jonas
 categories: [ review, roguelike, bullet hell ]
+comments: false
 image: assets/images/vampire-survivors.jpg
 ---
 
@@ -36,4 +37,4 @@ As a result, we give "Vampire Survivors" an overall score of 3 out of 3. It exce
 
 ---
 
-Mr. Game and Sweat Reviews: Vampire Survivors - By Megan
+Mr. Game and Sweat Reviews: Vampire Survivors - By Jonas
