@@ -41,8 +41,8 @@ authors:
     twitter:
     description: 'Jonas is an experienced writer and gamer. He loves Diablo IV, the NBA 2k series, and Fallout 4. He mostly games while riding his exercise bike and watching the latest sports news.'
   megan:
-    name: megan
-    display_name: megan
+    name: Megan
+    display_name: Megan
     avatar: 'assets/images/megan.png'
     email: meganmrgameandsweat@gmail.com
     web:
@@ -51,7 +51,7 @@ authors:
 
 # Social
 social:
-  steam: https://store.steampowered.com/curator/1850-Mr-Game-and-Sweat/
+  steam: https://store.steampowered.com/curator/45035411/
 
 # Plugins
 plugins:

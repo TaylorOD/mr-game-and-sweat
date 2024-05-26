@@ -10,7 +10,7 @@ topmenu:
     url: 'contact/'
 
   - title: Steam Page
-    url: https://store.steampowered.com/curator/1850-Mr-Game-and-Sweat/
+    url: https://store.steampowered.com/curator/45035411/
     class: 'ml-2 btn btn-dark text-white px-3'
     external: true
 

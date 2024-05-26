@@ -13,7 +13,7 @@ Cookies may be used to remember visitor preferences when interacting with the we
 Where registration is required, the visitor's email and a username will be stored on the server.
 
 ### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+The information is used to enhance the visitor's experience when using the website to display personalized content and possibly advertising.
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
