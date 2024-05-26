@@ -4,6 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth"
 author: taylor
 categories: [ review, rpg ]
 comments: false
+disqus: false
 image: assets/images/review-images/like-a-dragon-infinite-wealth.jpg
 ---
 

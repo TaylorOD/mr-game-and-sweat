@@ -4,6 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Enter the Gungeon"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
+disqus: false
 image: assets/images/review-images/enter-the-gungeon.jpg
 ---
 
