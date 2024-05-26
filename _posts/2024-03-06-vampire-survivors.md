@@ -4,6 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Vampire Survivors"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
+disqus: false
 image: assets/images/review-images/vampire-survivors.jpg
 ---
 
