@@ -2,7 +2,7 @@
 layout: page
 title: About Mr Game and Sweat
 permalink: "/about/"
-image: assets/images/mr-game-and-sweat.png
+image: assets/images/logos/mr-game-and-sweat.png
 image_height: 375px
 ---
 

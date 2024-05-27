@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ''
 url: 'http://www.mrgameandsweat.com'
 permalink: '/:title/'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logos/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: The Mr. Game and Sweat Team
 paginate: 30
@@ -28,7 +28,7 @@ authors:
   taylor:
     name: Taylor
     display_name: Taylor
-    avatar: 'assets/images/taylor.png'
+    avatar: 'assets/images/authors/taylor.png'
     email: mrgameandsweat@gmail.com
     web:
     twitter:
@@ -36,7 +36,7 @@ authors:
   jonas:
     name: Jonas
     display_name: Jonas
-    avatar: 'assets/images/jonas.png'
+    avatar: 'assets/images/authors/jonas.png'
     email: mrgameandsweat@gmail.com
     web:
     twitter:
