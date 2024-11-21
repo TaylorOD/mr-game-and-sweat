@@ -1,0 +1,14 @@
+{
+  "name": "generate-reviews",
+  "version": "1.0.0",
+  "description": "Generate game reviews using OpenAI",
+  "main": "generate_reviews.js",
+  "scripts": {
+    "start": "node generate_reviews.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security"
+  }
+}
