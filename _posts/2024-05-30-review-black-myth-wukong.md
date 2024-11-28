@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-11-28T04:44:40.804Z
 categories: [ review, game ]
-// image: null
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Black Myth: Wukong,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
