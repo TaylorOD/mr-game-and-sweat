@@ -44,7 +44,12 @@ async function fetchImage(gameName) {
 				Authorization: `Client-ID ${UNSPLASH_ACCESS_KEY}`,
 			},
 		});
-		return response.data.results[0].urls.small;
+		if (response.data.results.length > 0) {
+			return response.data.results[0].urls.small;
+		} else {
+			console.warn(`No image found for game: ${gameName}`);
+			return null; // No image found
+		}
 	} catch (error) {
 		console.error('Error fetching image:', error);
 		throw error;
@@ -55,8 +60,6 @@ async function generateReviewContent(game, imageUrl) {
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
   Always include these sections in your review:
-
-  Welcome back to Mr. Game and Sweat! Today, we’re tackling "${game.name},". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
   # Gameplay
 
@@ -81,15 +84,22 @@ async function generateReviewContent(game, imageUrl) {
   {Insert conclusion here}
 
   ### Overall Score: {insert average of three scores here} out of 3
-
   `;
 
 	try {
 		const response = await axios.post(
-			'https://api.openai.com/v1/completions',
+			'https://api.openai.com/v1/chat/completions',
 			{
-				prompt: prompt,
-				max_tokens: 500,
+				model: 'gpt-4o-mini',
+				messages: [
+					{
+						role: 'system',
+						content:
+							'You are a great writer who has played many many video games and loves exercising',
+					},
+					{ role: 'user', content: prompt },
+				],
+				max_tokens: 1250,
 			},
 			{
 				headers: {
@@ -116,35 +126,7 @@ Welcome back to Mr. Game and Sweat! Today, we’re tackling "${
 
 # Gameplay
 
-${response.data.choices[0].text}
-
-# Treadmill and Bike Compatibility
-
-Playing "${
-			game.name
-		}" while on a treadmill or bike presents some challenges. The game's need for constant attention and quick reflexes can make it hard to balance with physical activity. The intense action sequences require a high level of focus, which can be difficult to maintain while exercising. Despite this, the game's structure allows for short, intense sessions, which can be beneficial for high-intensity interval training. 
-
-### Category Score: 2 out of 3
-
-# Computer Requirements
-
-"${
-			game.name
-		}" is highly accessible in terms of system requirements. Its graphics are not demanding on hardware, allowing it to run smoothly on a variety of systems, from low-end laptops to high-end gaming PCs. This makes it an excellent option for gamers who don’t have top-tier equipment but still want to enjoy a quality gaming experience.
-
-### Category Score: 3 out of 3
-
-# Conclusion and Score
-
-"${
-			game.name
-		}" offers a captivating and challenging gaming experience. Its unique blend of action and roguelike mechanics, coupled with its accessible system requirements, make it a great choice for a wide range of players. While it may be tough to manage during physical activity, it remains a solid game for those looking to integrate gaming into their fitness routine.
-
-Overall, we give "${
-			game.name
-		}" a score of 2.65 out of 3. It excels in gameplay and accessibility, though it poses some challenges for exercise-focused play.
-
-### Overall Score: 2.65 out of 3
+${response.data.choices[0].message.content}
 
 ---
 
