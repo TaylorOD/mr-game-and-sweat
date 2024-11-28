@@ -37,23 +37,24 @@ function hasBeenReviewed(gameName) {
 }
 
 async function fetchImage(gameName) {
-	try {
-		const response = await axios.get('https://api.unsplash.com/search/photos', {
-			params: { query: gameName, per_page: 1 },
-			headers: {
-				Authorization: `Client-ID ${UNSPLASH_ACCESS_KEY}`,
-			},
-		});
-		if (response.data.results.length > 0) {
-			return response.data.results[0].urls.small;
-		} else {
-			console.warn(`No image found for game: ${gameName}`);
-			return null; // No image found
-		}
-	} catch (error) {
-		console.error('Error fetching image:', error);
-		throw error;
-	}
+	return null; // Disable image fetching for now
+	// try {
+	// 	const response = await axios.get('https://api.unsplash.com/search/photos', {
+	// 		params: { query: gameName, per_page: 1 },
+	// 		headers: {
+	// 			Authorization: `Client-ID ${UNSPLASH_ACCESS_KEY}`,
+	// 		},
+	// 	});
+	// 	if (response.data.results.length > 0) {
+	// 		return response.data.results[0].urls.small;
+	// 	} else {
+	// 		console.warn(`No image found for game: ${gameName}`);
+	// 		return null; // No image found
+	// 	}
+	// } catch (error) {
+	// 	console.error('Error fetching image:', error);
+	// 	throw error;
+	// }
 }
 
 async function generateReviewContent(game, imageUrl) {
@@ -117,7 +118,6 @@ comments: false
 disqus: false
 date:   ${new Date().toISOString()}
 categories: [ review, game ]
-image: ${imageUrl}
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "${
