@@ -3,6 +3,7 @@ name: Generate and Publish Game Reviews
 on:
   schedule:
     - cron: '0 0 */3 * *' # Runs every three days
+  workflow_dispatch:
 
 jobs:
   generate-reviews:
