@@ -56,7 +56,7 @@ async function generateReviewContent(game) {
   `;
 
 	const response = await axios.post(
-		'https://api.openai.com/v1/engines/davinci-codex/completions',
+		'https://api.openai.com/v1/completions',
 		{
 			prompt: prompt,
 			max_tokens: 500,
