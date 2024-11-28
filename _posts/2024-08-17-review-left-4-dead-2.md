@@ -4,9 +4,8 @@ title:  "Mr. Game and Sweat Reviews: Left 4 Dead 2"
 author: taylor
 comments: false
 disqus: false
-date:   2024-11-28T04:45:07.369Z
+date:   2024-08-17T04:45:07.369Z
 categories: [ review, game ]
-// image: null
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Left 4 Dead 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

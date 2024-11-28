@@ -4,7 +4,7 @@ title:  "Mr. Game and Sweat Reviews: Euro Truck Simulator 2"
 author: taylor
 comments: false
 disqus: false
-date:   2024-11-28T04:45:39.949Z
+date:   2024-07-21T04:45:39.949Z
 categories: [ review, game ]
 ---
 
