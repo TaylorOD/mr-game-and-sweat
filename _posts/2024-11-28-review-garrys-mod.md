@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-11-28T04:31:19.248Z
 categories: [ review, game ]
-image: https://images.unsplash.com/photo-1557879337-fd4b9ca93ab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODA2OTJ8MHwxfHNlYXJjaHwxfHxHYXJyeSUyN3MlMjBNb2R8ZW58MHx8fHwxNzMyNzY3MjE4fDA&ixlib=rb-4.0.3&q=80&w=400
+
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Garry's Mod,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
