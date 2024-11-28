@@ -153,7 +153,7 @@ async function main() {
 			reviewDate.setDate(reviewDate.getDate() + i);
 			const filename = `_posts/${
 				reviewDate.toISOString().split('T')[0]
-			}-review-${game.appid}.md`;
+			}-review-${slugify(game.name)}.md`;
 			fs.writeFileSync(filename, reviewContent);
 			console.log(`Review for ${game.name} generated and saved as ${filename}`);
 		}
@@ -161,6 +161,17 @@ async function main() {
 		console.error('Error in main function:', error);
 		process.exit(1); // Exit with a non-zero status code to indicate failure
 	}
+}
+
+function slugify(text) {
+	return text
+		.toString()
+		.toLowerCase()
+		.replace(/\s+/g, '-') // Replace spaces with -
+		.replace(/[^\w\-]+/g, '') // Remove all non-word chars
+		.replace(/\-\-+/g, '-') // Replace multiple - with single -
+		.replace(/^-+/, '') // Trim - from start of text
+		.replace(/-+$/, ''); // Trim - from end of text
 }
 
 main().catch((error) => {
