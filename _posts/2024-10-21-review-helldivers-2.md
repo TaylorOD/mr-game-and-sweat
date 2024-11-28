@@ -4,7 +4,7 @@ title:  "Mr. Game and Sweat Reviews: HELLDIVERS 2"
 author: taylor
 comments: false
 disqus: false
-date:   2024-11-28T04:51:22.035Z
+date:   2024-10-21T04:51:22.035Z
 categories: [ review, game ]
 ---
 

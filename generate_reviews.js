@@ -4,7 +4,6 @@ const path = require('path');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
 
 async function fetchTopGames() {
@@ -147,10 +146,10 @@ async function main() {
 
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
-			const imageUrl = await fetchImage(game.name);
-			const reviewContent = await generateReviewContent(game, imageUrl);
+			// const imageUrl = await fetchImage(game.name);
 			const reviewDate = new Date();
 			reviewDate.setDate(reviewDate.getDate() + i);
+			const reviewContent = await generateReviewContent(game, null, reviewDate); // Pass null for imageUrl and reviewDate
 			const filename = `_posts/${
 				reviewDate.toISOString().split('T')[0]
 			}-review-${slugify(game.name)}.md`;
@@ -174,10 +173,6 @@ function slugify(text) {
 		.replace(/-+$/, ''); // Trim - from end of text
 }
 
-main().catch((error) => {
-	console.error('Unhandled error:', error);
-	process.exit(1); // Exit with a non-zero status code to indicate failure
-});
 main().catch((error) => {
 	console.error('Unhandled error:', error);
 	process.exit(1); // Exit with a non-zero status code to indicate failure

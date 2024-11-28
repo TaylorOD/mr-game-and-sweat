@@ -4,7 +4,7 @@ title:  "Mr. Game and Sweat Reviews: ELDEN RING"
 author: taylor
 comments: false
 disqus: false
-date:   2024-11-28T04:44:50.510Z
+date:   2024-07-14T04:44:50.510Z
 categories: [ review, game ]
 ---
 
