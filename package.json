@@ -7,7 +7,7 @@
     "start": "node generate_reviews.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "dotenv": "^10.0.0",
     "fs": "0.0.1-security"
   }
