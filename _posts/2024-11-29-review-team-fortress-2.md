@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-11-28T04:31:27.122Z
 categories: [ review, game ]
-image: https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODA2OTJ8MHwxfHNlYXJjaHwxfHxUZWFtJTIwRm9ydHJlc3MlMjAyfGVufDB8fHx8MTczMjc2NzMxOXww&ixlib=rb-4.0.3&q=80&w=400
+
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Team Fortress 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

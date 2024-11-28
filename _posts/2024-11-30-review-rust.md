@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-11-28T04:31:35.686Z
 categories: [ review, game ]
-image: https://images.unsplash.com/photo-1576001751244-afc956c93f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODA2OTJ8MHwxfHNlYXJjaHwxfHxSdXN0fGVufDB8fHx8MTczMjc2NzMyN3ww&ixlib=rb-4.0.3&q=80&w=400
+
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Rust,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
