@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-11-08T04:29:07.544Z
 categories: [ review, game ]
-image: https://images.igdb.com/igdb/image/upload/t_cover_big/co3s5l.jpg
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "PAYDAY 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

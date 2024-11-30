@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-10-29T20:20:35.894Z
 categories: [ review, game ]
-image: https://images.igdb.com/igdb/image/upload/t_cover_big/co1vdk.jpg
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Among Us,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-11-24T04:29:19.291Z
 categories: [ review, game ]
-image: https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "Red Dead Redemption 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
