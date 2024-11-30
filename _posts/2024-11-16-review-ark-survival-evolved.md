@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-11-16T20:21:24.867Z
 categories: [ review, game ]
-image: https://images.igdb.com/igdb/image/upload/t_cover_big/co493k.jpg
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "ARK: Survival Evolved,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-12-02T04:29:25.141Z
 categories: [ review, game ]
-image: https://images.igdb.com/igdb/image/upload/t_cover_big/co2ld1.jpg
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Forest,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.

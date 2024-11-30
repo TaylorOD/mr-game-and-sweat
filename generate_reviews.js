@@ -58,37 +58,38 @@ function hasBeenReviewed(gameName) {
 }
 
 async function fetchImage(gameName) {
-	try {
-		const accessToken = await getAccessToken();
-		const response = await axios.post(
-			'https://api.igdb.com/v4/games',
-			`fields cover.url; search "${gameName}";`,
-			{
-				headers: {
-					'Client-ID': IGDB_CLIENT_ID,
-					Authorization: `Bearer ${accessToken}`,
-					Accept: 'application/json',
-				},
-			}
-		);
+	return null; // Disable fetching images for now
+	// try {
+	// 	const accessToken = await getAccessToken();
+	// 	const response = await axios.post(
+	// 		'https://api.igdb.com/v4/games',
+	// 		`fields cover.url; search "${gameName}";`,
+	// 		{
+	// 			headers: {
+	// 				'Client-ID': IGDB_CLIENT_ID,
+	// 				Authorization: `Bearer ${accessToken}`,
+	// 				Accept: 'application/json',
+	// 			},
+	// 		}
+	// 	);
 
-		if (response.data.length > 0 && response.data[0].cover) {
-			let imageUrl = response.data[0].cover.url.replace(
-				't_thumb',
-				't_cover_big'
-			); // Use a larger image size
-			if (imageUrl.startsWith('//')) {
-				imageUrl = 'https:' + imageUrl;
-			}
-			return imageUrl;
-		} else {
-			console.warn(`No image found for game: ${gameName}`);
-			return null; // No image found
-		}
-	} catch (error) {
-		console.error('Error fetching image:', error);
-		return null; // Return null if an error occurs
-	}
+	// 	if (response.data.length > 0 && response.data[0].cover) {
+	// 		let imageUrl = response.data[0].cover.url.replace(
+	// 			't_thumb',
+	// 			't_cover_big'
+	// 		); // Use a larger image size
+	// 		if (imageUrl.startsWith('//')) {
+	// 			imageUrl = 'https:' + imageUrl;
+	// 		}
+	// 		return imageUrl;
+	// 	} else {
+	// 		console.warn(`No image found for game: ${gameName}`);
+	// 		return null; // No image found
+	// 	}
+	// } catch (error) {
+	// 	console.error('Error fetching image:', error);
+	// 	return null; // Return null if an error occurs
+	// }
 }
 
 async function generateReviewContent(game, imageUrl, reviewDate) {
@@ -152,7 +153,7 @@ comments: false
 disqus: false
 date:   ${reviewDate.toISOString()}
 categories: [ review, game ]
-image: ${imageUrl || 'default-image-url'}
+image: ${imageUrl}
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "${
@@ -193,12 +194,12 @@ async function main() {
 
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
-			const imageUrl = await fetchImage(game.name);
+			// const imageUrl = await fetchImage(game.name);
 			const reviewDate = new Date();
 			reviewDate.setDate(reviewDate.getDate() + i);
 			const reviewContent = await generateReviewContent(
 				game,
-				imageUrl,
+				null, // disable image fetching for now,
 				reviewDate
 			); // Pass imageUrl and reviewDate
 			const filename = `_posts/${
