@@ -4,7 +4,29 @@ const path = require('path');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const IGDB_CLIENT_ID = process.env.IGDB_CLIENT_ID;
+const IGDB_CLIENT_SECRET = process.env.IGDB_CLIENT_SECRET;
 const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
+
+async function getAccessToken() {
+	try {
+		const response = await axios.post(
+			'https://id.twitch.tv/oauth2/token',
+			null,
+			{
+				params: {
+					client_id: IGDB_CLIENT_ID,
+					client_secret: IGDB_CLIENT_SECRET,
+					grant_type: 'client_credentials',
+				},
+			}
+		);
+		return response.data.access_token;
+	} catch (error) {
+		console.error('Error getting access token:', error);
+		throw error;
+	}
+}
 
 async function fetchTopGames() {
 	try {
@@ -36,27 +58,40 @@ function hasBeenReviewed(gameName) {
 }
 
 async function fetchImage(gameName) {
-	return null; // Disable image fetching for now
-	// try {
-	// 	const response = await axios.get('https://api.unsplash.com/search/photos', {
-	// 		params: { query: gameName, per_page: 1 },
-	// 		headers: {
-	// 			Authorization: `Client-ID ${UNSPLASH_ACCESS_KEY}`,
-	// 		},
-	// 	});
-	// 	if (response.data.results.length > 0) {
-	// 		return response.data.results[0].urls.small;
-	// 	} else {
-	// 		console.warn(`No image found for game: ${gameName}`);
-	// 		return null; // No image found
-	// 	}
-	// } catch (error) {
-	// 	console.error('Error fetching image:', error);
-	// 	throw error;
-	// }
+	try {
+		const accessToken = await getAccessToken();
+		const response = await axios.post(
+			'https://api.igdb.com/v4/games',
+			`fields cover.url; search "${gameName}";`,
+			{
+				headers: {
+					'Client-ID': IGDB_CLIENT_ID,
+					Authorization: `Bearer ${accessToken}`,
+					Accept: 'application/json',
+				},
+			}
+		);
+
+		if (response.data.length > 0 && response.data[0].cover) {
+			let imageUrl = response.data[0].cover.url.replace(
+				't_thumb',
+				't_cover_big'
+			); // Use a larger image size
+			if (imageUrl.startsWith('//')) {
+				imageUrl = 'https:' + imageUrl;
+			}
+			return imageUrl;
+		} else {
+			console.warn(`No image found for game: ${gameName}`);
+			return null; // No image found
+		}
+	} catch (error) {
+		console.error('Error fetching image:', error);
+		return null; // Return null if an error occurs
+	}
 }
 
-async function generateReviewContent(game, imageUrl) {
+async function generateReviewContent(game, imageUrl, reviewDate) {
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
   Always include these sections in your review:
@@ -115,8 +150,9 @@ title:  "Mr. Game and Sweat Reviews: ${game.name}"
 author: taylor
 comments: false
 disqus: false
-date:   ${new Date().toISOString()}
+date:   ${reviewDate.toISOString()}
 categories: [ review, game ]
+image: ${imageUrl || 'default-image-url'}
 ---
 
 Welcome back to Mr. Game and Sweat! Today, we’re tackling "${
@@ -137,6 +173,17 @@ Mr. Game and Sweat Reviews: ${game.name} - By Taylor Dorsett
 	}
 }
 
+function slugify(text) {
+	return text
+		.toString()
+		.toLowerCase()
+		.replace(/\s+/g, '-') // Replace spaces with -
+		.replace(/[^\w\-]+/g, '') // Remove all non-word chars
+		.replace(/\-\-+/g, '-') // Replace multiple - with single -
+		.replace(/^-+/, '') // Trim - from start of text
+		.replace(/-+$/, ''); // Trim - from end of text
+}
+
 async function main() {
 	try {
 		const sortedGames = await fetchTopGames();
@@ -146,10 +193,14 @@ async function main() {
 
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
-			// const imageUrl = await fetchImage(game.name);
+			const imageUrl = await fetchImage(game.name);
 			const reviewDate = new Date();
 			reviewDate.setDate(reviewDate.getDate() + i);
-			const reviewContent = await generateReviewContent(game, null, reviewDate); // Pass null for imageUrl and reviewDate
+			const reviewContent = await generateReviewContent(
+				game,
+				imageUrl,
+				reviewDate
+			); // Pass imageUrl and reviewDate
 			const filename = `_posts/${
 				reviewDate.toISOString().split('T')[0]
 			}-review-${slugify(game.name)}.md`;
@@ -160,17 +211,6 @@ async function main() {
 		console.error('Error in main function:', error);
 		process.exit(1); // Exit with a non-zero status code to indicate failure
 	}
-}
-
-function slugify(text) {
-	return text
-		.toString()
-		.toLowerCase()
-		.replace(/\s+/g, '-') // Replace spaces with -
-		.replace(/[^\w\-]+/g, '') // Remove all non-word chars
-		.replace(/\-\-+/g, '-') // Replace multiple - with single -
-		.replace(/^-+/, '') // Trim - from start of text
-		.replace(/-+$/, ''); // Trim - from end of text
 }
 
 main().catch((error) => {
