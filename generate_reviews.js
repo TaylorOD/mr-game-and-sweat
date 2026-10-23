@@ -1,6 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
+const logSafeError = require('./lib/safe_error_log');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
@@ -23,7 +24,7 @@ async function getAccessToken() {
 		);
 		return response.data.access_token;
 	} catch (error) {
-		console.error('Error getting access token:', error);
+		logSafeError('Error getting access token', error);
 		throw error;
 	}
 }
@@ -38,7 +39,7 @@ async function fetchTopGames() {
 		);
 		return sortedGames;
 	} catch (error) {
-		console.error('Error fetching top games:', error);
+		logSafeError('Error fetching top games', error);
 		throw error;
 	}
 }
@@ -52,7 +53,7 @@ function hasBeenReviewed(gameName) {
 			return content.includes(gameName);
 		});
 	} catch (error) {
-		console.error('Error checking if game has been reviewed:', error);
+		logSafeError('Error checking if game has been reviewed', error);
 		throw error;
 	}
 }
@@ -169,7 +170,7 @@ ${response.data.choices[0].message.content}
 Mr. Game and Sweat Reviews: ${game.name} - By Taylor Dorsett
 `;
 	} catch (error) {
-		console.error('Error generating review content:', error);
+		logSafeError('Error generating review content', error);
 		throw error;
 	}
 }
@@ -209,12 +210,12 @@ async function main() {
 			console.log(`Review for ${game.name} generated and saved as ${filename}`);
 		}
 	} catch (error) {
-		console.error('Error in main function:', error);
+		logSafeError('Error in main function', error);
 		process.exit(1); // Exit with a non-zero status code to indicate failure
 	}
 }
 
 main().catch((error) => {
-	console.error('Unhandled error:', error);
+	logSafeError('Unhandled error', error);
 	process.exit(1); // Exit with a non-zero status code to indicate failure
 });
