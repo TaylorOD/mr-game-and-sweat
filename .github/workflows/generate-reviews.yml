@@ -13,15 +13,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '24'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --no-audit --no-fund
 
       - name: Generate reviews
         run: node generate_reviews.js
@@ -32,9 +32,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
+          git add -A -- _posts
+          if git diff --cached --quiet; then
+            echo "No new or updated reviews to publish"
+            exit 0
+          fi
           git commit -m "Add new game reviews"
-          git pull --rebase origin main || git rebase --abort
-          git push origin main
+          git pull --rebase origin main
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
