@@ -16,6 +16,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - run: npm ci --no-audit --no-fund
+      - run: node -e "require('axios'); require('dotenv')"
       - run: node --check generate_reviews.js
       - run: node --check lib/safe_error_log.js
       - run: node --check test/safe_error_log.test.js
