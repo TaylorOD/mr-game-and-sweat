@@ -1,0 +1,22 @@
+name: Safe error logging checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node --check generate_reviews.js
+      - run: node --check lib/safe_error_log.js
+      - run: node --check test/safe_error_log.test.js
+      - run: node test/safe_error_log.test.js
