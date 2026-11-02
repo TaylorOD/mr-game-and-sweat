@@ -2,12 +2,26 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const logSafeError = require('./lib/safe_error_log');
+const {
+	normalizeGameName,
+	extractCategoryScores,
+	overallScore,
+	stripOverallScore,
+	emptyDays,
+} = require('./lib/review_utils');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const IGDB_CLIENT_ID = process.env.IGDB_CLIENT_ID;
 const IGDB_CLIENT_SECRET = process.env.IGDB_CLIENT_SECRET;
 const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
+const STEAM_STORE_API_URL = 'https://store.steampowered.com/api/appdetails';
+const POSTS_DIR = path.join(__dirname, '_posts');
+
+// The days reviews stopped publishing
+const BACKFILL_START = '2025-11-04';
+const BACKFILL_END = '2026-11-03';
+const BACKFILL_COUNT = Number(process.env.BACKFILL_COUNT) || 0;
 
 async function getAccessToken() {
 	try {
@@ -44,17 +58,89 @@ async function fetchTopGames() {
 	}
 }
 
-function hasBeenReviewed(gameName) {
+function loadReviewedGames() {
 	try {
-		const postsDir = path.join(__dirname, '_posts');
-		const files = fs.readdirSync(postsDir);
-		return files.some((file) => {
-			const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
-			return content.includes(gameName);
-		});
+		const files = fs.readdirSync(POSTS_DIR);
+		const contents = files.map((file) =>
+			fs.readFileSync(path.join(POSTS_DIR, file), 'utf-8')
+		);
+		const names = new Set();
+		for (const content of contents) {
+			const title = content.match(/^title:\s*"?(?:.*Reviews:\s*)?(.*?)"?\s*$/m);
+			if (title) names.add(normalizeGameName(title[1]));
+		}
+		return { allContent: contents.join('\n'), names };
 	} catch (error) {
 		logSafeError('Error checking if game has been reviewed', error);
 		throw error;
+	}
+}
+
+function hasBeenReviewed(gameName, reviewed) {
+	return (
+		reviewed.allContent.includes(gameName) ||
+		reviewed.names.has(normalizeGameName(gameName))
+	);
+}
+
+function pickUnreviewedGames(sortedGames, count) {
+	const reviewed = loadReviewedGames();
+	const picked = [];
+	for (const game of sortedGames) {
+		if (picked.length === count) break;
+		if (hasBeenReviewed(game.name, reviewed)) continue;
+		// Also stops two editions of one game landing in the same batch
+		reviewed.names.add(normalizeGameName(game.name));
+		picked.push(game);
+	}
+	return picked;
+}
+
+function missedDays() {
+	const taken = new Set(
+		fs.readdirSync(POSTS_DIR).map((file) => file.slice(0, 10))
+	);
+	const yesterday = new Date();
+	yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+	const lastDay = yesterday.toISOString().split('T')[0];
+	return emptyDays(
+		BACKFILL_START,
+		lastDay < BACKFILL_END ? lastDay : BACKFILL_END,
+		taken
+	);
+}
+
+function stripHtml(text) {
+	return text
+		.replace(/<[^>]*>/g, ' ')
+		.replace(/\s+/g, ' ')
+		.trim();
+}
+
+// Real store facts so the review isnt guessing. Reviews still work without it.
+async function fetchSteamFacts(game) {
+	try {
+		const response = await axios.get(STEAM_STORE_API_URL, {
+			params: { appids: game.appid, l: 'english' },
+		});
+		const details = response.data[game.appid];
+		if (!details || !details.success) return null;
+		const { data } = details;
+		return [
+			`Controller support: ${data.controller_support || 'none listed'}`,
+			data.genres &&
+				`Genres: ${data.genres.map((genre) => genre.description).join(', ')}`,
+			data.short_description &&
+				`Description: ${stripHtml(data.short_description)}`,
+			data.pc_requirements &&
+				data.pc_requirements.minimum &&
+				`Minimum PC requirements: ${stripHtml(data.pc_requirements.minimum)}`,
+		]
+			.filter(Boolean)
+			.join('\n');
+	} catch (error) {
+		logSafeError('Error fetching Steam details', error);
+		return null;
 	}
 }
 
@@ -93,10 +179,16 @@ async function fetchImage(gameName) {
 	// }
 }
 
-async function generateReviewContent(game, imageUrl, reviewDate) {
+async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
+	const steamFacts = await fetchSteamFacts(game);
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
-  Always include these sections in your review:
+  ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n` : ''}
+  Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
+
+  Scores are whole numbers. Be critical: 0 is bad, 1 is below average, 2 is good and 3 is rare and only for the very best. If a game has no controller support or needs fast precise inputs, its Treadmill and Bike Compatibility score should be 0 or 1.
+
+  Always include these sections in your review, using these exact headings:
 
   # Gameplay
 
@@ -118,9 +210,7 @@ async function generateReviewContent(game, imageUrl, reviewDate) {
 
   # Conclusion and Score
 
-  {Insert conclusion here}
-
-  ### Overall Score: {insert average of three scores here} out of 3
+  {Insert conclusion here. Do not write an overall score, we add that ourselves.}
   `;
 
 	try {
@@ -146,24 +236,26 @@ async function generateReviewContent(game, imageUrl, reviewDate) {
 			}
 		);
 
+		const body = stripOverallScore(response.data.choices[0].message.content);
+		const scores = extractCategoryScores(body);
+		if (scores.length !== 3) {
+			throw new Error('Review did not have three category scores');
+		}
+
 		return `---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ${game.name}"
+title:  ${JSON.stringify(`Mr. Game and Sweat Reviews: ${game.name}`)}
 author: taylor
 comments: false
 disqus: false
 date:   ${reviewDate.toISOString()}
 categories: [ review, game ]
 image: ${imageUrl}
----
+${addedDate ? `added: ${addedDate}\nlast_modified_at: ${addedDate}\n` : ''}---
 
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "${
-			game.name
-		},". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
+${body}
 
-# Gameplay
-
-${response.data.choices[0].message.content}
+### Overall Score: ${overallScore(scores)} out of 3
 
 ---
 
@@ -188,27 +280,45 @@ function slugify(text) {
 
 async function main() {
 	try {
-		const sortedGames = await fetchTopGames();
-		const topGames = sortedGames
-			.filter((game) => !hasBeenReviewed(game.name))
-			.slice(0, 3); // Filter and get top 3 unreviewed games
+		const today = new Date().toISOString().split('T')[0];
+		const days = BACKFILL_COUNT ? missedDays().slice(0, BACKFILL_COUNT) : [];
+		if (BACKFILL_COUNT && days.length === 0) {
+			console.log('Backfill is finished');
+			return;
+		}
 
+		const sortedGames = await fetchTopGames();
+		const topGames = pickUnreviewedGames(
+			sortedGames,
+			BACKFILL_COUNT ? days.length : 3
+		); // Filter and get top unreviewed games
+
+		let failures = 0;
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
 			// const imageUrl = await fetchImage(game.name);
-			const reviewDate = new Date();
+			let reviewDate = new Date();
 			reviewDate.setDate(reviewDate.getDate() + i);
-			const reviewContent = await generateReviewContent(
-				game,
-				null, // disable image fetching for now,
-				reviewDate
-			); // Pass imageUrl and reviewDate
-			const filename = `_posts/${
-				reviewDate.toISOString().split('T')[0]
-			}-review-${slugify(game.name)}.md`;
-			fs.writeFileSync(filename, reviewContent);
-			console.log(`Review for ${game.name} generated and saved as ${filename}`);
+			if (BACKFILL_COUNT) reviewDate = new Date(`${days[i]}T00:12:00Z`);
+			try {
+				const reviewContent = await generateReviewContent(
+					game,
+					null, // disable image fetching for now,
+					reviewDate,
+					BACKFILL_COUNT ? today : null
+				); // Pass imageUrl and reviewDate
+				const filename = `_posts/${
+					reviewDate.toISOString().split('T')[0]
+				}-review-${slugify(game.name)}.md`;
+				fs.writeFileSync(filename, reviewContent);
+				console.log(`Review for ${game.name} generated and saved as ${filename}`);
+			} catch (error) {
+				// One bad review shouldnt throw away the rest of the batch
+				failures++;
+				logSafeError('Error writing a review', error);
+			}
 		}
+		if (failures === topGames.length) process.exit(1);
 	} catch (error) {
 		logSafeError('Error in main function', error);
 		process.exit(1); // Exit with a non-zero status code to indicate failure
