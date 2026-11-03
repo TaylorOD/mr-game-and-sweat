@@ -34,30 +34,22 @@ background: '/img/bg-index.jpg'
           </div>
       {% endif %}
   {% endfor %}
-  </div>
 </section>
 
-<!-- Posts List with Sidebar (except featured)
+<!-- Posts List (except featured)
 ================================================== -->
 <section class="row">
-  <div class="col-sm-8">
-    <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
-        {% include postbox.html %}
-      </div>
-      {% endunless %}
-      {% endfor %}
-    </div>
-    <!-- Pagination -->
-    <div class="bottompagination">
-      <span class="navigation" role="navigation">
-          {% include pagination.html %}
-      </span>
-    </div>
+  {% for post in paginator.posts %}
+  {% unless post.featured == true %}
+  <div class="col-md-4 mb-5">
+    {% include postbox.html %}
   </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
-  </div>
+  {% endunless %}
+  {% endfor %}
 </section>
+<!-- Pagination -->
+<div class="bottompagination">
+  <span class="navigation" role="navigation">
+      {% include pagination.html %}
+  </span>
+</div>
