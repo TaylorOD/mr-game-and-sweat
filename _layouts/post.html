@@ -14,7 +14,7 @@ post_class: post-template
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
-		<div class="col-sm-8">
+		<div class="col-lg-8 mx-auto">
             <!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title | escape }}">{% endif %}
 			<!-- End Featured Image -->
@@ -101,10 +101,6 @@ post_class: post-template
 
         
 
-		<!-- Sidebar -->
-        <div class="col-sm-4">
-            {% include sidebar.html %}
-            </div>
         
         
 
