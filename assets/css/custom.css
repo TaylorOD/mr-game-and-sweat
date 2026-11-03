@@ -150,3 +150,43 @@ Just customize your theme here.
 		display: none;
 	}
 }
+
+/* Best of pages */
+.best-list {
+	padding: 0;
+	list-style-position: inside;
+}
+.best-list li {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	padding: 1.25rem 0;
+	border-bottom: 1px solid #e9ecef;
+}
+.best-list-image img {
+	display: block;
+	width: 200px;
+	max-width: 100%;
+}
+.best-list li > div {
+	flex: 1 1 240px;
+}
+
+/* Best of pages */
+.best-list {
+	counter-reset: rank;
+	list-style: none;
+}
+.best-list li {
+	counter-increment: rank;
+}
+.best-list h2::before {
+	content: counter(rank) ". ";
+}
+.best-list a.best-list-image {
+	align-self: flex-start;
+	border: 0;
+	box-shadow: none;
+	background: none;
+	text-decoration: none;
+}

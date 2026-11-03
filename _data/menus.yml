@@ -6,6 +6,9 @@ topmenu:
   - title: All Reviews
     url: 'reviews/'
 
+  - title: Best Of
+    url: 'best-of/'
+
   - title: About
     url: 'about/'
 
@@ -24,6 +27,9 @@ footermenu:
 
   - title: All Reviews
     url: 'reviews/'
+
+  - title: Best Of
+    url: 'best-of/'
 
   - title: Want us to review your game?
     url: 'https://store.steampowered.com/curator/45035411/'
