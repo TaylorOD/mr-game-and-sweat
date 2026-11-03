@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Z1 Battle Royale"
+title:  "Z1 Battle Royale"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-08T00:11:12.867Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433850/header.jpg
+excerpt: "Z1 Battle Royale takes players back to the roots of battle royale gameplay, combining intense survival mechanics with a slightly nostalgic aesthetic."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 433850
+genres: ["Action", "Adventure", "Free To Play", "Massively Multiplayer"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Z1 Battle Royale,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Z1 Battle Royale Review
 
 Z1 Battle Royale takes players back to the roots of battle royale gameplay, combining intense survival mechanics with a slightly nostalgic aesthetic. As you step into this game, you'll find a unique blend of classic mechanics and modern flair.
 

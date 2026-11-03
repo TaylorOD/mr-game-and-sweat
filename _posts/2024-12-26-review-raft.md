@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Raft"
+title:  "Raft"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-26T00:10:01.193Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg
+excerpt: "Raft is a unique survival game that places you in an open ocean filled with challenges and opportunities for creativity."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 648800
+genres: ["Adventure", "Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Raft,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Raft Game Review
 
 "Raft" is a unique survival game that places you in an open ocean filled with challenges and opportunities for creativity. The concept is simple: you start on a small raft, gathering debris from the water to expand and fortify your floating home while surviving against the elements and the occasional shark attack. With a seamless blend of crafting, building, and exploration, "Raft" presents an engaging experience that can work beautifully for those looking to stay active while gaming.
 

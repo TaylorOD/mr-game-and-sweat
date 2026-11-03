@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Wolfenstein: The New Order"
+title:  "Wolfenstein: The New Order"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-29T00:11:26.111Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg
+excerpt: "The gameplay in *Wolfenstein: The New Order* is a seamless blend of intense gunplay, stealth mechanics, and exploration."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 201810
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Wolfenstein: The New Order,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Wolfenstein: The New Order Review
 
 **Wolfenstein: The New Order** brings players into an alternate history where the Nazis have triumphed in World War II, creating an oppressive regime. As B.J. Blazkowicz, players embark on a thrilling mission to liberate Europe. But does this intense first-person shooter keep you engaged while you sweat it out on a treadmill or bike? Let’s find out!
 

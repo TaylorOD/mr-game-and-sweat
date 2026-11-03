@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Vampire Survivors"
+title:  "Vampire Survivors"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
 disqus: false
 image: assets/images/review-images/vampire-survivors.jpg
+excerpt: "Vampire Survivors provides a highly engaging gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 1794680
+controller: full
+genres: ["Action", "Casual", "Indie", "RPG"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Vampire Survivors," a game that offers a unique blend of roguelike mechanics and bullet hell gameplay with a vampire twist. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

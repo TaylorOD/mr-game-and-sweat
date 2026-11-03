@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kingdom Come: Deliverance"
+title:  "Kingdom Come: Deliverance"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-12T00:09:31.606Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/43b72106345687f4a2bf94d5f98335e52c1cd598/header.jpg
+excerpt: "Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2
+score_overall: 1.83
+steam_appid: 379430
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kingdom Come: Deliverance,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Kingdom Come: Deliverance - Game Review
 
 Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia. It’s known for its historical authenticity and deep immersive experience, but how well does it fare for those looking to combine their cardio workouts with gameplay? Let's dive into our review based on key categories.
 

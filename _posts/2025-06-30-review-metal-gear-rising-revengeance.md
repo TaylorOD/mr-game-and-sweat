@@ -1,17 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: METAL GEAR RISING: REVENGEANCE"
+title:  "METAL GEAR RISING: REVENGEANCE"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-30T00:11:31.697Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235460/header.jpg
+excerpt: "METAL GEAR RISING: REVENGEANCE is a heart-pounding experience that immerses players in fast-paced, adrenaline-fueled action."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 235460
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "METAL GEAR RISING: REVENGEANCE,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

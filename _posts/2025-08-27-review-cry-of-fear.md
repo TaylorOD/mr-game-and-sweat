@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cry of Fear"
+title:  "Cry of Fear"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-27T00:12:22.626Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223710/header.jpg
+excerpt: "Cry of Fear, a psychological horror game developed by Team Psykskallar, masterfully combines immersive storytelling with a nightmarish atmosphere, making it an intriguing choice for gamers who also want to keep active while exercising on a "
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 223710
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Cry of Fear,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Cry of Fear Game Review
 
 "Cry of Fear," a psychological horror game developed by Team Psykskallar, masterfully combines immersive storytelling with a nightmarish atmosphere, making it an intriguing choice for gamers who also want to keep active while exercising on a treadmill or bike. 
 

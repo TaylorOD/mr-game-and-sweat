@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+title:  "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-29T00:11:45.511Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/ed690c0b1f26c865708880e188fbc63a81989dfc/header_alt_assets_8.jpg
+excerpt: "After years of anticipation, S.T.A.L.K.E.R. 2: Heart of Chornobyl finally drops players into a hauntingly immersive, post-apocalyptic version of Chernobyl."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 1643320
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "S.T.A.L.K.E.R. 2: Heart of Chornobyl,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# S.T.A.L.K.E.R. 2: Heart of Chornobyl Review
 
 After years of anticipation, "S.T.A.L.K.E.R. 2: Heart of Chornobyl" finally drops players into a hauntingly immersive, post-apocalyptic version of Chernobyl. Located in a desolate world filled with mutants, anomalies, and an overarching sense of dread, this game promises to be an adventure like no other. But how does it hold up for those of us looking to get our cardio in through treadmill running or biking? Let's dive in!
 

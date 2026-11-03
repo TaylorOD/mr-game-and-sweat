@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: OMORI"
+title:  "OMORI"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-05T00:11:59.232Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg
+excerpt: "The gameplay in OMORI is rich and multi-layered. The game offers a turn-based combat system that, while strategic, is not overly demanding or fast-paced."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 1150690
+controller: full
+genres: ["Adventure", "Indie", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "OMORI,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# OMORI Game Review
 
 **OMORI** is a unique entry in the indie RPG genre that combines charming visuals and a haunting narrative to explore themes of mental health and friendship. It tantalizes players with its intricate storytelling and vibrant yet melancholic art style. For gamers who love incorporating physical activity into their play sessions, especially on a treadmill or bike, this review will help you gauge how engaging OMORI can be for your workout experience.
 

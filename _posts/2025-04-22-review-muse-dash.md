@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Muse Dash"
+title:  "Muse Dash"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-22T00:11:10.763Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774171/header.jpg
+excerpt: "Muse Dash is a rhythm-action game that transports players into a vibrant world filled with colorful characters and an infectious soundtrack."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.5
+steam_appid: 774171
+genres: ["Action", "Casual", "Indie"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Muse Dash,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Muse Dash Review
 
 Muse Dash is a rhythm-action game that transports players into a vibrant world filled with colorful characters and an infectious soundtrack. What sets it apart for gamers who like to stay active is its unique ability to keep you moving, making it an interesting addition to your treadmill or biking routine.
 

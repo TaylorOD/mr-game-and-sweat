@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: AdVenture Capitalist"
+title:  "AdVenture Capitalist"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-24T00:12:14.638Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346900/header.jpg
+excerpt: "AdVenture Capitalist is a quirky idle clicker game that invites players to engage in the thrilling world of business tycoons."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.67
+steam_appid: 346900
+genres: ["Casual", "Indie", "Free To Play"]
+pause_friendly: Yes
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "AdVenture Capitalist,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# AdVenture Capitalist Review
 
 AdVenture Capitalist is a quirky idle clicker game that invites players to engage in the thrilling world of business tycoons. While this game focuses on building a capitalist empire rather than physical fitness, its compatibility with exercise machines makes it a surprising contender for treadmill or bike gameplay. 
 

@@ -1,6 +1,149 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
+/*
+Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+/* Cards */
+.card-image-link {
+	display: block;
+	position: relative;
+}
+.card-image-link img {
+	display: block;
+	width: 100%;
+	aspect-ratio: 460 / 215;
+	object-fit: cover;
+}
+.score-badge {
+	display: inline-block;
+	margin-bottom: 0.75rem;
+	padding: 0.15rem 0.6rem;
+	border-radius: 4px;
+	background: #343a40;
+	color: #fff;
+	font-weight: 700;
+	font-size: 0.95rem;
+}
+.score-badge small {
+	margin-left: 1px;
+	font-size: 0.75em;
+	font-weight: 400;
+}
+.card-image-link img + .score-badge {
+	position: absolute;
+	top: 0.5rem;
+	right: 0.5rem;
+	margin: 0;
+}
+
+/* Score box on review pages */
+.score-box {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 1rem 2rem;
+	margin: 0 0 2rem;
+	padding: 1.25rem 1.5rem;
+	border-radius: 6px;
+	background: #e7f2f6;
+}
+.score-box-main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	line-height: 1.1;
+}
+.score-number {
+	font-size: 2.75rem;
+	font-weight: 700;
+}
+.score-out-of {
+	font-size: 0.85rem;
+}
+.score-box-list {
+	flex: 1 1 200px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 0.95rem;
+}
+.score-box-list li {
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+	padding: 0.15rem 0;
+}
+.score-box-steam {
+	flex: 1 1 100%;
+}
+
+/* Related reviews */
+.related-reviews {
+	margin: 2rem 0;
+}
+.related-reviews ul {
+	padding-left: 1.25rem;
+}
+
+/* All reviews page */
+.review-filters {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+	gap: 0.75rem 1rem;
+	align-items: end;
+}
+.review-filter label {
+	display: block;
+	margin-bottom: 0.25rem;
+	font-size: 0.85rem;
+	font-weight: 700;
+}
+.review-filter-search {
+	grid-column: 1 / -1;
+}
+.review-filter-check label {
+	margin-bottom: 0.5rem;
+	font-weight: 400;
+}
+
+/* Best of pages */
+.best-list {
+	padding: 0;
+	list-style-position: inside;
+}
+.best-list li {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	padding: 1.25rem 0;
+	border-bottom: 1px solid #e9ecef;
+}
+.best-list-image img {
+	display: block;
+	width: 200px;
+	max-width: 100%;
+}
+.best-list li > div {
+	flex: 1 1 240px;
+}
+
+/* Home page hero on phones */
+@media only screen and (max-width: 767px) {
+	.hero {
+		padding: 1.5rem;
+	}
+	.hero .row {
+		margin: 0;
+	}
+	.hero .col-md-6 {
+		padding: 0;
+		text-align: center;
+	}
+	.hero img.intro {
+		display: block;
+		width: 100%;
+		max-width: 320px;
+		height: auto;
+		margin: 1.5rem auto 0;
+	}
+}

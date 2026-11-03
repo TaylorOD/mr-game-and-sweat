@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto IV: The Complete Edition"
+title:  "Grand Theft Auto IV: The Complete Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-02-28T00:10:11.691Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg
+excerpt: "The gameplay of GTA IV is deeply immersive and filled with engaging missions, side quests, and interactions that encourage exploration."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 12210
+genres: ["Action", "Adventure"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Grand Theft Auto IV: The Complete Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Grand Theft Auto IV: The Complete Edition - A Game Review 
 
 **Introduction**  
 Grand Theft Auto IV: The Complete Edition is a sprawling open-world experience set in the fictional Liberty City—a city that mirrors the grit and diversity of modern American urban life. While it’s always been hailed for its storytelling and intricate world, the question remains: how does it fare as a game to keep you motivated while treadmill running or biking? Let’s dive in.

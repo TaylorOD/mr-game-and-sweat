@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Frostpunk"
+title:  "Frostpunk"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-11T00:10:39.051Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg
+excerpt: "Frostpunk, developed by 11 bit studios, is a unique blend of city-building, survival, and strategy that throws you into a post-apocalyptic world where the freezing climate has left humanity on the brink of extinction."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.33
+steam_appid: 323190
+genres: ["Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Frostpunk,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Frostpunk Game Review
 
 Frostpunk, developed by 11 bit studios, is a unique blend of city-building, survival, and strategy that throws you into a post-apocalyptic world where the freezing climate has left humanity on the brink of extinction. This game challenges players to build a city around a massive generator while managing resources, citizen morale, and public policies. But how does it hold up for gamers who enjoy breaking a sweat on a treadmill or bike? Let’s dive in.
 

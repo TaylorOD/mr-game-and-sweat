@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assassin's Creed Origins"
+title:  "Assassin's Creed Origins"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-12T00:11:16.206Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg
+excerpt: "Assassin's Creed Origins transports players to ancient Egypt, immersing them in a beautifully crafted open world teeming with adventure, history, and rich storytelling."
+score_gameplay: 2
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.17
+steam_appid: 582160
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Assassin's Creed Origins,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Assassin's Creed Origins
 
 "Assassin's Creed Origins" transports players to ancient Egypt, immersing them in a beautifully crafted open world teeming with adventure, history, and rich storytelling. As you step into the sandals of Bayek, an early Assassin, you'll uncover a narrative that intertwines personal vendettas with larger conspiracies. But what's particularly compelling for those of us who enjoy exercising while gaming is how well this title fits into an active lifestyle on the treadmill or bike.
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto: San Andreas"
+title:  "Grand Theft Auto: San Andreas"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-15T00:13:52.795Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg
+excerpt: "Grand Theft Auto: San Andreas, originally released in 2004, is a classic open-world action-adventure game that has remained beloved by gamers for its rich storytelling, vast world, and engaging gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 12120
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Grand Theft Auto: San Andreas,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Grand Theft Auto: San Andreas - Game Review
 
 Grand Theft Auto: San Andreas, originally released in 2004, is a classic open-world action-adventure game that has remained beloved by gamers for its rich storytelling, vast world, and engaging gameplay. As a game that can be enjoyed while exercising—whether on a treadmill or a bike—let’s dive into how it performs in this unique context.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Walking Dead"
+title:  "The Walking Dead"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-31T00:12:19.185Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg
+excerpt: "Telltale Games’ The Walking Dead is a gripping narrative-driven adventure that pulls players into a world of moral dilemmas and heart-wrenching decisions."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 207610
+controller: full
+genres: ["Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Walking Dead,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# The Walking Dead Game Review
 
 Telltale Games’ "The Walking Dead" is a gripping narrative-driven adventure that pulls players into a world of moral dilemmas and heart-wrenching decisions. For gamers looking to stay active while navigating this emotional landscape, let's delve into how well it fares on the treadmill or bike.
 

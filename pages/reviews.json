@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: "/reviews.json"
+sitemap: false
+---
+[{% for p in site.posts %}{% if p.score_overall %}{% unless first_done %}{% assign first_done = true %}{% else %},{% endunless %}{"title":{{ p.title | jsonify }},"url":{{ p.url | absolute_url | jsonify }},"excerpt":{{ p.excerpt | strip_html | strip | truncatewords: 18 | jsonify }},"image":{% if p.image %}{% if p.image contains '://' %}{{ p.image | jsonify }}{% else %}{{ site.baseurl | append: "/" | append: p.image | jsonify }}{% endif %}{% else %}null{% endif %},"score":{{ p.score_overall }},"treadmill":{{ p.score_treadmill }},"genres":{{ p.genres | default: "" | jsonify }},"controller":{{ p.controller | default: "" | jsonify }},"pause":{{ p.pause_friendly | default: "" | jsonify }},"session":{{ p.session_length | default: "" | jsonify }},"bestFor":{{ p.best_for | default: "" | jsonify }},"date":{{ p.date | date: "%Y-%m-%d" | jsonify }}}{% endif %}{% endfor %}]

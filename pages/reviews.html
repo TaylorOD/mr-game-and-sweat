@@ -1,0 +1,76 @@
+---
+layout: default
+title: All Reviews
+permalink: "/reviews/"
+description: Search and filter every Mr. Game and Sweat review by score, genre, session length and more.
+---
+
+<h1 class="mb-3">All Reviews</h1>
+<p class="lead mb-4">Find something to play on your next run or ride.</p>
+
+<form id="review-filters" class="review-filters mb-4" role="search" onsubmit="return false">
+	<div class="review-filter review-filter-search">
+		<label for="filter-search">Search</label>
+		<input id="filter-search" class="form-control" type="search" placeholder="Search by game" />
+	</div>
+	<div class="review-filter">
+		<label for="filter-genre">Genre</label>
+		<select id="filter-genre" class="form-control"><option value="">All genres</option></select>
+	</div>
+	<div class="review-filter">
+		<label for="filter-best">Best for</label>
+		<select id="filter-best" class="form-control">
+			<option value="">Treadmill or bike</option>
+			<option value="Treadmill">Treadmill</option>
+			<option value="Bike">Bike</option>
+		</select>
+	</div>
+	<div class="review-filter">
+		<label for="filter-pause">Pause friendly</label>
+		<select id="filter-pause" class="form-control">
+			<option value="">Any</option>
+			<option value="Yes">Yes</option>
+			<option value="Sometimes">Sometimes</option>
+			<option value="No">No</option>
+		</select>
+	</div>
+	<div class="review-filter">
+		<label for="filter-session">Session length</label>
+		<select id="filter-session" class="form-control">
+			<option value="">Any</option>
+			<option value="Short">Under 30 min</option>
+			<option value="Medium">30 to 60 min</option>
+			<option value="Long">Over 60 min</option>
+		</select>
+	</div>
+	<div class="review-filter">
+		<label for="filter-score">Minimum score</label>
+		<select id="filter-score" class="form-control">
+			<option value="0">Any</option>
+			<option value="1.5">1.5 and up</option>
+			<option value="2">2 and up</option>
+			<option value="2.5">2.5 and up</option>
+		</select>
+	</div>
+	<div class="review-filter">
+		<label for="filter-sort">Sort by</label>
+		<select id="filter-sort" class="form-control">
+			<option value="score">Highest score</option>
+			<option value="treadmill">Best treadmill and bike score</option>
+			<option value="date">Newest</option>
+			<option value="title">Name</option>
+		</select>
+	</div>
+	<div class="review-filter review-filter-check">
+		<label><input id="filter-controller" type="checkbox" /> Controller support only</label>
+	</div>
+</form>
+
+<p id="review-count" class="small text-muted" aria-live="polite"></p>
+<div id="review-grid" class="row"></div>
+<div class="text-center mb-5">
+	<button id="review-more" class="btn btn-dark text-white" type="button" hidden>Show more</button>
+</div>
+<noscript><p>Turn on JavaScript to search, or head back to the <a href="{{ site.baseurl }}/">home page</a> to browse every review.</p></noscript>
+
+<script src="{{ site.baseurl }}/assets/js/reviews.js" data-index="{{ site.baseurl }}/reviews.json" defer></script>

@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ARK: Survival Evolved"
+title:  "ARK: Survival Evolved"
 author: taylor
 comments: false
 disqus: false
 date:   2024-11-16T20:21:24.867Z
 categories: [ review, game ]
+excerpt: "ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 346110
+controller: full
+genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "ARK: Survival Evolved,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# ARK: Survival Evolved Review
 
 ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats. As you navigate this massive open-world environment, it becomes essential to balance your exploration and survival with your exercise routine. Here’s how it holds up for fitness gamers.
 

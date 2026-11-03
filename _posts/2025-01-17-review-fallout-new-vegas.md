@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout: New Vegas"
+title:  "Fallout: New Vegas"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-17T00:10:03.084Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg
+excerpt: "Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 22380
+genres: ["Action", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Fallout: New Vegas,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Fallout: New Vegas Review
 
 Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative. But how does it hold up when you’re trying to squeeze in a workout on the treadmill or bike? Let’s break it down.
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Plague Inc: Evolved"
+title:  "Plague Inc: Evolved"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-19T00:12:19.334Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/4c67f0dc09d833b843cf5c3834d95bef246ccd49/header.jpg
+excerpt: "As a fitness and gaming enthusiast, I am always on the hunt for games that can keep the adrenaline pumping while allowing me to squeeze in cardio sessions."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.5
+steam_appid: 246620
+genres: ["Casual", "Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Plague Inc: Evolved,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Plague Inc: Evolved - Game Review
 
 As a fitness and gaming enthusiast, I am always on the hunt for games that can keep the adrenaline pumping while allowing me to squeeze in cardio sessions. "Plague Inc: Evolved," a strategy simulation game where you design and evolve a pathogen to wipe out humanity, is an intriguing mix of strategy and dark humor that provides an engaging backdrop for your workouts. Let’s dive into the details!
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Monster Hunter Wilds"
+title:  "Monster Hunter Wilds"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-10T00:11:36.986Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg
+excerpt: "Monster Hunter Wilds is the latest installment in the beloved franchise, taking players into a vast and vibrant world filled with ferocious monsters to hunt."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 2246340
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Monster Hunter Wilds,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Monster Hunter Wilds Review
 
 Monster Hunter Wilds is the latest installment in the beloved franchise, taking players into a vast and vibrant world filled with ferocious monsters to hunt. But how does this title stack up when paired with your fitness routine? Let’s dive into the details!
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Blender"
+title:  "Blender"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-08T00:13:05.251Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365670/208129d717f2938f41700dafb009f447aa38e12b/header.jpg
+excerpt: "Blender, a vibrant and interactive simulation game, focuses on creativity and exploration."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 365670
+genres: ["Animation & Modeling", "Design & Illustration", "Video Production"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Blender,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Blender Game Review
 
 Blender, a vibrant and interactive simulation game, focuses on creativity and exploration. While it may not seem like the most obvious game for those looking to exercise while gaming, it has its merits. Here’s an in-depth look at how it stands up in various categories vital for gamers who like to combine their fitness routines with their love for gaming.
 

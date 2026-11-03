@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: R.E.P.O."
+title:  "R.E.P.O."
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-08T00:11:35.917Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg
+excerpt: "“R.E.P.O.” is an ingenious blend of action, strategy, and storytelling that places players in a dystopian world where technology meets survival."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 3241660
+controller: full
+genres: ["Action", "Early Access"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "R.E.P.O.,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Game Review: R.E.P.O.
 
 “R.E.P.O.” is an ingenious blend of action, strategy, and storytelling that places players in a dystopian world where technology meets survival. Designed to keep your adrenaline pumping, this game presents an innovative opportunity for gamers who want to stay fit while indulging in deep gameplay. Let’s dive into the nitty-gritty of what makes R.E.P.O. both entertaining and conducive to your fitness regime.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Half-Life 2"
+title:  "Half-Life 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-12T00:10:26.478Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg
+excerpt: "Half-Life 2 is a landmark title in the world of first-person shooters, offering a narrative-rich experience combined with innovative gameplay mechanics."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 220
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Half-Life 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Half-Life 2 Review
 
 Half-Life 2 is a landmark title in the world of first-person shooters, offering a narrative-rich experience combined with innovative gameplay mechanics. It is not only a thrilling ride through a dystopian world but also a game that you can enjoy while getting your exercise in, as it lends itself well to playing on a treadmill or bike. 
 

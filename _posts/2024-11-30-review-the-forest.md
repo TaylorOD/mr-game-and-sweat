@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Forest"
+title:  "The Forest"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-02T04:29:25.141Z
 categories: [ review, game ]
+excerpt: "In The Forest, players find themselves stranded on a mysterious island after a plane crash."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 242760
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Forest,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of "The Forest"
 
 **The Forest** is a visually stunning survival horror game that immerses players in a dense, foreboding wilderness. Designed for those who relish both the thrill of virtual adventures and the commitment to an active lifestyle, this game fosters a unique blend of survival instinct and immersion. But is it compatible with your treadmill or bike exercise routine? Let’s dive in.
 

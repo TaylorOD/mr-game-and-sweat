@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Risk of Rain"
+title:  "Risk of Rain"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/risk-of-rain.jpg
+excerpt: "Risk of Rain delivers a captivating experience with its unique blend of action and roguelike elements."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! I'm Taylor, your guide to merging the excitement of gaming with fitness. Today, we’re taking a nostalgic dive into the indie classic "Risk of Rain." This game is known for its intense action and challenging gameplay. Let’s see how it holds up in our categories: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

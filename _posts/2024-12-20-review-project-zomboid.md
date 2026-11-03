@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Project Zomboid"
+title:  "Project Zomboid"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-20T00:10:50.637Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg
+excerpt: "When it comes to balancing exercise and immersive gaming, Project Zomboid stands out as a post-apocalyptic survival RPG that demands not just attention, but a healthy dose of strategy and quick decision-making."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 108600
+genres: ["Indie", "RPG", "Simulation", "Early Access"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Project Zomboid,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Project Zomboid Review
 
 When it comes to balancing exercise and immersive gaming, **Project Zomboid** stands out as a post-apocalyptic survival RPG that demands not just attention, but a healthy dose of strategy and quick decision-making. Let’s delve into its key aspects, particularly how well it fits into an active gaming lifestyle.
 

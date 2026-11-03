@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Space Engineers"
+title:  "Space Engineers"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-02T00:11:33.118Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/3658a69c81af5f4014b0ffa88941285e74825b86/header.jpg
+excerpt: "Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 244850
+genres: ["Action", "Indie", "Simulation", "Strategy"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Space Engineers,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Space Engineers Review
 
 Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space. As you build and maintain your space stations, ships, and planetary bases, the game allows for a wealth of exploration and engineering possibilities. 
 

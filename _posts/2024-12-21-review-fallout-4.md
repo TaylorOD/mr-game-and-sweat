@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout 4"
+title:  "Fallout 4"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-21T00:10:59.719Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg
+excerpt: "Fallout 4 invites players into a post-apocalyptic world where exploration, combat, and a rich storyline await."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 377160
+controller: full
+genres: ["RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Fallout 4,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Fallout 4 Game Review
 
 Fallout 4 invites players into a post-apocalyptic world where exploration, combat, and a rich storyline await. But how does it hold up for those of us who like to break a sweat while gaming? Here’s a detailed analysis.
 
@@ -42,7 +47,6 @@ Overall, Fallout 4 offers an engaging experience with its impressive open world;
 ### Overall Score: 1.67 out of 3
 
 If you can find the right balance, Fallout 4 can provide both a thrilling escape and a unique workout opportunity. Just remember to take breaks to hydrate and stretch!
-
 
 ---
 

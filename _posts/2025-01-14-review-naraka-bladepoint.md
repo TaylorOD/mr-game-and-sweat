@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: NARAKA: BLADEPOINT"
+title:  "NARAKA: BLADEPOINT"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-14T00:10:58.680Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2c626fe471202399b2fe31cf25b05e5e88289a89/header.jpg
+excerpt: "NARAKA: BLADEPOINT is a visually stunning battle royale experience that injects traditional melee combat mechanics into the genre, providing players with an adrenaline-fueled playground filled with unique characters and abilities."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1203220
+genres: ["Action", "Adventure", "Massively Multiplayer", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "NARAKA: BLADEPOINT,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# NARAKA: BLADEPOINT - Game Review
 
 NARAKA: BLADEPOINT is a visually stunning battle royale experience that injects traditional melee combat mechanics into the genre, providing players with an adrenaline-fueled playground filled with unique characters and abilities. Whether you’re slashing through enemies or showcasing acrobatic maneuvers, there’s plenty of action to keep you engaged. But how does it fare for those of us who like to get our exercise in while indulging in a good video game? Let's take a closer look.
 

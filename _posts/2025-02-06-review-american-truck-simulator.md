@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: American Truck Simulator"
+title:  "American Truck Simulator"
 author: taylor
 comments: false
 disqus: false
 date:   2025-02-06T00:10:21.947Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg
+excerpt: "American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 270880
+genres: ["Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "American Truck Simulator,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# American Truck Simulator Review
 
 American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States. Like many life-sim games, it presents a serene and calming driving experience perfect for fitness enthusiasts who enjoy combining their workout routines with their gaming hobbies.
 

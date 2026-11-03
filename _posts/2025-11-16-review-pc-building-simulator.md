@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PC Building Simulator"
+title:  "PC Building Simulator"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-16T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "PC Building Simulator is a poor fit for treadmill or bike workouts: repairing and assembling PCs involves reading job notes, navigating menus, and carefully handling components."
+score_gameplay: 1
+score_treadmill: 1
+score_computer: 2
+score_overall: 1.33
+steam_appid: 621060
+genres: ["Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
 
 PC Building Simulator is a poor fit for treadmill or bike workouts: repairing and assembling PCs involves reading job notes, navigating menus, and carefully handling components. Its calm pace avoids twitchy action, but you’ll need to keep your attention—and your hands—on the game.

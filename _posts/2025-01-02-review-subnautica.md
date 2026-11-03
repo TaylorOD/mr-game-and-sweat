@@ -1,23 +1,28 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Subnautica"
+title:  "Subnautica"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-02T00:10:34.021Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg
+excerpt: "If you're looking for a captivating underwater adventure that keeps you engaged while getting your sweat on, Subnautica might be the perfect match for your treadmill or bike sessions."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 264710
+controller: full
+genres: ["Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Subnautica,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Subnautica Game Review
 
 If you're looking for a captivating underwater adventure that keeps you engaged while getting your sweat on, Subnautica might be the perfect match for your treadmill or bike sessions. Let’s dive into the details!
 
-# Gameplay 
+# Gameplay
 
 Subnautica is an immersive survival game set in the depths of an alien ocean. You start with limited resources, forcing you to explore and gather materials to build your base and survive. The pacing is particularly well-designed; while there are moments of intense exploration and discovery, there are also ample slower periods where you can focus on crafting and completing quests. This balance allows for a very engaging experience that won't fully distract you from your workout. 
 
@@ -37,7 +42,7 @@ Subnautica's system requirements are moderate; while it can run on a range of sy
 
 ### Category Score: 2 out of 3 
 
-# Conclusion and Score 
+# Conclusion and Score
 
 Overall, Subnautica strikes a brilliant balance between captivating gameplay and a suitable environment for exercising on a treadmill or bike. Its engaging mechanics draw you in without overwhelming your workout routine, and the natural pacing means you can put in those miles in a beautifully crafted world while keeping your focus on your fitness. With decent system requirements, this game can cater to various players, making it an enjoyable companion for your cardiovascular efforts.
 

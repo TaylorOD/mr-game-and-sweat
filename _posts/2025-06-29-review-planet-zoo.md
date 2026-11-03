@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Planet Zoo"
+title:  "Planet Zoo"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-29T00:11:21.226Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg
+excerpt: "Planet Zoo is a beautifully crafted simulation game developed by Frontier Developments that allows players to create and manage their own zoo while focusing on animal welfare, conservation, and guest satisfaction."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 703080
+genres: ["Casual", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Planet Zoo,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Planet Zoo Review
 
 Planet Zoo is a beautifully crafted simulation game developed by Frontier Developments that allows players to create and manage their own zoo while focusing on animal welfare, conservation, and guest satisfaction. As someone who enjoys both gaming and exercise, I’ve put this game to the test while on the treadmill, and here’s how it fared.
 

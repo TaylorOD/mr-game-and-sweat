@@ -1,17 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dota 2"
+title:  "Dota 2"
 author: taylor
 comments: false
 disqus: false
 date:   2024-07-07T04:40:36.413Z
 categories: [ review, game ]
-
+excerpt: "Dota 2 is a staple in the MOBA genre, renowned for its deep strategic gameplay, diverse hero roster, and a competitive community that feeds into its endless replayability."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 570
+genres: ["Action", "Strategy", "Free To Play"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dota 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 **Game Review: Dota 2**
 

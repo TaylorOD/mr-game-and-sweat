@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Planet Crafter"
+title:  "The Planet Crafter"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-22T00:11:55.822Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg
+excerpt: "The Planet Crafter offers a seamless balance between exploration, crafting, and terraforming."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1284190
+controller: full
+genres: ["Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Planet Crafter,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# The Planet Crafter Review
 
 **Introduction:**  
 In a gaming climate saturated with high-octane shooters and intricate RPGs, "The Planet Crafter" takes a refreshing detour by immersing players in survival and terraforming on an alien planet. As you jog on the treadmill or pedal on a stationary bike, it's essential to evaluate how well this indie gem accommodates your exercise routine. 

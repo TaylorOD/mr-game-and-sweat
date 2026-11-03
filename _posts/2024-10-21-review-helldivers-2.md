@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: HELLDIVERS 2"
+title:  "HELLDIVERS 2"
 author: taylor
 comments: false
 disqus: false
 date:   2024-10-21T04:51:22.035Z
 categories: [ review, game ]
+excerpt: "In a world filled with strategic multiplayer shooters, HELLDIVERS 2 bursts back onto the scene, blending frantic gameplay with a humorous take on intergalactic warfare."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 553850
+genres: ["Action"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "HELLDIVERS 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## HELLDIVERS 2 Review
 
 In a world filled with strategic multiplayer shooters, HELLDIVERS 2 bursts back onto the scene, blending frantic gameplay with a humorous take on intergalactic warfare. This sequel to the original game invites players to don their powered armor, take up their weapons, and dive headfirst into chaotic missions that test both your shooter skills and strategic coordination. But as we focus on exercising while gaming, let's see how well HELLDIVERS 2 fits within that framework.
 

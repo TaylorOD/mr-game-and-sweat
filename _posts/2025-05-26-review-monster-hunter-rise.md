@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: MONSTER HUNTER RISE"
+title:  "MONSTER HUNTER RISE"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-26T00:13:01.337Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg
+excerpt: "Monster Hunter Rise is an exhilarating installment in the acclaimed Monster Hunter series, and it brings players face-to-face with massive, fantastical creatures while providing a world ripe for exploration and adventure."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 1446780
+controller: full
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "MONSTER HUNTER RISE,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Monster Hunter Rise: Game Review for Exercise Enthusiasts
 
 "Monster Hunter Rise" is an exhilarating installment in the acclaimed Monster Hunter series, and it brings players face-to-face with massive, fantastical creatures while providing a world ripe for exploration and adventure. If you're someone who loves to blend video gaming with exercise, you may be interested in knowing how well this game fits into your fitness routine, particularly when exercising on a treadmill or stationary bike. 
 

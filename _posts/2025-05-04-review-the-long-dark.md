@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Long Dark"
+title:  "The Long Dark"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-04T00:12:28.250Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/6c82ea1073946b0e83974a0ae6bd9d29d93911f9/header.jpg
+excerpt: "The Long Dark is an atmospheric survival game set in the frigid wilderness of Canada, where you'll face the harsh elements as a pilot stranded after a mysterious geomagnetic disaster."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 305620
+controller: full
+genres: ["Adventure", "Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Long Dark,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# The Long Dark - Game Review
 
 The Long Dark is an atmospheric survival game set in the frigid wilderness of Canada, where you'll face the harsh elements as a pilot stranded after a mysterious geomagnetic disaster. As you navigate through an unforgiving landscape teeming with wildlife and harsh weather, the game's focus on realism and survival mechanics becomes both a challenge and a reward.
 

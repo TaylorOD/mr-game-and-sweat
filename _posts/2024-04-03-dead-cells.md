@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dead Cells"
+title:  "Dead Cells"
 author: jonas
 categories: [ review, roguelike, metroidvania ]
 comments: false
 disqus: false
 image: assets/images/review-images/dead-cells.jpg
+excerpt: "Dead Cells offers a highly engaging gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 588650
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Dead Cells," a game that masterfully combines roguelike mechanics with metroidvania-style exploration. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

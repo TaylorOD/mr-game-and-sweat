@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Wallpaper Engine"
+title:  "Wallpaper Engine"
 author: taylor
 comments: false
 disqus: false
 date:   2024-06-28T04:45:30.110Z
 categories: [ review, game ]
+excerpt: "Wallpaper Engine is a unique and innovative application that allows users to create and customize dynamic wallpapers with animated visuals and audio."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 431960
+genres: ["Casual", "Indie", "Animation & Modeling", "Design & Illustration", "Photo Editing", "Utilities"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Wallpaper Engine,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Wallpaper Engine Review
 
 "Wallpaper Engine" is a unique and innovative application that allows users to create and customize dynamic wallpapers with animated visuals and audio. While not a traditional game, its interactive aspects can be quite captivating, leading to interesting potential for those looking to add some life to their workout environment. Let’s dive into how this app holds up for users keen on exercising while maintaining visual stimulus.
 

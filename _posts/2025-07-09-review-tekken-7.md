@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: TEKKEN 7"
+title:  "TEKKEN 7"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-09T00:13:06.361Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg
+excerpt: "TEKKEN 7 is a beloved fighting game that appeals to both hardcore and casual gamers alike."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 389730
+controller: full
+genres: ["Action", "Sports"]
+pause_friendly: Sometimes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "TEKKEN 7,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# TEKKEN 7 Game Review
 
 TEKKEN 7 is a beloved fighting game that appeals to both hardcore and casual gamers alike. With its flashy graphics, deep mechanics, and an expansive roster of characters, it has cemented its spot as a staple in the fighting game community. But how does it hold up for those who want to get their cardio in while enjoying some bouts of martial arts mayhem? Let’s dive in!
 

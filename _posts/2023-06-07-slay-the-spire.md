@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Slay the Spire"
+title:  "Slay the Spire"
 author: taylor
 categories: [ review, card-game, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/slay-the-spire.jpg
+excerpt: "Slay the Spire offers a uniquely addictive gameplay experience. The blend of deck-building and roguelike mechanics creates a fresh and engaging challenge every time you play."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 646570
+controller: full
+genres: ["Indie", "Strategy"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we're exploring "Slay the Spire," a game that masterfully combines card strategy and roguelike elements. Let’s see how it fares in terms of gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

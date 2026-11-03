@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Balatro"
+title:  "Balatro"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-09T00:10:40.961Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg
+excerpt: "Balatro is a unique blend of roguelike mechanics and deck-building strategies combined with a hefty dose of charm and whimsy."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 2379780
+controller: full
+genres: ["Casual", "Indie", "Strategy"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Balatro,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Balatro Review
 
 Balatro is a unique blend of roguelike mechanics and deck-building strategies combined with a hefty dose of charm and whimsy. As players delve into its vibrant, card-based world, it's essential to assess how well it pairs with your fitness routine, especially for those looking to elevate their treadmill or biking sessions.
 

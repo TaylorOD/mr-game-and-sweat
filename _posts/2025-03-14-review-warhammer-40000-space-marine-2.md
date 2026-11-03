@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warhammer 40,000: Space Marine 2"
+title:  "Warhammer 40,000: Space Marine 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-14T00:10:54.985Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg
+excerpt: "Prepare yourself for a gripping excursion into the grim darkness of the distant future with Warhammer 40,000: Space Marine 2."
+score_gameplay: 2.5
+score_treadmill: 2.8
+score_computer: 2.2
+score_overall: 2.5
+steam_appid: 2183900
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Warhammer 40,000: Space Marine 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Warhammer 40,000: Space Marine 2 - Review
 
 Prepare yourself for a gripping excursion into the grim darkness of the distant future with "Warhammer 40,000: Space Marine 2." As a sequel to the beloved original, this title not only immerses players in its lore but does so with mechanics that lend themselves surprisingly well to those who prefer to combine their gaming with physical activity. 
 

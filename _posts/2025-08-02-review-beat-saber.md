@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Beat Saber"
+title:  "Beat Saber"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-02T00:12:43.137Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg
+excerpt: "In the ever-evolving realm of exercise gaming, Beat Saber stands out as a must-try for fitness enthusiasts looking to break a sweat while indulging their rhythmic side."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 620980
+genres: ["Indie"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Beat Saber,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Beat Saber: A Rhythmic Workout Adventure
 
 In the ever-evolving realm of exercise gaming, Beat Saber stands out as a must-try for fitness enthusiasts looking to break a sweat while indulging their rhythmic side. This VR rhythm game blends music, fast-paced slicing action, and engaging gameplay that keeps you moving and grooving.
 

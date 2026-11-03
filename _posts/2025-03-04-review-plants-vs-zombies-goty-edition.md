@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Plants vs. Zombies GOTY Edition"
+title:  "Plants vs. Zombies GOTY Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-04T00:10:17.755Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg
+excerpt: "Plants vs. Zombies GOTY Edition is a delightful tower defense game that manages to captivate players with its charming art style and innovative mechanics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 3590
+genres: ["Strategy"]
+pause_friendly: Yes
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Plants vs. Zombies GOTY Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

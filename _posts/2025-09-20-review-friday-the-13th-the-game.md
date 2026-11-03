@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Friday the 13th: The Game"
+title:  "Friday the 13th: The Game"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-20T00:10:58.856Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438740/header.jpg
+excerpt: "“Friday the 13th: The Game” invites players into the frightful world of Camp Crystal Lake where they can either take on the role of the infamous Jason Voorhees or try to survive as one of the camp counselors."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 438740
+controller: full
+genres: ["Action"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Friday the 13th: The Game,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Friday the 13th: The Game Review
 
 “Friday the 13th: The Game” invites players into the frightful world of Camp Crystal Lake where they can either take on the role of the infamous Jason Voorhees or try to survive as one of the camp counselors. With a unique multiplayer mechanic and a nostalgic ambiance, this game creates an engaging horror experience. But how does it hold up for fitness enthusiasts looking to exercise while gaming? Let's dive in.
 

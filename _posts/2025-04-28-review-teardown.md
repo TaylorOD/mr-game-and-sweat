@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Teardown"
+title:  "Teardown"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-28T00:11:36.930Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/38bac946654a2cc775607518fb5c8e4e0a0f9a87/header.jpg
+excerpt: "Teardown is a voxel-based sandbox game that lets players unleash their inner demolitionist, combining creativity and chaos in a destructible world."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1167630
+controller: full
+genres: ["Action", "Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Teardown,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Teardown Game Review
 
 Teardown is a voxel-based sandbox game that lets players unleash their inner demolitionist, combining creativity and chaos in a destructible world. You guide a character as they navigate through various heist scenarios, employing an array of tools and an intuitive physics engine to break and enter, steal valuable items, and then escape without being caught. 
 

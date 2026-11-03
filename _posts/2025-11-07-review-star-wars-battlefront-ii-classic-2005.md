@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: STAR WARS Battlefront II (Classic, 2005)"
+title:  "STAR WARS Battlefront II (Classic, 2005)"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-07T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6060/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "STAR WARS Battlefront II (Classic, 2005) offers an enthralling immersion into the Star Wars universe, but its suitability for exercise varies."
+score_gameplay: 2
+score_treadmill: 1
+score_computer: 2
+score_overall: 1.67
+steam_appid: 6060
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Short
+best_for: Bike
 ---
 
 STAR WARS Battlefront II (Classic, 2005) offers an enthralling immersion into the Star Wars universe, but its suitability for exercise varies. While the action-packed engagements can distract you from the grind of cardio, the lack of controller support may impede your ability to maintain peak performance on a treadmill or bike.

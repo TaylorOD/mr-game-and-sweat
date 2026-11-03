@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Devil May Cry 5"
+title:  "Devil May Cry 5"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-10T00:09:14.199Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg
+excerpt: "With its stunning visuals, engaging combat mechanics, and a rich narrative steeped in action-packed lore, Devil May Cry 5 has earned its place as a classic in the hack-and-slash genre."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.5
+steam_appid: 601150
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Devil May Cry 5,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Devil May Cry 5 Review
 
 With its stunning visuals, engaging combat mechanics, and a rich narrative steeped in action-packed lore, "Devil May Cry 5" has earned its place as a classic in the hack-and-slash genre. However, for those of you who like to combine your gaming with exercising—especially on a treadmill or bike—let's break down how well this game holds up in that regard.
 

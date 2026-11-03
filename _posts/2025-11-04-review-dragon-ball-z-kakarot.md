@@ -1,14 +1,25 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL Z: KAKAROT"
+title:  "DRAGON BALL Z: KAKAROT"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-04T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "DRAGON BALL Z: KAKAROT invites players into the beloved universe of Dragon Ball Z, offering an engaging RPG experience that can be challenging to balance with a workout routine."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 851850
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
 
 "DRAGON BALL Z: KAKAROT" invites players into the beloved universe of Dragon Ball Z, offering an engaging RPG experience that can be challenging to balance with a workout routine. While the game's captivating storytelling and nostalgia factor can make it enticing, certain gameplay elements may detract from an effective exercise session.

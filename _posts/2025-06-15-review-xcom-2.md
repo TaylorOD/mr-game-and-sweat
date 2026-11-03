@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: XCOM 2"
+title:  "XCOM 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-15T00:12:17.505Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg
+excerpt: "XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 268500
+genres: ["Strategy"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "XCOM 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# XCOM 2 Review
 
 XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth. Its engaging mix of strategic planning, resource management, and combat makes it an enticing choice, but how does it fare for those looking to exercise while gaming? Let’s dive into each category.
 

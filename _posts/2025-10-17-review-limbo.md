@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: LIMBO"
+title:  "LIMBO"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-17T00:11:45.913Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg
+excerpt: "LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 48000
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "LIMBO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# LIMBO Game Review
 
 LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles. Perfectly suited for gamers who wish to stay active while indulging in a rich, immersive experience, this game provides a compelling combination of gameplay and ambiance that can complement your treadmill or biking sessions nicely.
 

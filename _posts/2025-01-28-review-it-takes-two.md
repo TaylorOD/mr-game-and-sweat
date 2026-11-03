@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: It Takes Two"
+title:  "It Takes Two"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-28T00:10:02.398Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg
+excerpt: "It Takes Two, a whimsical co-op adventure from Hazelight Studios, not only captures the complexities of relationships but also entices players into a vibrant world bursting with creativity and engaging gameplay."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 1426210
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: No
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "It Takes Two,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# It Takes Two - A Game Review for the Active Gamer
 
 "It Takes Two," a whimsical co-op adventure from Hazelight Studios, not only captures the complexities of relationships but also entices players into a vibrant world bursting with creativity and engaging gameplay. But how does it stack up for those who want to keep their cardio game strong while diving into this captivating experience? Let’s break it down.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: VRChat"
+title:  "VRChat"
 author: taylor
 comments: false
 disqus: false
 date:   2025-02-01T00:10:36.253Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg
+excerpt: "VRChat is an innovative social platform that harnesses the power of virtual reality to create a unique user experience."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 438100
+controller: full
+genres: ["Adventure", "Casual", "Massively Multiplayer", "Simulation", "Sports", "Free To Play", "Early Access"]
+pause_friendly: No
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "VRChat,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# VRChat Game Review
 
 VRChat is an innovative social platform that harnesses the power of virtual reality to create a unique user experience. While it’s not a traditional game in the sense of a scripted narrative or structured gameplay, its open-world environment fosters social interaction, creativity, and community engagement. As a platform that encourages users to explore, create, and share their own experiences with others, VRChat is a compelling option for those looking to enhance their physical activity through gaming.
 

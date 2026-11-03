@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kenshi"
+title:  "Kenshi"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-23T00:11:29.561Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fa72ac8a032fd876780cd5b554e4c03b4976ef74/header.jpg
+excerpt: "Kenshi is an open-world, sandbox RPG developed by Lo-Fi Games, known for its unique blend of survival, exploration, and strategy."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 233860
+genres: ["Action", "Indie", "RPG", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kenshi,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Kenshi: A Review for the Gamers Who Exercise
 
 Kenshi is an open-world, sandbox RPG developed by Lo-Fi Games, known for its unique blend of survival, exploration, and strategy. It drops players into a brutal post-apocalyptic world where they must fend for themselves, build their own factions, and survive against the odds. So, how does this expansive adventure stack up for gamers looking to squeeze in cardio on the treadmill or bike? Let’s dive in.
 

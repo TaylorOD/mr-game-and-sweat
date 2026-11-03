@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Persona 4 Golden"
+title:  "Persona 4 Golden"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-16T00:12:14.999Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg
+excerpt: "Persona 4 Golden, an enhanced version of the original Persona 4, brilliantly combines classic RPG elements with a captivating narrative that keeps players engaged."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 1113000
+controller: full
+genres: ["RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Persona 4 Golden,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Persona 4 Golden
 
 Persona 4 Golden, an enhanced version of the original Persona 4, brilliantly combines classic RPG elements with a captivating narrative that keeps players engaged. Shirking the conventional, it offers a blend of life simulation and dungeon crawling that you can immerse yourself in while exercising. But how does it fare for those wishing to keep their cardio up on a treadmill or bike? Let’s dive in!
 

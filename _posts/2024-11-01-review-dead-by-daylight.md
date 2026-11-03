@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dead by Daylight"
+title:  "Dead by Daylight"
 author: taylor
 comments: false
 disqus: false
 date:   2024-11-01T20:20:43.434Z
 categories: [ review, game ]
+excerpt: "Dead by Daylight has gained a dedicated following since its release, known for its horror-themed gameplay where players take on the roles of either a killer or survivors trying to escape."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 381210
+controller: full
+genres: ["Action"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dead by Daylight,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of Dead by Daylight
 
 Dead by Daylight has gained a dedicated following since its release, known for its horror-themed gameplay where players take on the roles of either a killer or survivors trying to escape. As avid gamers and fitness enthusiasts, we’re here to see if this multiplayer experience holds up for those of you who enjoy running on a treadmill or biking while gaming.
 

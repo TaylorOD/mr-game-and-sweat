@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Max Payne 3"
+title:  "Max Payne 3"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-13T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Max Payne 3’s frequent shootouts can make a treadmill or bike session fly by, but its long cinematic stretches interrupt the action."
+score_gameplay: 2
+score_treadmill: 1
+score_computer: 2
+score_overall: 1.67
+steam_appid: 204100
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
 
 Max Payne 3’s frequent shootouts can make a treadmill or bike session fly by, but its long cinematic stretches interrupt the action. Its precise, fast-paced gunplay is also a poor match for exercising while playing.

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL: Sparking! ZERO"
+title:  "DRAGON BALL: Sparking! ZERO"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-30T00:12:26.792Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg
+excerpt: "As someone who enjoys uniting the worlds of gaming and fitness, DRAGON BALL: Sparking!"
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1790600
+controller: full
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "DRAGON BALL: Sparking! ZERO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# DRAGON BALL: Sparking! ZERO Review
 
 As someone who enjoys uniting the worlds of gaming and fitness, "DRAGON BALL: Sparking! ZERO" presents a unique opportunity to immerse oneself in high-energy action while maintaining an active lifestyle. The vibrant universe of DRAGON BALL, with its iconic characters and explosive combat, provides an exciting backdrop for your treadmill or bike workouts.
 

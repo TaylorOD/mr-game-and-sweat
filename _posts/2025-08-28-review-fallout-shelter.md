@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout Shelter"
+title:  "Fallout Shelter"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-28T00:11:11.618Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/c672068e9934f33c743d4b2fd33814f08adb52e6/header.jpg
+excerpt: "Fallout Shelter is a unique, mobile-based simulation game set in the post-apocalyptic universe of Fallout."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 588430
+controller: full
+genres: ["RPG", "Simulation", "Free To Play"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Fallout Shelter,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Fallout Shelter Review
 
 Fallout Shelter is a unique, mobile-based simulation game set in the post-apocalyptic universe of Fallout. As a player, you assume the role of the Overseer of a vault, responsible for managing its inhabitants and resources. But how does this game translate to a fitness-friendly gaming experience? Let’s embark on that journey.
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dishonored 2"
+title:  "Dishonored 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-06T00:10:42.527Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg
+excerpt: "Dishonored 2, developed by Arkane Studios, immerses players in a beautifully crafted steampunk world."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 403640
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dishonored 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dishonored 2: A Game Review for the Active Gamer
 
 Dishonored 2, developed by Arkane Studios, immerses players in a beautifully crafted steampunk world. As the sequel to the critically-acclaimed Dishonored, this title expands upon the rich lore and gameplay mechanics while offering choices that profoundly impact your experience. But how does it fit into a fitness routine involving treadmill runs or bicycle rides? Let's delve in.
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: People Playground"
+title:  "People Playground"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-05T00:09:51.869Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/header.jpg
+excerpt: "People Playground is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1118200
+genres: ["Action", "Casual", "Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "People Playground,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# People Playground Game Review
 
 "People Playground" is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation. This game is perfect for fans of physics-based mechanics and absurdity, but how does it hold up for those of us preferring to exercise while we play? Let’s break it down.
 

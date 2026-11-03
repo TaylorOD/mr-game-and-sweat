@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: FINAL FANTASY XIV Online"
+title:  "FINAL FANTASY XIV Online"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-07T00:12:51.453Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg
+excerpt: "FINAL FANTASY XIV Online is a brilliant MMORPG that has made waves in the gaming community with its vast world, compelling narrative, and an engaged player base."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 39210
+genres: ["Massively Multiplayer", "RPG"]
+pause_friendly: No
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "FINAL FANTASY XIV Online,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of FINAL FANTASY XIV Online
 
 FINAL FANTASY XIV Online is a brilliant MMORPG that has made waves in the gaming community with its vast world, compelling narrative, and an engaged player base. But how does it hold up for gamers who want to stay active, particularly while running on a treadmill or biking? Let's dive into the details.
 

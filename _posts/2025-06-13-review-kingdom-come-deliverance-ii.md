@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kingdom Come: Deliverance II"
+title:  "Kingdom Come: Deliverance II"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-13T00:11:56.049Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg
+excerpt: "The gameplay in *Kingdom Come: Deliverance II* continues the franchise's commitment to realism and immersion."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1771300
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kingdom Come: Deliverance II,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Kingdom Come: Deliverance II - Review
 
 *Kingdom Come: Deliverance II* has returned to immerse players in its historically rich world, and it brings some intriguing mechanics to the table that can enhance your treadmill or biking sessions. But how does it stack up for exercise enthusiasts? Let’s dig in.
 

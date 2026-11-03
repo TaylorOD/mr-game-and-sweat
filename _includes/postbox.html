@@ -1,8 +1,9 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="card">
-    <a href="{{ post.url | absolute_url }}">
-        {% if post.image %} <img class="rounded mb-4" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
+    <a class="card-image-link" href="{{ post.url | absolute_url }}">
+        {% if post.image %}<img class="rounded mb-3" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title | escape }}">{% endif %}
+        {% if post.score_overall %}<span class="score-badge">{{ post.score_overall }}<small>/3</small></span>{% endif %}
     </a>
     <div class="card-block">
         <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
@@ -10,9 +11,9 @@
         <div class="metafooter">
             <div class="wrapfooter small d-flex align-items-center">
                 <span class="author-meta">
-                By  <span class="post-name"> {% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}, </span>             
+                By  <span class="post-name"> {% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}, </span>
                 on <span class="post-date">{{ post.date | date_to_string }}</span>
-                </span>               
+                </span>
                 <div class="clearfix"></div>
             </div>
             {% if post.added %}<small class="text-muted">added {{ post.added | date: "%b %Y" }}</small>{% endif %}

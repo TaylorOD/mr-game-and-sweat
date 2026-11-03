@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Yakuza 0"
+title:  "Yakuza 0"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-06T00:14:12.080Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638970/header.jpg
+excerpt: "Yakuza 0 takes players deep into the seedy underbelly of 1980s Japan, interweaving crime drama with captivating minigames and unforgettable characters."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 638970
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Yakuza 0,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Yakuza 0 Review: A Gritty Adventure on the Run
 
 Yakuza 0 takes players deep into the seedy underbelly of 1980s Japan, interweaving crime drama with captivating minigames and unforgettable characters. But is its engaging narrative a good companion for your exercising routine on the treadmill or bike? Let’s find out.
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hitman: Absolution"
+title:  "Hitman: Absolution"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-27T00:11:33.383Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/header.jpg
+excerpt: "Hitman: Absolution returns players to the shadowy, stealth-filled world of Agent 47, a clone-turned-assassin."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 203140
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hitman: Absolution,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hitman: Absolution - Game Review
 
 Hitman: Absolution returns players to the shadowy, stealth-filled world of Agent 47, a clone-turned-assassin. This entry in the beloved Hitman franchise brings a crisp gameplay experience, complete with new mechanics and the series' signature strategic assassinations. However, how does it fare in our mission to help players exercise while gaming? Here’s the full breakdown.
 

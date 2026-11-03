@@ -1,17 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: POSTAL 2"
+title:  "POSTAL 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-17T00:11:13.071Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/header.jpg
+excerpt: "POSTAL 2 is an unorthodox first-person shooter that revels in its chaotic, sandbox-style gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 223470
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "POSTAL 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

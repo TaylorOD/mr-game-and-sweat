@@ -1,14 +1,25 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Outlast 2"
+title:  "Outlast 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-06T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Outlast 2 is both a gripping horror experience and a unique challenge for gamers who want to integrate their workout routines."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 414700
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
 
 Outlast 2 is both a gripping horror experience and a unique challenge for gamers who want to integrate their workout routines. The game's tension and atmosphere can keep you engaged, but the need for occasional stillness while hiding may interrupt your stride on the treadmill or bike.

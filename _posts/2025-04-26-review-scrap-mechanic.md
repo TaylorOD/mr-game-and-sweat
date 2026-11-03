@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Scrap Mechanic"
+title:  "Scrap Mechanic"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-26T00:11:28.266Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg
+excerpt: "Scrap Mechanic has rapidly carved out its own niche as a creative engineering sandbox, allowing players to construct wild contraptions and vehicles in a colorful, whimsical world."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 387990
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Scrap Mechanic,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Scrap Mechanic Game Review
 
 Scrap Mechanic has rapidly carved out its own niche as a creative engineering sandbox, allowing players to construct wild contraptions and vehicles in a colorful, whimsical world. As an avid gamer and exercise enthusiast, I’ve put this game to the ultimate test: could I keep my heart rate up on the treadmill while navigating its mechanics? Let’s see how Scrap Mechanic stacks up in various sections tailored for tread and bike compatibility.
 

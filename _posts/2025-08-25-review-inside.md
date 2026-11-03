@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: INSIDE"
+title:  "INSIDE"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-25T00:12:00.738Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg
+excerpt: "INSIDE is a haunting, atmospheric puzzle-platformer that plunges players into a dystopian world filled with mystery, danger, and intrigue."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 304430
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "INSIDE,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: INSIDE
 
 INSIDE is a haunting, atmospheric puzzle-platformer that plunges players into a dystopian world filled with mystery, danger, and intrigue. Developed by Playdead, this game captivates with its striking visuals and ambient sound design, but how does it fare for those looking to exercise while gaming? Let’s jump in!
 

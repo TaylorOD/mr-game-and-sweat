@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: South Park: The Stick of Truth"
+title:  "South Park: The Stick of Truth"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-21T00:12:00.406Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg
+excerpt: "South Park: The Stick of Truth delivers a hilarious and outlandishly captivating experience that will keep fans of both the franchise and RPGs entertained."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 213670
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "South Park: The Stick of Truth,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# South Park: The Stick of Truth Review
 
 "South Park: The Stick of Truth" delivers a hilarious and outlandishly captivating experience that will keep fans of both the franchise and RPGs entertained. It's a game that’s particularly suited to those looking to combine cardio workouts on a treadmill or stationary bike with a bit of irreverent humor and strategic gameplay.
 

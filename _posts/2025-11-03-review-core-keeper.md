@@ -1,23 +1,28 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Core Keeper"
+title:  "Core Keeper"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-03T00:13:36.260Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg
+excerpt: "Core Keeper is an innovative indie game that takes players deep underground into an expansive cavern filled with mystery and adventure."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1621690
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Core Keeper,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Core Keeper Review
 
 Core Keeper is an innovative indie game that takes players deep underground into an expansive cavern filled with mystery and adventure. It's an intriguing blend of exploration, crafting, and survival, all set within a charming pixel-art world. Most importantly, it's a game that can easily accompany you during your exercise routine, whether you're on a treadmill or cycling.
 
-## Gameplay
+# Gameplay
 
 The core gameplay mechanics in Core Keeper revolve around resource gathering, crafting, and exploration. You begin with a few essential tools and a tiny base, and from there, the world opens up as you discover new resources, enemies, and mechanics. The game encourages players to dig deeper and uncover the treasures and dangers hidden below the surface.
 
@@ -25,7 +30,7 @@ The engaging gameplay elements keep your mind stimulated, which is a plus when y
 
 ### Category Score: 3 out of 3
 
-## Treadmill and Bike Compatibility
+# Treadmill and Bike Compatibility
 
 Core Keeper’s gameplay is surprisingly compatible with exercise equipment. Since it's primarily a 2D game that can be played with a controller or keyboard, you can enjoy it comfortably while jogging or cycling. The slower-paced nature and cooperative elements make it perfect for easily managing your attention on the screen without needing to perform rapid movements. 
 
@@ -33,13 +38,13 @@ You can casually maintain your pace as you dig, craft, and explore while also po
 
 ### Category Score: 3 out of 3
 
-## Computer Requirements
+# Computer Requirements
 
 Core Keeper is designed to run smoothly on a variety of hardware setups. It doesn't require a high-end gaming rig, making it accessible for many players. The minimum system requirements aren't too demanding, and even with modest hardware, you shouldn't experience significant performance issues. This lower demand allows you to enjoy the game without worrying about how it might affect your computer's performance while you exercise.
 
 ### Category Score: 2 out of 3
 
-## Conclusion and Score
+# Conclusion and Score
 
 In summary, Core Keeper proves to be an excellent choice for those looking for an engaging gaming experience that doesn’t interfere with your workout regimen. Its engaging gameplay keeps you focused, while its compatibility with treadmills and bikes ensures you can game comfortably during those sweat sessions. Additionally, its modest computer requirements make it accessible to a broad audience. 
 

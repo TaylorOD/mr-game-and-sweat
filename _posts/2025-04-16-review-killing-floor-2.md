@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Killing Floor 2"
+title:  "Killing Floor 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-16T00:11:03.508Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/header.jpg
+excerpt: "Killing Floor 2 is a frenetic first-person shooter that pits players against hordes of zeds (zombies and monstrous creatures) in a variety of locales, ranging from eerie laboratories to decaying wastelands."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 232090
+controller: full
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Killing Floor 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Killing Floor 2 Game Review
 
 Killing Floor 2 is a frenetic first-person shooter that pits players against hordes of zeds (zombies and monstrous creatures) in a variety of locales, ranging from eerie laboratories to decaying wastelands. The game is known for its intense gameplay that thrives on cooperation, allowing players to strategize and execute their plans as the grotesque enemies close in. 
 

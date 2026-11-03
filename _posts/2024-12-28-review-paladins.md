@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Paladins"
+title:  "Paladins"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-28T00:09:52.198Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg
+excerpt: "Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 444090
+controller: full
+genres: ["Action", "Adventure", "Massively Multiplayer", "Strategy", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Paladins,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Paladins Game Review
 
 Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters. But how does it hold up when you're trying to stay active on a treadmill or bike? Let’s dive into the details.
 

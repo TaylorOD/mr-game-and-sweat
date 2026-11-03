@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Crab Game"
+title:  "Crab Game"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-09T00:11:46.484Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg
+excerpt: "Crab Game, the social deduction and chaos-infused multiplayer experience, offers an engaging environment that cleverly takes inspiration from the popular Squid Game series."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 1782210
+genres: ["Action", "Casual", "Free To Play", "Indie", "Racing"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Crab Game,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Crab Game Review
 
 Crab Game, the social deduction and chaos-infused multiplayer experience, offers an engaging environment that cleverly takes inspiration from the popular "Squid Game" series. It’s a fun, frantic experience that turns simple mini-games into a battleground for survival. But how does it stack up for those looking to get their cardio in while gaming on a treadmill or bike? Let’s find out!
 

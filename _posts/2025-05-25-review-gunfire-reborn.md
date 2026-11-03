@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Gunfire Reborn"
+title:  "Gunfire Reborn"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-25T00:12:52.747Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/dd6c1906d262c38c183ccd711f192db187b5103f/header.jpg
+excerpt: "Gunfire Reborn is an innovative, first-person shooter (FPS) that blends action and RPG elements into a vibrant, roguelite package."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 1217060
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Gunfire Reborn,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Gunfire Reborn - A Thrilling Exercise Experience
 
 Gunfire Reborn is an innovative, first-person shooter (FPS) that blends action and RPG elements into a vibrant, roguelite package. As players navigate through enchanting environments filled with fantastical creatures and dynamic gameplay mechanics, it's important to consider how engaging this game can be while you’re pounding the treadmill or pedaling on your bike.
 

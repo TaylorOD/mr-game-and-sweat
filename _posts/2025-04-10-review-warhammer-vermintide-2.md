@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warhammer: Vermintide 2"
+title:  "Warhammer: Vermintide 2"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-10T00:10:29.365Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg
+excerpt: "Warhammer: Vermintide 2 offers a captivating blend of chaotic combat and cooperative gameplay set in the grimdark universe of Warhammer."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 552500
+controller: full
+genres: ["Action", "Indie", "RPG"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Warhammer: Vermintide 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Warhammer: Vermintide 2 Review
 
 "Warhammer: Vermintide 2" offers a captivating blend of chaotic combat and cooperative gameplay set in the grimdark universe of Warhammer. Perfect for immersing yourself in a world filled with hordes of Skaven and Chaos warriors, this title manages to keep your adrenaline high — but how does it fare for users looking to exercise while engaging in epic battles?
 

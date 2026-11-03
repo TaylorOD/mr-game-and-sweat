@@ -126,7 +126,7 @@ async function fetchSteamFacts(game) {
 		const details = response.data[game.appid];
 		if (!details || !details.success) return null;
 		const { data } = details;
-		return [
+		const text = [
 			data.controller_support &&
 				`Controller support: ${data.controller_support}`,
 			data.genres &&
@@ -139,6 +139,12 @@ async function fetchSteamFacts(game) {
 		]
 			.filter(Boolean)
 			.join('\n');
+		return {
+			text,
+			controller: data.controller_support,
+			genres: (data.genres || []).map((genre) => genre.description),
+			image: data.header_image ? data.header_image.split('?')[0] : null,
+		};
 	} catch (error) {
 		logSafeError('Error fetching Steam details', error);
 		return null;
@@ -180,8 +186,59 @@ async function fetchImage(gameName) {
 	// }
 }
 
+const WORKOUT_SCHEMA = {
+	type: 'object',
+	additionalProperties: false,
+	required: ['pause_friendly', 'session_length', 'best_for'],
+	properties: {
+		pause_friendly: { type: 'string', enum: ['Yes', 'Sometimes', 'No'] },
+		session_length: { type: 'string', enum: ['Short', 'Medium', 'Long'] },
+		best_for: { type: 'string', enum: ['Treadmill', 'Bike', 'Both'] },
+	},
+};
+
+// Extra details for the score box. Reviews still work without them.
+async function fetchWorkoutDetails(game, review) {
+	try {
+		const response = await axios.post(
+			'https://api.openai.com/v1/chat/completions',
+			{
+				model: 'gpt-6-luna',
+				messages: [
+					{
+						role: 'user',
+						content: `Answer about the video game "${game.name}" for people who play while exercising.
+pause_friendly: can you pause or stop any time mid workout? Yes for single player games you can pause anywhere. Sometimes if some parts cant be paused. No for online multiplayer you cant pause.
+session_length: how long a typical sitting or match lasts. Short is under 30 minutes, Medium is 30 to 60 minutes, Long is over 60 minutes.
+best_for: Treadmill only if it works with loose inputs while running. Bike if it needs steadier hands or more focus, since riding is steadier than running. Both if it works fine on either.
+
+Review:
+${review}`,
+					},
+				],
+				response_format: {
+					type: 'json_schema',
+					json_schema: { name: 'workout', strict: true, schema: WORKOUT_SCHEMA },
+				},
+				max_completion_tokens: 3000,
+			},
+			{
+				headers: {
+					Authorization: `Bearer ${OPENAI_API_KEY}`,
+					'Content-Type': 'application/json',
+				},
+			}
+		);
+		return JSON.parse(response.data.choices[0].message.content);
+	} catch (error) {
+		logSafeError('Error fetching workout details', error);
+		return null;
+	}
+}
+
 async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
-	const steamFacts = await fetchSteamFacts(game);
+	const steam = await fetchSteamFacts(game);
+	const steamFacts = steam && steam.text;
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
   ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
@@ -254,16 +311,33 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 			throw new Error('Review did not have three category scores');
 		}
 
+		const workout = await fetchWorkoutDetails(game, body);
+		const details = [
+			`score_gameplay: ${scores[0]}`,
+			`score_treadmill: ${scores[1]}`,
+			`score_computer: ${scores[2]}`,
+			`score_overall: ${overallScore(scores)}`,
+			game.appid && `steam_appid: ${game.appid}`,
+			steam && steam.controller && `controller: ${steam.controller}`,
+			steam && steam.genres.length > 0 && `genres: ${JSON.stringify(steam.genres)}`,
+			workout && `pause_friendly: ${workout.pause_friendly}`,
+			workout && `session_length: ${workout.session_length}`,
+			workout && `best_for: ${workout.best_for}`,
+		]
+			.filter(Boolean)
+			.join('\n');
+
 		return `---
 layout: post
-title:  ${JSON.stringify(`Mr. Game and Sweat Reviews: ${game.name}`)}
+title:  ${JSON.stringify(game.name)}
 author: taylor
 comments: false
 disqus: false
 date:   ${reviewDate.toISOString()}
 categories: [ review, game ]
-image: ${imageUrl}
-${addedDate ? `added: ${addedDate}\nlast_modified_at: ${addedDate}\n` : ''}---
+image: ${(steam && steam.image) || imageUrl}
+${addedDate ? `added: ${addedDate}\nlast_modified_at: ${addedDate}\n` : ''}${details}
+---
 
 ${body}
 

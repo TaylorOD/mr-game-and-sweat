@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL FighterZ"
+title:  "DRAGON BALL FighterZ"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-24T00:11:23.808Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg
+excerpt: "As an exercise enthusiast who loves the thrill of gaming, Dragon Ball FighterZ stands out as a prime candidate for those who want to combine fitness with fierce battles in the iconic Dragon Ball universe."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 678950
+controller: full
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "DRAGON BALL FighterZ,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dragon Ball FighterZ Review
 
 As an exercise enthusiast who loves the thrill of gaming, "Dragon Ball FighterZ" stands out as a prime candidate for those who want to combine fitness with fierce battles in the iconic Dragon Ball universe. Let’s dive into the components that make or break the experience, especially for those pumping out miles on the treadmill or cycling through challenging terrains.
 

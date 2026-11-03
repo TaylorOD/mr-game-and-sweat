@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Battlerite"
+title:  "Battlerite"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-10T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504370/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Battlerite offers a brisk and energetic gameplay experience that perfectly aligns with exercising on a treadmill or bike."
+score_gameplay: 3
+score_treadmill: 1
+score_computer: 3
+score_overall: 2.33
+steam_appid: 504370
+genres: ["Action", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
 
 Battlerite offers a brisk and energetic gameplay experience that perfectly aligns with exercising on a treadmill or bike. Its fast-paced action keeps your heart rate up, but the lack of controller support may make for a tricky challenge while trying to juggle movement and gameplay.

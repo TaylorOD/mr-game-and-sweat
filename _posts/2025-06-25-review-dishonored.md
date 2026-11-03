@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dishonored"
+title:  "Dishonored"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-25T00:11:50.640Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg
+excerpt: "Arkane Studios’ *Dishonored* is a stealth action-adventure game that seamlessly blends an engaging narrative with a unique artistic style."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 205100
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dishonored,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dishonored Game Review
 
 Arkane Studios’ *Dishonored* is a stealth action-adventure game that seamlessly blends an engaging narrative with a unique artistic style. It immerses players in the steampunk city of Dunwall, where you assume the role of Corvo Attano, a bodyguard framed for the murder of the Empress. Throughout your journey, you’ll wield supernatural abilities and make pivotal decisions that shape the outcome of the game. But how does this experience translate to a treadmill or biking session? Let’s dive into it.
 

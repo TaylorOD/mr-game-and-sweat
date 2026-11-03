@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Supermarket Together"
+title:  "Supermarket Together"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-08T00:11:53.767Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg
+excerpt: "Supermarket Together is a delightfully chaotic cooperative simulation game where players team up to run a bustling grocery store."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 2709570
+genres: ["Casual", "Indie", "Simulation", "Free To Play"]
+pause_friendly: No
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Supermarket Together,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Supermarket Together Review
 
 Supermarket Together is a delightfully chaotic cooperative simulation game where players team up to run a bustling grocery store. While the premise may sound straightforward, the execution provides an engaging, collaborative experience that can be a fantastic companion for those looking to keep active while gaming.
 

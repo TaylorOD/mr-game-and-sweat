@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Marvel’s Spider-Man Remastered"
+title:  "Marvel’s Spider-Man Remastered"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-24T00:11:37.103Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg
+excerpt: "Marvel’s Spider-Man Remastered swings onto your computer screen, offering players an exhilarating blend of superhero action and storytelling."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1817070
+controller: full
+genres: ["Action", "Adventure", "Casual"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Marvel’s Spider-Man Remastered,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Marvel’s Spider-Man Remastered Review
 
 Marvel’s Spider-Man Remastered swings onto your computer screen, offering players an exhilarating blend of superhero action and storytelling. But how does it fare when you’re trying to keep that heart rate up while running or biking? Let’s break it down.
 

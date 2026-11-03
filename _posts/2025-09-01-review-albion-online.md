@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Albion Online"
+title:  "Albion Online"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-01T00:12:53.632Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761890/ff6acbb6e6a1d9c3a64a297dc3f772bc5481835d/header.jpg
+excerpt: "Albion Online presents itself as a sandbox MMORPG that offers a unique player-driven economy and an immersive world."
+score_gameplay: 2
+score_treadmill: 2.5
+score_computer: 3
+score_overall: 2.5
+steam_appid: 761890
+genres: ["Massively Multiplayer", "RPG", "Free To Play"]
+pause_friendly: No
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Albion Online,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Albion Online - A Review for the Active Gamer
 
 Albion Online presents itself as a sandbox MMORPG that offers a unique player-driven economy and an immersive world. But for the fitness-minded gamer, the key question remains: how well does it accommodate gameplay while you exercise? Let’s dive into the details.
 

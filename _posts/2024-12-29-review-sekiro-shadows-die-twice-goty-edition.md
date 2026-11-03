@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sekiro: Shadows Die Twice - GOTY Edition"
+title:  "Sekiro: Shadows Die Twice - GOTY Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-29T00:10:01.834Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg
+excerpt: "From the brilliant minds at FromSoftware comes Sekiro: Shadows Die Twice - GOTY Edition, a challenging action game that invites players to immerse themselves in a beautifully crafted world of danger, stealth, and intense swordplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 814380
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Sekiro: Shadows Die Twice - GOTY Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Sekiro: Shadows Die Twice - GOTY Edition Review
 
 From the brilliant minds at FromSoftware comes "Sekiro: Shadows Die Twice - GOTY Edition," a challenging action game that invites players to immerse themselves in a beautifully crafted world of danger, stealth, and intense swordplay. As a dedicated gamer and exercise enthusiast, I was eager to see how this game holds up in the realm of treadmill and biking compatibility. Let’s dive in!
 

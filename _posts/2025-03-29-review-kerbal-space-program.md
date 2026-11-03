@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kerbal Space Program"
+title:  "Kerbal Space Program"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-29T00:10:33.693Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg
+excerpt: "Kerbal Space Program (KSP) is a unique blend of space exploration, physics simulation, and player creativity, captivating gamers for years as they build and launch their very own spacecraft."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 220200
+genres: ["Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kerbal Space Program,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Kerbal Space Program Review
 
 Kerbal Space Program (KSP) is a unique blend of space exploration, physics simulation, and player creativity, captivating gamers for years as they build and launch their very own spacecraft. But how well does it lend itself to the active gamer looking to stay fit while getting their virtual astronaut fix? Let's dive into the specifics.
 

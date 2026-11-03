@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sniper Elite 4"
+title:  "Sniper Elite 4"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-16T00:11:33.269Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg
+excerpt: "Sniper Elite 4 transports players to the sunny landscapes of World War II Italy, blending strategy and stealth with its hallmark sniping mechanics."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 312660
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Sniper Elite 4,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Sniper Elite 4
 
 Sniper Elite 4 transports players to the sunny landscapes of World War II Italy, blending strategy and stealth with its hallmark sniping mechanics. As an exercise enthusiast and avid gamer, I was keen to see how well this title would complement my treadmill and biking sessions. Let’s break down the elements that make Sniper Elite 4 both engaging and viable for fitness routines.
 

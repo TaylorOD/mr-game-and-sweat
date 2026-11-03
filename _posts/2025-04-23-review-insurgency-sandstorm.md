@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Insurgency: Sandstorm"
+title:  "Insurgency: Sandstorm"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-23T00:11:19.344Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/header_alt_assets_3.jpg
+excerpt: "Insurgency: Sandstorm, the sequel to the acclaimed Insurgency, brings the intensity of modern military combat to life with a focus on realism and team-based gameplay."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 581320
+controller: full
+genres: ["Action"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Insurgency: Sandstorm,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Insurgency: Sandstorm - Review
 
 Insurgency: Sandstorm, the sequel to the acclaimed Insurgency, brings the intensity of modern military combat to life with a focus on realism and team-based gameplay. As both a gaming and fitness enthusiast, I was eager to see how well this tactical shooter would complement a home exercise routine, especially while using a treadmill or bike. Here's my breakdown for you treadmill warriors and biking buffs!
 

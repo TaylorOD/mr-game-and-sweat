@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Brawlhalla"
+title:  "Brawlhalla"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-24T00:11:15.649Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg
+excerpt: "Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 291550
+genres: ["Action", "Indie", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Brawlhalla,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Brawlhalla: An Exercise in Fun and Fitness
 
 Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons. Released by Blue Mammoth Games, it has rapidly gained popularity as an accessible yet competitive title. With its fast-paced gameplay, Brawlhalla provides an engaging experience while you work up a sweat on a treadmill or bike. 
 

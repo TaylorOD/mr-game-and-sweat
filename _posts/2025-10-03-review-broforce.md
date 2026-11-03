@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Broforce"
+title:  "Broforce"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-03T00:13:14.311Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg
+excerpt: "Broforce is a side-scrolling run-and-gun game that excels in fast-paced action and pixelated nostalgia."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 274190
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Broforce,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Broforce Review
 
 Broforce is a side-scrolling run-and-gun game that excels in fast-paced action and pixelated nostalgia. With its over-the-top absurdity and a melange of characters inspired by iconic action heroes, it’s a title that will have you laughing and cheering in equal measure. However, what really makes Broforce stand out, especially for users looking to exercise while gaming, is its engaging gameplay that can surprisingly enhance your workout sessions. 
 

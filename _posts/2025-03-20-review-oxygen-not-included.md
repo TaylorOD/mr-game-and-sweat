@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Oxygen Not Included"
+title:  "Oxygen Not Included"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-20T00:11:04.519Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg
+excerpt: "As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 457140
+genres: ["Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Oxygen Not Included,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Oxygen Not Included: A Treadmill Gamer's Delight
 
 As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging. "Oxygen Not Included" has captured my attention with its unique blend of resource management and simulation, making it a perfect candidate for an exercise session. Here’s my detailed review of how well it works in this context.
 
-## Gameplay
+# Gameplay
 
 "Oxygen Not Included" thrusts you into a hilariously engaging subterranean survival experience where you manage a group of colonists in a space environment. The gameplay revolves around gathering resources, managing stamina, and keeping your Dupes alive. What’s remarkable about this game is the depth in its systems—every decision impacts the overall environment, which keeps players engaged for hours on end.
 
@@ -25,7 +29,7 @@ While the pace can vary, the game has a rhythm that lures you in with constant c
 
 ### Category Score: 3 out of 3
 
-## Treadmill and Bike Compatibility
+# Treadmill and Bike Compatibility
 
 One of the best aspects of "Oxygen Not Included" is its flexibility when it comes to control schemes. The game supports keyboard and mouse setups beautifully, making it a viable choice for those who prefer the precision of a mouse while exercising. However, it does require some fast-paced thinking, especially when reacting to unexpected hazards or micromanaging your colonists, which might be challenging during high-intensity workouts.
 
@@ -33,7 +37,7 @@ That said, the game does allow for breaks in action. If you’re running or biki
 
 ### Category Score: 2 out of 3
 
-## Computer Requirements
+# Computer Requirements
 
 "Oxygen Not Included" is relatively lightweight on system requirements compared to many modern titles. You’ll find that most mid-range PCs will have no trouble running it smoothly, even while multitasking with other applications. The game asks for minimal graphical resources, which means you can easily dedicate your full attention to it without worrying about performance drops.
 
@@ -41,7 +45,7 @@ This accessibility makes it easier for those with modest setups to enjoy the gam
 
 ### Category Score: 3 out of 3
 
-## Conclusion and Score
+# Conclusion and Score
 
 "Oxygen Not Included" is a fantastic choice for anyone who loves to exercise while gaming. It masterfully blends resource management with engaging gameplay mechanics that keep you on your toes, making it difficult to focus on anything but survival. While it may require some quick decision-making, its overall compatibility with workout routines makes it an enjoyable addition to your exercise regimen.
 

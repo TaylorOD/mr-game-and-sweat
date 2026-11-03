@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ghostrunner"
+title:  "Ghostrunner"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-02T00:13:00.074Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg
+excerpt: "Set in a neon-soaked, cyberpunk dystopia, Ghostrunner delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1139900
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ghostrunner,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ghostrunner Game Review
 
 Set in a neon-soaked, cyberpunk dystopia, "Ghostrunner" delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging. As you slice your way through a megastructure at breakneck speed, the game demands not just skill but also engages you mentally, making it an excellent pick for users who wish to stay invigorated while exercising.
 

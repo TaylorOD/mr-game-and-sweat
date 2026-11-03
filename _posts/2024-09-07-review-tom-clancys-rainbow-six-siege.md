@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tom Clancy's Rainbow Six Siege"
+title:  "Tom Clancy's Rainbow Six Siege"
 author: taylor
 comments: false
 disqus: false
 date:   2024-09-07T04:43:17.086Z
 categories: [ review, game ]
+excerpt: "Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 359550
+controller: full
+genres: ["Action", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Tom Clancy's Rainbow Six Siege,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Tom Clancy's Rainbow Six Siege Review
 
 Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem. With its blend of intense gameplay and operator-based mechanics, it presents an exciting challenge not just for your gaming skills, but also for those looking to stay active on a treadmill or bike.
 

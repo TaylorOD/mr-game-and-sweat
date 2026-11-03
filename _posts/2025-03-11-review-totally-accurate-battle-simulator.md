@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Totally Accurate Battle Simulator"
+title:  "Totally Accurate Battle Simulator"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-11T00:09:24.705Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg
+excerpt: "Totally Accurate Battle Simulator (TABS) is a quirky simulation game that lets players pit wacky units against each other in a myriad of battle scenarios."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 508440
+genres: ["Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Short
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Totally Accurate Battle Simulator,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Totally Accurate Battle Simulator Review
 
 Totally Accurate Battle Simulator (TABS) is a quirky simulation game that lets players pit wacky units against each other in a myriad of battle scenarios. From medieval knights to modern-day police officers, the game's humorously exaggerated physics and creative unit designs provide a uniquely entertaining experience for players who like to indulge both their strategic minds and their silly sides.
 

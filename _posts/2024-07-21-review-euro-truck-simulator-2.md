@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Euro Truck Simulator 2"
+title:  "Euro Truck Simulator 2"
 author: taylor
 comments: false
 disqus: false
 date:   2024-07-21T04:45:39.949Z
 categories: [ review, game ]
+excerpt: "Euro Truck Simulator 2 (ETS2) is a unique entry into the simulation genre, where players take on the role of a truck driver navigating the expansive roads of Europe."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 2.5
+score_overall: 2.67
+steam_appid: 227300
+genres: ["Indie", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Euro Truck Simulator 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Euro Truck Simulator 2: A Journey at Your Own Pace
 
 Euro Truck Simulator 2 (ETS2) is a unique entry into the simulation genre, where players take on the role of a truck driver navigating the expansive roads of Europe. With an emphasis on realism, this game has become a beloved option for those who enjoy leisurely driving and managing logistics. But how does it fare in an exercise-centric environment?
 

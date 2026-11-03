@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hotline Miami"
+title:  "Hotline Miami"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-30T00:12:13.210Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg
+excerpt: "Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 219150
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: Yes
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hotline Miami,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hotline Miami Game Review
 
 Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience. As you lace up your sneakers for a treadmill run or bike session, this review dissects how well this iconic indie title complements your exercise routine.
 

@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rising Storm 2: Vietnam"
+title:  "Rising Storm 2: Vietnam"
 author: taylor
 comments: false
 disqus: false
 date:   2025-11-12T00:12:00.000Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418460/header.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Rising Storm 2: Vietnam’s 64-player firefights can make a workout fly by, but its precise aiming and sudden combat make it a poor fit for playing while moving."
+score_gameplay: 2
+score_treadmill: 1
+score_computer: 2
+score_overall: 1.67
+steam_appid: 418460
+genres: ["Action", "Massively Multiplayer", "Simulation", "Strategy"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
 
 Rising Storm 2: Vietnam’s 64-player firefights can make a workout fly by, but its precise aiming and sudden combat make it a poor fit for playing while moving. The tactical lulls between bursts of action are less demanding, yet the game’s competitive matches don’t wait for you to catch your breath.

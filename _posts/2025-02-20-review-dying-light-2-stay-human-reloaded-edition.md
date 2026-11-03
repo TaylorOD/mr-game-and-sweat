@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dying Light 2 Stay Human: Reloaded Edition"
+title:  "Dying Light 2 Stay Human: Reloaded Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-02-20T00:10:20.905Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg
+excerpt: "As gamers, we often search for that sweet spot where exercise and entertainment converge."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 534380
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dying Light 2 Stay Human: Reloaded Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dying Light 2 Stay Human: Reloaded Edition Review
 
 As gamers, we often search for that sweet spot where exercise and entertainment converge. "Dying Light 2 Stay Human: Reloaded Edition" promises a thrilling parkour-inspired zombie survival experience, but does it seamlessly blend with your treadmill or bike workout? Let’s find out.
 
@@ -38,7 +43,7 @@ When it comes to playing "Dying Light 2" on a treadmill or bike, the game’s dy
 # Conclusion and Score
 
 "Dying Light 2 Stay Human: Reloaded Edition" offers an engaging gameplay experience that pairs well with your treadmill or bike sessions. Its parkour mechanics not only enhance the fun factor but also help maintain your exercise flow without too many interruptions. While the computer requirements are somewhat high, the reward is a visually stunning world that will keep you invested during your workouts. If you’re looking for a game that can keep your heart rate up and your feet moving, this edition is undoubtedly worth a try.
-  
+
 ### Overall Score: 2.33 out of 3
 
 ---

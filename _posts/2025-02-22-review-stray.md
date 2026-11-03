@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Stray"
+title:  "Stray"
 author: taylor
 comments: false
 disqus: false
 date:   2025-02-22T00:09:47.954Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg
+excerpt: "Stray, developed by BlueTwelve Studio, invites players into the captivating world of a stray cat navigating a dystopian city filled with mysteries, robots, and a lush art style."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1332010
+controller: full
+genres: ["Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Stray,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Stray Game Review
 
 Stray, developed by BlueTwelve Studio, invites players into the captivating world of a stray cat navigating a dystopian city filled with mysteries, robots, and a lush art style. As someone who enjoys exercising while gaming, I found myself eagerly diving into this unique experience. 
 

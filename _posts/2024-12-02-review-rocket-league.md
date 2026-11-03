@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rocket League"
+title:  "Rocket League"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-02T00:12:48.175Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/3abd9ab079c8896a4762dbe34a853d89b7f704df/header_alt_assets_17.jpg
+excerpt: "Rocket League is a high-octane blend of soccer and vehicular mayhem that has taken the gaming world by storm."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 252950
+genres: ["Action", "Indie", "Racing", "Sports"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Rocket League,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Rocket League Review
 
 Rocket League is a high-octane blend of soccer and vehicular mayhem that has taken the gaming world by storm. This game thrives on excitement and competitive energy, making it uniquely engaging for players who want to exercise while having a blast. Let's delve into the details to see how it stands up to a treadmill or bike workout.
 
-## Gameplay
+# Gameplay
 
 The core gameplay of Rocket League is incredibly engaging. Matches are fast-paced and typically last about five minutes, which keeps players on their toes and maintains high levels of engagement. The objective is simple: use rocket-propelled cars to hit a giant soccer ball into the opposing team's goal. What makes it captivating is the fluid mechanics and the diverse skill sets required to master aerial shots, dribbles, and tackles. 
 
@@ -25,7 +29,7 @@ There are no long cutscenes or tedious slow sections; it's pure, exhilarating ac
 
 ### Category Score: 3 out of 3
 
-## Treadmill and Bike Compatibility
+# Treadmill and Bike Compatibility
 
 Rocket League’s gameplay requires quick reactions but can still be reasonably played while on a treadmill or bike. The controls are smooth and responsive, and the game supports controller compatibility, making it easy to set up without feeling tethered to a keyboard and mouse.
 
@@ -33,13 +37,13 @@ However, since the action can change rapidly and requires split-second decisions
 
 ### Category Score: 2 out of 3
 
-## Computer Requirements
+# Computer Requirements
 
 Rocket League is not overly demanding on computer hardware. It runs smoothly on a range of systems, from mid-tier gaming rigs to lower-end machines. You don’t need the latest graphics card to enjoy the intense visuals and fluid gameplay, which is perfect for players who might not have access to top-tier technology. This accessibility means more users can integrate it into their workout routines without worrying about compatibility issues.
 
 ### Category Score: 3 out of 3
 
-## Conclusion and Score
+# Conclusion and Score
 
 Overall, Rocket League delivers an electrifying gameplay experience that keeps players engaged while they exercise. Its quick matches and emphasis on skill ensure you remain focused, and while you’ll need to be conscious of your physical intensity during gameplay, it effectively serves as an entertaining distraction during your workout. With low hardware requirements, it’s an accessible choice for many. 
 

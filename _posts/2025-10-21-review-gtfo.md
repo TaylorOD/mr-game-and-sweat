@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: GTFO"
+title:  "GTFO"
 author: taylor
 comments: false
 disqus: false
 date:   2025-10-21T00:12:33.745Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg
+excerpt: "GTFO is a cooperative first-person shooter that plunges players into a nightmarish underground facility, teeming with grotesque creatures and thick atmosphere."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 493520
+genres: ["Action"]
+pause_friendly: No
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "GTFO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# GTFO Game Review
 
 GTFO is a cooperative first-person shooter that plunges players into a nightmarish underground facility, teeming with grotesque creatures and thick atmosphere. The game is famous for its intense, strategic gameplay and emphasis on teamwork. But does it fit well into an exercise routine on a treadmill or bike? Let's break it down!
 

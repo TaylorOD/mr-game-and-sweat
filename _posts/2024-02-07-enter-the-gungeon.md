@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Enter the Gungeon"
+title:  "Enter the Gungeon"
 author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
 disqus: false
 image: assets/images/review-images/enter-the-gungeon.jpg
+excerpt: "Enter the Gungeon provides a challenging yet rewarding gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
+score_gameplay: 2
+score_treadmill: 1
+score_computer: 3
+score_overall: 2
+steam_appid: 311690
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Enter the Gungeon," a game that offers a unique blend of roguelike mechanics and bullet hell gameplay. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

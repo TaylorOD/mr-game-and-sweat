@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Counter-Strike: Global Offensive"
+title:  "Counter-Strike: Global Offensive"
 author: taylor
 comments: false
 disqus: false
 date:   2024-06-07T04:40:29.659Z
 categories: [ review, game ]
+excerpt: "Counter-Strike: Global Offensive (CS:GO) has long been a staple in competitive gaming, offering thrilling gameplay that keeps players on the edge of their seats."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 3
+score_overall: 2
+steam_appid: 730
+genres: ["Action", "Free To Play"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Counter-Strike: Global Offensive,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Counter-Strike: Global Offensive Game Review
 
 Counter-Strike: Global Offensive (CS:GO) has long been a staple in competitive gaming, offering thrilling gameplay that keeps players on the edge of their seats. As fitness enthusiasts look to merge their love for exercise with gaming, we take a closer look at how this classic title holds up while you run on a treadmill or bike.
 

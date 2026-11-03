@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: My Summer Car"
+title:  "My Summer Car"
 author: taylor
 comments: false
 disqus: false
 date:   2025-06-05T00:11:54.502Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/516750/header.jpg
+excerpt: "My Summer Car takes players on a nostalgic journey through a uniquely Finnish summer, balancing car mechanics, survival elements, and casual life simulation."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 516750
+genres: ["Indie", "Racing", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "My Summer Car,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# My Summer Car Review
 
 "My Summer Car" takes players on a nostalgic journey through a uniquely Finnish summer, balancing car mechanics, survival elements, and casual life simulation. As you engage in the heartwarming yet chaotic task of building and repairing a car, you will find yourself submerged in a world that hilariously complements the thrills of cardio workouts.
 

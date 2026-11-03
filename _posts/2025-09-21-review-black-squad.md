@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Black Squad"
+title:  "Black Squad"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-21T00:11:09.908Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550650/header.jpg
+excerpt: "Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 550650
+genres: ["Action", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Black Squad,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Black Squad: A Game Review
 
 Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront. Developed by NS Studio, this game is known for its solid mechanics and engaging multiplayer experience. But how does it hold up when you're running on a treadmill or biking while gaming? Let’s break it down.
 

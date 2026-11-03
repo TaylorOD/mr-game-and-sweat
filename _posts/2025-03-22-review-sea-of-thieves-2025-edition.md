@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sea of Thieves: 2025 Edition"
+title:  "Sea of Thieves: 2025 Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-22T00:10:19.905Z
 categories: [ review, game ]
 image: null
+excerpt: "Ahoy, mateys!"
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+pause_friendly: No
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Sea of Thieves: 2025 Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Sea of Thieves: 2025 Edition Review
 
 Ahoy, mateys! Set sail on an ocean of adventure and exercise with “Sea of Thieves: 2025 Edition.” This beloved pirate simulator has returned, fully equipped with shiny new features and enhancements that make it a worthwhile addition to your gaming repertoire, especially for those looking to get a good workout while they plunder the high seas.
 

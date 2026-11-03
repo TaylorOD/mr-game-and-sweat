@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Binding of Isaac: Rebirth"
+title:  "The Binding of Isaac: Rebirth"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/the-binding-of-isaac-rebirth.jpg
+excerpt: "The Binding of Isaac: Rebirth is an enthralling game that keeps players on their toes with its fast-paced action and unpredictable roguelike elements."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.65
+steam_appid: 250900
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Binding of Isaac: Rebirth," a game known for its dark humor and challenging gameplay. Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

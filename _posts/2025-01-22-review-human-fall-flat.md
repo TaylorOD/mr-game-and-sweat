@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Human Fall Flat"
+title:  "Human Fall Flat"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-22T00:09:59.886Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg
+excerpt: "Human: Fall Flat is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 477160
+controller: full
+genres: ["Adventure", "Casual", "Indie", "Simulation"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Human Fall Flat,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Human: Fall Flat
 
 "Human: Fall Flat" is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob. The charm lies in its unique mechanics and engaging narrative, but how does it fare for those wanting to get their exercise in while gaming? Let's dive in!
 

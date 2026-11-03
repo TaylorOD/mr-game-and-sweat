@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Pizza Tower"
+title:  "Pizza Tower"
 author: taylor
 comments: false
 disqus: false
 date:   2025-08-31T00:12:43.412Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/header.jpg
+excerpt: "Pizza Tower is a delightful throwback to the fast-paced platformers of the 90s, packed with a vibrant aesthetic and a pizza-loving protagonist."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 2231450
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Pizza Tower,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Pizza Tower Review
 
 Pizza Tower is a delightful throwback to the fast-paced platformers of the 90s, packed with a vibrant aesthetic and a pizza-loving protagonist. Its frenetic gameplay makes for an exhilarating experience, especially when paired with a cardio workout on a treadmill or bike!
 

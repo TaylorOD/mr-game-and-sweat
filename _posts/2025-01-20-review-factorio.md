@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Factorio"
+title:  "Factorio"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-20T00:10:47.066Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg
+excerpt: "Factorio is a complex and captivating factory-building game that immerses players in the joys of automation and industrial conquest."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 427520
+genres: ["Casual", "Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Factorio,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Factorio Game Review
 
 Factorio is a complex and captivating factory-building game that immerses players in the joys of automation and industrial conquest. It’s a game that not only engages your mind but can also keep your feet moving while you’re on a treadmill or bike, turning gaming into an active pastime.
 

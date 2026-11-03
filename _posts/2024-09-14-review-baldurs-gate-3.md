@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Baldur's Gate 3"
+title:  "Baldur's Gate 3"
 author: taylor
 comments: false
 disqus: false
 date:   2024-09-14T04:58:30.908Z
 categories: [ review, game ]
+excerpt: "Baldur's Gate 3 is a masterful blend of traditional RPG elements and modern gameplay mechanics, setting a high bar for storytelling and character interactions in the gaming landscape."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1086940
+controller: full
+genres: ["Adventure", "RPG", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Baldur's Gate 3,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Baldur's Gate 3
 
 Baldur's Gate 3 is a masterful blend of traditional RPG elements and modern gameplay mechanics, setting a high bar for storytelling and character interactions in the gaming landscape. However, for those of us who want to stay active—whether on a treadmill or bike—it's essential to consider how it fits into an exercise routine.
 

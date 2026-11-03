@@ -1,23 +1,28 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Borderlands 3"
+title:  "Borderlands 3"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-18T00:11:37.957Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg
+excerpt: "As a thrilling addition to the Borderlands franchise, Borderlands 3 offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 397540
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Borderlands 3,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Borderlands 3 Game Review
 
 As a thrilling addition to the Borderlands franchise, "Borderlands 3" offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay. While it captures the essence of its predecessors, it also provides an opportunity to engage with your fitness routine without sacrificing fun. Let's dive into the specifics to see how well it aligns with an active gaming lifestyle.
 
-## Gameplay
+# Gameplay
 
 Borderlands 3 excels in delivering a captivating co-op and solo experience packed with action, humor, and an astonishing array of weapons. The game features smooth gameplay that keeps players on their toes without long lulls in action. Whether you're running, gunning, or engaging in quirky side missions, the fast-paced nature of the game significantly minimizes the chances of zoning out while on the treadmill or bike.
 
@@ -25,7 +30,7 @@ The procedural generation of weapons means you're likely to discover new and exc
 
 ### Category Score: 2 out of 3
 
-## Treadmill and Bike Compatibility
+# Treadmill and Bike Compatibility
 
 When it comes to compatibility with treadmill or bike exercises, Borderlands 3 performs admirably. The game is fully playable with controllers, allowing for diverse movement on your treadmill or bike. The aiming and shooting mechanics are intuitive, making it easy to shoot while maintaining your form. 
 
@@ -33,13 +38,13 @@ However, this is where the game can become a bit tricky. If your heart rate is p
 
 ### Category Score: 2 out of 3
 
-## Computer Requirements
+# Computer Requirements
 
 On the technical side, Borderlands 3 is somewhat demanding when it comes to computer requirements. You’ll want a decent GPU and CPU to enjoy the game at its best settings without hiccups. Running it smoothly requires at least an Nvidia GTX 750 2GB or a comparable model. If you’re using a gaming setup to both play and work out, make sure your machine can handle the workload to avoid any frustrating lags during your workout session.
 
 ### Category Score: 2 out of 3
 
-## Conclusion and Score
+# Conclusion and Score
 
 In summary, Borderlands 3 is a vibrant and engaging title that will keep your heart rate elevated, rich in content, and ideal for players looking to blend their fitness routine with gaming. While there are minor points to consider, such as the occasional lengthy cutscene and the need for a capable gaming rig, the game's engaging mechanics and fun co-op experience make it a great fit for treadmill or biking sessions.
 

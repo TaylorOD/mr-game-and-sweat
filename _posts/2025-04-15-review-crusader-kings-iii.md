@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Crusader Kings III"
+title:  "Crusader Kings III"
 author: taylor
 comments: false
 disqus: false
 date:   2025-04-15T00:35:28.177Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/8a7e814d13f8e73c0d40471f585ece908f9be282/header.jpg
+excerpt: "Crusader Kings III is an intricate grand strategy game from Paradox Interactive that immerses players in the tumultuous world of feudal politics, dynastic drama, and medieval warfare."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1158310
+genres: ["RPG", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Crusader Kings III,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Crusader Kings III Review
 
 Crusader Kings III is an intricate grand strategy game from Paradox Interactive that immerses players in the tumultuous world of feudal politics, dynastic drama, and medieval warfare. The game's depth and complexity invite you to take control of a dynasty, from humble counts to powerful kings, as you navigate through generations of rule, intrigue, and conflict. But how does this epic political saga hold up for players trying to get their sweat on with every step on the treadmill or pedal on the bike? Let's dive in!
 

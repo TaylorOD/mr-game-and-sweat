@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Days Gone"
+title:  "Days Gone"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-15T00:11:50.022Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg
+excerpt: "Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1259420
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Days Gone,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Days Gone Review
 
 Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC. Set in a post-apocalyptic Oregon, the game takes players on a journey as motorcycle rangers navigate through a world filled with mutated creatures and human survivors. If you're a fan of immersive storytelling complemented by action, this title may pique your interest. But how does it hold up for gamers who exercise on a treadmill or bike? Let's dive into the details.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: To the Moon"
+title:  "To the Moon"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-08T00:13:00.323Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg
+excerpt: "To the Moon is an indie game that delivers a rich, emotional narrative while utilizing 2D pixel art and a hauntingly beautiful score."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 206440
+controller: full
+genres: ["Adventure", "Indie", "RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "To the Moon,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Game Review: To the Moon
 
 To the Moon is an indie game that delivers a rich, emotional narrative while utilizing 2D pixel art and a hauntingly beautiful score. Though it’s not your typical exercise game, it’s worth considering if you want something to engage your mind while tackling cardio workouts.
 

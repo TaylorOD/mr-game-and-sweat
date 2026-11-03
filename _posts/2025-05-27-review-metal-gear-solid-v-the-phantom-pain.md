@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: METAL GEAR SOLID V: THE PHANTOM PAIN"
+title:  "METAL GEAR SOLID V: THE PHANTOM PAIN"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-27T00:13:12.157Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg
+excerpt: "Hideo Kojima's magnum opus, METAL GEAR SOLID V: THE PHANTOM PAIN, is not just a narrative-driven experience but offers a tantalizing playground of stealth and action."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 287700
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "METAL GEAR SOLID V: THE PHANTOM PAIN,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# METAL GEAR SOLID V: THE PHANTOM PAIN Review
 
 Hideo Kojima's magnum opus, METAL GEAR SOLID V: THE PHANTOM PAIN, is not just a narrative-driven experience but offers a tantalizing playground of stealth and action. Ideal for gamers looking to squeeze in some cardio during their gaming sessions, this title provides a unique blend of engagement and immersive gameplay.
 

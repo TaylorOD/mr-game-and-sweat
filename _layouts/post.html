@@ -16,7 +16,7 @@ post_class: post-template
         
 		<div class="col-sm-8">
             <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			{% if page.image %}<img class="featured-image img-fluid rounded" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title | escape }}">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">             
                 
@@ -39,6 +39,9 @@ post_class: post-template
 			</div>
 
 			
+
+			{% include score_box.html %}
+			{% include review_schema.html %}
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
@@ -74,6 +77,8 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
+
+            {% include related_reviews.html %}
             
             
              <!-- Author Box -->

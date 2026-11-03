@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Outlast Trials"
+title:  "The Outlast Trials"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-16T00:10:23.783Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg
+excerpt: "The Outlast Trials marks a fresh entry into the horror genre, combining psychological thriller elements with cooperative multiplayer gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 1304930
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Outlast Trials,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Outlast Trials Review
 
 The Outlast Trials marks a fresh entry into the horror genre, combining psychological thriller elements with cooperative multiplayer gameplay. Set during the Cold War, players find themselves trapped in a sinister experiment, pitted against terrifying foes in a truly harrowing environment. But how does this game fare when it comes to keeping you engaged during your treadmill or biking routine?
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: 鬼谷八荒 Tale of Immortal"
+title:  "鬼谷八荒 Tale of Immortal"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-26T00:11:02.608Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg
+excerpt: "Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics."
+score_gameplay: 2
+score_treadmill: 2.5
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 1468810
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "鬼谷八荒 Tale of Immortal,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: 鬼谷八荒 (Tale of Immortal)
 
 Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics. As a game that encourages exploration and discovery, it beckons players for hours on end—but how does it fit into a routine of treadmill running or biking?
 

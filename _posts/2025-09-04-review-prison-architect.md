@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Prison Architect"
+title:  "Prison Architect"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-04T00:10:24.491Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/header.jpg
+excerpt: "In Prison Architect, you step into the shoes of a prison warden, taking on the monumental task of building and managing a correctional facility."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 233450
+genres: ["Indie", "Simulation", "Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Prison Architect,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of Prison Architect
 
 In "Prison Architect," you step into the shoes of a prison warden, taking on the monumental task of building and managing a correctional facility. With its blend of strategy, simulation, and creativity, this game presents a unique opportunity for those looking to combine video gaming with staying active on a treadmill or bike.
 

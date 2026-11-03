@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ghost of Tsushima DIRECTOR'S CUT"
+title:  "Ghost of Tsushima DIRECTOR'S CUT"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-23T00:12:18.343Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg
+excerpt: "Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 2215430
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ghost of Tsushima DIRECTOR'S CUT,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ghost of Tsushima DIRECTOR'S CUT Review
 
 Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion. As samurai Jin Sakai, players embark on a visually stunning journey filled with combat, exploration, and a rich narrative. It’s a game that can engage the body and mind—if managed correctly while exercising!
 

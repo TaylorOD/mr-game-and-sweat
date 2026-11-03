@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Noita"
+title:  "Noita"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-20T00:12:22.005Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg
+excerpt: "Noita is a unique roguelike platformer known for its highly interactive pixel-based physics and complex spellcasting system."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 881100
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Noita,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Noita
 
 Noita is a unique roguelike platformer known for its highly interactive pixel-based physics and complex spellcasting system. As a player in this enchanting underground world, you take on the role of a wizard exploring procedurally generated levels filled with enemies, environmental hazards, and, most importantly, physics-enhanced explosions and magic.
 

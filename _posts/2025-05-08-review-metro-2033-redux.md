@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Metro 2033 Redux"
+title:  "Metro 2033 Redux"
 author: taylor
 comments: false
 disqus: false
 date:   2025-05-08T00:11:35.728Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286690/643dc97456e8a6f98777c28e81dcc92b39e2882f/header_alt_assets_1.jpg
+excerpt: "In the densely atmospheric world of Metro 2033 Redux, you are thrust into the post-apocalyptic Moscow Metro system where survival hinges on stealth, survival, and resource management."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 286690
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Metro 2033 Redux,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Metro 2033 Redux: A Breathless Journey Through the Wasteland
 
 In the densely atmospheric world of Metro 2033 Redux, you are thrust into the post-apocalyptic Moscow Metro system where survival hinges on stealth, survival, and resource management. But can this chilling narrative and intense action keep your heart racing on the treadmill or bike? Let’s dive into the details.
 

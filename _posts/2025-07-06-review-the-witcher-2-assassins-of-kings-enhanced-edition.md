@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Witcher 2: Assassins of Kings Enhanced Edition"
+title:  "The Witcher 2: Assassins of Kings Enhanced Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-06T00:12:09.890Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/header.jpg
+excerpt: "The Witcher 2: Assassins of Kings Enhanced Edition is a remarkable RPG that draws players into its richly crafted world, featuring intricate narratives and morally complex decisions."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 20920
+genres: ["RPG"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Witcher 2: Assassins of Kings Enhanced Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review: The Witcher 2: Assassins of Kings Enhanced Edition
 
 The Witcher 2: Assassins of Kings Enhanced Edition is a remarkable RPG that draws players into its richly crafted world, featuring intricate narratives and morally complex decisions. As you engage in this fantasy epic, let’s see how it holds up for those of you who want to stay active on the treadmill or bike while gaming.
 

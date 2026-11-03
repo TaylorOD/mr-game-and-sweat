@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Destiny 2"
+title:  "Destiny 2"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-04T00:10:50.854Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg
+excerpt: "Destiny 2 is a widely acclaimed online multiplayer first-person shooter that invites players into a richly designed sci-fi universe filled with engaging narratives, varied gameplay modes, and a vibrant community."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1085660
+genres: ["Action", "Adventure", "Free To Play"]
+pause_friendly: No
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Destiny 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Destiny 2 Review
 
 Destiny 2 is a widely acclaimed online multiplayer first-person shooter that invites players into a richly designed sci-fi universe filled with engaging narratives, varied gameplay modes, and a vibrant community. But how does it fare when it comes to providing an exercise-friendly experience while running on a treadmill or biking? Let’s dive into the various aspects.
 

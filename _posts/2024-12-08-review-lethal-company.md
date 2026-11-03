@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Lethal Company"
+title:  "Lethal Company"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-08T00:10:49.435Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg
+excerpt: "When it comes to blending the worlds of horror gaming and exercising, Lethal Company takes a bold stab at creating an adrenaline-pumping experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1966720
+genres: ["Action", "Adventure", "Indie", "Early Access"]
+pause_friendly: No
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Lethal Company,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Lethal Company - Game Review
 
 When it comes to blending the worlds of horror gaming and exercising, "Lethal Company" takes a bold stab at creating an adrenaline-pumping experience. Imagine you're on a treadmill, running for your life while monsters lurk around every corner, and your friend is yelling at you to help find the critical items. Let's dive into the various categories to see if this thrilling game is a suitable companion for your workout routine.
 

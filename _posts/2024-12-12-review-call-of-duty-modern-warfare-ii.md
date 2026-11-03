@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare II"
+title:  "Call of Duty: Modern Warfare II"
 author: taylor
 comments: false
 disqus: false
 date:   2024-12-12T00:11:23.774Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg
+excerpt: "Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1938090
+controller: full
+genres: ["Action"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Call of Duty: Modern Warfare II,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Call of Duty: Modern Warfare II - Game Review
 
 Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming. Whether you're on the treadmill or biking, this title is designed to keep your adrenaline pumping. 
 

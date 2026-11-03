@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tomb Raider"
+title:  "Tomb Raider"
 author: taylor
 comments: false
 disqus: false
 date:   2025-01-10T00:10:10.049Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/13a6dfaa4655377988aa627f03b2322f8bf18ec9/header_alt_assets_0.jpg
+excerpt: "Tomb Raider, the iconic action-adventure game featuring the intrepid archaeologist Lara Croft, delivers an exhilarating journey filled with puzzles, exploration, and a compelling narrative."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 203160
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Long
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Tomb Raider,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Game Review: Tomb Raider
 
 Tomb Raider, the iconic action-adventure game featuring the intrepid archaeologist Lara Croft, delivers an exhilarating journey filled with puzzles, exploration, and a compelling narrative. Whether you're a seasoned gamer or a casual player, this revitalized classic serves as an ideal companion for those looking to elevate their workout routine.
 

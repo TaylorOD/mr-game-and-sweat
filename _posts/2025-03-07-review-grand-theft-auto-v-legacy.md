@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto V Legacy"
+title:  "Grand Theft Auto V Legacy"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-07T00:10:19.689Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg
+excerpt: "Grand Theft Auto V Legacy presents players with an expansive open world filled with dynamic missions, quirky characters, and endless opportunities for mayhem."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 271590
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Sometimes
+session_length: Long
+best_for: Bike
 ---
 
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Grand Theft Auto V Legacy,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
 # Gameplay
-
-# Grand Theft Auto V Legacy - Game Review
-
-**Gameplay**
 
 Grand Theft Auto V Legacy presents players with an expansive open world filled with dynamic missions, quirky characters, and endless opportunities for mayhem. As you immerse yourself in the crime-ridden streets of Los Santos, the engaging gameplay allows for both exploration and chaos. Players can switch between three protagonists, each with their unique skills, which keeps the experience fresh and exciting. The side missions and random events peppered throughout the game add to the thrill, ensuring that you stay occupied while trying to maintain your workout routine.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: BioShock Infinite"
+title:  "BioShock Infinite"
 author: taylor
 comments: false
 disqus: false
 date:   2025-03-08T00:10:33.219Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg
+excerpt: "BioShock Infinite is a captivating journey through a vibrant, dystopian world that is as thought-provoking as it is breathtakingly immersive."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 8870
+controller: full
+genres: ["Action"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "BioShock Infinite,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# BioShock Infinite Review
 
 BioShock Infinite is a captivating journey through a vibrant, dystopian world that is as thought-provoking as it is breathtakingly immersive. Set in the sky city of Columbia, players take on the role of Booker DeWitt as he attempts to rescue a mysterious woman named Elizabeth, embroiling himself in a narrative that's rich in themes of freedom, racism, and American exceptionalism. But how does it hold up for those looking to stay active while gaming on a treadmill or bike? Let's dive in!
 

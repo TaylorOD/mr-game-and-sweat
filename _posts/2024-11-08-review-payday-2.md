@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PAYDAY 2"
+title:  "PAYDAY 2"
 author: taylor
 comments: false
 disqus: false
 date:   2024-11-08T04:29:07.544Z
 categories: [ review, game ]
+excerpt: "PAYDAY 2 is a cooperative first-person shooter that puts you in the shoes of a criminal mastermind, teaming up with friends to pull off intricate heists."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 218620
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: Sometimes
+session_length: Medium
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "PAYDAY 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# PAYDAY 2 Review
 
 PAYDAY 2 is a cooperative first-person shooter that puts you in the shoes of a criminal mastermind, teaming up with friends to pull off intricate heists. With a blend of strategy, gunplay, and plenty of adrenaline, this game can serve as a thrilling distraction while you sweat it out on the treadmill or bike.
 

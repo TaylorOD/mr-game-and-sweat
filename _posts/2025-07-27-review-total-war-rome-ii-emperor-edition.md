@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Total War: ROME II - Emperor Edition"
+title:  "Total War: ROME II - Emperor Edition"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-27T00:12:40.172Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg
+excerpt: "Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 214950
+genres: ["Strategy"]
+pause_friendly: Yes
+session_length: Long
+best_for: Bike
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Total War: ROME II - Emperor Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Total War: ROME II - Emperor Edition Review
 
 Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike. But can it hold your attention while you're running on a treadmill or biking? Let's break it down.
 

@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rec Room"
+title:  "Rec Room"
 author: taylor
 comments: false
 disqus: false
 date:   2025-09-10T00:10:21.433Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/471710/header.jpg
+excerpt: "Rec Room is an innovative social VR gaming platform that allows players to create, share, and experience a variety of games and activities together."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 471710
+controller: full
+genres: ["Adventure", "Casual", "Massively Multiplayer", "Free To Play"]
+pause_friendly: No
+session_length: Short
+best_for: Treadmill
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Rec Room,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Rec Room Game Review
 
 Rec Room is an innovative social VR gaming platform that allows players to create, share, and experience a variety of games and activities together. With a strong emphasis on community interaction, this game perfectly merges creativity with active play, making it an excellent fit for fitness enthusiasts who want an engaging workout experience.
 

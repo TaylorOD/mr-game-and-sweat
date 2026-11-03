@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Resident Evil 4 (2005)"
+title:  "Resident Evil 4 (2005)"
 author: taylor
 comments: false
 disqus: false
 date:   2025-07-12T00:12:36.280Z
 categories: [ review, game ]
-image: null
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg
+excerpt: "Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective."
+score_gameplay: 2.5
+score_treadmill: 2.7
+score_computer: 3
+score_overall: 2.4
+steam_appid: 254700
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: Yes
+session_length: Medium
+best_for: Both
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Resident Evil 4 (2005),". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Resident Evil 4 (2005) Review
 
 Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective. This leap in gameplay design captivates players, making it a timeless classic that can also be a surprisingly effective companion during exercise sessions on a treadmill or bike. 
 
