@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Of
+title: Best Video Games to Play on a Treadmill or Exercise Bike
 permalink: "/best-of/"
 description: The best video games to play while running on a treadmill or riding an exercise bike, ranked from our reviews.
 ---
