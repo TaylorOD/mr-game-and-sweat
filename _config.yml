@@ -57,3 +57,22 @@ plugins:
 
 # Chat bubble. Leave this blank to hide the bubble
 chat_api_url:
+
+# Repo files that shouldnt end up on the site
+exclude:
+  - README.md
+  - CLAUDE.md
+  - docs
+  - scripts
+  - test
+  - lib
+  - generate_reviews.js
+  - steamData.json
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
