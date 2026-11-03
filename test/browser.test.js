@@ -165,6 +165,17 @@ async function run(base) {
     }
   }, phone);
 
+  await test('phone filters stay out of the way until opened', async (page) => {
+    await page.goto(`${base}/reviews/`);
+    await page.waitForSelector('#review-grid .card');
+    assert.ok(!(await page.isVisible('#filter-genre')));
+    const first = await page.locator('#review-grid .card').first().boundingBox();
+    assert.ok(first.y < 812, 'The first game should show on the first screen');
+    await page.tap('#filters-toggle');
+    await page.selectOption('#filter-genre', 'RPG');
+    assert.strictEqual((await page.textContent('#filters-toggle')).trim(), 'Filters (1)');
+  }, phone);
+
   await test('phone menu opens', async (page) => {
     await page.goto(base);
     assert.ok(!(await page.isVisible('#navbarResponsive a[href$="/reviews/"]')));

@@ -715,3 +715,31 @@ body {
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
+
+/* Filters tuck away on phones */
+.review-filter-more {
+	display: contents;
+}
+.filters-toggle {
+	display: none;
+}
+@media only screen and (max-width: 767px) {
+	.review-filters {
+		grid-template-columns: 1fr;
+	}
+	.filters-toggle {
+		display: block;
+		width: 100%;
+	}
+	.review-filter-more {
+		display: none;
+	}
+	.review-filter-more.open {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 0.75rem;
+	}
+	.review-filter-more .review-filter-check {
+		grid-column: 1 / -1;
+	}
+}

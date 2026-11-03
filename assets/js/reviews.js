@@ -4,6 +4,8 @@
 	var grid = document.getElementById('review-grid');
 	var count = document.getElementById('review-count');
 	var more = document.getElementById('review-more');
+	var toggle = document.getElementById('filters-toggle');
+	var filtersMore = document.getElementById('filters-more');
 	var fields = {
 		search: document.getElementById('filter-search'),
 		genre: document.getElementById('filter-genre'),
@@ -102,6 +104,9 @@
 			return b.score - a.score;
 		});
 
+		var active = [genre, pause, session, minimum, controllerOnly].filter(Boolean).length;
+		toggle.textContent = active ? 'Filters (' + active + ')' : 'Filters';
+
 		grid.textContent = '';
 		shown = 0;
 		count.textContent = matches.length + (matches.length === 1 ? ' review' : ' reviews');
@@ -128,6 +133,10 @@
 			fields[name].addEventListener(name === 'search' ? 'input' : 'change', apply);
 		});
 		more.addEventListener('click', showMore);
+		toggle.addEventListener('click', function () {
+			var open = filtersMore.classList.toggle('open');
+			toggle.setAttribute('aria-expanded', String(open));
+		});
 		fields.search.value = new URLSearchParams(window.location.search).get('q') || '';
 		apply();
 	}
