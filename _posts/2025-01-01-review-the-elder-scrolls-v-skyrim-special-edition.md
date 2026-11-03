@@ -1,4 +1,5 @@
 ---
+redirect_from: ["/review-the-elder-scrolls-v-skyrim/"]
 layout: post
 title:  "The Elder Scrolls V: Skyrim Special Edition"
 author: taylor
