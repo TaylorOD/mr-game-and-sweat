@@ -4,10 +4,32 @@ title: 404
 permalink: /404.html
 ---
 
-<div class="text-center">
-	<p class="h1 mt-5">
-		<span class="badge badge-dark font-weight-normal">404</span>
-	</p>
-	<h1 class="display-1 mt-4 mb-4">Page not found!</h1>
-	<p>Please visit our <a href="{{site.baseurl}}/">homepage</a>!</p>
+{% assign reviews = site.posts | where_exp: "p", "p.score_overall" %}
+{% assign top_rated = reviews | where_exp: "p", "p.score_treadmill == 3" | sort: "score_overall" | reverse %}
+
+<section class="not-found">
+	<p class="not-found-code">404</p>
+	<h1>We can't find that page</h1>
+	<p class="lead">It may have moved. Try searching for the game or guide you wanted.</p>
+	<form class="not-found-search" action="{{ site.baseurl }}/reviews/" method="get" role="search">
+		<input class="form-control" type="search" name="q" placeholder="Search games and guides" aria-label="Search games and guides" />
+		<button class="btn btn-accent" type="submit">Search</button>
+	</form>
+	<nav class="browse-chips" aria-label="Browse the site">
+		<a href="{{ site.baseurl }}/reviews/">All reviews</a>
+		<a href="{{ site.baseurl }}/best-of/">Best of</a>
+		<a href="{{ site.baseurl }}/guides/">Guides</a>
+	</nav>
+</section>
+
+<div class="section-heading">
+	<h2>Top rated for a workout</h2>
+	<a href="{{ site.baseurl }}/best-of/">See the full list</a>
 </div>
+<section class="row">
+	{% for post in top_rated limit: 3 %}
+	<div class="col-md-4 mb-5">
+		{% include postbox.html %}
+	</div>
+	{% endfor %}
+</section>

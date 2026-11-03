@@ -928,3 +928,29 @@ body {
 .guide-results p {
 	margin: 4px 0 0;
 }
+
+/* 404 page */
+.not-found {
+	max-width: 640px;
+	margin: 32px auto 56px;
+	text-align: center;
+}
+.not-found-code {
+	margin-bottom: 8px;
+	color: var(--accent);
+	font-family: var(--font-heading);
+	font-size: 1.25rem;
+	font-weight: 700;
+}
+.not-found-search {
+	display: flex;
+	gap: 8px;
+	margin: 24px 0;
+}
+.not-found-search input {
+	flex: 1 1 0;
+	min-width: 0;
+}
+.not-found .browse-chips {
+	justify-content: center;
+}

@@ -43,7 +43,7 @@ Badges round to one decimal, so 2.33 shows as 2.3. Best of ranks use a small # s
 | Any image | `_includes/image.html`, see [images.md](images.md) |
 | Primary and outline buttons | `btn btn-accent` and `btn btn-ghost` |
 | Pill links | `browse-chips` |
-| Header search | `header-search` in `_layouts/default.html`. It sends people to `/reviews/?q=` and hides on that page |
+| Header search | `header-search` in `_layouts/default.html`. It sends people to `/reviews/?q=` and hides on that page and the 404 page, which have their own |
 | Search | `assets/js/reviews.js` checks names, then genres and summaries, then full text from `search.json`, which only loads once someone searches. Guides show above the reviews |
 | Filter links | The search and filters stay in the address bar, like `/reviews/?genre=RPG&pause=Yes`, so any list can be linked |
 

@@ -64,7 +64,7 @@
 						<span class="d-none d-md-inline-block">{{ site.title }}</span>
 						{% endif %}
 					</a>
-					{% unless page.url == '/reviews/' %}
+					{% unless page.url == '/reviews/' or page.url == '/404.html' %}
 					<form class="header-search" action="{{ site.baseurl }}/reviews/" method="get" role="search">
 						<input type="search" name="q" placeholder="Search games" aria-label="Search games" />
 						<button type="submit" aria-label="Search">
