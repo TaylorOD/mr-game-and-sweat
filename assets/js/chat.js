@@ -3,6 +3,7 @@
 	const API_URL = document.currentScript.dataset.api.replace(/\/$/, '');
 	const STORAGE_KEY = 'mgs-chat';
 	const MAX_HISTORY = 10;
+	const SLOW_ANSWER_MS = 8000;
 	const SITE_ORIGINS = ['https://mrgameandsweat.com', 'https://www.mrgameandsweat.com', location.origin];
 	const GENERAL_QUESTIONS = [
 		"What's the best game to play on a treadmill?",
@@ -12,6 +13,7 @@
 
 	let history = [];
 	let busy = false;
+	let woken = false;
 
 	function load() {
 		try {
@@ -170,6 +172,13 @@
 		}
 	}
 
+	// The free server sleeps when nobody is using it, so start waking it as soon as the chat opens
+	function wakeServer() {
+		if (woken) return;
+		woken = true;
+		fetch(`${API_URL}/healthz`, { mode: 'no-cors' }).catch(() => {});
+	}
+
 	async function ask(question) {
 		question = question.trim();
 		if (busy || !question) return;
@@ -182,6 +191,9 @@
 		const message = addMessage('assistant');
 		const body = message.appendChild(element('div', 'mgs-chat-answer mgs-chat-thinking', 'Checking the reviews'));
 		scrollDown();
+		const slowAnswer = setTimeout(() => {
+			if (body.classList.contains('mgs-chat-thinking')) body.textContent = 'Waking up the server, this can take a minute';
+		}, SLOW_ANSWER_MS);
 
 		let answer = '';
 		let error = null;
@@ -209,6 +221,7 @@
 		} catch {
 			error = "I couldn't reach the server. Check your connection and try again.";
 		}
+		clearTimeout(slowAnswer);
 
 		if (answer && !error) {
 			history.push({ role: 'assistant', content: answer.trim() });
@@ -231,6 +244,7 @@
 		bubble.setAttribute('aria-expanded', String(open));
 		save(open);
 		if (open) {
+			wakeServer();
 			scrollDown();
 			input.focus();
 		} else {
@@ -264,6 +278,7 @@
 	for (const turn of history) addMessage(turn.role, turn.content);
 	if (!history.length) showWelcome();
 	if (saved.open) {
+		wakeServer();
 		panel.hidden = false;
 		bubble.hidden = true;
 		bubble.setAttribute('aria-expanded', 'true');
