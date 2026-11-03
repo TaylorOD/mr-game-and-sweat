@@ -94,6 +94,7 @@ assert.ok(post.includes('score_overall: 2.67\n'));
 assert.ok(post.includes('genres: ["Action"]\n'));
 assert.ok(post.includes('pause_friendly: "Yes"\n'), 'Yes and No must be quoted or YAML reads booleans');
 assert.ok(post.includes('### Overall Score: 2.67 out of 3\n'));
+assert.ok(post.includes('\n## Gameplay\n') && !post.includes('\n# Gameplay\n'), 'Only the title gets a top level heading');
 
 // Normal runs have no added date, and missing details are left out
 const plain = buildReviewPost({

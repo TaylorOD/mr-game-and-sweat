@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224634
 
 Monster Hunter Wilds is the latest installment in the beloved franchise, taking players into a vast and vibrant world filled with ferocious monsters to hunt. But how does this title stack up when paired with your fitness routine? Let’s dive into the details!
 
-# Gameplay
+## Gameplay
 
 Monster Hunter Wilds delivers an engaging gameplay experience that keeps you on your toes, quite literally. The hunting mechanics are intuitive and satisfying, with a variety of weapons and intricately designed monsters that require different strategies to take down. The open-world design allows for exploratory missions that encourage players to roam while engaging in real-time combat. 
 
@@ -29,7 +29,7 @@ What’s particularly great for fitness enthusiasts is the pacing: unlike some t
 
 ### Category Score: 2.5 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 When it comes to compatibility with treadmills and stationary bikes, Monster Hunter Wilds excels. The game can be played with a standard controller which gives you the freedom to keep your hands engaged while you run. The combat is action-oriented but does not require ultra-fast reflexes; most actions can be executed with a relaxed pace which is great when you’re focusing on maintaining your routine. 
 
@@ -37,7 +37,7 @@ However, the adventurous spirit of resource gathering requires the player to occ
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 In terms of computer requirements, Monster Hunter Wilds is well-optimized for a range of systems, though it still demands a decent level of performance. To fully immerse yourself in the stunning graphics and expansive environments, you'll need a mid-range to high-end setup. A minimum of 8GB of RAM and a decent GPU will do the trick, although you'll want at least 16GB of RAM for ultra settings.
 
@@ -45,7 +45,7 @@ The straightforward requirements mean that you don’t need to break the bank to
 
 ### Category Score: 2.5 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Overall, Monster Hunter Wilds offers an engaging blend of action and exploration that complements your workout routine rather well. The gameplay remains exciting, and while there are moments of slower pacing, they don’t detract significantly from the overall experience. It’s accessible for a variety of computer setups, ensuring that more players can enjoy this delightful adventure without compromising their fitness goals.
 

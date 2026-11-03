@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/863550
 
 Developed by IO Interactive, HITMAN 2 brings players back into the shoes of Agent 47, a legendary assassin with a penchant for stealth and creativity in killing. As a game designed around quiet maneuvering and intricate planning to take out targets, the real question is: can you lace up your sneakers or hop on a bike while pursuing a high-stakes contract? Let's dive into the details.
 
-# Gameplay
+## Gameplay
 
 HITMAN 2 elevates the assassination genre with its engaging, immersive gameplay. The levels are richly designed, providing players with multiple strategies to approach each target. You can infiltrate a fancy gala, sneak into a high-tech facility, or blend in among the crowd—all while scoring points for silent kills and minimizing chaos. The game consists of meticulous planning and adaptability, which can engross you for hours. 
 
@@ -29,7 +29,7 @@ That said, there are moments—especially in the game's detailed story expositio
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 HITMAN 2 shines when it comes to treadmill and bike compatibility. The game supports controller use, allowing for a relaxed gaming experience without the need for rapid movements that might lead to a tumble on the treadmill or a mishap on the bike. Navigation can be done with slower movements, and players can practice sneaking without taking their eye off the fun of their workout. 
 
@@ -37,13 +37,13 @@ The only minor drawback is how the precision required during certain stealth ele
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 HITMAN 2 is moderately demanding when it comes to computer requirements. The game runs best on a system equipped with at least an Intel Core i7 or an equivalent processor and a GTX 660 or equivalent graphics card. You'll also need 16 GB of RAM to ensure smooth gameplay, especially if you're planning to showcase all the graphical details. Those more serious about gaming while exercising might want to ensure they have a solid setup to avoid performance dips that could draw you out of the immersive experience.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 HITMAN 2 successfully delivers an engaging experience without straying too far from the rhythm of your workout routine. The game's mixture of strategy, choice, and stealth aligns with a gaming experience that can accompany you on those long treadmill sessions or intense biking workouts. While there are minor hiccups with cutscenes and computer demands, it offers enough excitement to keep you motivated. 
 

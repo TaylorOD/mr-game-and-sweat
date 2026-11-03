@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12120/
 
 Grand Theft Auto: San Andreas, originally released in 2004, is a classic open-world action-adventure game that has remained beloved by gamers for its rich storytelling, vast world, and engaging gameplay. As a game that can be enjoyed while exercising—whether on a treadmill or a bike—let’s dive into how it performs in this unique context.
 
-# Gameplay
+## Gameplay
 
 One of the standout features of San Andreas is its expansive and engaging gameplay. Players take on the role of CJ, exploring the vast state of San Andreas, which includes three major cities (Los Santos, San Fierro, and Las Venturas) and a variety of terrains. The missions are varied and often require a blend of driving, shooting, and stealth, offering enough excitement to keep you on your toes. 
 
@@ -28,7 +28,7 @@ However, the game does contain some slower-paced moments, particularly during le
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 San Andreas supports a myriad of controls, including keyboard and controller options, making it suitable for various setups as you run or pedal. Most of the gameplay relies on simple direction controls that can be easily managed while exercising. The game does not require rapid-twitch reflexes; instead, it encourages exploration and gradual engagement with the tasks at hand, which complements a steady workout pace quite nicely. 
 
@@ -36,13 +36,13 @@ However, certain high-intensity chase scenes may not align well with maintaining
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 Originally, San Andreas wasn’t demanding on hardware, making it widely accessible during its release. Today’s computers can handle it with ease, requiring minimal specifications even on moderate settings. If you're playing with a more modern setup, you can enjoy enhanced graphics and smoother gameplay without taxing your system. This lower demand on your machine allows you to utilize it efficiently while exercising, as it won’t slow down your routine with performance issues.
 
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Grand Theft Auto: San Andreas provides an engaging and nostalgic gameplay experience that holds up well today, especially for those who appreciate immersive storylines and vast explorative worlds. While it does have its slower sections that may distract from your workout, the game’s overall accessibility and forgiving control scheme allow for a moderately enjoyable experience while exercising. Perfect for fans of action-adventure looking to add some excitement to their treadmill or biking routine, San Andreas stands the test of time.
 

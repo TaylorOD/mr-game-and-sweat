@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600
 
 When it comes to balancing exercise and immersive gaming, **Project Zomboid** stands out as a post-apocalyptic survival RPG that demands not just attention, but a healthy dose of strategy and quick decision-making. Let’s delve into its key aspects, particularly how well it fits into an active gaming lifestyle.
 
-# Gameplay
+## Gameplay
 
 **Project Zomboid** transports players into a bleak, zombie-infested world where survival hinges on a range of skills—from scavenging for food and building shelter to managing your character’s mental and physical state. The gameplay is incredibly engaging, especially if you’re in the mood for a deeply strategic experience. Players often find themselves engrossed in the myriad of survival mechanics: crafting items, finding food, and carefully avoiding the undead. The game excels in pacing; it allows players to toggle between tense zombie encounters and quieter moments spent fortifying your defenses or exploring. 
 
@@ -28,7 +28,7 @@ There are no lengthy cutscenes or drawn-out tutorials; the gameplay is intuitive
 
 ### Category Score: 3 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 **Project Zomboid** runs smoothly with controller compatibility, making it an excellent choice for players on treadmills or stationary bikes. The controls are straightforward, with the game primarily played using the analog stick and buttons, allowing for simple navigation among the clinging zombies. 
 
@@ -36,7 +36,7 @@ One major advantage is that the game’s pace allows you to maintain a steady ex
 
 ### Category Score: 3 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 While **Project Zomboid** showcases impressive depth and mechanics, it does not come with demanding graphical requirements, making it accessible to a wider range of PCs. It can be played on systems with modest specifications, allowing for a smooth experience without significant lag. 
 
@@ -44,7 +44,7 @@ That said, as a game that can have large-scale zombie hordes and expansive map e
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 In summary, **Project Zomboid** excels in its engaging gameplay, making it a perfect companion for those looking to enjoy gaming while exercising. The blend of strategic planning and moment-to-moment survival keeps distractions at bay while offering an excellent workout experience. Its compatibility with treadmills and bikes underlines its appeal, although players must be mindful of their system specifications.
 

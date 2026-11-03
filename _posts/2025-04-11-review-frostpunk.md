@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190
 
 Frostpunk, developed by 11 bit studios, is a unique blend of city-building, survival, and strategy that throws you into a post-apocalyptic world where the freezing climate has left humanity on the brink of extinction. This game challenges players to build a city around a massive generator while managing resources, citizen morale, and public policies. But how does it hold up for gamers who enjoy breaking a sweat on a treadmill or bike? Let’s dive in.
 
-# Gameplay
+## Gameplay
 
 The gameplay in Frostpunk is both engaging and immersive. You’ll find yourself managing a complex web of systems as you juggle resources like coal, wood, food, and steel while navigating the moral dilemmas of leadership. The game's pacing balances moments of intense decision-making with longer stretches of planning and resource management, which can be engaging even while you’re on the treadmill or bike. 
 
@@ -28,19 +28,19 @@ However, be aware that some might find the extensive planning sections can lead 
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Frostpunk shines in its compatibility with exercise equipment! The game is fully playable with a controller, allowing you to lean back and manage your city without needing rapid reflexes or precision timing. Because the core gameplay revolves around thoughtful decision-making rather than twitch gameplay, you won’t find yourself needing to pause your workout for quick reactions or frantic inputs. This makes it a great option for both treadmill and bike sessions, allowing players to keep their heart rate up while maintaining mental engagement.
 
 ### Category Score: 3 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 Frostpunk isn’t overly demanding in terms of hardware. To run the game effectively, you’ll need a mid-range gaming PC—a modest GPU and a decent amount of RAM are sufficient. This means that even if you’re maintaining a strenuous workout on the treadmill, you’re likely to have a setup that can handle the game without significant lag, provided you meet the basic requirements.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Frostpunk offers an engaging and thought-provoking experience that can be enjoyed during a workout, thanks to its controller compatibility and less frantic gameplay. While some slower segments might temporarily distract from your exercise routine, the overall balance of strategy and resource management keeps the immersion high. If you’re looking for a unique blend of physical activity and strategic gaming, Frostpunk is worth your time.
 

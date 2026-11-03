@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790
 
 theHunter: Call of the Wild immerses players in breathtaking landscapes while simulating the art of hunting. As an advocate for integrating exercise with gaming, I explored how well this title complements a workout routine on treadmills and bikes. Here's my breakdown:
 
-# Gameplay
+## Gameplay
 
 The gameplay in theHunter: Call of the Wild is incredibly engaging, offering a vast open-world environment teeming with wildlife. With varied terrains and ecosystems, players can enjoy the thrill of tracking animals, setting up blinds, and taking the perfect shot. The pace of the game generally matches well with an exercising routine, as much of the gameplay involves calmly stalking your prey rather than frantic actions. 
 
@@ -29,7 +29,7 @@ While there are moments of intense excitement during hunts, the game allows ampl
 
 ### Category Score: 3 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 When it comes to compatibility with treadmill and bike workouts, Call of the Wild shines brightly. The game utilizes a basic control scheme that works well with gamepads and keyboards. This means you can sit comfortably on your bike or steady yourself on a treadmill while still maneuvering through the game. 
 
@@ -37,7 +37,7 @@ However, certain situations may require quick reflexes or repositioning in high-
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 As far as computer requirements go, Call of the Wild is demanding but not excessively so. The game requires a decent processor and a suitable graphics card to run smoothly on high settings. Those looking to enjoy the game's stunning visuals should aim for a mid-range PC or better. However, keep in mind that the graphics can make your gaming experience visually rewarding, especially when combined with the expansive landscapes meant to mimic the great outdoors.
 
@@ -45,7 +45,7 @@ For those who may be using older systems, you can still enjoy the game on lower 
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Overall, theHunter: Call of the Wild is a delightful blend of outdoor immersion and engaging gameplay that resonates well with exercise enthusiasts. Its pacing and control scheme allow you to focus on your workout while enjoying a captivating hunting narrative. While there are minor drawbacks, such as some moments requiring quick reflexes and moderate PC specs, these do not significantly detract from the experience.
 
