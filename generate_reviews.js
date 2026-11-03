@@ -190,7 +190,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 
   Gameplay: 3 means constant action with almost no cut scenes or waiting. 2 means engaging with some slow parts. 1 means long cut scenes, a lot of reading or a lot of waiting. 0 means mostly menus, story or sitting still.
 
-  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means full controller support but some sections need focus or timing. 1 means fast reactions, precise aiming, stealth, horror chases, or competitive multiplayer you cant pause. 0 means no controller support, or it needs a keyboard and mouse to play well.
+  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means full controller support but some sections need focus or timing. 1 means no controller support, fast reactions, precise aiming, stealth, horror chases, or competitive multiplayer you cant pause. 0 means you basically cant play it while moving.
 
   Computer Requirements: use the minimum requirements. 3 means it runs on integrated graphics. 2 means an old or basic dedicated graphics card is enough. 1 means a mid range graphics card or better. 0 means a high end gaming PC.
 
@@ -223,7 +223,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 		const response = await axios.post(
 			'https://api.openai.com/v1/chat/completions',
 			{
-				model: 'gpt-4o-mini',
+				model: 'gpt-6-luna',
 				messages: [
 					{
 						role: 'system',
@@ -232,7 +232,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 					},
 					{ role: 'user', content: prompt },
 				],
-				max_tokens: 1250,
+				max_completion_tokens: 16000, // Reasoning counts toward this too
 			},
 			{
 				headers: {
@@ -242,7 +242,12 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 			}
 		);
 
-		const body = stripOverallScore(response.data.choices[0].message.content);
+		const choice = response.data.choices[0];
+		if (choice.finish_reason !== 'stop') {
+			throw new Error('Review did not finish');
+		}
+
+		const body = stripOverallScore(choice.message.content);
 		const scores = extractCategoryScores(body);
 		if (scores.length !== 3) {
 			throw new Error('Review did not have three category scores');
