@@ -8,6 +8,7 @@ const {
   stripOverallScore,
   emptyDays,
   pickUnreviewedGames,
+  topGamesByGenre,
   buildReviewPost,
   fixInlineScores,
 } = require('../lib/review_utils');
@@ -59,15 +60,41 @@ assert.deepStrictEqual(
   ['2025-12-30', '2026-01-01', '2026-01-02']
 );
 
+// Editions with a leading "the" are the same game
+assert.strictEqual(
+  normalizeGameName('Grand Theft Auto IV: The Complete Edition'),
+  normalizeGameName('Grand Theft Auto IV: Complete Edition')
+);
+
+// A game mentioned in another review still gets its own
+assert.deepStrictEqual(
+  pickUnreviewedGames([{ name: 'Portal', appid: 400 }], { appids: new Set([620]), names: new Set(['portal 2']) }, 1).map(
+    (game) => game.name
+  ),
+  ['Portal']
+);
+
+// Top games of every genre, best first, no repeats
+assert.deepStrictEqual(
+  topGamesByGenre(
+    [
+      [{ appid: 1, positive: 5 }, { appid: 2, positive: 9 }, { appid: 3, positive: 1 }],
+      [{ appid: 2, positive: 9 }, { appid: 4, positive: 7 }],
+    ],
+    2
+  ).map((game) => game.appid),
+  [2, 4, 1]
+);
+
 // Picks skip reviewed games and duplicate editions
 const reviewed = {
-  allContent: 'Mr. Game and Sweat Reviews: Hades - By Taylor Dorsett',
+  appids: new Set([1145360]),
   names: new Set(['sea of thieves']),
 };
 assert.deepStrictEqual(
   pickUnreviewedGames(
     [
-      { name: 'Hades' },
+      { name: 'Hades', appid: 1145360 },
       { name: 'Sea of Thieves: 2026 Edition' },
       { name: 'Portal 2' },
       { name: 'Portal 2 Definitive Edition' },

@@ -9,12 +9,29 @@ const {
 	stripOverallScore,
 	emptyDays,
 	pickUnreviewedGames,
+	topGamesByGenre,
 	buildReviewPost,
 } = require('./lib/review_utils');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
+const STEAMSPY_API_URL = 'https://steamspy.com/api.php';
+// We review anything in the top of any Steam genre
+const GENRES = [
+	'Action',
+	'Adventure',
+	'Casual',
+	'Early Access',
+	'Free to Play',
+	'Indie',
+	'Massively Multiplayer',
+	'Racing',
+	'RPG',
+	'Simulation',
+	'Sports',
+	'Strategy',
+];
+const TOP_PER_GENRE = 100;
 const STEAM_STORE_API_URL = 'https://store.steampowered.com/api/appdetails';
 const POSTS_DIR = path.join(__dirname, '_posts');
 
@@ -23,19 +40,39 @@ const BACKFILL_START = '2025-11-04';
 const BACKFILL_END = '2026-11-03';
 const BACKFILL_COUNT = Number(process.env.BACKFILL_COUNT) || 0;
 
+const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function fetchGameList(params) {
+	const response = await axios.get(STEAMSPY_API_URL, { params });
+	return Object.values(response.data);
+}
+
 async function fetchTopGames() {
+	const genreLists = [];
+	for (const genre of GENRES) {
+		try {
+			genreLists.push(await fetchGameList({ request: 'genre', genre }));
+		} catch (error) {
+			// One genre being down shouldnt stop the run
+			logSafeError(`Error fetching the ${genre} list`, error);
+		}
+		await wait(2000);
+	}
+	const topOfGenres = topGamesByGenre(genreLists, TOP_PER_GENRE);
+	console.log(`${topOfGenres.length} games in the top ${TOP_PER_GENRE} of a genre`);
+
+	// Once those are all reviewed we keep going with the most owned games overall
+	let others = [];
 	try {
-		const response = await axios.get(STEAM_API_URL);
-		const games = response.data;
-		// Convert the games object to an array and sort by positive reviews
-		const sortedGames = Object.values(games).sort(
+		others = (await fetchGameList({ request: 'all' })).sort(
 			(a, b) => b.positive - a.positive
 		);
-		return sortedGames;
 	} catch (error) {
-		logSafeError('Error fetching top games', error);
-		throw error;
+		logSafeError('Error fetching the full game list', error);
 	}
+	const games = [...topOfGenres, ...others];
+	if (games.length === 0) throw new Error('Could not get any game lists');
+	return games;
 }
 
 function loadReviewedGames() {
@@ -45,11 +82,14 @@ function loadReviewedGames() {
 			fs.readFileSync(path.join(POSTS_DIR, file), 'utf-8')
 		);
 		const names = new Set();
+		const appids = new Set();
 		for (const content of contents) {
 			const title = content.match(/^title:\s*"?(?:.*Reviews:\s*)?(.*?)"?\s*$/m);
 			if (title) names.add(normalizeGameName(title[1]));
+			const appid = content.match(/^steam_appid:\s*(\d+)/m);
+			if (appid) appids.add(Number(appid[1]));
 		}
-		return { allContent: contents.join('\n'), names };
+		return { names, appids };
 	} catch (error) {
 		logSafeError('Error checking if game has been reviewed', error);
 		throw error;
