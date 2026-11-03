@@ -16,10 +16,10 @@
 	{% assign shown = shown | plus: 1 %}
 	<li>
 		<a class="best-list-image" href="{{ p.url | absolute_url }}">{% if p.image %}<img loading="lazy" class="rounded" src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}">{% endif %}</a>
-		<div>
-			<h2 class="h5 mb-1"><a href="{{ p.url | absolute_url }}">{{ p.title }}</a> <span class="text-muted">{{ p.score_overall }}/3</span></h2>
-			<p class="small text-muted mb-1">Treadmill and bike {{ p.score_treadmill }}/3{% if p.pause_friendly %}. Pause friendly: {{ p.pause_friendly }}{% endif %}</p>
-			<p class="mb-0">{{ p.excerpt | strip_html | truncatewords: 25 }}</p>
+		<div class="best-list-text">
+			<h2 class="h5"><a href="{{ p.url | absolute_url }}">{{ p.title }}</a>{% include score_badge.html score=p.score_overall %}</h2>
+			<p class="best-list-facts"><span class="post-genre">Treadmill and bike {{ p.score_treadmill }}/3</span>{% if p.pause_friendly %}<span class="post-genre">Pause friendly: {{ p.pause_friendly }}</span>{% endif %}</p>
+			<p class="best-list-blurb">{{ p.excerpt | strip_html | truncatewords: 25 }}</p>
 		</div>
 	</li>
 	{% endif %}
