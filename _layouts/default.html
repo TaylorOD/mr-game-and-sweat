@@ -11,6 +11,10 @@
 		<title>{{ page.title }} | {{site.title}}</title>
 
 		{% seo %}
+		{% unless page.image %}
+		<meta property="og:image" content="{{ 'assets/images/logos/mr-game-and-sweat.png' | absolute_url }}" />
+		<meta name="twitter:image" content="{{ 'assets/images/logos/mr-game-and-sweat.png' | absolute_url }}" />
+		{% endunless %}
 
 		<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet" />
 
