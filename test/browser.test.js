@@ -96,6 +96,17 @@ async function run(base) {
     assert.strictEqual(await reviewCount(page), 2);
   });
 
+  await test('header search goes to the results', async (page) => {
+    await page.goto(base);
+    await page.fill('.header-search input', 'hades');
+    await page.press('.header-search input', 'Enter');
+    await page.waitForSelector('#review-grid .card');
+    assert.ok(page.url().includes('/reviews/?q=hades'), page.url());
+    assert.strictEqual(await reviewCount(page), 2);
+    assert.strictEqual(await page.inputValue('#filter-search'), 'hades');
+    assert.strictEqual(await page.locator('.header-search').count(), 0);
+  });
+
   await test('filters narrow the list', async (page) => {
     await page.goto(`${base}/reviews/`);
     await page.waitForSelector('#review-grid .card');
@@ -183,6 +194,11 @@ async function run(base) {
     await page.tap('#filters-toggle');
     await page.selectOption('#filter-genre', 'RPG');
     assert.strictEqual((await page.textContent('#filters-toggle')).trim(), 'Filters (1)');
+  }, phone);
+
+  await test('header search shows on phones without opening the menu', async (page) => {
+    await page.goto(base);
+    assert.ok(await page.isVisible('.header-search input'));
   }, phone);
 
   await test('phone menu opens', async (page) => {
