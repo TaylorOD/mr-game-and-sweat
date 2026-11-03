@@ -53,3 +53,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# Chat bubble. Leave this blank to hide the bubble
+chat_api_url:
