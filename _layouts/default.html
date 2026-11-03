@@ -8,7 +8,8 @@
 		/>
 		<link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}" />
 
-		<title>{{ page.title }} | {{site.title}}</title>
+		{% if page.seo_title %}{% capture search_title %}{{ page.seo_title }}{% endcapture %}{% elsif page.score_overall %}{% assign title_pick = page.date | date: "%j" | plus: page.title.size | modulo: site.data.seo_titles.size %}{% capture search_title %}{{ site.data.seo_titles[title_pick] | replace: "GAME", page.title }}{% endcapture %}{% else %}{% capture search_title %}{{ page.title }} | {{ site.title }}{% endcapture %}{% endif %}
+		<title>{{ search_title | strip }}</title>
 
 		{% seo title=false %}
 		{% unless page.image %}
