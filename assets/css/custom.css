@@ -716,7 +716,7 @@ body {
 }
 .best-list li {
 	display: grid;
-	grid-template-columns: 56px 200px 1fr;
+	grid-template-columns: 68px 200px 1fr;
 	align-items: start;
 	gap: 1rem;
 	padding: 1.25rem 0;
@@ -724,10 +724,10 @@ body {
 	counter-increment: rank;
 }
 .best-list li::before {
-	content: counter(rank);
+	content: '#' counter(rank);
 	color: var(--muted);
 	font-family: var(--font-heading);
-	font-size: 2.75rem;
+	font-size: 2.5rem;
 	font-weight: 700;
 	line-height: 1;
 	text-align: center;
@@ -782,10 +782,10 @@ body {
 }
 @media only screen and (max-width: 767px) {
 	.best-list li {
-		grid-template-columns: 44px 1fr;
+		grid-template-columns: 56px 1fr;
 	}
 	.best-list li::before {
-		font-size: 2.25rem;
+		font-size: 2rem;
 	}
 	.best-list-text {
 		grid-column: 1 / -1;
