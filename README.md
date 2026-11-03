@@ -12,6 +12,7 @@ It's a Jekyll site hosted on GitHub Pages. A scheduled GitHub Action publishes n
 | [docs/design.md](docs/design.md) | Anything people see |
 | [docs/images.md](docs/images.md) | Anything with an image |
 | [docs/testing.md](docs/testing.md) | Tests and CI |
+| [docs/crawlers.md](docs/crawlers.md) | Robots, sitemaps and anything to do with getting indexed |
 
 ## Where things live
 
