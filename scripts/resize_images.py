@@ -12,11 +12,11 @@ from PIL import Image
 
 WIDTHS = {
     'assets/images/guides/*.jpg': [480, 960, 1536],
-    'assets/images/authors/*.png': [128, 256],
+    'assets/images/authors/*.jpg': [128, 256],
     'assets/images/logos/logo-on-dark.png': [100, 220],
 }
 # Originals we keep small since only a tiny copy ever shows
-MAX_SOURCE_WIDTH = {'assets/images/authors/*.png': 512}
+MAX_SOURCE_WIDTH = {'assets/images/authors/*.jpg': 512}
 
 for pattern, widths in WIDTHS.items():
     for path in glob.glob(pattern):
