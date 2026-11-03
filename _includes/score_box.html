@@ -1,16 +1,18 @@
 {% if page.score_overall %}
+{% assign box_score = page.score_overall | plus: 0 %}{% if box_score >= 2.5 %}{% assign box_tier = 'great' %}{% assign box_word = 'Great workout game' %}{% elsif box_score >= 2 %}{% assign box_tier = 'good' %}{% assign box_word = 'Good workout game' %}{% elsif box_score >= 1.5 %}{% assign box_tier = 'okay' %}{% assign box_word = 'Okay workout game' %}{% else %}{% assign box_tier = 'low' %}{% assign box_word = 'Tough workout game' %}{% endif %}
 <aside class="score-box">
 	<div class="score-box-main">
-		<span class="score-number">{{ page.score_overall }}</span>
+		<span class="score-number score-{{ box_tier }}">{{ box_score | round: 1 }}</span>
 		<span class="score-out-of">out of 3</span>
+		<span class="score-word">{{ box_word }}</span>
 	</div>
 	<ul class="score-box-list">
-		<li><span>Gameplay</span><strong>{{ page.score_gameplay }}/3</strong></li>
-		<li><span>Treadmill and bike</span><strong>{{ page.score_treadmill }}/3</strong></li>
-		<li><span>Computer requirements</span><strong>{{ page.score_computer }}/3</strong></li>
+		{% include score_row.html label="Gameplay" score=page.score_gameplay %}
+		{% include score_row.html label="Treadmill and bike" score=page.score_treadmill %}
+		{% include score_row.html label="Computer requirements" score=page.score_computer %}
 	</ul>
 	{% if page.pause_friendly %}
-	<ul class="score-box-list">
+	<ul class="score-box-facts">
 		<li><span>Pause friendly</span><strong>{{ page.pause_friendly }}</strong></li>
 		<li>
 			<span>Session length</span>
@@ -19,7 +21,7 @@
 	</ul>
 	{% endif %}
 	{% if page.steam_appid %}
-	<a class="btn btn-accent btn-sm score-box-steam" target="_blank" rel="noopener" href="https://store.steampowered.com/app/{{ page.steam_appid }}/">See it on Steam</a>
+	<a class="btn btn-accent score-box-steam" target="_blank" rel="noopener" href="https://store.steampowered.com/app/{{ page.steam_appid }}/">See it on Steam</a>
 	{% endif %}
 </aside>
 {% endif %}
