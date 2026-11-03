@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-02-11T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/best-controllers-for-treadmill-and-bike-gaming.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "The best controller for working out is wireless, comfortable and hard to drop. For most people on a PC, that means an Xbox controller."

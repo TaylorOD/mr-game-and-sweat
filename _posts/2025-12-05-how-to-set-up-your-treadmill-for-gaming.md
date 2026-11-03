@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2025-12-05T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/how-to-set-up-your-treadmill-for-gaming.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "You dont need a fancy setup to game on a treadmill. You need a screen at the right height, a wireless controller, and a safe way to stop."

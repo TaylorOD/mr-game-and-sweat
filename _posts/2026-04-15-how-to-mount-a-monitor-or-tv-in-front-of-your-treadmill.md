@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-04-15T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/how-to-mount-a-monitor-or-tv-in-front-of-your-treadmill.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "A wall mounted TV is the best option if you can drill into your wall. If you cant, a heavy rolling stand works well too. Just dont attach a screen to the treadmill itself."
