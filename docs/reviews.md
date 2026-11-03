@@ -8,8 +8,8 @@ Everything is a Markdown file in `_posts/`.
 
 | When | What |
 |---|---|
-| Every 3 days at 00:00 UTC | 3 new reviews dated today |
-| Every day at 12:00 UTC | Backfill: 15 reviews for missed days between 2025-11-04 and 2026-11-03, until none are left |
+| Every 3 days at 00:07 UTC | 3 new reviews dated today |
+| Every day at 12:17 UTC | Backfill: 15 reviews for missed days between 2025-11-04 and 2026-11-03, until none are left |
 | By hand | Run the workflow with `backfill_count` |
 
 Each run:
@@ -20,7 +20,7 @@ Each run:
 4. Builds the post with `buildReviewPost` in `lib/review_utils.js`.
 5. Runs `test/posts.test.js`, and only commits if that passes.
 
-If it fails, it opens an issue. `check-schedule.yml` runs daily at 18:00 UTC and opens an issue if no scheduled run has happened in 4 days.
+If it fails, it opens an issue. `check-schedule.yml` runs daily at 18:23 UTC and opens an issue if no scheduled run has happened in 4 days.
 
 ## Review format
 
