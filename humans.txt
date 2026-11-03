@@ -1,0 +1,19 @@
+---
+layout: null
+sitemap: false
+permalink: /humans.txt
+---
+/* TEAM */
+Founder: {{ site.authors.taylor.display_name }}
+Writer: {{ site.authors.jonas.display_name }}
+Contact: {{ site.email }}
+Steam: {{ site.social.steam }}
+
+/* SITE */
+Name: {{ site.title }}
+What: Reviews of video games you can play on a treadmill or exercise bike
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Language: English
+Built with: Jekyll, Bootstrap, GitHub Pages
+Fonts: Barlow Semi Condensed, Inter
+Game art: Steam

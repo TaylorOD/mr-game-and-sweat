@@ -100,6 +100,12 @@ for (const page of ['index.html', 'reviews/index.html', 'best-of/index.html', 'g
   if (!fs.existsSync(path.join(siteDir, page))) report(page, 'is missing');
 }
 
+// Bots are welcome everywhere and can find the sitemap
+const robots = fs.readFileSync(path.join(siteDir, 'robots.txt'), 'utf8');
+if (/^Disallow:\s*\S/m.test(robots)) report('robots.txt', 'should not block anything');
+if (!robots.includes(`Sitemap: ${SITE_URL}/sitemap.xml`)) report('robots.txt', 'should point to the sitemap');
+if (!fs.existsSync(path.join(siteDir, 'humans.txt'))) report('humans.txt', 'is missing');
+
 // Removed duplicates should send people to the review we kept
 for (const [gone, kept] of [
   ['review-sea-of-thieves-2024-edition', 'review-sea-of-thieves-2025-edition'],
