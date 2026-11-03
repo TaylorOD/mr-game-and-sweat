@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, action, roguelike, multiplayer ]
 comments: false
 disqus: false
-image: assets/images/review-images/risk-of-rain-2.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg
 excerpt: "Risk of Rain 2 offers an incredibly engaging experience with its dynamic and fast-paced gameplay."
 score_gameplay: 3
 score_treadmill: 2

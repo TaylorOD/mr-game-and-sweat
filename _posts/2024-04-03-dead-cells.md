@@ -5,7 +5,7 @@ author: jonas
 categories: [ review, roguelike, metroidvania ]
 comments: false
 disqus: false
-image: assets/images/review-images/dead-cells.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg
 excerpt: "Dead Cells offers a highly engaging gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
 score_gameplay: 3
 score_treadmill: 3
