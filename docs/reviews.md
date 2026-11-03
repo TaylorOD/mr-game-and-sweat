@@ -14,7 +14,7 @@ Everything is a Markdown file in `_posts/`.
 
 Each run:
 
-1. Picks popular Steam games we havent reviewed. `normalizeGameName` treats editions like Legacy or Special as the same game.
+1. Picks games we havent reviewed, starting with anything in the top 100 of any Steam genre by positive reviews. Once those are done it moves on to the most owned games overall. It skips a game if we have its Steam app or its name, and `normalizeGameName` treats editions like Legacy or Special as the same game.
 2. Gets facts from the Steam store API.
 3. Asks OpenAI for the review and workout details. It needs the `OPENAI_API_KEY` secret.
 4. Builds the post with `buildReviewPost` in `lib/review_utils.js`.
