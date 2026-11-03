@@ -1,10 +1,15 @@
 name: Publish Extra Posts
 
 on:
+  schedule:
+    - cron: '41 15 1,15 * *' # One of each, twice a month
   workflow_dispatch:
     inputs:
       desk_count:
         description: 'How many Great Games, Bad Workouts reviews to write'
+        default: '1'
+      guide_count:
+        description: 'How many guides to write'
         default: '1'
 
 jobs:
@@ -31,6 +36,12 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DESK_COUNT: ${{ inputs.desk_count || '1' }}
+          GUIDE_COUNT: ${{ inputs.guide_count || '1' }}
+
+      - name: Make sizes for new guide art
+        run: |
+          pip install --quiet pillow
+          python scripts/resize_images.py
 
       - name: Check the new posts
         run: node test/posts.test.js
@@ -47,6 +58,18 @@ jobs:
           git commit -m "Add extra posts"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Tell search engines about new posts
+        continue-on-error: true
+        run: |
+          if [ "$(git log -1 --format=%s)" != "Add extra posts" ]; then
+            echo "Nothing new to send"
+            exit 0
+          fi
+          URLS=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- _posts | sed -E 's#^_posts/[0-9]{4}-[0-9]{2}-[0-9]{2}-(.*)\.md$#https://mrgameandsweat.com/\1/#' | jq -R . | jq -s .)
+          echo "$URLS"
+          jq -n --argjson urls "$URLS" '{host: "mrgameandsweat.com", key: "21c8004707a78a9a3024cfb310828a10", keyLocation: "https://mrgameandsweat.com/21c8004707a78a9a3024cfb310828a10.txt", urlList: $urls}' \
+            | curl -sS --max-time 30 -o /dev/null -w 'IndexNow said %{http_code}\n' -H 'Content-Type: application/json; charset=utf-8' -d @- https://api.indexnow.org/indexnow
 
       - name: Open an issue if this failed
         if: failure()

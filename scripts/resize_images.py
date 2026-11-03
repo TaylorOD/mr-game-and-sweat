@@ -29,6 +29,10 @@ for pattern, widths in WIDTHS.items():
             image.save(path, optimize=True)
         base = path.rsplit('.', 1)[0]
         for width in widths:
+            output = f'{base}-{width}.webp'
+            # Delete a size to remake it
+            if os.path.exists(output):
+                continue
             height = round(image.height * width / image.width)
-            image.resize((width, height), Image.LANCZOS).save(f'{base}-{width}.webp', quality=80, method=6)
-            print(f'{base}-{width}.webp')
+            image.resize((width, height), Image.LANCZOS).save(output, quality=80, method=6)
+            print(output)
