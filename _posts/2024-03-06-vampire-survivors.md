@@ -5,7 +5,7 @@ author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
 disqus: false
-image: assets/images/review-images/vampire-survivors.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg
 excerpt: "Vampire Survivors provides a highly engaging gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
 score_gameplay: 3
 score_treadmill: 3

@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, card-game, roguelike, indie ]
 comments: false
 disqus: false
-image: assets/images/review-images/slay-the-spire.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg
 excerpt: "Slay the Spire offers a uniquely addictive gameplay experience. The blend of deck-building and roguelike mechanics creates a fresh and engaging challenge every time you play."
 score_gameplay: 3
 score_treadmill: 3

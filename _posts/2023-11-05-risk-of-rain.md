@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
-image: assets/images/review-images/risk-of-rain.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg
 excerpt: "Risk of Rain delivers a captivating experience with its unique blend of action and roguelike elements."
 score_gameplay: 3
 score_treadmill: 2

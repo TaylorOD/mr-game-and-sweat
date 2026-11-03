@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
-image: assets/images/review-images/the-binding-of-isaac-rebirth.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg
 excerpt: "The Binding of Isaac: Rebirth is an enthralling game that keeps players on their toes with its fast-paced action and unpredictable roguelike elements."
 score_gameplay: 3
 score_treadmill: 2

@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
-image: assets/images/review-images/cobalt-core.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/header.jpg
 excerpt: "Cobalt Core offers an adrenaline-pumping experience with its blend of fast-paced action and strategic elements."
 score_gameplay: 3
 score_treadmill: 3
