@@ -153,3 +153,40 @@ Just customize your theme here.
 		margin: 1.5rem auto 0;
 	}
 }
+
+/* Menu fit */
+.navbar-brand,
+.navbar-brand img {
+	flex-shrink: 0;
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.navbar .text-muted.small {
+		display: none;
+	}
+}
+
+/* Best of pages */
+.best-list {
+	counter-reset: rank;
+	list-style: none;
+}
+.best-list li {
+	counter-increment: rank;
+}
+.best-list h2::before {
+	content: counter(rank) ". ";
+}
+.best-list a.best-list-image {
+	align-self: flex-start;
+	border: 0;
+	box-shadow: none;
+	background: none;
+	text-decoration: none;
+}
+
+/* Score box on phones */
+@media only screen and (max-width: 767px) {
+	.score-box-main {
+		flex: 1 1 100%;
+	}
+}
