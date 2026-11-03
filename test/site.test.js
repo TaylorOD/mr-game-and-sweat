@@ -148,6 +148,14 @@ for (const review of reviews) {
   if (!allGames.includes(`href="${review.url}"`)) report('all-games', `is missing ${review.title}`);
 }
 
+// Comparison pages should find both of their games
+for (const file of fs.readdirSync(path.join(__dirname, '..', 'pages', 'comparisons'))) {
+  const page = `${file.slice(0, -3)}/index.html`;
+  const html = fs.readFileSync(path.join(siteDir, page), 'utf8');
+  if (count(html, /<th scope="col">/g) !== 2 || !/<img/.test(html.split('</thead>')[0])) report(page, 'is missing a game');
+  if (count(html, /\/3<\/td>/g) !== 6) report(page, 'is missing scores');
+}
+
 // Best of lists shouldnt ever be empty
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');

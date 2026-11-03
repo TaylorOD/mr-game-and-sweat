@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+{% assign left_game = site.posts | where: "slug", page.left | first %}
+{% assign right_game = site.posts | where: "slug", page.right | first %}
+
+<div class="col-lg-8 mx-auto">
+	<div class="mainheading">
+		<h1 class="posttitle">{{ page.title }}</h1>
+	</div>
+
+	<table class="compare-table">
+		<thead>
+			<tr>
+				<td></td>
+				<th scope="col">
+					<a href="{{ left_game.url | absolute_url }}">
+						{% include image.html src=left_game.image alt=left_game.title sizes="(min-width: 768px) 240px, 35vw" eager=true %}
+						<span>{{ left_game.title }}</span>
+					</a>
+				</th>
+				<th scope="col">
+					<a href="{{ right_game.url | absolute_url }}">
+						{% include image.html src=right_game.image alt=right_game.title sizes="(min-width: 768px) 240px, 35vw" eager=true %}
+						<span>{{ right_game.title }}</span>
+					</a>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row">Overall</th>
+				<td>{% include score_badge.html score=left_game.score_overall %}</td>
+				<td>{% include score_badge.html score=right_game.score_overall %}</td>
+			</tr>
+			<tr>
+				<th scope="row">Treadmill and bike</th>
+				<td>{{ left_game.score_treadmill }}/3</td>
+				<td>{{ right_game.score_treadmill }}/3</td>
+			</tr>
+			<tr>
+				<th scope="row">Gameplay</th>
+				<td>{{ left_game.score_gameplay }}/3</td>
+				<td>{{ right_game.score_gameplay }}/3</td>
+			</tr>
+			<tr>
+				<th scope="row">Computer requirements</th>
+				<td>{{ left_game.score_computer }}/3</td>
+				<td>{{ right_game.score_computer }}/3</td>
+			</tr>
+			<tr>
+				<th scope="row">Pause friendly</th>
+				<td>{{ left_game.pause_friendly }}</td>
+				<td>{{ right_game.pause_friendly }}</td>
+			</tr>
+			<tr>
+				<th scope="row">Session length</th>
+				<td>{% case left_game.session_length %}{% when 'Short' %}Under 30 min{% when 'Medium' %}30 to 60 min{% when 'Long' %}Over 60 min{% endcase %}</td>
+				<td>{% case right_game.session_length %}{% when 'Short' %}Under 30 min{% when 'Medium' %}30 to 60 min{% when 'Long' %}Over 60 min{% endcase %}</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<div class="article-post">{{ content }}</div>
+
+	<p class="compare-more"><a href="{{ site.baseurl }}/comparisons/">See more game comparisons</a></p>
+</div>
