@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-04T00:10:33.199Z
 categories: [ review, game ]
-image: null
 excerpt: "“Celeste” is a pixelated platformer that combines precise gameplay mechanics with an emotionally charged narrative."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 504230
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg
 ---
 
 “Celeste” is a pixelated platformer that combines precise gameplay mechanics with an emotionally charged narrative. As players guide protagonist Madeline up the titular mountain, they are not just navigating a series of challenging levels but also experiencing her journey of self-discovery. For gamers looking to break a sweat, whether on a treadmill or bike, let's delve into how Celeste enhances (or distracts from) your exercise routine.

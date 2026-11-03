@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-06T00:10:31.742Z
 categories: [ review, game ]
-image: null
 excerpt: "Content Warning is a unique indie title that challenges players to navigate an interactive narrative filled with various content warnings."
+score_gameplay: 2.5
+score_treadmill: 2.7
+score_computer: 2.5
+score_overall: 2.57
+steam_appid: 2881650
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg
 ---
 
 Content Warning is a unique indie title that challenges players to navigate an interactive narrative filled with various content warnings. The game dives deep into themes of mental health, personal trauma, and social issues while offering a distinctive gameplay experience. As a fan of both exercising and video games, I was curious to see how this game would integrate with treadmill and biking sessions.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-17T00:11:40.528Z
 categories: [ review, game ]
-image: null
 excerpt: "Enshrouded is an intriguing title that combines the elements of an open-world survival adventure with captivating visuals and engaging gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1203620
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg
 ---
 
 **Game Review: Enshrouded**

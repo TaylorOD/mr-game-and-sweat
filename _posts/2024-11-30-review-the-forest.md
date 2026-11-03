@@ -7,6 +7,15 @@ disqus: false
 date:   2024-12-02T04:29:25.141Z
 categories: [ review, game ]
 excerpt: "In The Forest, players find themselves stranded on a mysterious island after a plane crash."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 242760
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg
 ---
 
 **The Forest** is a visually stunning survival horror game that immerses players in a dense, foreboding wilderness. Designed for those who relish both the thrill of virtual adventures and the commitment to an active lifestyle, this game fosters a unique blend of survival instinct and immersion. But is it compatible with your treadmill or bike exercise routine? Let’s dive in.

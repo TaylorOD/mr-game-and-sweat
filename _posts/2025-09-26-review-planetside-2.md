@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-26T00:10:59.935Z
 categories: [ review, game ]
-image: null
 excerpt: "In the expansive realm of online shooters, PlanetSide 2 stands out not only for its massive scale and engaging warfare but also for its unique ability to keep you immersed while you break a sweat."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 218230
+genres: ["Action", "Massively Multiplayer", "Free To Play"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/86a0f9e8396733762ba9aff37169498e603c38b5/header.jpg
 ---
 
 In the expansive realm of online shooters, PlanetSide 2 stands out not only for its massive scale and engaging warfare but also for its unique ability to keep you immersed while you break a sweat. Whether you’re conquering enemy bases or biking on a treadmill, this game offers an experience like no other.

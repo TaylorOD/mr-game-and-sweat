@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-20T00:12:27.116Z
 categories: [ review, game ]
-image: null
 excerpt: "GUILTY GEAR -STRIVE- is the latest installment in the famed fighting game franchise, delivering visually stunning graphics, an engaging story, and an intense fighting experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 1384160
+controller: full
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg
 ---
 
 GUILTY GEAR -STRIVE- is the latest installment in the famed fighting game franchise, delivering visually stunning graphics, an engaging story, and an intense fighting experience. This review will explore the game’s compatibility with exercising, especially on a treadmill or bike, to help players find the right balance between gaming and fitness.

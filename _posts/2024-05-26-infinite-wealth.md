@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/like-a-dragon-infinite-wealth.jpg
 excerpt: "Like a Dragon Infinite Wealth delivers a highly engaging gameplay experience."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.35
+steam_appid: 2072450
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
 ---
 
 # Gameplay

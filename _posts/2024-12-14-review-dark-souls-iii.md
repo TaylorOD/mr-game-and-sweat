@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-14T00:11:08.799Z
 categories: [ review, game ]
-image: null
 excerpt: "Fromsoft’s critically acclaimed title, DARK SOULS III, is a perfect blend of challenging gameplay and breathtaking aesthetics that captures the essence of its dark fantasy world."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 374320
+controller: full
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg
 ---
 
 Fromsoft’s critically acclaimed title, DARK SOULS III, is a perfect blend of challenging gameplay and breathtaking aesthetics that captures the essence of its dark fantasy world. But how does it fare for gamers looking to integrate physical exercise into their session? Let's delve into the details.

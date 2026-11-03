@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-11-02T00:12:02.501Z
 categories: [ review, game ]
-image: null
 excerpt: "Gang Beasts is a delightfully chaotic multiplayer brawler that captures the silliness of jelly-like characters engaging in slapstick combat across a variety of eccentric arenas."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 285900
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie", "Simulation"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg
 ---
 
 # Gameplay

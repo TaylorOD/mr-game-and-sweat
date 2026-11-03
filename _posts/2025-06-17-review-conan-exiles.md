@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-17T00:12:20.724Z
 categories: [ review, game ]
-image: null
 excerpt: "Conan Exiles invites players to survive, craft, and conquer in a harsh open-world inspired by the iconic sword and sorcery of the Conan universe."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 440900
+controller: full
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/bae6def963ca0dbf5ee4b7768f3fcc0e99458380/header_alt_assets_9.jpg
 ---
 
 Conan Exiles invites players to survive, craft, and conquer in a harsh open-world inspired by the iconic sword and sorcery of the Conan universe. As a game that encourages both multiplayer collaboration and intense solo adventure, it stands out in the survival genre. But how does it stack up for those looking to exercise while immersing themselves in the game? Let’s break it down.

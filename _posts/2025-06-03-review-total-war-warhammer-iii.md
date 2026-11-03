@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-03T00:14:39.985Z
 categories: [ review, game ]
-image: null
 excerpt: "Total War: WARHAMMER III (TW:W3) invites players into a sprawling fantasy realm brimming with lush environments, strategic depth, and infamous factions from the Warhammer universe."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1142710
+genres: ["Action", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg
 ---
 
 Total War: WARHAMMER III (TW:W3) invites players into a sprawling fantasy realm brimming with lush environments, strategic depth, and infamous factions from the Warhammer universe. But how does this epic title fare for players who want to keep their heart rates up while using a treadmill or bike? Let’s find out.

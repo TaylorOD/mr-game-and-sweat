@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-19T00:10:05.336Z
 categories: [ review, game ]
-image: null
 excerpt: "Age of Empires II: Definitive Edition is a classic real-time strategy game that has been lovingly remastered for modern audiences."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 813780
+genres: ["Strategy"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg
 ---
 
 Age of Empires II: Definitive Edition is a classic real-time strategy game that has been lovingly remastered for modern audiences. With its intricate mechanics, historical settings, and engaging gameplay, it is a labor of love and nostalgia. But how does it stack up for users looking to get their exercise in while engaging in epic battles and expanding their empires? Let's break it down.

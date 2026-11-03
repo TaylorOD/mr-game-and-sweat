@@ -6,10 +6,19 @@ comments: false
 disqus: false
 date:   2025-11-05T00:12:00.000Z
 categories: [ review, game ]
-image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "PowerWash Simulator is a uniquely soothing game that can make for an enjoyable backdrop as you exercise."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.67
+steam_appid: 1290000
+controller: full
+genres: ["Casual", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg
 ---
 
 PowerWash Simulator is a uniquely soothing game that can make for an enjoyable backdrop as you exercise. The casual nature of power washing, combined with its satisfying mechanics, allows you to zone out and immerse yourself in the cleaning process without demanding intense focus, making it a decent option for working out on a treadmill or bike.

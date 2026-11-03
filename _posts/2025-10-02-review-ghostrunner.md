@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-02T00:13:00.074Z
 categories: [ review, game ]
-image: null
 excerpt: "Set in a neon-soaked, cyberpunk dystopia, Ghostrunner delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1139900
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg
 ---
 
 Set in a neon-soaked, cyberpunk dystopia, "Ghostrunner" delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging. As you slice your way through a megastructure at breakneck speed, the game demands not just skill but also engages you mentally, making it an excellent pick for users who wish to stay invigorated while exercising.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-02T00:14:28.020Z
 categories: [ review, game ]
-image: null
 excerpt: "Subnautica: Below Zero is an exhilarating survival adventure set in the icy depths of an alien ocean, following the story of Robin Ayou as she unravels the mystery surrounding her sister’s fate."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 848450
+controller: full
+genres: ["Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg
 ---
 
 Subnautica: Below Zero is an exhilarating survival adventure set in the icy depths of an alien ocean, following the story of Robin Ayou as she unravels the mystery surrounding her sister’s fate. The game employs the same captivating underwater exploration that made its predecessor popular, but with new challenges, environments, and features. As an avid gamer who enjoys exercising on a treadmill and bike, I was eager to explore how well this game could fit into a physically active gaming routine.

@@ -7,6 +7,16 @@ disqus: false
 date:  2024-09-21T04:51:06.410Z
 categories: [ review, game ]
 excerpt: "Stardew Valley is a charming indie farming simulation game that has captured the hearts of gamers with its delightful pixel art, soothing soundtrack, and immersive gameplay."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 413150
+controller: full
+genres: ["Indie", "RPG", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg
 ---
 
 Stardew Valley is a charming indie farming simulation game that has captured the hearts of gamers with its delightful pixel art, soothing soundtrack, and immersive gameplay. This review will assess its compatibility with exercises like running on a treadmill or biking while keeping you engaged throughout your workout.

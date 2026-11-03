@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-13T00:10:50.143Z
 categories: [ review, game ]
-image: null
 excerpt: "Mount & Blade II: Bannerlord is an expansive sandbox RPG that combines elements of strategy, combat, and diplomacy, all set in a richly detailed medieval world."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 261550
+genres: ["Action", "Indie", "RPG", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg
 ---
 
 Mount & Blade II: Bannerlord is an expansive sandbox RPG that combines elements of strategy, combat, and diplomacy, all set in a richly detailed medieval world. As an exercise enthusiast who often finds myself on a treadmill or bike while gaming, I was eager to see how Bannerlord would hold up in this unique setting.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-23T00:12:18.343Z
 categories: [ review, game ]
-image: null
 excerpt: "Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 2215430
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg
 ---
 
 Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion. As samurai Jin Sakai, players embark on a visually stunning journey filled with combat, exploration, and a rich narrative. It’s a game that can engage the body and mind—if managed correctly while exercising!

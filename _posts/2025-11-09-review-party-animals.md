@@ -6,10 +6,19 @@ comments: false
 disqus: false
 date:   2025-11-09T00:12:00.000Z
 categories: [ review, game ]
-image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "Party Animals provides a lighthearted and chaotic experience that can serve as a fun distraction while you’re exercising."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1260320
+controller: full
+genres: ["Action", "Casual", "Indie"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/14b53fc1e5d888e5690221350d83eb133b7af683/header_alt_assets_10.jpg
 ---
 
 Party Animals provides a lighthearted and chaotic experience that can serve as a fun distraction while you’re exercising. The game's emphasis on playful combat with adorable animals makes it an entertaining way to divert your attention from the workout itself—just don’t expect to break a sweat from the gameplay alone.

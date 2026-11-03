@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-01T00:12:24.695Z
 categories: [ review, game ]
-image: null
 excerpt: "Splitgate: Arena Warfare is an exhilarating fusion of classic arena shooters and portal mechanics that catapults you into fast-paced combat."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 677620
+controller: full
+genres: ["Action", "Free To Play", "Indie"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677620/header.jpg
 ---
 
 Splitgate: Arena Warfare is an exhilarating fusion of classic arena shooters and portal mechanics that catapults you into fast-paced combat. As you dash through interdimensional battlefields, the thrill of the game can keep your heart racing. But how does it hold up for those looking to stay fit while gaming? Let’s break it down.

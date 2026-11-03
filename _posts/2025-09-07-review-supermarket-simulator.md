@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-07T00:11:45.784Z
 categories: [ review, game ]
-image: null
 excerpt: "Supermarket Simulator invites players into the chaotic and bustling world of grocery store management."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.5
+steam_appid: 2670630
+controller: full
+genres: ["Casual", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/267eef055b0e5d45cb1c874f816a31dded4bb88e/header.jpg
 ---
 
 Supermarket Simulator invites players into the chaotic and bustling world of grocery store management. As you embark on your mission to stock shelves and manage customers, it surprisingly offers a unique blend of fun and fitness opportunity.

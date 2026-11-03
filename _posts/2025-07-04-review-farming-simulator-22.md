@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-04T00:11:50.761Z
 categories: [ review, game ]
-image: null
 excerpt: "Farming Simulator 22 is a simulation game that invites players to cultivate their dream farms, but how does it stack up for those looking to keep moving on a treadmill or bike?"
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1248130
+controller: full
+genres: ["Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/7ff56320788fa4b1f46ac9a62ff955d3ef3f109c/header.jpg
 ---
 
 Farming Simulator 22 is a simulation game that invites players to cultivate their dream farms, but how does it stack up for those looking to keep moving on a treadmill or bike? Let’s dig into the various aspects of the game.

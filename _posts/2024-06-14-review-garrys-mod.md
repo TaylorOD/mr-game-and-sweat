@@ -7,6 +7,15 @@ disqus: false
 date:   2024-06-14T04:31:19.248Z
 categories: [ review, game ]
 excerpt: "Garry's Mod, a sandbox game born from the Source engine, is a title that thrives on creativity and player interaction."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 4000
+genres: ["Casual", "Indie", "Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg
 ---
 
 Garry's Mod, a sandbox game born from the Source engine, is a title that thrives on creativity and player interaction. With its myriad of user-generated content and customizable gameplay options, it has maintained its popularity for years. But how does it hold up for those of us looking to get a good workout on a treadmill or bike? Let’s dive into the details.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-20T00:11:50.317Z
 categories: [ review, game ]
-image: null
 excerpt: "In the realm of action-adventure gaming, Shadow of the Tomb Raider: Definitive Edition stands as an impressive culmination of Lara Croft’s latest adventures."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 750920
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg
 ---
 
 In the realm of action-adventure gaming, "Shadow of the Tomb Raider: Definitive Edition" stands as an impressive culmination of Lara Croft’s latest adventures. However, if you're a gamer who likes to combine intense gaming sessions with exercising on a treadmill or bike, this title offers both exciting engagements and some challenges.

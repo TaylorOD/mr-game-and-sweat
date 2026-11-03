@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-11T00:11:52.964Z
 categories: [ review, game ]
-image: null
 excerpt: "MiSide is an intriguing blend of RPG elements and adventure that promises not only a captivating experience but also seeks to provide an enjoyable distraction while exercising."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 2527500
+genres: ["Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg
 ---
 
 MiSide is an intriguing blend of RPG elements and adventure that promises not only a captivating experience but also seeks to provide an enjoyable distraction while exercising. In a world where fitness and gaming can coexist, let's dive into how MiSide holds up.

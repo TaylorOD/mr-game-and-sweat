@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-27T00:10:10.075Z
 categories: [ review, game ]
-image: null
 excerpt: "The Elder Scrolls V: Skyrim offers a vast open world filled with exploration, combat, and quests that can easily immerse players for hours on end."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.67
+steam_appid: 72850
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72850/header.jpg
 ---
 
 # Gameplay

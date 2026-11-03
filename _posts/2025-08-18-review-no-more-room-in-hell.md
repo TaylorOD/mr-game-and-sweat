@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-18T00:12:00.648Z
 categories: [ review, game ]
-image: null
 excerpt: "In an age where cooperative gameplay meets good old-fashioned zombie horror, No More Room in Hell stands out as a unique survival experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 224260
+genres: ["Action", "Indie", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224260/header.jpg
 ---
 
 In an age where cooperative gameplay meets good old-fashioned zombie horror, "No More Room in Hell" stands out as a unique survival experience. As you navigate an infested urban landscape with friends (or strangers), the game provides a thrilling blend of suspense and strategy that can keep anyone on their toes—hopefully while you're running on that treadmill or pedaling away on your bike! 

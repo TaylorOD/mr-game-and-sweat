@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-30T00:11:30.324Z
 categories: [ review, game ]
-image: null
 excerpt: "Saints Row: The Third is a flamboyant open-world action-adventure game that takes the chaotic and over-the-top feel of the franchise to new heights."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 55230
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/55230/header.jpg
 ---
 
 Saints Row: The Third is a flamboyant open-world action-adventure game that takes the chaotic and over-the-top feel of the franchise to new heights. With its blend of humor, crime-themed shenanigans, and outrageous missions, it allows players to unleash their inner gangster while exploring the fictional city of Steelport. So, how does this game fare for those who want to combine their gaming habits with workouts on a treadmill or bike? Let's break it down.

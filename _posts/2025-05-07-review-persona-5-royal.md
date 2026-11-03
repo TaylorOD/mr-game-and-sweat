@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-07T00:11:27.399Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in *Persona 5 Royal* is engaging, boasting a mixture of social simulation and dungeon crawling."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 1687950
+controller: full
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg
 ---
 
 **Persona 5 Royal**, an enhanced version of the critically acclaimed JRPG, seamlessly amalgamates thrilling turn-based combat, an engrossing narrative, and a stylish aesthetic that has captivated audiences worldwide. Perfect for workout sessions, let's dissect how it holds up when combined with a treadmill or bike.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-18T00:11:49.553Z
 categories: [ review, game ]
-image: null
 excerpt: "This War of Mine provides a unique and poignant experience as it places you in the shoes of civilians trying to survive in a war-torn city."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.67
+steam_appid: 282070
+genres: ["Adventure", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/26fb8c9bb7b9e3a17469d8026ee3fa510ee7f8f5/header.jpg
 ---
 
 This War of Mine provides a unique and poignant experience as it places you in the shoes of civilians trying to survive in a war-torn city. The focus is on the daily struggles of survival, making for a game that is both thought-provoking and immersive.

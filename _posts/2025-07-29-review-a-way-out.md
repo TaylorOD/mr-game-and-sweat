@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-29T00:13:35.451Z
 categories: [ review, game ]
-image: null
 excerpt: "A Way Out is an innovative co-op adventure that plunges players into the lives of two inmates, Leo and Vincent, as they forge a daring escape from prison."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 1222700
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg
 ---
 
 A Way Out is an innovative co-op adventure that plunges players into the lives of two inmates, Leo and Vincent, as they forge a daring escape from prison. This unique split-screen co-op experience can be played locally or online, making it an excellent choice for friends looking to team up. Let's delve into its gameplay, compatibility with exercise equipment, computer requirements, and ultimately, how it holds up for those looking to mix fitness with fun.

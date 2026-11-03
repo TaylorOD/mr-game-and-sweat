@@ -7,6 +7,15 @@ disqus: false
 date:   2024-06-21T04:42:56.193Z
 categories: [ review, game ]
 excerpt: "Founded in the realm of battle royale gaming, PUBG: BATTLEGROUNDS delivers thrilling combat while allowing gamers the flexibility of integrating fitness into their gameplay routines."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 578080
+genres: ["Action", "Adventure", "Massively Multiplayer", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg
 ---
 
 Founded in the realm of battle royale gaming, **PUBG: BATTLEGROUNDS** delivers thrilling combat while allowing gamers the flexibility of integrating fitness into their gameplay routines. Let’s dive in and see how it stacks up for treadmill runners and bike enthusiasts.

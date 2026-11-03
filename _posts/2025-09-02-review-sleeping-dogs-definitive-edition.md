@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-02T00:13:39.289Z
 categories: [ review, game ]
-image: null
 excerpt: "Sleeping Dogs: Definitive Edition is an expansive open-world action-adventure game that not only lets players engage in jaw-dropping martial arts combat, but also richly immerses them in a vibrant depiction of Hong Kong."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 202170
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202170/header.jpg
 ---
 
 Sleeping Dogs: Definitive Edition is an expansive open-world action-adventure game that not only lets players engage in jaw-dropping martial arts combat, but also richly immerses them in a vibrant depiction of Hong Kong. As engaging as it is, the question remains: how does it fare for those looking to stay active while gaming? Let’s break it down.

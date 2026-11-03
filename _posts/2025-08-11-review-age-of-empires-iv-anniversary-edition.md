@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-11T00:13:50.366Z
 categories: [ review, game ]
-image: null
 excerpt: "Age of Empires IV: Anniversary Edition brings back the iconic real-time strategy (RTS) formula that captivated players for decades, now polished to a shine with updated graphics and gameplay improvements."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 1466860
+controller: full
+genres: ["Strategy"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg
 ---
 
 Age of Empires IV: Anniversary Edition brings back the iconic real-time strategy (RTS) formula that captivated players for decades, now polished to a shine with updated graphics and gameplay improvements. But how well does it hold up, especially for avid gamers who want to stay active on a treadmill or bike? Let's dive into the details.

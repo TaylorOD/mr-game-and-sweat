@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-06T00:10:21.947Z
 categories: [ review, game ]
-image: null
 excerpt: "American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 270880
+genres: ["Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg
 ---
 
 American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States. Like many life-sim games, it presents a serene and calming driving experience perfect for fitness enthusiasts who enjoy combining their workout routines with their gaming hobbies.

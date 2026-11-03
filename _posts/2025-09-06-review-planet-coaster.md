@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-06T00:10:47.289Z
 categories: [ review, game ]
-image: null
 excerpt: "If you’ve ever dreamed of building the theme park of your fantasies while also squeezing in some physical activity, then Planet Coaster could be the perfect game to fulfill both your gaming and fitness needs."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.66
+steam_appid: 493340
+genres: ["Action", "Adventure", "Casual", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg
 ---
 
 If you’ve ever dreamed of building the theme park of your fantasies while also squeezing in some physical activity, then "Planet Coaster" could be the perfect game to fulfill both your gaming and fitness needs. With its captivating gameplay and engaging design, this simulation title expertly combines creativity with management, making it an excellent choice for exercising on a treadmill or bike.

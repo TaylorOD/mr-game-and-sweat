@@ -7,6 +7,16 @@ disqus: false
 date:   2024-09-07T04:43:17.086Z
 categories: [ review, game ]
 excerpt: "Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 359550
+controller: full
+genres: ["Action", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1c7b1ea3405a69c54429e2aa3dc31f3cbbeaa456/header_alt_assets_28.jpg
 ---
 
 Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem. With its blend of intense gameplay and operator-based mechanics, it presents an exciting challenge not just for your gaming skills, but also for those looking to stay active on a treadmill or bike.

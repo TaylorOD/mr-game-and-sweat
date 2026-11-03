@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-02T00:10:34.021Z
 categories: [ review, game ]
-image: null
 excerpt: "If you're looking for a captivating underwater adventure that keeps you engaged while getting your sweat on, Subnautica might be the perfect match for your treadmill or bike sessions."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 264710
+controller: full
+genres: ["Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg
 ---
 
 If you're looking for a captivating underwater adventure that keeps you engaged while getting your sweat on, Subnautica might be the perfect match for your treadmill or bike sessions. Let’s dive into the details!

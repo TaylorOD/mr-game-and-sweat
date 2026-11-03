@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-13T00:35:12.774Z
 categories: [ review, game ]
-image: null
 excerpt: "Hell Let Loose delivers an immersive World War II experience that will have players sweating, both from intense combat and the adrenaline of a well-timed charge."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2
+score_overall: 1.83
+steam_appid: 686810
+genres: ["Action", "Indie", "Massively Multiplayer", "Simulation", "Strategy"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/7655099ca004b09198b83713ad0d8215b98f7d5f/header_alt_assets_6.jpg
 ---
 
 Hell Let Loose delivers an immersive World War II experience that will have players sweating, both from intense combat and the adrenaline of a well-timed charge. Designed primarily for tactical gameplay, this title invites you to engage in large-scale battles with immense maps and authentic military elements. But is it suitable for those seeking a workout while gaming? Let's break it down!

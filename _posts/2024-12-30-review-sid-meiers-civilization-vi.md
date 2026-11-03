@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-30T00:10:10.883Z
 categories: [ review, game ]
-image: null
 excerpt: "Sid Meier's Civilization VI offers an engaging and immersive experience that can easily wrap you into its world of building empires and strategizing for dominance."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 289070
+genres: ["Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg
 ---
 
 # Gameplay

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-27T00:11:17.025Z
 categories: [ review, game ]
-image: null
 excerpt: "Golf With Your Friends takes a classic sport and gives it a whimsical, multiplayer twist, creating an engaging experience for players seeking fun interactions while exercising."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 431240
+genres: ["Casual", "Indie", "Sports"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg
 ---
 
 Golf With Your Friends takes a classic sport and gives it a whimsical, multiplayer twist, creating an engaging experience for players seeking fun interactions while exercising. Let's dive in to see if it’s a good fit for your treadmill or cycling sessions.

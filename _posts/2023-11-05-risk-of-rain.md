@@ -7,6 +7,12 @@ comments: false
 disqus: false
 image: assets/images/review-images/risk-of-rain.jpg
 excerpt: "Risk of Rain delivers a captivating experience with its unique blend of action and roguelike elements."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+pause_friendly: "Sometimes"
+session_length: Medium
 ---
 
 # Gameplay

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-11T00:11:50.111Z
 categories: [ review, game ]
-image: null
 excerpt: "Ultimate Custom Night (U.C.N) is the latest installment in the Five Nights at Freddy's franchise, delivering a unique sandbox experience where you can customize your own night at Freddy’s pizzeria."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 871720
+genres: ["Action", "Free To Play", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871720/header.jpg
 ---
 
 Ultimate Custom Night (U.C.N) is the latest installment in the Five Nights at Freddy's franchise, delivering a unique sandbox experience where you can customize your own night at Freddy’s pizzeria. As an enthusiast of both video games and fitness, I've tested this game on a treadmill to see how well it fits into an active gaming lifestyle.

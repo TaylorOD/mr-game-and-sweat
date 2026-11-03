@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-02T00:12:24.800Z
 categories: [ review, game ]
-image: null
 excerpt: "Europa Universalis IV (EU4) is an expansive grand strategy game developed by Paradox Interactive, where players take control of a nation and navigate the complexities of diplomacy, trade, warfare, and exploration from the late Middle Ages t"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 236850
+genres: ["Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg
 ---
 
 Europa Universalis IV (EU4) is an expansive grand strategy game developed by Paradox Interactive, where players take control of a nation and navigate the complexities of diplomacy, trade, warfare, and exploration from the late Middle Ages through the early modern period. For gamers who like to combine gaming with cardio, it's an option worth considering—but there are pros and cons to this balancing act.

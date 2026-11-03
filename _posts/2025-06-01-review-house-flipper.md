@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-01T00:11:21.890Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in House Flipper is immersive and surprisingly addicting."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 613100
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie", "Massively Multiplayer", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/6cee40fe293f0bab47534e78bcda64487902efc1/header.jpg
 ---
 
 **House Flipper** is an engaging simulation game that lets players take on the role of a home renovation expert. You purchase distressed properties, remodel them to your liking, and sell them for a profit. But how does this game hold up while you're sweating it out on the treadmill or biking to that summer body? Let’s dive in.

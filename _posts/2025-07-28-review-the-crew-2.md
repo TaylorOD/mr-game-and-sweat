@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-28T00:13:23.737Z
 categories: [ review, game ]
-image: null
 excerpt: "If you’re looking for a gaming experience that encourages exercise while immersing you in a vast open world, *The Crew 2* delivers in spades."
+score_gameplay: 2.5
+score_treadmill: 2.8
+score_computer: 2.5
+score_overall: 2.6
+steam_appid: 646910
+genres: ["Action", "Massively Multiplayer", "Racing"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg
 ---
 
 If you’re looking for a gaming experience that encourages exercise while immersing you in a vast open world, *The Crew 2* delivers in spades. With its seamless integration of various vehicle types and locations across the United States, this game invites you to take a thrilling ride—literally!

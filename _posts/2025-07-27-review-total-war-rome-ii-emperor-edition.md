@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-27T00:12:40.172Z
 categories: [ review, game ]
-image: null
 excerpt: "Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 214950
+genres: ["Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg
 ---
 
 Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike. But can it hold your attention while you're running on a treadmill or biking? Let's break it down.

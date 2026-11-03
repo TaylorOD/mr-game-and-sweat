@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-19T00:11:40.473Z
 categories: [ review, game ]
-image: null
 excerpt: "If you've ever wanted to bring the fun of board games into the digital sphere while keeping an active lifestyle, Tabletop Simulator is an enticing option."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 286160
+controller: full
+genres: ["Casual", "Indie", "RPG", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg
 ---
 
 If you've ever wanted to bring the fun of board games into the digital sphere while keeping an active lifestyle, **Tabletop Simulator** is an enticing option. This platform allows players to simulate board games, card games, and more in a virtual space, all while giving you the freedom to modify games and create new ones. However, let's delve deeper into how it holds up, especially for those trying to get their cardio in on a treadmill or bike.

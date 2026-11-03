@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-14T00:11:36.955Z
 categories: [ review, game ]
-image: null
 excerpt: "Set in the critically acclaimed Half-Life universe, “Half-Life: Alyx” brings players back to City 17 with breathtaking visuals and immersive gameplay, all while delivering a story that fans have long awaited."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 546560
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg
 ---
 
 Set in the critically acclaimed Half-Life universe, “Half-Life: Alyx” brings players back to City 17 with breathtaking visuals and immersive gameplay, all while delivering a story that fans have long awaited. But how does it stack up for those looking to stay active on a treadmill or bike? Let’s dive in.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-09T00:11:19.954Z
 categories: [ review, game ]
-image: null
 excerpt: "Path of Exile 2 takes the already-exceptional world of its predecessor and expands it into a new realm of immersive, action-packed gameplay."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 2694490
+controller: full
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Early Access"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg
 ---
 
 Path of Exile 2 takes the already-exceptional world of its predecessor and expands it into a new realm of immersive, action-packed gameplay. As a tribute to its roots, this sequel embraces the core mechanics that players have come to love, but also introduces new features that can be enjoyed while you maintain your fitness routine on the treadmill or bike.

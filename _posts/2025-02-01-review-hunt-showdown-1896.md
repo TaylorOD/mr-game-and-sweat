@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-01T00:10:06.645Z
 categories: [ review, game ]
-image: null
 excerpt: "Hunt: Showdown 1896 seamlessly blends PvPvE mechanics with immersive environmental storytelling that can keep you engaged for hours."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 594650
+controller: full
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/8cf55bcd74fc14c93f3a9cc7d0a442afabab6f88/header_alt_assets_29.jpg
 ---
 
 # Gameplay

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-06T00:12:09.890Z
 categories: [ review, game ]
-image: null
 excerpt: "The Witcher 2: Assassins of Kings Enhanced Edition is a remarkable RPG that draws players into its richly crafted world, featuring intricate narratives and morally complex decisions."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 20920
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/header.jpg
 ---
 
 The Witcher 2: Assassins of Kings Enhanced Edition is a remarkable RPG that draws players into its richly crafted world, featuring intricate narratives and morally complex decisions. As you engage in this fantasy epic, let’s see how it holds up for those of you who want to stay active on the treadmill or bike while gaming.

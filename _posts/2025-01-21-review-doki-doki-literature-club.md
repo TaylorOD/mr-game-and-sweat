@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-21T00:10:53.831Z
 categories: [ review, game ]
-image: null
 excerpt: "Doki Doki Literature Club!"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 698780
+genres: ["Casual", "Free To Play", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg
 ---
 
 Doki Doki Literature Club! (DDLC) may initially appear to be a lighthearted visual novel, but it unfolds into an experience unlike any other, weaving a gripping narrative that will stick with you long after the last words are read. As you engage with the characters and make choices that influence the story, you'll find a unique blend of creativity and psychological horror that sets this game apart. 

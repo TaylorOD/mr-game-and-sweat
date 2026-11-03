@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-03T00:12:34.722Z
 categories: [ review, game ]
-image: null
 excerpt: "Insurgency is a tactical first-person shooter that immerses players in a gritty, realistic combat environment."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 222880
+controller: full
+genres: ["Action", "Indie", "Strategy"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/222880/header.jpg
 ---
 
 Insurgency is a tactical first-person shooter that immerses players in a gritty, realistic combat environment. Developed by New World Interactive, this game emphasizes teamwork and strategy over fast-paced run-and-gun action, making it a unique choice for gamers looking to engage in a more cerebral gameplay experience. For those who enjoy mixing their fitness with gaming, Insurgency offers both challenges and opportunities. 

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-12T00:11:58.315Z
 categories: [ review, game ]
-image: null
 excerpt: "Clicker Heroes is an addictive incremental game where you tap your way through vast worlds, defeating monsters, unlocking heroes, and continually accumulating gold."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 3
+score_overall: 2.67
+steam_appid: 363970
+controller: full
+genres: ["Adventure", "Casual", "Indie", "RPG", "Simulation", "Strategy", "Free To Play"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363970/1ab2c7ea7bca7bf51ac54949b00fd8b7619ce023/header.jpg
 ---
 
 Clicker Heroes is an addictive incremental game where you tap your way through vast worlds, defeating monsters, unlocking heroes, and continually accumulating gold. It's a classic example of the idle genre, where progression is a lot about numbers and watching your characters fight while you engage in the simplest of clicking tasks. But how does it hold up when you're attempting to balance gaming with exercise on a treadmill or bike? Let’s dive into the details.

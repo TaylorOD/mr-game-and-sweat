@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-11-01T00:11:49.362Z
 categories: [ review, game ]
-image: null
 excerpt: "Spec Ops: The Line is often heralded as one of the most poignant military shooters in recent memory, but how does it hold up as a game you can enjoy while staying active on a treadmill or bike?"
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2.5
+score_overall: 2
+steam_appid: 50300
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50300/header.jpg
 ---
 
 "Spec Ops: The Line" is often heralded as one of the most poignant military shooters in recent memory, but how does it hold up as a game you can enjoy while staying active on a treadmill or bike? Let’s break it down.

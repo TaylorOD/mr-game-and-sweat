@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-03T00:12:54.403Z
 categories: [ review, game ]
-image: null
 excerpt: "Unturned is a unique take on the zombie survival genre."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 304930
+genres: ["Action", "Adventure", "Casual", "Indie", "Free To Play"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/161ec2d6ace8a03afdb7a423510ff8f7d8b301ba/header.jpg
 ---
 
 "Unturned" is a unique take on the zombie survival genre. Initially released as a free-to-play game on Steam, it quickly gained traction for its blocky aesthetic reminiscent of classic titles like Minecraft, combined with an extensive crafting system and multiplayer aspects. As more gamers turn towards an exercise-centric lifestyle, finding games that blend well with physical activity is key. Let’s dive into how well "Unturned" holds up in this context.

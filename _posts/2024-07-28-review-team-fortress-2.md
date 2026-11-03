@@ -7,6 +7,15 @@ disqus: false
 date:   2024-07-28T04:31:27.122Z
 categories: [ review, game ]
 excerpt: "Valve's Team Fortress 2 is an iconic team-based multiplayer shooter that has captured the hearts of gamers since its release in 2007."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 440
+genres: ["Action", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg
 ---
 
 Valve's "Team Fortress 2" is an iconic team-based multiplayer shooter that has captured the hearts of gamers since its release in 2007. With its vibrant art style and cartoonish characters, it provides an exhilarating experience packed with competitive gameplay. But how well does it mesh with a workout routine on a treadmill or bike? Let’s break it down.

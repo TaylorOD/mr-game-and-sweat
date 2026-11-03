@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-09T00:13:19.864Z
 categories: [ review, game ]
-image: null
 excerpt: "As a lover of both exercise and video games, Katana ZERO offers a unique blend of action and storytelling that surprisingly accommodates an active gaming experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 460950
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/header.jpg
 ---
 
 As a lover of both exercise and video games, Katana ZERO offers a unique blend of action and storytelling that surprisingly accommodates an active gaming experience. Set in a neo-noir world, this game pushes you to engage both your mind and body in an exhilarating combat-driven narrative that melds beautifully with treadmill or biking workouts. Let’s delve into how this game performs across various categories.

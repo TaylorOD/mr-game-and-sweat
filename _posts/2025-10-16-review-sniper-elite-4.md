@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-16T00:11:33.269Z
 categories: [ review, game ]
-image: null
 excerpt: "Sniper Elite 4 transports players to the sunny landscapes of World War II Italy, blending strategy and stealth with its hallmark sniping mechanics."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 312660
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg
 ---
 
 Sniper Elite 4 transports players to the sunny landscapes of World War II Italy, blending strategy and stealth with its hallmark sniping mechanics. As an exercise enthusiast and avid gamer, I was keen to see how well this title would complement my treadmill and biking sessions. Let’s break down the elements that make Sniper Elite 4 both engaging and viable for fitness routines.

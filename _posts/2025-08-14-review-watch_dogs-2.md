@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-14T00:12:05.184Z
 categories: [ review, game ]
-image: null
 excerpt: "Set in the vibrant city of San Francisco, Watch_Dogs 2 has emerged as a fascinating blend of technology, action, and social commentary."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 447040
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg
 ---
 
 Set in the vibrant city of San Francisco, "Watch_Dogs 2" has emerged as a fascinating blend of technology, action, and social commentary. For gamers who are looking to maintain their exercise routines while engaging in thrilling gameplay, the nuances of this title can make for a uniquely enjoyable experience. 

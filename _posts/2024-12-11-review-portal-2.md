@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-11T00:11:09.141Z
 categories: [ review, game ]
-image: null
 excerpt: "Portal 2 is a timeless classic that brilliantly combines immersive storytelling with mind-bending puzzles."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 620
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg
 ---
 
 Portal 2 is a timeless classic that brilliantly combines immersive storytelling with mind-bending puzzles. As you guide protagonist Chell through the iconic Aperture Science facility, you'll engage with complex physics-based challenges that demand both critical thinking and creativity.

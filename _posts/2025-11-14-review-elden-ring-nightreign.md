@@ -6,10 +6,19 @@ comments: false
 disqus: false
 date:   2025-11-14T00:12:00.000Z
 categories: [ review, game ]
-image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "ELDEN RING NIGHTREIGN’s brisk expeditions and frequent boss fights can make a workout fly by, but its precise dodges and punishing combat are a poor match for running at a pace where balance matters."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 2622380
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg
 ---
 
 ELDEN RING NIGHTREIGN’s brisk expeditions and frequent boss fights can make a workout fly by, but its precise dodges and punishing combat are a poor match for running at a pace where balance matters. It’s more practical on a stationary bike, where intense bursts of attention are less likely to throw off your footing.

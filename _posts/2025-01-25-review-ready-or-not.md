@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-25T00:09:24.763Z
 categories: [ review, game ]
-image: null
 excerpt: "In the realm of tactical shooters, Ready or Not offers a gripping experience that can enhance your workout on the treadmill or bike while keeping your adrenaline pumping."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1144200
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg
 ---
 
 In the realm of tactical shooters, "Ready or Not" offers a gripping experience that can enhance your workout on the treadmill or bike while keeping your adrenaline pumping. This game is not just about shooting; it emphasizes strategy, teamwork, and methodical gameplay.

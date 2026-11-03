@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-31T00:12:19.185Z
 categories: [ review, game ]
-image: null
 excerpt: "Telltale Games’ The Walking Dead is a gripping narrative-driven adventure that pulls players into a world of moral dilemmas and heart-wrenching decisions."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 207610
+controller: full
+genres: ["Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg
 ---
 
 Telltale Games’ "The Walking Dead" is a gripping narrative-driven adventure that pulls players into a world of moral dilemmas and heart-wrenching decisions. For gamers looking to stay active while navigating this emotional landscape, let's delve into how well it fares on the treadmill or bike.

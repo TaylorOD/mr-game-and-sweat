@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-29T00:11:23.075Z
 categories: [ review, game ]
-image: null
 excerpt: "Tom Clancy's The Division delivers a unique blend of RPG elements and tactical shooter gameplay, set in a post-apocalyptic New York City ravaged by a virus."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 365590
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/e36fd6a73af2b20d6286633ee3a089acf53397ff/header.jpg
 ---
 
 Tom Clancy's The Division delivers a unique blend of RPG elements and tactical shooter gameplay, set in a post-apocalyptic New York City ravaged by a virus. For those looking to take their workout sessions on a treadmill or bike to the next level, this game presents a fascinating but mixed experience.

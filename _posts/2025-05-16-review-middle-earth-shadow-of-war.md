@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-16T00:11:28.497Z
 categories: [ review, game ]
-image: null
 excerpt: "Middle-earth: Shadow of War is a sequel that follows the successful Shadow of Mordor, further honing its blend of action RPG mechanics and the furious battles of Middle-earth."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 356190
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg
 ---
 
 Middle-earth: Shadow of War is a sequel that follows the successful Shadow of Mordor, further honing its blend of action RPG mechanics and the furious battles of Middle-earth. You might be wondering how it stacks up while you’re trying to maintain your stride on a treadmill or pedal away on your bike. Let’s take a closer look.

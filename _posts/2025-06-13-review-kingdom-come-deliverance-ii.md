@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-13T00:11:56.049Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in *Kingdom Come: Deliverance II* continues the franchise's commitment to realism and immersion."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1771300
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg
 ---
 
 *Kingdom Come: Deliverance II* has returned to immerse players in its historically rich world, and it brings some intriguing mechanics to the table that can enhance your treadmill or biking sessions. But how does it stack up for exercise enthusiasts? Let’s dig in.

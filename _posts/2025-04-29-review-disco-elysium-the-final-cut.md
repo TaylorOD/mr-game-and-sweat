@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-29T00:11:48.331Z
 categories: [ review, game ]
-image: null
 excerpt: "Disco Elysium - The Final Cut is a groundbreaking role-playing game that combines rich narrative, deep character development, and an intricate decision-making system."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 632470
+controller: full
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/816ea59d6d8ac525f79a07c3a7afa94eddb3437c/header.jpg
 ---
 
 Disco Elysium - The Final Cut is a groundbreaking role-playing game that combines rich narrative, deep character development, and an intricate decision-making system. But how does it hold up as a companion for your treadmill or bike exercise routine? Let’s dive into the details.

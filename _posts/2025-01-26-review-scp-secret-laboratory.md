@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-26T00:09:33.819Z
 categories: [ review, game ]
-image: null
 excerpt: "SCP: Secret Laboratory is a multiplayer horror game based on the SCP (Secure, Contain, Protect) Foundation universe, offering a unique blend of tension and teamwork."
+score_gameplay: 3
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.5
+steam_appid: 700330
+genres: ["Action", "Casual", "Indie", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/700330/57931a3aa75ae823086fd945d891d6a5c98d6172/header.jpg
 ---
 
 SCP: Secret Laboratory is a multiplayer horror game based on the SCP (Secure, Contain, Protect) Foundation universe, offering a unique blend of tension and teamwork. It places players in the eerie setting of a research facility filled with all sorts of supernatural anomalies. The game’s essence hinges on survival, cooperation, and a good dose of adrenaline – making it a captivating pick for gamers who enjoy a thrill while working off those calories.

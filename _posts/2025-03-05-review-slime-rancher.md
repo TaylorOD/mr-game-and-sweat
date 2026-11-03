@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-05T00:10:24.614Z
 categories: [ review, game ]
-image: null
 excerpt: "Slime Rancher whisks players away to a vibrant, open-world setting where they manage adorable slimes on a distant planet."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2.5
+score_overall: 2.5
+steam_appid: 433340
+controller: full
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg
 ---
 
 # Gameplay

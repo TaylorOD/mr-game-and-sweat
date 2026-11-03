@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-22T00:11:08.493Z
 categories: [ review, game ]
-image: null
 excerpt: "Hellblade: Senua's Sacrifice offers an immersive experience that blends psychological horror, action, and rich storytelling."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 414340
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/header.jpg
 ---
 
 # Gameplay

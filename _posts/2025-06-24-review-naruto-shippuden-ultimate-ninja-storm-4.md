@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-24T00:13:15.151Z
 categories: [ review, game ]
-image: null
 excerpt: "As a fan of both anime and fitness, NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 manages to be a captivating title that can occasionally fit into my exercise routine when I’m looking to unwind on the treadmill or stationary bike."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 349040
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg
 ---
 
 As a fan of both anime and fitness, "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4" manages to be a captivating title that can occasionally fit into my exercise routine when I’m looking to unwind on the treadmill or stationary bike. Let's dive into the specifics of how this game operates while keeping you active.

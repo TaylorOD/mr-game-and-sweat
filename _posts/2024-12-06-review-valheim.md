@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-06T00:11:07.865Z
 categories: [ review, game ]
-image: null
 excerpt: "Valheim has taken the gaming world by storm since its early access release, combining exploration, crafting, and combat in a beautifully rendered Norse-inspired world."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 892970
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg
 ---
 
 Valheim has taken the gaming world by storm since its early access release, combining exploration, crafting, and combat in a beautifully rendered Norse-inspired world. But how does this engage the active gamer looking to get the most out of their treadmill or bike workout? Let’s dive into the details.

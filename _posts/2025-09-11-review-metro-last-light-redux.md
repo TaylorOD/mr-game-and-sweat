@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-11T00:10:35.619Z
 categories: [ review, game ]
-image: null
 excerpt: "Metro: Last Light Redux is a harrowing post-apocalyptic tale that immerses players in the dimly-lit tunnels of Moscow’s metro system."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 287390
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/eab057a82c52b9d60f383fc2a63e2c4024f0e734/header_alt_assets_1.jpg
 ---
 
 "Metro: Last Light Redux" is a harrowing post-apocalyptic tale that immerses players in the dimly-lit tunnels of Moscow’s metro system. With its engaging storyline and atmospheric world, it may tempt you to settle in for an exhilarating adventure. But how does it measure up for fitness enthusiasts who are looking to combine gaming with their treadmill or biking routines? Let’s break it down.

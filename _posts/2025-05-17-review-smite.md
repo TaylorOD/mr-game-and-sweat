@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-17T00:11:40.129Z
 categories: [ review, game ]
-image: null
 excerpt: "SMITE is an engaging and competitive multiplayer online battle arena (MOBA) that immerses players in a world inspired by mythology."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 386360
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie", "Massively Multiplayer", "RPG", "Simulation", "Strategy", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386360/header.jpg
 ---
 
 SMITE is an engaging and competitive multiplayer online battle arena (MOBA) that immerses players in a world inspired by mythology. Blending action with strategic gameplay, SMITE has managed to capture a dedicated player base. But how does it stand up for those looking to get their exercise routine in while gaming on a treadmill or bike? Let’s dive into the details.

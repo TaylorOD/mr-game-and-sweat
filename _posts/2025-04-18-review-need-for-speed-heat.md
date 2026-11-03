@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-18T00:11:22.912Z
 categories: [ review, game ]
-image: null
 excerpt: "Need for Speed Heat invites players into the vibrant streets of Palm City, a sun-soaked playground where day and night collide in a thrilling narrative of street racing and danger."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1222680
+genres: ["Action", "Adventure", "Racing", "Sports"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg
 ---
 
 Need for Speed Heat invites players into the vibrant streets of Palm City, a sun-soaked playground where day and night collide in a thrilling narrative of street racing and danger. As someone who enjoys both gaming and exercising, I found the interplay of fast-paced thrills and physical activity intriguing. Here’s how it measures up for gamers looking to get their sweat on while playing.

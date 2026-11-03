@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-02T00:10:24.366Z
 categories: [ review, game ]
-image: null
 excerpt: "Call of Duty: Black Ops III is a notable addition to the illustrious franchise, delivering a high-octane gameplay experience that aims to keep players engaged and entertained."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 311210
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg
 ---
 
 Call of Duty: Black Ops III is a notable addition to the illustrious franchise, delivering a high-octane gameplay experience that aims to keep players engaged and entertained. For fitness enthusiasts looking to combine their love for gaming with cardio workouts, this review dives into its gameplay dynamics, treadmill and bike compatibility, and PC requirements.

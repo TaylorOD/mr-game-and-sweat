@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-20T00:10:50.637Z
 categories: [ review, game ]
-image: null
 excerpt: "When it comes to balancing exercise and immersive gaming, Project Zomboid stands out as a post-apocalyptic survival RPG that demands not just attention, but a healthy dose of strategy and quick decision-making."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 108600
+genres: ["Indie", "RPG", "Simulation", "Early Access"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg
 ---
 
 When it comes to balancing exercise and immersive gaming, **Project Zomboid** stands out as a post-apocalyptic survival RPG that demands not just attention, but a healthy dose of strategy and quick decision-making. Let’s delve into its key aspects, particularly how well it fits into an active gaming lifestyle.

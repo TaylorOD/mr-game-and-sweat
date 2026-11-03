@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-13T00:11:46.680Z
 categories: [ review, game ]
-image: null
 excerpt: "Warface: Clutch brings the adrenaline-pumping pace of first-person shooters to the forefront, particularly appealing to gamers who want to stay active while playing."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 291480
+genres: ["Action", "Massively Multiplayer", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291480/a5d53fd96d3f04a4d92e3c71a74e5061db8cc186/header.jpg
 ---
 
 "Warface: Clutch" brings the adrenaline-pumping pace of first-person shooters to the forefront, particularly appealing to gamers who want to stay active while playing. Designed to keep you on your feet (or bike), this game is a solid addition to the fitness-oriented gaming library.

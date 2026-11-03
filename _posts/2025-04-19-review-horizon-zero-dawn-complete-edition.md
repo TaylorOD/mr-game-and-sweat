@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-19T00:10:11.768Z
 categories: [ review, game ]
-image: null
 excerpt: "Horizon Zero Dawn Complete Edition is an ambitious action role-playing game that transports players to a breathtaking, post-apocalyptic world dominated by robotic creatures."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1151640
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg
 ---
 
 Horizon Zero Dawn Complete Edition is an ambitious action role-playing game that transports players to a breathtaking, post-apocalyptic world dominated by robotic creatures. While it’s critical to engage with the story and mechanics of the game, we’ll see how it stacks up for fitness enthusiasts looking to run or bike while gaming.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-02T00:14:17.851Z
 categories: [ review, game ]
-image: null
 excerpt: "The Batman: Arkham Asylum Game of the Year Edition not only revives the beloved Caped Crusader but also offers an engaging gameplay experience that can keep your heart racing while you sweat it out on a treadmill or bike."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 35140
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/header.jpg
 ---
 
 The "Batman: Arkham Asylum Game of the Year Edition" not only revives the beloved Caped Crusader but also offers an engaging gameplay experience that can keep your heart racing while you sweat it out on a treadmill or bike. Let's break it down.

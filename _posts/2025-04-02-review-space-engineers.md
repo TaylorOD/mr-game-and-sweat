@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-02T00:11:33.118Z
 categories: [ review, game ]
-image: null
 excerpt: "Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 244850
+genres: ["Action", "Indie", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/3658a69c81af5f4014b0ffa88941285e74825b86/header.jpg
 ---
 
 Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space. As you build and maintain your space stations, ships, and planetary bases, the game allows for a wealth of exploration and engineering possibilities. 

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-25T00:12:21.336Z
 categories: [ review, game ]
-image: null
 excerpt: "In the world of multiplayer horror games, “Deceit” stands out as a thrilling experience that merges social deduction mechanics with heart-pounding tension."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 466240
+genres: ["Action", "Indie", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466240/header.jpg
 ---
 
 In the world of multiplayer horror games, “Deceit” stands out as a thrilling experience that merges social deduction mechanics with heart-pounding tension. Whether you're playing with friends or diving into matches with strangers, the game keeps players on their toes while challenging their ability to trust—or distrust—others. Here’s how it fares for gamers who enjoy breaking a sweat while playing.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-13T00:10:55.196Z
 categories: [ review, game ]
-image: null
 excerpt: "Fall Guys offers a delightful mix of obstacle courses, team challenges, and survival rounds that keep players on their toes."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1097150
+genres: ["Action", "Casual", "Indie", "Massively Multiplayer", "Sports"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg
 ---
 
 **Fall Guys: Ultimate Knockout** stands as a vibrant, chaotic battle royale experience, blending colorful aesthetics with fun, competitive gameplay. Amidst the pixelated antics and goofy challenges, it captures the essence of lighthearted competition, making it a fantastic addition for anyone looking to combine their fun-time gaming with a bit of exercise. Let’s dive into the details.

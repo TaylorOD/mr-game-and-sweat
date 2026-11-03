@@ -7,6 +7,16 @@ disqus: false
 date:   2024-08-17T04:45:07.369Z
 categories: [ review, game ]
 excerpt: "Left 4 Dead 2 is a cooperative first-person shooter that pits you and your friends against hordes of relentless zombies."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 550
+controller: full
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg
 ---
 
 Left 4 Dead 2 is a cooperative first-person shooter that pits you and your friends against hordes of relentless zombies. It’s a game designed to keep you on the edge of your seat, and the adrenaline rush can be a perfect companion to your exercise routine. Whether you’re sprinting on a treadmill or pedaling furiously on a bike, this game will keep your heart rate up—and that’s exactly what we’re looking for!

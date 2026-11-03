@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-09T00:11:47.161Z
 categories: [ review, game ]
-image: null
 excerpt: "Cult of the Lamb is a remarkable blend of action, roguelite, and management simulation."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1313140
+controller: full
+genres: ["Action", "Adventure", "Indie", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg
 ---
 
 # Gameplay

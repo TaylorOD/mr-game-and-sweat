@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-01T00:10:24.481Z
 categories: [ review, game ]
-image: null
 excerpt: "STAR WARS Jedi: Fallen Order thrusts players into the expansive universe of the galaxy far, far away while offering a thrilling single-player adventure that blends storytelling with combat."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1172380
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg
 ---
 
 "STAR WARS Jedi: Fallen Order" thrusts players into the expansive universe of the galaxy far, far away while offering a thrilling single-player adventure that blends storytelling with combat. If you're an avid gamer looking to spice up your workout on the treadmill or bike, here's how it stacks up.

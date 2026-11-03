@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-06T00:12:04.345Z
 categories: [ review, game ]
-image: null
 excerpt: "Robocraft, an innovative free-to-play game, combines the creativity of building your own battle-ready robots with exhilarating multiplayer gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 301520
+genres: ["Action", "Indie", "Massively Multiplayer", "RPG", "Simulation", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301520/header.jpg
 ---
 
 Robocraft, an innovative free-to-play game, combines the creativity of building your own battle-ready robots with exhilarating multiplayer gameplay. Its unique approach appeals to gamers who crave a mix of engineering and combat, and it’s quite feasible to enjoy it while staying active on the treadmill or bike.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-30T00:11:38.855Z
 categories: [ review, game ]
-image: null
 excerpt: "Far Cry 4 takes you to the breathtaking yet treacherous landscape of Kyrat, where you engage in a gripping narrative that intertwines adventure, exploration, and a healthy dose of mayhem."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 298110
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg
 ---
 
 Far Cry 4 takes you to the breathtaking yet treacherous landscape of Kyrat, where you engage in a gripping narrative that intertwines adventure, exploration, and a healthy dose of mayhem. As you traverse through this vibrant world, let’s delve into how well it performs for those who want to unleash their inner gamer while getting their heart rates up on a treadmill or bike.

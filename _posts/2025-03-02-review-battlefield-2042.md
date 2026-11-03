@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-02T00:10:38.837Z
 categories: [ review, game ]
-image: null
 excerpt: "Battlefield 2042 takes players into a near-future setting filled with chaotic battles, evolving environments, and massive multiplayer warfare."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 1517290
+controller: full
+genres: ["Action", "Adventure", "Casual"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg
 ---
 
 Battlefield 2042 takes players into a near-future setting filled with chaotic battles, evolving environments, and massive multiplayer warfare. As a fan of both gaming and exercising, I've explored how this title balances intense gameplay while keeping the heart rate up—perfect for those grinding it out on the treadmill or the bike.

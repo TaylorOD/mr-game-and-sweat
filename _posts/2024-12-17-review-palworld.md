@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-17T00:11:27.883Z
 categories: [ review, game ]
-image: null
 excerpt: "Palworld invites players into a vibrant world filled with whimsical creatures, exploration, and adventure."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 1623730
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg
 ---
 
 Palworld invites players into a vibrant world filled with whimsical creatures, exploration, and adventure. But with a focus on facilitating exercise, how well does this unique title align with a cardio-focused gaming experience? Let’s break down its features to see how it stacks up.

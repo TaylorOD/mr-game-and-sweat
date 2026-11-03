@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-01T00:09:59.921Z
 categories: [ review, game ]
-image: null
 excerpt: "The Elder Scrolls V: Skyrim Special Edition is the enhanced version of the beloved RPG that has captured the hearts of gamers for over a decade."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 489830
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg
 ---
 
 The Elder Scrolls V: Skyrim Special Edition is the enhanced version of the beloved RPG that has captured the hearts of gamers for over a decade. With its sprawling world of Tamriel, immersive storytelling, and deep character customization, this game is perfect for long sessions of gaming. But how well does it pair with exercise? Let's dive in!

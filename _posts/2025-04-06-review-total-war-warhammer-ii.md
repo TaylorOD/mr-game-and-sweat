@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-06T00:10:52.732Z
 categories: [ review, game ]
-image: null
 excerpt: "Total War: WARHAMMER II enters the realm of strategy gaming with a blend of deep tactical mechanics and immersive fantasy lore, all set in the Warhammer universe."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 594570
+genres: ["Action", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg
 ---
 
 Total War: WARHAMMER II enters the realm of strategy gaming with a blend of deep tactical mechanics and immersive fantasy lore, all set in the Warhammer universe. As a title that encompasses both turn-based strategy and real-time tactics, it captures both intricate planning and exhilarating battlefield command. But how does it fare for players trying to balance their gaming with a workout? Let’s break it down.

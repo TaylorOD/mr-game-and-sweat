@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-30T00:12:13.210Z
 categories: [ review, game ]
-image: null
 excerpt: "Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 219150
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg
 ---
 
 Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience. As you lace up your sneakers for a treadmill run or bike session, this review dissects how well this iconic indie title complements your exercise routine.

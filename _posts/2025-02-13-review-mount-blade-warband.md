@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-13T00:10:05.931Z
 categories: [ review, game ]
-image: null
 excerpt: "Mount & Blade: Warband is a unique blend of strategic gameplay and immersive role-playing, offering players a chance to carve their own path in a medieval open-world setting."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.33
+steam_appid: 48700
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/header.jpg
 ---
 
 Mount & Blade: Warband is a unique blend of strategic gameplay and immersive role-playing, offering players a chance to carve their own path in a medieval open-world setting. As you engage in epic battles, build your army, and navigate the complex political landscape of Calradia, the game captivates your attention in ways that cater remarkably well to active gamers looking to exercise while playing.

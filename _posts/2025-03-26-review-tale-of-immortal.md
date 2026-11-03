@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-26T00:11:02.608Z
 categories: [ review, game ]
-image: null
 excerpt: "Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics."
+score_gameplay: 2
+score_treadmill: 2.5
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 1468810
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg
 ---
 
 Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics. As a game that encourages exploration and discovery, it beckons players for hours on end—but how does it fit into a routine of treadmill running or biking?

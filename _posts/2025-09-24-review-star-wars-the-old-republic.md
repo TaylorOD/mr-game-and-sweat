@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-24T00:12:34.741Z
 categories: [ review, game ]
-image: null
 excerpt: "If you're looking for a game to immerse yourself in while perfecting your treadmill running or biking sessions, STAR WARS: The Old Republic (SWTOR) offers a unique blend of engaging gameplay set in the illustrious Star Wars universe."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 1286830
+genres: ["Massively Multiplayer", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/header.jpg
 ---
 
 If you're looking for a game to immerse yourself in while perfecting your treadmill running or biking sessions, "STAR WARS: The Old Republic" (SWTOR) offers a unique blend of engaging gameplay set in the illustrious Star Wars universe. But how does it hold up when combined with exercise? Let’s jump into the details.

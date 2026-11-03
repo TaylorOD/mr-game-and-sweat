@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-22T00:11:16.095Z
 categories: [ review, game ]
-image: null
 excerpt: "Resident Evil 7 Biohazard brings players into the terrifying world of survival horror, and it does so with an intense and immersive experience."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 418370
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg
 ---
 
 Resident Evil 7 Biohazard brings players into the terrifying world of survival horror, and it does so with an intense and immersive experience. For those looking to keep the adrenaline pumping while they’re on the treadmill or biking, here’s my breakdown of how this game stacks up.

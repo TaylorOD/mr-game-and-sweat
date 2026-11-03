@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-25T00:10:50.827Z
 categories: [ review, game ]
-image: null
 excerpt: "Dive into a unique blend of adventure and management in DAVE THE DIVER, a game that takes you beneath the waves and pulls you into the colorful world of ocean exploration and sushi service."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1868140
+controller: full
+genres: ["Adventure", "Casual", "RPG", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg
 ---
 
 Dive into a unique blend of adventure and management in "DAVE THE DIVER," a game that takes you beneath the waves and pulls you into the colorful world of ocean exploration and sushi service. As you're balancing your aerobic exercise routine, let's explore how well this game copes with your treadmill or bike and whether it truly enhances your workout experience.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-01T00:11:26.159Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in ASTRONEER is highly engaging and encourages players to lose themselves in its beautifully crafted worlds without heavy distractions."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 361420
+controller: full
+genres: ["Adventure", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg
 ---
 
 **ASTRONEER** invites players into a charmingly cubic universe where exploration, base building, and resource gathering create a delightful sandbox experience. Featuring bright visuals and an intuitive crafting system, this game does an admirable job of motivating players to build, explore, and survive in an alien environment.

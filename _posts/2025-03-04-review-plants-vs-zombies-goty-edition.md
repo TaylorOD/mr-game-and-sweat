@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-04T00:10:17.755Z
 categories: [ review, game ]
-image: null
 excerpt: "Plants vs. Zombies GOTY Edition is a delightful tower defense game that manages to captivate players with its charming art style and innovative mechanics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 3590
+genres: ["Strategy"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg
 ---
 
 # Gameplay

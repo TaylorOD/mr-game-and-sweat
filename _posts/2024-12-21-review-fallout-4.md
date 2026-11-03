@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-21T00:10:59.719Z
 categories: [ review, game ]
-image: null
 excerpt: "Fallout 4 invites players into a post-apocalyptic world where exploration, combat, and a rich storyline await."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 377160
+controller: full
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg
 ---
 
 Fallout 4 invites players into a post-apocalyptic world where exploration, combat, and a rich storyline await. But how does it hold up for those of us who like to break a sweat while gaming? Here’s a detailed analysis.

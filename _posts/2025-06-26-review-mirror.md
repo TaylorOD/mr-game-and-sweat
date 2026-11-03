@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-26T00:12:00.526Z
 categories: [ review, game ]
-image: null
 excerpt: "Mirror is a visually striking puzzle-platformer that immerses players in an enigmatic world filled with reflective surfaces and intricate levels."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 3
+score_overall: 2.67
+steam_appid: 644560
+genres: ["Adventure", "Indie", "RPG"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644560/header.jpg
 ---
 
 # Gameplay

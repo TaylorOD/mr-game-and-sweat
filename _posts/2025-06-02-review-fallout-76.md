@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-02T00:11:33.005Z
 categories: [ review, game ]
-image: null
 excerpt: "Bethesda's Fallout 76 takes a bold step into the online multiplayer world of the beloved Fallout series, but does it hold up under the pace of a treadmill or stationary bike?"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 1151340
+genres: ["RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/f85dc32bab9fe57807cf588150579a8b2ab409f4/header.jpg
 ---
 
 Bethesda's Fallout 76 takes a bold step into the online multiplayer world of the beloved Fallout series, but does it hold up under the pace of a treadmill or stationary bike? Let's dive into the details to see if this post-apocalyptic adventure works for your exercise routine.

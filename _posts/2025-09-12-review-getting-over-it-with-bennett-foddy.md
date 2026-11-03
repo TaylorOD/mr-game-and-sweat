@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-12T00:10:52.156Z
 categories: [ review, game ]
-image: null
 excerpt: "In *Getting Over It*, the gameplay revolves around precise movements and incremental progress."
+score_gameplay: 2.5
+score_treadmill: 1.5
+score_computer: 2.5
+score_overall: 2.2
+steam_appid: 240720
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg
 ---
 
 **Getting Over It with Bennett Foddy** is a unique experience that combines a philosophical meditation on the nature of failure with an infuriatingly engaging gameplay loop. As players control the character—an individual stuck in a cauldron using a hammer to propel upward—every facet of the game is designed to challenge both your patience and coordination. For fitness enthusiasts looking to combine gameplay with exercise, this game offers an experience unlike any other, but it's essential to analyze how it holds up in terms of treadmill or biking compatibility.

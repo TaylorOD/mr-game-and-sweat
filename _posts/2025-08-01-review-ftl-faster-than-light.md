@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-01T00:12:29.435Z
 categories: [ review, game ]
-image: null
 excerpt: "FTL: Faster Than Light is a real-time strategy game that takes players on an interstellar adventure as they command a spaceship through a galaxy fraught with danger."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 212680
+genres: ["Indie", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg
 ---
 
 FTL: Faster Than Light is a real-time strategy game that takes players on an interstellar adventure as they command a spaceship through a galaxy fraught with danger. As you weave through sectors teeming with hostile enemies and navigate critical resource management, FTL offers a unique balance of tension and strategy that heightens your gaming experience—ideally suited for those looking to stay active while playing.

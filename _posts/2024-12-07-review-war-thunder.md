@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-07T00:10:41.812Z
 categories: [ review, game ]
-image: null
 excerpt: "War Thunder brings the epic battles of World War II and beyond right to your screen, letting players pilot tanks, planes, and naval vessels in a synergy of authentic simulation and arcade action."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 236390
+controller: full
+genres: ["Action", "Massively Multiplayer", "Simulation", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38881c549e623fe432af4e7b4bc3952b443906f5/header.jpg
 ---
 
 War Thunder brings the epic battles of World War II and beyond right to your screen, letting players pilot tanks, planes, and naval vessels in a synergy of authentic simulation and arcade action. Dive into high-flying dogfights or armored skirmishes, all while trying to maintain your fitness goals on the treadmill or bike!

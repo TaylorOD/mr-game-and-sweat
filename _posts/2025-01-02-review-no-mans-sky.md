@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-02T00:11:28.681Z
 categories: [ review, game ]
-image: null
 excerpt: "No Man's Sky has made sweeping changes since its initial release, evolving from a game that faced criticism to an expansive universe with experiences that can pull you in for hours."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 275850
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg
 ---
 
 No Man's Sky has made sweeping changes since its initial release, evolving from a game that faced criticism to an expansive universe with experiences that can pull you in for hours. Its unique blend of exploration, resource gathering, and survival craft makes it an intriguing choice for those looking to combine gameplay with exercise. But how well does it suit users who are walking or biking?

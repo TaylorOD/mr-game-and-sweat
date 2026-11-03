@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-15T00:12:17.505Z
 categories: [ review, game ]
-image: null
 excerpt: "XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 268500
+genres: ["Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg
 ---
 
 XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth. Its engaging mix of strategic planning, resource management, and combat makes it an enticing choice, but how does it fare for those looking to exercise while gaming? Let’s dive into each category.

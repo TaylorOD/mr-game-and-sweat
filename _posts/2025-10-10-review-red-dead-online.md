@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-10T00:11:35.167Z
 categories: [ review, game ]
-image: null
 excerpt: "Red Dead Online, the expansive multiplayer component of Rockstar Games’ acclaimed Red Dead Redemption 2, offers players a beautifully crafted open world filled with opportunities for adventure and camaraderie."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 1404210
+genres: ["Action", "Adventure"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/header.jpg
 ---
 
 Red Dead Online, the expansive multiplayer component of Rockstar Games’ acclaimed Red Dead Redemption 2, offers players a beautifully crafted open world filled with opportunities for adventure and camaraderie. It’s a digital cowboy’s playground that seamlessly blends shooting, exploration, and player interactions, and it presents a unique challenge for those looking to keep their heart rate up while playing.

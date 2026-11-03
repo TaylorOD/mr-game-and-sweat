@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-25T00:10:07.985Z
 categories: [ review, game ]
-image: null
 excerpt: "Lost Ark, the highly anticipated MMORPG, invites players into a vibrant world filled with epic quests, stunning visuals, and engaging combat."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1599340
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/header.jpg
 ---
 
 Lost Ark, the highly anticipated MMORPG, invites players into a vibrant world filled with epic quests, stunning visuals, and engaging combat. However, for fitness enthusiasts looking to combine gaming with exercise, it’s crucial to evaluate how well this game fits into your active lifestyle, especially when using a treadmill or bike. So without further ado, let's dive into the review of Lost Ark.

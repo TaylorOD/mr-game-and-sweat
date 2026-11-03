@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-15T00:10:20.559Z
 categories: [ review, game ]
-image: null
 excerpt: "If you enjoyed the frenetic pace and stylized violence of the original *Hotline Miami*, its sequel takes that formula and ramps it up to an exhilarating—with a side of challenging—experience."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 274170
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg
 ---
 
 If you enjoyed the frenetic pace and stylized violence of the original *Hotline Miami*, its sequel takes that formula and ramps it up to an exhilarating—with a side of challenging—experience. However, if you’re planning to power through this while on a treadmill or bike, you might want to consider a few factors before diving in.

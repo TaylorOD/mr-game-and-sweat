@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/cobalt-core.jpg
 excerpt: "Cobalt Core offers an adrenaline-pumping experience with its blend of fast-paced action and strategic elements."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 2179850
+controller: full
+genres: ["Indie", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
 ---
 
 # Gameplay

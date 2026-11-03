@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-01T00:11:05.768Z
 categories: [ review, game ]
-image: null
 excerpt: "BeamNG.drive is a vehicle simulation game that has garnered a loyal following due to its realistic physics, destructible environments, and extensive customization options."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 284160
+genres: ["Racing", "Simulation", "Early Access"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg
 ---
 
 BeamNG.drive is a vehicle simulation game that has garnered a loyal following due to its realistic physics, destructible environments, and extensive customization options. As a gaming experience that prioritizes innovation in vehicle simulation, its unique mechanics offer an engaging way to experience gameplay while keeping you active on a treadmill or stationary bike.

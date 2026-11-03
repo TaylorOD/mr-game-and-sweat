@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-03T00:11:32.494Z
 categories: [ review, game ]
-image: null
 excerpt: "Darkest Dungeon is a game that masterfully combines difficulty, strategy, and gothic horror, offering players a unique experience that keeps them on their toes."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 262060
+genres: ["Indie", "RPG", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/58cc9af814f8767242167a3f8ad013c1ac471074/header.jpg
 ---
 
 Darkest Dungeon is a game that masterfully combines difficulty, strategy, and gothic horror, offering players a unique experience that keeps them on their toes. However, how does this dark and punishing indie title fare in the realm of exercise-compatible gaming?

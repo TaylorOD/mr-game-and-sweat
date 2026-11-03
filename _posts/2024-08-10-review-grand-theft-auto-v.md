@@ -7,6 +7,15 @@ disqus: false
 date:   2024-08-10T04:40:45.325Z
 categories: [ review, game ]
 excerpt: "Grand Theft Auto V (GTA V) is a sprawling open-world action-adventure game that delivers a blend of storytelling, exploration, and adrenaline-pumping chaos."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 3240220
+genres: ["Action", "Adventure", "Racing"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg
 ---
 
 Grand Theft Auto V (GTA V) is a sprawling open-world action-adventure game that delivers a blend of storytelling, exploration, and adrenaline-pumping chaos. For those who enjoy exercise while gaming, let's see how this title measures up on both the treadmill and cyclist's journey.

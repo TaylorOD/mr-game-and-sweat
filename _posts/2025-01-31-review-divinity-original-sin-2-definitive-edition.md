@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-31T00:09:55.492Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in Divinity: Original Sin 2 is engaging and rich, allowing players to lose themselves in its world."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 435150
+controller: full
+genres: ["Adventure", "RPG", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg
 ---
 
 **Divinity: Original Sin 2 - Definitive Edition** is a masterfully crafted RPG that invites players into an expansive and dynamic fantasy world. With intricate turn-based combat, rich storytelling, and a plethora of choices, this game can easily capture your imagination. However, how does it perform in the exercise department? Let's break it down.

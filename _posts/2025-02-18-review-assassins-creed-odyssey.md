@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-18T00:11:17.489Z
 categories: [ review, game ]
-image: null
 excerpt: "Set against the breathtaking backdrop of Ancient Greece, Assassin's Creed Odyssey invites players to dive into a sprawling open world filled with rich history, mythical undertones, and engaging narratives."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 812140
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg
 ---
 
 Set against the breathtaking backdrop of Ancient Greece, "Assassin's Creed Odyssey" invites players to dive into a sprawling open world filled with rich history, mythical undertones, and engaging narratives. Easily accessible for fans of both action-adventure games and history buffs alike, the game also presents a unique opportunity for gamers who want to keep their fitness regimen alive while playing. Here's a look at how it holds up from both gameplay and exercise-friendly perspectives.

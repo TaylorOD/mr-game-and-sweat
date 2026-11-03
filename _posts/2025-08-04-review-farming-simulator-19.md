@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-04T00:13:39.704Z
 categories: [ review, game ]
-image: null
 excerpt: "Farming Simulator 19 invites players to step into the shoes of a modern-day farmer, offering an immersive experience filled with crops, livestock, and expansive land to cultivate."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.33
+steam_appid: 787860
+controller: full
+genres: ["Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg
 ---
 
 Farming Simulator 19 invites players to step into the shoes of a modern-day farmer, offering an immersive experience filled with crops, livestock, and expansive land to cultivate. But how does this ambitious farming simulation adapt to the active lifestyle, especially when combined with exercising on a treadmill or bike? Let’s break it down.

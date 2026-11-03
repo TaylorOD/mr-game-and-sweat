@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-04T00:09:41.880Z
 categories: [ review, game ]
-image: null
 excerpt: "Borderlands 2 is an iconic first-person shooter that combines an engaging open-world experience with a unique art style and unforgettable characters."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 49520
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg
 ---
 
 Borderlands 2 is an iconic first-person shooter that combines an engaging open-world experience with a unique art style and unforgettable characters. But as a fitness gamer, how does it stand up for those looking to keep their heart rates up while blasting through Bandit-infested wastelands? 

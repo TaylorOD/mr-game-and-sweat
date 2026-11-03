@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-17T00:10:37.816Z
 categories: [ review, game ]
-image: null
 excerpt: "As someone who enjoys both exhilarating gaming experiences and staying active, STAR WARS Battlefront II presents an intriguing blend of action-packed gameplay and immersive content."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1237950
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg
 ---
 
 As someone who enjoys both exhilarating gaming experiences and staying active, STAR WARS Battlefront II presents an intriguing blend of action-packed gameplay and immersive content. This beloved title lets you dive into the iconic galaxy far, far away, but does it do so while keeping you engaged and moving on your treadmill or bike? Let’s break it down.

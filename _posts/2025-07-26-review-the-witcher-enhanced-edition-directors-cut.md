@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-26T00:12:25.442Z
 categories: [ review, game ]
-image: null
 excerpt: "Set in the vast and morally complex world of The Witcher, the Enhanced Edition Director's Cut brings the iconic RPG to life yet again."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 20900
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/header.jpg
 ---
 
 Set in the vast and morally complex world of The Witcher, the Enhanced Edition Director's Cut brings the iconic RPG to life yet again. But how does it hold up as a companion for your treadmill or bike workout? Let's dive in.

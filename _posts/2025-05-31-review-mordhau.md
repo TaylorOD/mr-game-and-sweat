@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-31T00:11:12.012Z
 categories: [ review, game ]
-image: null
 excerpt: "MORDHAU's gameplay is frenetic and highly engaging, putting players right in the middle of large-scale medieval battles."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 629760
+genres: ["Action", "Indie"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg
 ---
 
 # Gameplay

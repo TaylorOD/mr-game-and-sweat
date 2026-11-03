@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-08T00:10:51.681Z
 categories: [ review, game ]
-image: null
 excerpt: "Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 255710
+genres: ["Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg
 ---
 
 Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up. The engaging gameplay offers a blend of creativity and strategy, which can be both captivating and addicting—exactly what one might want to immerse themselves in while getting a workout on a treadmill or bike.

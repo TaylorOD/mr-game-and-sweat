@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-03T00:11:40.026Z
 categories: [ review, game ]
-image: null
 excerpt: "As a massive fan of both gaming and fitness, I was curious to see how Hogwarts Legacy would perform as a game suitable for treadmill running or biking."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 990080
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg
 ---
 
 As a massive fan of both gaming and fitness, I was curious to see how "Hogwarts Legacy" would perform as a game suitable for treadmill running or biking. Here’s how it stacks up in various categories.

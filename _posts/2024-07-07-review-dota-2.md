@@ -7,6 +7,15 @@ disqus: false
 date:   2024-07-07T04:40:36.413Z
 categories: [ review, game ]
 excerpt: "Dota 2 is a staple in the MOBA genre, renowned for its deep strategic gameplay, diverse hero roster, and a competitive community that feeds into its endless replayability."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 570
+genres: ["Action", "Strategy", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg
 ---
 
 **Game Review: Dota 2**

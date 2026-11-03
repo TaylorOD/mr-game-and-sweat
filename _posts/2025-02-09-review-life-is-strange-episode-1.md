@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-09T00:10:20.647Z
 categories: [ review, game ]
-image: null
 excerpt: "Life is Strange features an episodic structure that emphasizes storytelling and character development over action-packed gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 319630
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg
 ---
 
 **Life is Strange - Episode 1** invites players into the life of Max Caulfield, a high school student who discovers she has the power to rewind time. With its gripping narrative and relatable characters, the game promises an engaging experience that poses ethical dilemmas and emotional moments. However, how well does it perform for gamers looking to combine gameplay with exercise on a treadmill or bike? Let’s break it down.

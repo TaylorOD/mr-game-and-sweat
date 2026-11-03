@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-18T00:10:51.017Z
 categories: [ review, game ]
-image: null
 excerpt: "Ah, the zen-like chaos of Goat Simulator."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 265930
+controller: full
+genres: ["Casual", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg
 ---
 
 Ah, the zen-like chaos of Goat Simulator. This wacky, physics-driven sandbox offers players the chance to embody the most agile (and utterly ridiculous) creature known to man: the goat. But how well does this unruly gameplay work when you’re trying to balance your fitness regimen on a treadmill or bike? Let’s take a closer look.

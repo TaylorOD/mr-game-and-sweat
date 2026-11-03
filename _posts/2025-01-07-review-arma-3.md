@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-07T00:10:31.387Z
 categories: [ review, game ]
-image: null
 excerpt: "Arma 3 is a military simulation game that offers a vast open-world experience filled with tactical gameplay and engaging combat scenarios."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 107410
+genres: ["Action", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg
 ---
 
 Arma 3 is a military simulation game that offers a vast open-world experience filled with tactical gameplay and engaging combat scenarios. While it primarily targets those with a keen interest in warfare and strategy, it can also cater to gamers looking to maintain their fitness on a treadmill or bike. Let’s break down how well it fits within that exercise-friendly entertainment niche.

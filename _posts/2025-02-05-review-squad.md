@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-05T00:10:11.131Z
 categories: [ review, game ]
-image: null
 excerpt: "Squad is a tactical multiplayer shooter that emphasizes team play and communication, making it a unique addition to the genre."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 393380
+genres: ["Action", "Indie", "Massively Multiplayer", "Strategy"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg
 ---
 
 Squad is a tactical multiplayer shooter that emphasizes team play and communication, making it a unique addition to the genre. It’s not just about individual skill; it’s about working together to secure objectives and control the battlefield. This cooperative gameplay can provide an engaging distraction from your workout, but how well does it really translate into a game that you can enjoy while on a treadmill or bike? Let’s break it down.

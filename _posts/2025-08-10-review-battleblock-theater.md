@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-10T00:13:40.792Z
 categories: [ review, game ]
-image: null
 excerpt: "BattleBlock Theater is a delightful platformer that bursts with charm and creativity."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 238460
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg
 ---
 
 **Game Review: BattleBlock Theater**
