@@ -84,7 +84,6 @@ const post = buildReviewPost({
   scores: [3, 3, 2],
   reviewDate: new Date('2026-01-02T00:12:00Z'),
   addedDate: '2026-11-03',
-  imageUrl: null,
 });
 assert.ok(post.startsWith('---\nlayout: post\n'));
 assert.ok(post.includes('title:  "A \\"Quoted\\" Game: Part 2"\n'), 'Titles must be safe YAML');
@@ -105,7 +104,6 @@ const plain = buildReviewPost({
   scores: [1, 1, 1],
   reviewDate: new Date('2026-01-02T00:12:00Z'),
   addedDate: null,
-  imageUrl: null,
 });
 assert.ok(!plain.includes('added:'));
 assert.ok(!plain.includes('pause_friendly'));
