@@ -1,0 +1,19 @@
+{% assign related_genre = page.genres | first %}
+{% if related_genre %}
+{% assign related_count = 0 %}
+{% capture related_links %}
+{% for p in site.posts %}
+	{% if p.url != page.url and p.genres contains related_genre %}
+	<li><a href="{{ p.url | absolute_url }}">{{ p.title }}</a>{% if p.score_overall %} <span class="text-muted">{{ p.score_overall }}/3</span>{% endif %}</li>
+	{% assign related_count = related_count | plus: 1 %}
+	{% if related_count == 4 %}{% break %}{% endif %}
+	{% endif %}
+{% endfor %}
+{% endcapture %}
+{% if related_count > 0 %}
+<section class="related-reviews">
+	<h2 class="h5">More {{ related_genre }} reviews</h2>
+	<ul>{{ related_links }}</ul>
+</section>
+{% endif %}
+{% endif %}

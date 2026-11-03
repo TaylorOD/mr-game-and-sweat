@@ -3,4 +3,58 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+/* Score box on review pages */
+.score-box {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 1rem 2rem;
+	margin: 0 0 2rem;
+	padding: 1.25rem 1.5rem;
+	border-radius: 6px;
+	background: #e7f2f6;
+}
+.score-box-main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	line-height: 1.1;
+}
+.score-number {
+	font-size: 2.75rem;
+	font-weight: 700;
+}
+.score-out-of {
+	font-size: 0.85rem;
+}
+.score-box-list {
+	flex: 1 1 200px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 0.95rem;
+}
+.score-box-list li {
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+	padding: 0.15rem 0;
+}
+.score-box-steam {
+	flex: 1 1 100%;
+}
+
+/* Related reviews */
+.related-reviews {
+	margin: 2rem 0;
+}
+.related-reviews ul {
+	padding-left: 1.25rem;
+}
+
+/* Score box on phones */
+@media only screen and (max-width: 767px) {
+	.score-box-main {
+		flex: 1 1 100%;
+	}
+}
