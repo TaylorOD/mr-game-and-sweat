@@ -143,10 +143,10 @@ async function run(base) {
   });
 
   await test('removed reviews redirect', async (page) => {
-    await page.goto(`${base}/review-sea-of-thieves-2024-edition/`);
-    await page.waitForURL('**/review-sea-of-thieves-2025-edition/', { timeout: 5000 }).catch(() => {});
-    const html = await page.content();
-    assert.ok(page.url().includes('2025-edition') || html.includes('review-sea-of-thieves-2025-edition'));
+    const response = await page.request.get(`${base}/review-sea-of-thieves-2024-edition/`);
+    const html = await response.text();
+    assert.ok(/http-equiv="refresh"/.test(html));
+    assert.ok(html.includes('review-sea-of-thieves-2025-edition'));
   });
 
   await test('missing pages show the 404 page', async (page) => {
