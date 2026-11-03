@@ -1,4 +1,5 @@
 ---
+redirect_from: ["/review-sea-of-thieves-2024-edition/"]
 layout: post
 title:  "Sea of Thieves: 2025 Edition"
 author: taylor

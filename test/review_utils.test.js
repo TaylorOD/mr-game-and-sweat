@@ -17,6 +17,11 @@ assert.strictEqual(normalizeGameName('Sea of Thieves: 2026 Edition'), 'sea of th
 assert.strictEqual(normalizeGameName('Sea of Thieves: 2024 Edition'), 'sea of thieves');
 assert.strictEqual(normalizeGameName('Tomb Raider Game of the Year'), 'tomb raider');
 assert.strictEqual(normalizeGameName('Northgard: Definitive Edition'), 'northgard');
+assert.strictEqual(normalizeGameName('Grand Theft Auto V Legacy'), 'grand theft auto v');
+assert.strictEqual(
+  normalizeGameName('The Elder Scrolls V: Skyrim Special Edition'),
+  'the elder scrolls v skyrim'
+);
 assert.strictEqual(
   normalizeGameName('The Witcher 3: Wild Hunt — Remastered'),
   'the witcher 3 wild hunt'

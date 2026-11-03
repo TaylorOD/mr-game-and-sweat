@@ -1,4 +1,5 @@
 ---
+redirect_from: ["/review-grand-theft-auto-iv-complete-edition/"]
 layout: post
 title:  "Grand Theft Auto IV: The Complete Edition"
 author: taylor
