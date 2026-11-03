@@ -13,6 +13,9 @@ const {
   buildGuidePost,
   buildReviewPost,
   fixInlineScores,
+  splitReview,
+  joinReview,
+  needsRewrite,
 } = require('../lib/review_utils');
 
 // Editions of a game we already reviewed count as the same game
@@ -185,5 +188,24 @@ assert.strictEqual(
   fixInlineScores('Some text.\n\n### Category Score: 2 out of 3'),
   'Some text.\n\n### Category Score: 2 out of 3'
 );
+
+// Rewrites can change the words but never the headings or scores
+const oldReview =
+  '---\ntitle: "Game"\nscore_overall: 2\n---\n\nIntro words.\n\n## Gameplay\n\nOld words.\n\n### Category Score: 2 out of 3\n\n## Conclusion and Score\n\nThe end.\n\n### Overall Score: 2 out of 3\n';
+const splitOld = splitReview(oldReview);
+assert.deepStrictEqual(
+  splitOld.body.filter((piece) => piece.text).map((piece) => [piece.heading, piece.text]),
+  [['Intro', 'Intro words.'], ['Gameplay', 'Old words.'], ['Conclusion and Score', 'The end.']]
+);
+assert.strictEqual(joinReview(splitOld), oldReview);
+splitOld.body.find((piece) => piece.text === 'Old words.').text = 'New words.';
+assert.ok(joinReview(splitOld).includes('## Gameplay\n\nNew words.\n\n### Category Score: 2 out of 3'));
+
+assert.ok(needsRewrite('2025-01-01-review-game.md', 'score_overall: 2'));
+assert.ok(!needsRewrite('2024-03-06-vampire-survivors.md', 'score_overall: 3'));
+assert.ok(!needsRewrite('2026-11-03-review-game.md', 'score_overall: 2'));
+assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\nadded: 2026-11-02'));
+assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\nlast_modified_at: 2026-11-03'));
+assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\ncategories: [ review, desk ]'));
 
 console.log('review utils checks passed');
