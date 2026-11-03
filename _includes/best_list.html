@@ -15,6 +15,7 @@
 	{% if treadmill == score and shown < 25 %}
 	{% assign shown = shown | plus: 1 %}
 	<li>
+		<span class="best-rank" aria-hidden="true"></span>
 		<a class="best-list-image" href="{{ p.url | absolute_url }}">{% if p.image %}<img loading="lazy" class="rounded" src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}">{% endif %}</a>
 		<div class="best-list-text">
 			<h2 class="h5"><a href="{{ p.url | absolute_url }}">{{ p.title }}</a>{% include score_badge.html score=p.score_overall %}</h2>
