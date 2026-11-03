@@ -118,6 +118,28 @@ async function run(base) {
     assert.strictEqual(await page.locator('.header-search').count(), 0);
   });
 
+  await test('filters stay in the address bar', async (page) => {
+    await page.goto(`${base}/reviews/`);
+    await page.waitForSelector('#review-grid .card');
+    assert.strictEqual(new URL(page.url()).search, '');
+    await page.selectOption('#filter-genre', 'RPG');
+    await page.selectOption('#filter-pause', 'Yes');
+    await page.selectOption('#filter-sort', 'title');
+    await page.check('#filter-controller');
+    const filtered = await reviewCount(page);
+    assert.strictEqual(new URL(page.url()).search, '?genre=RPG&pause=Yes&sort=title&controller=yes');
+    await page.reload();
+    await page.waitForSelector('#review-grid .card');
+    assert.strictEqual(await reviewCount(page), filtered);
+    assert.strictEqual(await page.inputValue('#filter-genre'), 'RPG');
+    assert.strictEqual(await page.inputValue('#filter-sort'), 'title');
+    assert.ok(await page.isChecked('#filter-controller'));
+    await page.goto(`${base}/reviews/?genre=NotAGenre&score=99&utm_source=test`);
+    await page.waitForSelector('#review-grid .card');
+    assert.ok((await reviewCount(page)) > 380);
+    assert.strictEqual(new URL(page.url()).search, '?utm_source=test');
+  });
+
   await test('filters narrow the list', async (page) => {
     await page.goto(`${base}/reviews/`);
     await page.waitForSelector('#review-grid .card');

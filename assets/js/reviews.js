@@ -17,6 +17,7 @@
 	};
 	var guideResults = document.getElementById('guide-results');
 	var guideList = document.getElementById('guide-list');
+	var URL_FIELDS = { q: 'search', genre: 'genre', pause: 'pause', session: 'session', score: 'score', sort: 'sort' };
 	var reviews = [];
 	var guides = [];
 	var matches = [];
@@ -219,6 +220,32 @@
 		shown = 0;
 		count.textContent = matches.length + (matches.length === 1 ? ' review' : ' reviews');
 		showMore();
+		writeUrl();
+	}
+
+	// Filters live in the address bar so a filtered list can be shared. Anything that isnt ours is left alone.
+	function readUrl() {
+		var params = new URLSearchParams(window.location.search);
+		Object.keys(URL_FIELDS).forEach(function (key) {
+			var field = fields[URL_FIELDS[key]];
+			if (params.has(key)) field.value = params.get(key);
+			if (field.selectedIndex === -1) field.selectedIndex = 0;
+		});
+		fields.controller.checked = params.get('controller') === 'yes';
+	}
+
+	function writeUrl() {
+		var params = new URLSearchParams(window.location.search);
+		Object.keys(URL_FIELDS).forEach(function (key) {
+			var field = fields[URL_FIELDS[key]];
+			var empty = field.options ? field.options[0].value : '';
+			if (field.value === empty) params.delete(key);
+			else params.set(key, field.value);
+		});
+		if (fields.controller.checked) params.set('controller', 'yes');
+		else params.delete('controller');
+		var query = params.toString();
+		window.history.replaceState(null, '', window.location.pathname + (query ? '?' + query : '') + window.location.hash);
 	}
 
 	function init(data) {
@@ -246,7 +273,7 @@
 			var open = filtersMore.classList.toggle('open');
 			toggle.setAttribute('aria-expanded', String(open));
 		});
-		fields.search.value = new URLSearchParams(window.location.search).get('q') || '';
+		readUrl();
 		apply();
 	}
 
