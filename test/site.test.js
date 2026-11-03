@@ -82,6 +82,15 @@ for (const file of htmlFiles) {
   for (const [, url] of html.matchAll(/<(?:img|script)\b[^>]*\bsrc="([^"]+)"/g)) {
     if (!resolves(url, page)) report(page, `broken file ${url}`);
   }
+  // Images we host need their sizes, Steam art doesnt
+  for (const [tag] of html.matchAll(/<img\b[^>]*>/g)) {
+    const srcset = tag.match(/\bsrcset="([^"]+)"/);
+    if (/src="[^"]*assets\/images\/(guides|authors)\//.test(tag) && !srcset) report(page, 'own image has no srcset');
+    for (const entry of srcset ? srcset[1].split(',') : []) {
+      const url = entry.trim().split(' ')[0];
+      if (!resolves(url, page)) report(page, `broken file ${url}`);
+    }
+  }
 }
 assert.ok(pagesChecked > 400, `Only checked ${pagesChecked} pages`);
 

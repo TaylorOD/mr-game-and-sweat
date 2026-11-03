@@ -5,20 +5,7 @@ layout: default
 <!-- Post Featured Image -->
 {% if page.image %}
 <div class="text-center mx-auto mb-5">
-	<img
-		class="featured-image text-center mx-auto rounded"
-		src="{{ site.baseurl
-	}}/{{ page.image }}"
-		alt="{{ page.title }}"
-		{%
-		if
-		page.image_height
-		%}
-		style="height: {{page.image_height}}"
-		{%
-		endif
-		%}
-	/>
+	{% include image.html src=page.image alt=page.title class="featured-image text-center mx-auto rounded" sizes="183px" width=183 height=160 priority=true %}
 </div>
 {% endif %}
 <!-- End Featured Image -->

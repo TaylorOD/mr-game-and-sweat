@@ -6,7 +6,7 @@
 	{% if p.url != page.url and p.genres contains related_genre %}
 	<li>
 		<a href="{{ p.url | absolute_url }}">
-			<span class="card-image-link">{% if p.image %}<img loading="lazy" src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}">{% endif %}{% if p.score_overall %}{% include score_badge.html score=p.score_overall %}{% endif %}</span>
+			<span class="card-image-link">{% if p.image %}{% include image.html src=p.image alt=p.title sizes="180px" %}{% endif %}{% if p.score_overall %}{% include score_badge.html score=p.score_overall %}{% endif %}</span>
 			<span class="related-title">{{ p.title }}</span>
 		</a>
 	</li>

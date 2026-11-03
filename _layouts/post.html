@@ -9,9 +9,9 @@ post_class: post-template
 ================================================== -->
 
 	{% if page.image %}
-	{% capture art %}{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endcapture %}
+	{% capture art %}{% if page.image contains '://' %}{{ page.image }}{% elsif page.image contains 'assets/images/guides/' %}{{ site.baseurl }}/{{ page.image | split: '.' | pop | join: '.' }}-480.webp{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endcapture %}
 	<div class="post-banner" style="--art: url('{{ art | strip }}')">
-		<img class="featured-image" src="{{ art | strip }}" alt="{{ page.title | escape }}">
+		{% include image.html src=page.image alt=page.title class="featured-image" sizes="(min-width: 600px) 560px, 100vw" priority=true %}
 	</div>
 	{% endif %}
 
@@ -58,7 +58,7 @@ post_class: post-template
 			<!-- Author Box -->
 			{% if page.author %}
 			<div class="post-author">
-				<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+				{% include image.html src=author.avatar alt=author.display_name class="author-thumb" sizes="64px" %}
 				<div>
 					<strong>{{ author.display_name }}</strong>
 					<span class="author-description">{{ author.description }}</span>
