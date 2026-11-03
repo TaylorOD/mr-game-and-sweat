@@ -1,0 +1,15 @@
+{% if page.score_overall %}
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "Review",
+	"name": {{ page.title | append: " review" | jsonify }},
+	"url": {{ page.url | absolute_url | jsonify }},
+	"datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+	"author": { "@type": "Person", "name": {{ site.authors[page.author].display_name | default: site.author | jsonify }} },
+	"publisher": { "@type": "Organization", "name": {{ site.title | jsonify }} },
+	"itemReviewed": { "@type": "VideoGame", "name": {{ page.title | jsonify }}, "gamePlatform": "PC", "applicationCategory": "Game", "operatingSystem": "Windows" },
+	"reviewRating": { "@type": "Rating", "ratingValue": {{ page.score_overall }}, "worstRating": 0, "bestRating": 3 }
+}
+</script>
+{% endif %}
