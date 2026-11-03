@@ -98,10 +98,11 @@ for (const post of posts) {
     if (!(value >= 0 && value <= 3)) report(file, `score out of range: ${score}`);
   }
 
-  if (!['"Yes"', '"Sometimes"', '"No"'].includes(front.pause_friendly)) {
+  // Workout details are optional, since that step can fail without losing the review
+  if (front.pause_friendly && !['"Yes"', '"Sometimes"', '"No"'].includes(front.pause_friendly)) {
     report(file, `pause_friendly must be a quoted Yes, Sometimes or No, got ${front.pause_friendly}`);
   }
-  if (!['Short', 'Medium', 'Long'].includes(front.session_length)) {
+  if (front.session_length && !['Short', 'Medium', 'Long'].includes(front.session_length)) {
     report(file, `bad session_length ${front.session_length}`);
   }
 }
