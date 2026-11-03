@@ -69,6 +69,10 @@ h1, h2, h3, h4, h5, h6,
 	border-color: #ffe07a;
 	color: var(--accent-ink);
 }
+.hero {
+	background: var(--surface);
+	border: 1px solid var(--line);
+}
 .card {
 	background: transparent;
 }
