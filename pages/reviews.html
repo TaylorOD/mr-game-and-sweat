@@ -13,6 +13,8 @@ description: Search and filter every Mr. Game and Sweat review by score, genre, 
 		<label for="filter-search">Search</label>
 		<input id="filter-search" class="form-control" type="search" placeholder="Search by game" />
 	</div>
+	<button id="filters-toggle" class="btn btn-ghost filters-toggle" type="button" aria-expanded="false" aria-controls="filters-more">Filters</button>
+	<div id="filters-more" class="review-filter-more">
 	<div class="review-filter">
 		<label for="filter-genre">Genre</label>
 		<select id="filter-genre" class="form-control"><option value="">All genres</option></select>
@@ -55,6 +57,7 @@ description: Search and filter every Mr. Game and Sweat review by score, genre, 
 	</div>
 	<div class="review-filter review-filter-check">
 		<label><input id="filter-controller" type="checkbox" /> Controller support only</label>
+	</div>
 	</div>
 </form>
 
