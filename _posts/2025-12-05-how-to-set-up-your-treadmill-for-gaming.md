@@ -17,7 +17,7 @@ You dont need a fancy setup to game on a treadmill. You need a screen at the rig
 
 Before you buy anything, read your treadmill's manual. Check the weight limit, the safety clip and how much clear space it wants behind the belt.
 
-Wear the safety clip. Know where the stop button is without looking. Keep the area behind the treadmill clear, because that is where you go if you trip. If kids or pets are around, make sure they cant get near the belt.
+Wear the safety clip. Know where the stop button is without looking. Keep the area behind the treadmill clear, because that is where you go if you trip. [Consumer Reports](https://www.consumerreports.org/treadmills/how-to-stay-safe-on-a-treadmill/) suggests at least 6 feet behind it and 2 feet on each side, but follow your manual if it asks for more. If kids or pets are around, make sure they cant get near the belt.
 
 ## Put the screen at eye level
 
