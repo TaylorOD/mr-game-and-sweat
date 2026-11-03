@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-12-28T00:09:52.198Z
 categories: [ review, game ]
-excerpt: "Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters."
+excerpt: "Controller support makes Paladins workable on a treadmill or bike, but fast fights can throw off your focus, aim, and timing. It is manageable if you can keep control of your pace."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 3
@@ -17,32 +17,33 @@ genres: ["Action", "Adventure", "Massively Multiplayer", "Strategy", "Free To Pl
 pause_friendly: "No"
 session_length: Short
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters. But how does it hold up when you're trying to stay active on a treadmill or bike? Let’s dive into the details.
+Paladins is a team shooter with a cast of different characters and some strategy in the mix. It has a dedicated fanbase, though the fast action can make it a tricky fit for a workout.
 
 ## Gameplay
 
-Paladins features a dynamic gameplay experience that keeps you engaged throughout each match. With team-based objectives and fast-paced action, you'll often find yourself at the edge of your seat, even while running or biking. The absence of lengthy cut scenes means you can focus on your workout without being interrupted by storytelling elements. Instead of slowing down the action with narrative, the game emphasizes quick engagements, diverse character abilities, and well-designed maps that encourage strategic maneuvering. However, the fast-paced nature can sometimes be a distraction; if you’re not careful, you could lose your rhythm on the treadmill when a 5-on-5 skirmish breaks out. 
+Matches move fast, with team objectives, character abilities, and maps that encourage strategic movement. There are no long cutscenes to interrupt you, but a five on five fight can pull your attention off your pace.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-When it comes to playing while exercising, Paladins holds up surprisingly well. It supports controller compatibility, which can be beneficial while managing your balance on a bike or treadmill. However, some characters may rely on quick reflexes and extensive movement, which can be challenging if you're fully engaged in a cardio workout. Running or biking might throw off your aim or timing, particularly in more intense moments of the match. But if you can keep your heart rate steady while maintaining some control, Paladins remains a game that you can enjoy on the go.
+Controller support helps when you are balancing on a treadmill or bike. Still, some characters need quick reactions and lots of movement, and exercise can mess with your aim or timing.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Paladins is relatively versatile when it comes to its system demands. Most mid-range gaming PCs can handle it without a hitch, making it accessible to a broader player base. With moderate graphical settings, you won’t need a high-end rig to maintain smooth gameplay, which is perfect for those looking to jump into a fast-paced shooter without needing to upgrade their equipment. If you’ve got a decent system, you should be able to enjoy Paladins without issues—even while running or biking.
+Paladins runs on most mid range gaming PCs, and moderate graphics settings should keep things smooth without a high end rig. A decent system should be enough to play without issues.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-In conclusion, Paladins is a vibrant and engaging team-based shooter that provides an exciting experience, whether you’re sitting still or trying to stay active. While the fast-paced gameplay can distract you from your workout at times, the game's design encourages quick engagement without lengthy downtime. The controller compatibility can help you maintain your exercise regimen, making it easier to play while you run or bike. It's not perfect, but it is certainly manageable.
+Paladins is manageable for workouts, but the quick matches can distract you. Controller support helps, though keeping your aim and timing steady while you exercise is the hard part.
 
 ### Overall Score: 2.33 out of 3
 
-Paladins is an enjoyable title that can keep you entertained while you work up a sweat. Grab your controller, hop on that treadmill, and dive into the whimsical world of champions!
+It can keep you entertained while you exercise, but it takes attention that your workout also needs. A decent PC and controller support help, though this is not the easiest shooter to play while moving.

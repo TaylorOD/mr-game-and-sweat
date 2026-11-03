@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-08T00:10:33.219Z
 categories: [ review, game ]
-excerpt: "BioShock Infinite is a captivating journey through a vibrant, dystopian world that is as thought-provoking as it is breathtakingly immersive."
+excerpt: "Controller support helps, but quick aiming, long cutscenes, and slow stretches make BioShock Infinite only an okay fit for a treadmill or bike."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Action"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-BioShock Infinite is a captivating journey through a vibrant, dystopian world that is as thought-provoking as it is breathtakingly immersive. Set in the sky city of Columbia, players take on the role of Booker DeWitt as he attempts to rescue a mysterious woman named Elizabeth, embroiling himself in a narrative that's rich in themes of freedom, racism, and American exceptionalism. But how does it hold up for those looking to stay active while gaming on a treadmill or bike? Let's dive in!
+BioShock Infinite follows Booker DeWitt as he tries to rescue Elizabeth from the sky city of Columbia. Its story takes on themes like freedom and racism, but its slower stretches can make it a mixed fit for a workout.
 
 ## Gameplay
 
-The gameplay in BioShock Infinite balances first-person shooting mechanics with puzzle-solving elements and exploration. While the world is beautifully crafted and filled with engaging side stories, players will find that the gameplay occasionally descends into slower-paced sequences that can disrupt the rhythm of a workout. The combat is dynamic, but there are also quite a few lengthy cutscenes that can pull you away from your exercise if you're not careful. Engaging with Elizabeth's abilities adds refreshing strategic layers to combat, but those looking to maintain a fierce training routine might find themselves occasionally distracted by the narrative-heavy moments.
+The first person shooting is mixed with puzzles and exploration. Combat and Elizabeth’s abilities keep things interesting, but slow sections and long cutscenes can interrupt your workout.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-BioShock Infinite supports controller compatibility, making it easier to maintain your focus without being glued to the keyboard or mouse. This is an essential aspect when attempting to manage both cardio and gameplay. However, the game does feature segments that require quick reflexes and occasional precision aiming—issues that might not mesh well with jogging or biking. Nevertheless, the pacing generally allows for a smooth transition between gameplay and movement, so long as you can resist the urge to stop and enjoy the scenery during your run.
+Controller support makes it easier to play while exercising. Quick reflexes and precise aiming can be tough on a treadmill or bike, so it works better when you can keep your movement steady.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-BioShock Infinite is not overly demanding by modern standards, but it does require a decent system to enjoy its full graphical glory. An Intel Core 2 Duo or equivalent processor and a DirectX 9.0c compatible graphics card with at least 512MB VRAM is the minimum requirement. If you aim for smoother gameplay, especially while exercising, you'll want to ensure you're using a machine with more than 4 GB of RAM and a better GPU. That said, most systems currently in operation should handle the game quite well.
+The game is not especially demanding by modern standards, but you still need a decent system. The minimum includes an Intel Core 2 Duo or equivalent processor and a DirectX 9.0c compatible graphics card with at least 512MB VRAM.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-BioShock Infinite is a stunningly beautiful game with a rich narrative that can somewhat clash with an intense workout routine. While the gameplay mechanics offer enough engagement to keep you occupied, those slow-paced sections might occasionally distract you from your physical activity. Overall, it’s a solid choice for casual exercise while gaming, particularly if you’re using a treadmill or bike and can manage the cutscenes. 
+BioShock Infinite has a strong story, but its slower sections can pull your attention away from exercise. It is an okay choice for casual treadmill or bike sessions, though the cutscenes and aiming make it less suited to a hard workout.
 
 ### Overall Score: 2 out of 3

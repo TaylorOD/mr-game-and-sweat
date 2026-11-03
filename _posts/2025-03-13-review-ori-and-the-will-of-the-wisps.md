@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-13T00:10:46.197Z
 categories: [ review, game ]
-excerpt: "Ori and the Will of the Wisps is the beautifully crafted sequel to the critically acclaimed Ori and the Blind Forest."
+excerpt: "Ori works for a workout when you are exploring, but precision platforming and story scenes can pull your focus away. You can play it on a treadmill or bike, though it takes more attention than an easygoing workout game."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 3
@@ -17,30 +17,31 @@ genres: ["Action"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-"Ori and the Will of the Wisps" is the beautifully crafted sequel to the critically acclaimed "Ori and the Blind Forest." With its engaging world, emotional storytelling, and fluid gameplay, it’s a title that invites you to explore its depths. But how does it fare for those of us who are combining our gaming experience with, say, a treadmill or stationary bike workout? Let's dive in.
+Ori and the Will of the Wisps is a sequel with a good world, emotional storytelling, and fluid gameplay. It has plenty to explore, but some parts ask for more focus than you may want to give a game while exercising.
 
 ## Gameplay
 
-The gameplay in "Ori and the Will of the Wisps" is a true masterpiece of platforming. The controls are responsive, allowing for precise movements that are essential when navigating the lush environments filled with challenges and enemies. The game boasts fluid animations and clever design, drawing you into its universe seamlessly. However, the narrative is woven into the experience, with some cutscenes and storytelling moments that can slow momentum. While these moments are artistically stunning, they can momentarily pull you away from your exercise focus. Thankfully, the pacing between exploration, platforming challenges, and combat is generally well-balanced, ensuring that you remain engaged.
+The platforming feels good, and the responsive controls help with careful movement through environments full of challenges and enemies. Cutscenes can slow things down and pull your attention from your workout, even though the mix of exploration, platforming, and combat keeps the game moving most of the time.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-On a treadmill or bike, "Ori and the Will of the Wisps" shines when it comes to controller compatibility. With its straightforward movement mechanics that primarily require the use of two buttons—jump and interact—you won’t find yourself needing to execute rapid reflexes or complex inputs that would disrupt your workout rhythm. However, the occasional precision platforming sections may require a moment of concentrated focus, which might divert your attention from running or biking. Overall, it’s a game that can be played effectively while maintaining your exercise routine, but you’ll need to be ready to occasionally pause for some quick decisions.
+The basic controls mostly use jump and interact, so you do not have to deal with a lot of complicated inputs. Precision platforming can still take your focus away from running or biking, and you may need to pause to make a quick decision. It works for exercise, but it is not always easy to keep your workout rhythm.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-"Ori and the Will of the Wisps" is not overly demanding on a system, making it accessible to a wide range of gamers. To enjoy this visually stunning game, a relatively modest gaming rig will suffice. Minimum requirements include an Intel Core i5 and 8GB of RAM, with a recommended setup being an Intel Core i7 and a dedicated GPU for those breathtaking graphics. The game runs smoothly on lower-end systems, which is a fantastic perk for those who might be combining their gaming with fitness routines. Its accessibility means you can focus more on your exercise without worrying about performance issues.
+The game is not especially demanding on your computer. The minimum requirements are an Intel Core i5 and 8GB of RAM, while the recommended setup is an Intel Core i7 and a dedicated GPU. It runs smoothly on lower end systems, so you do not need a top of the line computer.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-In conclusion, "Ori and the Will of the Wisps" is an enchanting experience filled with tight platforming mechanics and a heartwarming story. While some cutscenes might temporarily take you out of the action, the overall solid gameplay allows for a decent exercise experience on a treadmill or bike. Its light hardware demands ensure that most can enjoy this gorgeous adventure without the need for a top-of-the-line setup. This title is one that you'll want to indulge in while getting your heart rate up.
+Ori and the Will of the Wisps has solid platforming and a heartwarming story, but the cutscenes can take you out of the action. Its gameplay makes for a decent treadmill or bike game, though some sections need more attention than you might want during a workout. The modest computer requirements are a plus.
 
 ### Overall Score: 2.33 out of 3

@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-01-31T00:09:55.492Z
 categories: [ review, game ]
-excerpt: "The gameplay in Divinity: Original Sin 2 is engaging and rich, allowing players to lose themselves in its world."
+excerpt: "Turn based combat gives you time to keep moving, pause, or adjust your pace. It works well for treadmill and bike workouts without demanding fast reflexes."
 score_gameplay: 3
 score_treadmill: 3
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Adventure", "RPG", "Strategy"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/3f6ee788cb01bd65097c52399d536eb424b4876f/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-**Divinity: Original Sin 2 - Definitive Edition** is a masterfully crafted RPG that invites players into an expansive and dynamic fantasy world. With intricate turn-based combat, rich storytelling, and a plethora of choices, this game can easily capture your imagination. However, how does it perform in the exercise department? Let's break it down.
+Divinity: Original Sin 2 - Definitive Edition is a strong RPG with turn based combat, a rich story, and plenty of choices. Its slower pace also makes it a good fit for workouts.
 
 ## Gameplay
 
-The gameplay in Divinity: Original Sin 2 is engaging and rich, allowing players to lose themselves in its world. The turn-based combat system requires strategic thinking and allows players to take their time, making it easier to play while navigating a treadmill or stationary bike. Essentially, this means you can pick and choose your actions at your own pace. The narrative is compelling, featuring deep character interactions and branching paths that can keep you invested for hours. Thankfully, the slow-paced nature of the turn-based battles means you won't miss crucial story elements while you sweat it out. While there are some cutscenes, they don't feel overly long and give you a nice break in between action-packed sequences.
+Combat gives you time to choose your actions, so you can keep playing at your own pace. Deep character interactions and branching paths give you plenty to follow, and cutscenes offer a short break between fights.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-Divinity: Original Sin 2 is pretty accommodating when it comes to running or biking while you play. The game has controller compatibility, which is a must for any on-the-go player. Its turn-based mechanics allow for periodic pauses, making it easy to catch your breath, adjust the treadmill speed, or adjust your bike’s resistance. There are no intense, twitchy gameplay elements that require fast reflexes, so it's great for players who want to mix exercising with gaming without feeling stressed about missing a quick-time event or a critical combat move.
+Controller support and turn based combat make this easy to play on a treadmill or bike. You can pause to catch your breath or adjust your speed and resistance, and you do not need fast reflexes to keep up.
 
 ### Category Score: 3 out of 3
 
 ## Computer Requirements
 
-As for computer requirements, Divinity: Original Sin 2 isn’t the most demanding game, but it does need a capable system to run smoothly at its best. Minimum requirements suggest at least an Intel Core i5 or equivalent and 4GB of RAM, while recommended specs call for a more powerful Intel Core i7 and 8GB of RAM. If you're playing on a laptop or older system, you might need to dial down the graphics settings for optimal performance. However, most modern gaming PCs should handle it fairly well.
+The game needs a capable computer to run smoothly. Minimum specs call for an Intel Core i5 or equivalent and 4 GB of RAM, while recommended specs call for an Intel Core i7 and 8 GB of RAM. On an older system or laptop, you may need to lower the graphics settings.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-In conclusion, Divinity: Original Sin 2 - Definitive Edition excels in terms of gameplay and compatibility with exercising, making it an excellent choice for those who want to immerse themselves in a rich RPG world while staying active. Its turn-based combat allows for seamless integration with treadmill or bike workouts, ensuring you can focus on your fitness goals without sacrificing gameplay. However, be mindful of the system requirements to avoid any performance issues.
+This is a great choice for a treadmill or bike workout, thanks to its slow, flexible combat. The computer requirements are the main catch, especially if you have an older system.
 
 ### Overall Score: 2.67 out of 3

@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-01-08T00:10:51.681Z
 categories: [ review, game ]
-excerpt: "Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up."
+excerpt: "Cities: Skylines keeps your mind busy while you run or ride, and its gamepad support makes it easy to control at a steady pace. Just keep in mind that a growing city can ask more of your computer."
 score_gameplay: 3
 score_treadmill: 3
 score_computer: 2
@@ -16,30 +16,31 @@ genres: ["Simulation", "Strategy"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up. The engaging gameplay offers a blend of creativity and strategy, which can be both captivating and addicting—exactly what one might want to immerse themselves in while getting a workout on a treadmill or bike.
+Cities: Skylines lets you build and manage a city from the ground up. The mix of creativity and planning gives you plenty to think about while you work out.
 
 ## Gameplay
 
-The gameplay in Cities: Skylines is exceptionally engaging, providing a constant flow of tasks that demand your attention. From zoning different types of land—residential, commercial, and industrial—to managing the city’s infrastructure, such as roads, public transport, and utilities, there's always something to keep your mind occupied. This constant engagement helps distract you from the physical exertion of running or pedaling. There are very few slow sections, as the game allows you to continually develop and expand your city. The absence of long cutscenes means you can easily pause the game or take a breather without losing track of crucial city development. It's a perfect match for those wanting to stay active while keeping their mind busy.
+There is always something to manage, from zoning land to handling roads, public transport, and utilities. The steady stream of tasks keeps your mind occupied, and you can pause or take a breather without losing track of things.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-Cities: Skylines is quite compatible with treadmill and bike gaming setups, primarily due to its controller compatibility. The game can be played seamlessly with a gamepad, allowing you to focus more on your workout rather than precise mouse movements, which can be tricky when you’re trying to maintain your pace. Additionally, the gameplay does not require quick reflexes or fast-paced actions, which means you can easily maintain a steady pace while manipulating your city’s elements. You can manage your urban sprawl at your own leisure, making it a fantastic choice for players who want to combine their exercise with a casual gaming experience.
+Gamepad support makes the game a good fit for a treadmill or bike. It does not call for quick reflexes, so you can keep a steady pace while managing your city.
 
 ### Category Score: 3 out of 3
 
 ## Computer Requirements
 
-While Cities: Skylines is graphically pleasing, it is not overly demanding on a computer. It runs smoothly on mid-range systems, making it accessible for a wide range of players. A setup with at least 4GB of RAM and a decent graphics card can handle the game without issue, allowing you to enjoy a seamless gaming experience without too much lag or performance slowdowns. However, keep in mind that as your city grows, it can become more demanding, particularly with mods or added content, which might require a more powerful rig. 
+The game can run smoothly on a midrange computer at first. As your city grows, or if you use mods or added content, it can need more from your system.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Cities: Skylines excels at providing an immersive city-building experience that pairs well with physical exercise, thanks to its engaging gameplay and controller support. There are very few moments of inactivity, ensuring you're always in the zone, focused on planning your next urban development while keeping your heart rate up. Additionally, its moderate computer requirements make it accessible for most gamers. Whether you’re keen on creating sprawling metropolises or just managing a quaint little town, this game is an excellent choice for anyone looking to have fun while burning calories.
+Cities: Skylines is a solid choice for exercise because it keeps you busy and works well with a controller. The computer requirements are less of a sure thing as your city grows, so the game is not an easy recommendation for every setup.
 
 ### Overall Score: 2.67 out of 3

@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-12T00:09:31.606Z
 categories: [ review, game ]
-excerpt: "Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia."
+excerpt: "Kingdom Come: Deliverance has slower stretches that can work at a moderate pace, but combat and exploration need your attention. It is a mixed fit for treadmill or bike workouts, especially if you want to push your pace."
 score_gameplay: 2
 score_treadmill: 1.5
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Action", "Adventure", "RPG"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/43b72106345687f4a2bf94d5f98335e52c1cd598/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia. It’s known for its historical authenticity and deep immersive experience, but how well does it fare for those looking to combine their cardio workouts with gameplay? Let's dive into our review based on key categories.
+Kingdom Come: Deliverance is a role playing game set in 15th century Bohemia, with a focus on historical detail. Its long quests and dialogue make it a mixed choice for playing during a workout.
 
 ## Gameplay
 
-The gameplay in Kingdom Come: Deliverance is richly detailed and engaging, with an expansive open world that offers various quests and exploration opportunities. Players are thrust into a life of a blacksmith’s son whose village has been ravaged by invading forces. The quests are often lengthy and filled with dialogue, which can detract from the immersive experience if you're trying to maintain a steady pace on your treadmill or bike. The combat system is realistic and requires skill and timing, which means you’ll need to pay attention during these sequences. However, the slower-paced segments and lengthy cutscenes could make it challenging to keep your intensity up while exercising. 
+You play as a blacksmith’s son whose village has been attacked, and there is a large world to explore. Quests can run long, while combat needs careful timing and attention. The slower sections and cutscenes can make it hard to keep your workout intensity up.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-In terms of compatibility with treadmill running or biking, Kingdom Come: Deliverance does present some challenges. The game primarily utilizes a controller, which is beneficial for standing still or adjusting your speed while playing. However, combat and exploration can be demanding in terms of timing and movement control, requiring focus that might not be conducive to a good workout. If you can maintain a moderate jogging pace, you might be able to enjoy the game without getting too distracted, but the occasional need for quick reactions could pose issues for more intense sessions; it's not quite as forgiving as some other workout-friendly titles.
+The controller works well enough when you are standing still or adjusting your speed, but combat and exploration need focus and precise movement. A moderate pace may be manageable, though quick reactions can be awkward during harder workouts. It is not an especially easy game to play while exercising.
 
 ### Category Score: 1.5 out of 3
 
 ## Computer Requirements
 
-Kingdom Come: Deliverance is quite demanding regarding computer specifications. It requires a minimum of a dual-core CPU, 8GB of RAM, and a graphics card equivalent to an Nvidia GeForce GTX 660 or AMD Radeon HD 7870 for decent performance. To enjoy the game at higher graphical settings, you’ll likely need even more powerful hardware, which could limit accessibility for some users. Notably, this might be something to consider if you’re aiming to run it concurrently with your treadmill or biking—higher system demands might lead to performance issues if you're not set up with a robust machine.
+The game needs a dual core CPU, 8GB of RAM, and a graphics card equivalent to an Nvidia GeForce GTX 660 or AMD Radeon HD 7870 for decent performance. Higher graphics settings need more powerful hardware, so it may not run well on every computer. Its system demands are worth keeping in mind if you plan to play while exercising.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Kingdom Come: Deliverance successfully immerses players in a stunning historical setting, complete with intricate mechanics and a knack for realism. Yet, as an exercise-friendly title, it falls short due to its pacing and computer demands. While it can keep you entertained with rich storytelling, those serious about workouts might find themselves struggling to maintain their momentum on a treadmill or bike—especially during its slower moments. 
+The historical setting, detailed mechanics, and realistic combat have appeal, but the slow pacing and computer demands hold the game back as a workout pick. The story can keep you interested, though long stretches may make it harder to maintain your pace. Overall, it is a decent game with some real drawbacks for treadmill or bike play.
 
 ### Overall Score: 1.83 out of 3

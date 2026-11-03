@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-01T00:10:24.481Z
 categories: [ review, game ]
-excerpt: "STAR WARS Jedi: Fallen Order thrusts players into the expansive universe of the galaxy far, far away while offering a thrilling single-player adventure that blends storytelling with combat."
+excerpt: "Fallen Order works with a controller, but its combat needs enough attention that keeping a steady workout pace can be tricky. Slow story and exploration sections give you a breather, though they can also interrupt your rhythm."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-"STAR WARS Jedi: Fallen Order" thrusts players into the expansive universe of the galaxy far, far away while offering a thrilling single-player adventure that blends storytelling with combat. If you're an avid gamer looking to spice up your workout on the treadmill or bike, here's how it stacks up.
+Fallen Order gives you a mix of combat, exploration, and puzzles as Cal Kestis, a young Jedi on the run. The story is engaging, but the game often pauses for cutscenes and slower sections.
 
 ## Gameplay
 
-"Jedi: Fallen Order" features a well-crafted mix of combat, exploration, and puzzle-solving that keeps you engaged throughout your journey as Cal Kestis, a young Jedi on the run. The seamless integration of lightsaber combat, Force abilities, and platforming keeps the gameplay dynamic. Quick reaction times and strategic planning are vital during encounters; however, the game often slows down for story exposition and cutscenes, which could potentially disrupt your rhythm when trying to maintain a steady pace on your running machine. Some sections do drag a bit, especially during the slower-paced exploration segments, yet the compelling story and visuals largely mitigate this issue.  
+Lightsaber combat, Force abilities, and platforming keep things varied, but fights need quick reactions and some planning. The story helps carry the slower exploration, though parts of the game drag.
 
 ### Category Score: 2 out of 3  
 
 ## Treadmill and Bike Compatibility
 
-The good news for treadmill and bike enthusiasts is that "Jedi: Fallen Order" offers full controller compatibility, which means you can easily set up your gaming station while working out. However, the game does require some precision and agility in combat, which can be challenging if your concentration is divided between the game and your workout. These quick movements aren't as detrimental as they might be in more competitive or twitch-heavy games, but they do demand attention, which could detract from your workout focus. If you're able to strike a balance between your physical exertion and deft movements, you can definitely immerse yourself in the galaxy without too much risk of losing your footing!  
+You can play with a controller while you work out, but combat takes focus and precise movements. It is manageable, but splitting your attention between the game and your workout can pull you off your rhythm.
 
 ### Category Score: 2 out of 3  
 
 ## Computer Requirements
 
-As for the technical demands, "Jedi: Fallen Order" requires a solid rig to run optimally. Minimum requirements for smooth gameplay start around an NVIDIA GTX 780 or an AMD Radeon HD 5000 series with 8GB of RAM. While it’s not the heaviest game on the market, you'll want to ensure your computer meets at least the recommended specifications—an Intel i7-6700 or Ryzen 5 1400—especially if you're planning on cranking up the graphics settings. This won't be an issue for most modern gaming setups, yet it's something to keep in mind if your PC is older.  
+The game needs a reasonably capable PC. The listed minimum includes a GTX 780 or Radeon HD 5000 series graphics card and 8GB of RAM, while the recommended processor is an Intel i7 6700 or Ryzen 5 1400. Older computers may have trouble, especially if you raise the graphics settings.
 
 ### Category Score: 2 out of 3  
 
 ## Conclusion and Score
 
-"STAR WARS Jedi: Fallen Order" masterfully captures the essence of the franchise with engaging storytelling and enjoyable gameplay. However, its consistency in pace may not be suited for every runner or cyclist looking for a seamless workout experience. If you’re willing to navigate through slower sections and adjust to on-the-fly combat, you'll find yourself rewarded with a compelling adventure in the Star Wars universe. Just make sure your computer is up to the task!  
+Fallen Order has an enjoyable story and combat, but its pace is uneven. You can play while working out, though the fights and slower sections make it hard to keep a steady rhythm. Your PC also needs to meet the listed requirements.
 
 ### Overall Score: 2 out of 3  
