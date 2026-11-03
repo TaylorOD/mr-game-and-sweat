@@ -5,7 +5,7 @@ author: jonas
 categories: [ review, roguelike, bullet hell ]
 comments: false
 disqus: false
-image: assets/images/review-images/enter-the-gungeon.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/471d245bd8a37011c16852694342e5ad2d8a4667/header.jpg
 excerpt: "Enter the Gungeon provides a challenging yet rewarding gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
 score_gameplay: 2
 score_treadmill: 1

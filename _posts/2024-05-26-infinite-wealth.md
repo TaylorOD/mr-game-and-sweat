@@ -5,7 +5,7 @@ author: taylor
 categories: [ review, rpg ]
 comments: false
 disqus: false
-image: assets/images/review-images/like-a-dragon-infinite-wealth.jpg
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072450/header.jpg
 excerpt: "Like a Dragon Infinite Wealth delivers a highly engaging gameplay experience."
 score_gameplay: 2
 score_treadmill: 3
