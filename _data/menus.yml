@@ -17,7 +17,7 @@ topmenu:
 
   - title: Steam Page
     url: https://store.steampowered.com/curator/45035411/
-    class: 'ml-2 btn btn-dark text-white px-3'
+    class: 'ml-2 btn btn-accent px-3'
     external: true
 
 # Footer Menu
