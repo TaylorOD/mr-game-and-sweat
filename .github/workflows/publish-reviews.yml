@@ -2,8 +2,8 @@ name: Generate and Publish Game Reviews
 
 on:
   schedule:
-    - cron: '0 0 */3 * *' # Runs every three days
-    - cron: '0 12 * * *' # Backfills missed days until there are none left
+    - cron: '7 0 */3 * *' # Runs every three days
+    - cron: '17 12 * * *' # Backfills missed days until there are none left
   workflow_dispatch:
     inputs:
       backfill_count:
@@ -33,7 +33,7 @@ jobs:
         run: node generate_reviews.js
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          BACKFILL_COUNT: ${{ github.event.schedule == '0 12 * * *' && '15' || inputs.backfill_count || '0' }}
+          BACKFILL_COUNT: ${{ github.event.schedule == '17 12 * * *' && '15' || inputs.backfill_count || '0' }}
 
       - name: Check the new posts
         run: node test/posts.test.js
