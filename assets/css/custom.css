@@ -91,3 +91,24 @@ Just customize your theme here.
 	right: 0.5rem;
 	margin: 0;
 }
+
+/* Home page hero on phones */
+@media only screen and (max-width: 767px) {
+	.hero {
+		padding: 1.5rem;
+	}
+	.hero .row {
+		margin: 0;
+	}
+	.hero .col-md-6 {
+		padding: 0;
+		text-align: center;
+	}
+	.hero img.intro {
+		display: block;
+		width: 100%;
+		max-width: 320px;
+		height: auto;
+		margin: 1.5rem auto 0;
+	}
+}
