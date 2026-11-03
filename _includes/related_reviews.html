@@ -1,24 +1,24 @@
 {% assign related_genre = page.genres | first %}
 {% if related_genre %}
-{% assign related_count = 0 %}
-{% capture related_links %}
-{% for p in site.posts %}
-	{% if p.url != page.url and p.genres contains related_genre %}
-	<li>
-		<a href="{{ p.url | absolute_url }}">
-			<span class="card-image-link">{% if p.image %}{% include image.html src=p.image alt=p.title sizes="180px" %}{% endif %}{% if p.score_overall %}{% include score_badge.html score=p.score_overall %}{% endif %}</span>
-			<span class="related-title">{{ p.title }}</span>
-		</a>
-	</li>
-	{% assign related_count = related_count | plus: 1 %}
-	{% if related_count == 4 %}{% break %}{% endif %}
-	{% endif %}
-{% endfor %}
-{% endcapture %}
-{% if related_count > 0 %}
+{% assign related_pool = site.posts | where_exp: "p", "p.genres contains related_genre" | where_exp: "p", "p.score_treadmill >= 2" | where_exp: "p", "p.url != page.url" | sort: "score_overall" | reverse %}
+{% comment %}Starts at a different spot per page so the same four games dont get every link{% endcomment %}
+{% assign related_spread = related_pool.size | minus: 3 %}
+{% if related_spread > 16 %}{% assign related_spread = 16 %}{% endif %}
+{% if related_spread < 1 %}{% assign related_spread = 1 %}{% endif %}
+{% assign related_offset = page.title.size | modulo: related_spread %}
+{% if related_pool.size > 0 %}
 <section class="related-reviews">
 	<h2 class="h5">More {{ related_genre }} reviews</h2>
-	<ul>{{ related_links }}</ul>
+	<ul>
+		{% for p in related_pool limit: 4 offset: related_offset %}
+		<li>
+			<a href="{{ p.url | absolute_url }}">
+				<span class="card-image-link">{% if p.image %}{% include image.html src=p.image alt=p.title sizes="180px" %}{% endif %}{% if p.score_overall %}{% include score_badge.html score=p.score_overall %}{% endif %}</span>
+				<span class="related-title">{{ p.title }}</span>
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
 </section>
 {% endif %}
 {% endif %}

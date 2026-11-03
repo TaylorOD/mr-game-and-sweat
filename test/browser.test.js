@@ -72,7 +72,9 @@ async function run(base) {
     assert.ok(await page.isVisible('.score-box'));
     assert.ok((await page.textContent('.score-box')).includes('Pause friendly'));
     assert.ok(await page.isVisible('.score-box a[href*="store.steampowered.com/app/"]'));
-    assert.ok((await page.locator('.related-reviews li').count()) >= 1);
+    assert.strictEqual(await page.locator('.related-reviews li').count(), 4);
+    const related = await page.locator('.related-reviews .score-badge').allTextContents();
+    assert.ok(related.every((score) => parseFloat(score) >= 2), related.join());
   });
 
   await test('search finds games', async (page) => {
