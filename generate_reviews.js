@@ -8,6 +8,8 @@ const {
 	overallScore,
 	stripOverallScore,
 	emptyDays,
+	pickUnreviewedGames,
+	buildReviewPost,
 } = require('./lib/review_utils');
 require('dotenv').config();
 
@@ -74,26 +76,6 @@ function loadReviewedGames() {
 		logSafeError('Error checking if game has been reviewed', error);
 		throw error;
 	}
-}
-
-function hasBeenReviewed(gameName, reviewed) {
-	return (
-		reviewed.allContent.includes(gameName) ||
-		reviewed.names.has(normalizeGameName(gameName))
-	);
-}
-
-function pickUnreviewedGames(sortedGames, count) {
-	const reviewed = loadReviewedGames();
-	const picked = [];
-	for (const game of sortedGames) {
-		if (picked.length === count) break;
-		if (hasBeenReviewed(game.name, reviewed)) continue;
-		// Also stops two editions of one game landing in the same batch
-		reviewed.names.add(normalizeGameName(game.name));
-		picked.push(game);
-	}
-	return picked;
 }
 
 function missedDays() {
@@ -310,40 +292,16 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 		}
 
 		const workout = await fetchWorkoutDetails(game, body);
-		const details = [
-			`score_gameplay: ${scores[0]}`,
-			`score_treadmill: ${scores[1]}`,
-			`score_computer: ${scores[2]}`,
-			`score_overall: ${overallScore(scores)}`,
-			game.appid && `steam_appid: ${game.appid}`,
-			steam && steam.controller && `controller: ${steam.controller}`,
-			steam && steam.genres.length > 0 && `genres: ${JSON.stringify(steam.genres)}`,
-			workout && `pause_friendly: ${JSON.stringify(workout.pause_friendly)}`,
-			workout && `session_length: ${workout.session_length}`,
-		]
-			.filter(Boolean)
-			.join('\n');
-
-		return `---
-layout: post
-title:  ${JSON.stringify(game.name)}
-author: taylor
-comments: false
-disqus: false
-date:   ${reviewDate.toISOString()}
-categories: [ review, game ]
-image: ${(steam && steam.image) || imageUrl}
-${addedDate ? `added: ${addedDate}\nlast_modified_at: ${addedDate}\n` : ''}${details}
----
-
-${body}
-
-### Overall Score: ${overallScore(scores)} out of 3
-
----
-
-Mr. Game and Sweat Reviews: ${game.name} - By Taylor Dorsett
-`;
+		return buildReviewPost({
+			game,
+			steam,
+			workout,
+			body,
+			scores,
+			reviewDate,
+			addedDate,
+			imageUrl,
+		});
 	} catch (error) {
 		logSafeError('Error generating review content', error);
 		throw error;
@@ -373,6 +331,7 @@ async function main() {
 		const sortedGames = await fetchTopGames();
 		const topGames = pickUnreviewedGames(
 			sortedGames,
+			loadReviewedGames(),
 			BACKFILL_COUNT ? days.length : 3
 		); // Filter and get top unreviewed games
 
@@ -380,9 +339,9 @@ async function main() {
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
 			// const imageUrl = await fetchImage(game.name);
-			let reviewDate = new Date();
-			reviewDate.setDate(reviewDate.getDate() + i);
-			if (BACKFILL_COUNT) reviewDate = new Date(`${days[i]}T00:12:00Z`);
+			const reviewDate = BACKFILL_COUNT
+				? new Date(`${days[i]}T00:12:00Z`)
+				: new Date();
 			try {
 				const reviewContent = await generateReviewContent(
 					game,
