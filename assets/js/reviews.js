@@ -17,6 +17,13 @@
 	var matches = [];
 	var shown = 0;
 
+	function tier(score) {
+		if (score >= 2.5) return 'great';
+		if (score >= 2) return 'good';
+		if (score >= 1.5) return 'okay';
+		return 'low';
+	}
+
 	function card(review) {
 		var col = document.createElement('div');
 		col.className = 'col-md-4 mb-5';
@@ -29,15 +36,14 @@
 		imageLink.href = review.url;
 		if (review.image) {
 			var image = document.createElement('img');
-			image.className = 'rounded mb-3';
 			image.loading = 'lazy';
 			image.src = review.image;
 			image.alt = review.title;
 			imageLink.appendChild(image);
 		}
 		var badge = document.createElement('span');
-		badge.className = 'score-badge';
-		badge.textContent = review.score;
+		badge.className = 'score-badge score-' + tier(review.score);
+		badge.textContent = Math.round(review.score * 10) / 10;
 		var outOf = document.createElement('small');
 		outOf.textContent = '/3';
 		badge.appendChild(outOf);
@@ -50,12 +56,15 @@
 		link.href = review.url;
 		link.textContent = review.title;
 		heading.appendChild(link);
-		box.appendChild(heading);
 
 		var excerpt = document.createElement('p');
 		excerpt.className = 'card-text text-muted';
 		excerpt.textContent = review.excerpt;
-		box.appendChild(excerpt);
+		var block = document.createElement('div');
+		block.className = 'card-block';
+		block.appendChild(heading);
+		block.appendChild(excerpt);
+		box.appendChild(block);
 		return col;
 	}
 
