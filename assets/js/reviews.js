@@ -15,9 +15,107 @@
 		sort: document.getElementById('filter-sort'),
 		controller: document.getElementById('filter-controller'),
 	};
+	var guideResults = document.getElementById('guide-results');
+	var guideList = document.getElementById('guide-list');
 	var reviews = [];
+	var guides = [];
 	var matches = [];
 	var shown = 0;
+	var searchRequested = false;
+
+	// Lowercase with no accents, hyphens or apostrophes, so rogue-like finds roguelike
+	function clean(text) {
+		return (
+			' ' +
+			String(text || '')
+				.normalize('NFD')
+				.replace(/[̀-ͯ'’-]/g, '')
+				.toLowerCase()
+				.replace(/[^a-z0-9]+/g, ' ')
+				.trim() +
+			' '
+		);
+	}
+
+	function hasWord(text, term) {
+		return text.indexOf(' ' + term) !== -1;
+	}
+
+	// 0 is the name, 1 is the genre or summary, 2 is the full text, -1 is no match
+	function rank(item, terms) {
+		var worst = 0;
+		for (var i = 0; i < terms.length; i++) {
+			if (item.cleanTitle.indexOf(terms[i]) !== -1) continue;
+			if (hasWord(item.cleanSummary, terms[i])) worst = Math.max(worst, 1);
+			else if (hasWord(item.cleanText || '', terms[i])) worst = 2;
+			else return -1;
+		}
+		return worst;
+	}
+
+	function prepare(item) {
+		item.cleanTitle = clean(item.title);
+		item.cleanSummary = clean((item.genres || []).join(' ') + ' ' + item.excerpt);
+	}
+
+	// The full text is big, so it only loads once someone actually searches
+	function loadSearch() {
+		if (searchRequested) return;
+		searchRequested = true;
+		fetch(script.getAttribute('data-search'))
+			.then(function (response) {
+				return response.json();
+			})
+			.then(function (data) {
+				var byUrl = {};
+				reviews.forEach(function (review) {
+					byUrl[review.url] = review;
+				});
+				data.forEach(function (entry) {
+					if (entry.guide) {
+						prepare(entry);
+						guides.push(entry);
+					}
+					var item = entry.guide ? entry : byUrl[entry.url];
+					if (item) item.cleanText = clean(entry.text);
+				});
+				apply();
+			})
+			.catch(function () {
+				// Names, genres and summaries still work without it
+			});
+	}
+
+	function showGuides(terms, active) {
+		guideList.textContent = '';
+		var found = [];
+		if (terms.length && !active) {
+			found = guides
+				.map(function (guide) {
+					return { guide: guide, rank: rank(guide, terms) };
+				})
+				.filter(function (result) {
+					return result.rank !== -1;
+				})
+				.sort(function (a, b) {
+					return a.rank - b.rank;
+				})
+				.slice(0, 3);
+		}
+		found.forEach(function (result) {
+			var item = document.createElement('li');
+			var link = document.createElement('a');
+			link.href = result.guide.url;
+			link.textContent = result.guide.title;
+			var excerpt = document.createElement('p');
+			excerpt.className = 'small text-muted';
+			excerpt.textContent = result.guide.excerpt;
+			item.appendChild(link);
+			item.appendChild(excerpt);
+			guideList.appendChild(item);
+		});
+		guideResults.hidden = found.length === 0;
+	}
 
 	function tier(score) {
 		if (score >= 2.5) return 'great';
@@ -81,7 +179,8 @@
 	}
 
 	function apply() {
-		var query = fields.search.value.trim().toLowerCase();
+		var terms = clean(fields.search.value).split(' ').filter(Boolean);
+		if (terms.length) loadSearch();
 		var genre = fields.genre.value;
 		var pause = fields.pause.value;
 		var session = fields.session.value;
@@ -90,7 +189,12 @@
 		var controllerOnly = fields.controller.checked;
 
 		matches = reviews.filter(function (review) {
-			if (query && review.title.toLowerCase().indexOf(query) === -1) return false;
+			if (terms.length) {
+				review.rank = rank(review, terms);
+				if (review.rank === -1) return false;
+			} else {
+				review.rank = 0;
+			}
 			if (genre && (review.genres || []).indexOf(genre) === -1) return false;
 			if (pause && review.pause !== pause) return false;
 			if (session && review.session !== session) return false;
@@ -100,6 +204,7 @@
 		});
 
 		matches.sort(function (a, b) {
+			if (a.rank !== b.rank) return a.rank - b.rank;
 			if (sort === 'title') return a.title.localeCompare(b.title);
 			if (sort === 'date') return b.date.localeCompare(a.date);
 			if (sort === 'treadmill') return b.treadmill - a.treadmill || b.score - a.score;
@@ -108,6 +213,7 @@
 
 		var active = [genre, pause, session, minimum, controllerOnly].filter(Boolean).length;
 		toggle.textContent = active ? 'Filters (' + active + ')' : 'Filters';
+		showGuides(terms, active);
 
 		grid.textContent = '';
 		shown = 0;
@@ -117,6 +223,7 @@
 
 	function init(data) {
 		reviews = data;
+		reviews.forEach(prepare);
 		var genres = {};
 		reviews.forEach(function (review) {
 			(review.genres || []).forEach(function (genre) {

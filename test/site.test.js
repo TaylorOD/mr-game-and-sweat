@@ -135,6 +135,13 @@ for (const review of reviews) {
   if (!resolves(review.url, 'reviews.json')) report('reviews.json', `broken link ${review.url}`);
 }
 
+const searchIndex = JSON.parse(fs.readFileSync(path.join(siteDir, 'search.json'), 'utf8'));
+assert.ok(searchIndex.length > reviews.length, 'Search data is missing the guides');
+assert.ok(searchIndex.some((entry) => entry.guide && entry.title), 'Search data has no guides');
+for (const entry of searchIndex) {
+  if (!entry.text || !resolves(entry.url, 'search.json')) report('search.json', `bad entry ${entry.url}`);
+}
+
 // Every review should be one click from a page linked in the footer
 const allGames = fs.readFileSync(path.join(siteDir, 'all-games', 'index.html'), 'utf8');
 for (const review of reviews) {
