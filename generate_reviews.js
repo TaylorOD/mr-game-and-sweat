@@ -127,7 +127,8 @@ async function fetchSteamFacts(game) {
 		if (!details || !details.success) return null;
 		const { data } = details;
 		return [
-			`Controller support: ${data.controller_support || 'none listed'}`,
+			data.controller_support &&
+				`Controller support: ${data.controller_support}`,
 			data.genres &&
 				`Genres: ${data.genres.map((genre) => genre.description).join(', ')}`,
 			data.short_description &&
@@ -183,7 +184,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 	const steamFacts = await fetchSteamFacts(game);
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
-  ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n` : ''}
+  ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
   Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
 
   Scores are whole numbers. Be a tough critic and use the whole scale. Most games should score 1 or 2 in a category. A 3 is rare. Do not give 2 by default, pick the score the rubric below gives you.
@@ -228,7 +229,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 					{
 						role: 'system',
 						content:
-							'You are a great writer who has played many many video games and loves exercising',
+							'You write game reviews for Mr. Game and Sweat, a site about playing video games while running on a treadmill or riding a bike. Our tagline is "Get fit while gaming! Take that mom and dad!"\n\nWrite like a gamer telling a friend what they think. Short, casual and plain. Short sentences. Give a real opinion and say it straight. A little dry humor is good when it fits, but dont force jokes. Talk to the reader as "you".\n\nNever use em dashes or semicolons, and dont use hyphens unless they are part of a game name. Reword instead. No marketing words like immersive, captivating, thrilling, stunning or stands out. No "whether you\'re" and no "its not just X, its Y".\n\nDont make up personal stories or claim you played it on a certain day or ran a certain distance. Keep each section to 2 to 4 sentences.',
 					},
 					{ role: 'user', content: prompt },
 				],
