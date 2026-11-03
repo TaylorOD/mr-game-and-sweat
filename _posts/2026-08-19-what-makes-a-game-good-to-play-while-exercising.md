@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-08-19T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/what-makes-a-game-good-to-play-while-exercising.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "A good workout game keeps your brain busy without needing perfect hands. It should work with a controller, keep cut scenes short and let you pause when you need to."

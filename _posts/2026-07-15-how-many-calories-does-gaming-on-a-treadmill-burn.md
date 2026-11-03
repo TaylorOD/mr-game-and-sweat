@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-07-15T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/how-many-calories-does-gaming-on-a-treadmill-burn.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "A 155 pound person walking at 3 mph burns about 266 calories an hour. Gaming doesnt change the math much. What matters is your speed, your weight and how long you keep going."

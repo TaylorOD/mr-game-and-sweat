@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-01-14T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/is-it-safe-to-play-video-games-on-a-treadmill.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "The honest answer is that it adds real risk. You are splitting your attention on a moving belt, so it comes down to how you do it and whether it is right for you."

@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-05-13T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/can-you-use-a-steam-deck-on-a-treadmill.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "Yes, but holding one while you walk isnt the best way to do it. The better option is to dock it to a TV and use a wireless controller."

@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-09-16T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/a-beginners-4-week-plan-for-exercising-while-gaming.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "This plan starts with 3 short sessions a week and builds up to 30 minutes at a time. Go at your own pace, and repeat a week if you need to."
