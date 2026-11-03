@@ -14,8 +14,6 @@ const {
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-const IGDB_CLIENT_ID = process.env.IGDB_CLIENT_ID;
-const IGDB_CLIENT_SECRET = process.env.IGDB_CLIENT_SECRET;
 const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
 const STEAM_STORE_API_URL = 'https://store.steampowered.com/api/appdetails';
 const POSTS_DIR = path.join(__dirname, '_posts');
@@ -24,26 +22,6 @@ const POSTS_DIR = path.join(__dirname, '_posts');
 const BACKFILL_START = '2025-11-04';
 const BACKFILL_END = '2026-11-03';
 const BACKFILL_COUNT = Number(process.env.BACKFILL_COUNT) || 0;
-
-async function getAccessToken() {
-	try {
-		const response = await axios.post(
-			'https://id.twitch.tv/oauth2/token',
-			null,
-			{
-				params: {
-					client_id: IGDB_CLIENT_ID,
-					client_secret: IGDB_CLIENT_SECRET,
-					grant_type: 'client_credentials',
-				},
-			}
-		);
-		return response.data.access_token;
-	} catch (error) {
-		logSafeError('Error getting access token', error);
-		throw error;
-	}
-}
 
 async function fetchTopGames() {
 	try {
@@ -133,41 +111,6 @@ async function fetchSteamFacts(game) {
 	}
 }
 
-async function fetchImage(gameName) {
-	return null; // Disable fetching images for now
-	// try {
-	// 	const accessToken = await getAccessToken();
-	// 	const response = await axios.post(
-	// 		'https://api.igdb.com/v4/games',
-	// 		`fields cover.url; search "${gameName}";`,
-	// 		{
-	// 			headers: {
-	// 				'Client-ID': IGDB_CLIENT_ID,
-	// 				Authorization: `Bearer ${accessToken}`,
-	// 				Accept: 'application/json',
-	// 			},
-	// 		}
-	// 	);
-
-	// 	if (response.data.length > 0 && response.data[0].cover) {
-	// 		let imageUrl = response.data[0].cover.url.replace(
-	// 			't_thumb',
-	// 			't_cover_big'
-	// 		); // Use a larger image size
-	// 		if (imageUrl.startsWith('//')) {
-	// 			imageUrl = 'https:' + imageUrl;
-	// 		}
-	// 		return imageUrl;
-	// 	} else {
-	// 		console.warn(`No image found for game: ${gameName}`);
-	// 		return null; // No image found
-	// 	}
-	// } catch (error) {
-	// 	console.error('Error fetching image:', error);
-	// 	return null; // Return null if an error occurs
-	// }
-}
-
 const WORKOUT_SCHEMA = {
 	type: 'object',
 	additionalProperties: false,
@@ -216,7 +159,7 @@ ${review}`,
 	}
 }
 
-async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
+async function generateReviewContent(game, reviewDate, addedDate) {
 	const steam = await fetchSteamFacts(game);
 	const steamFacts = steam && steam.text;
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
@@ -300,7 +243,6 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 			scores,
 			reviewDate,
 			addedDate,
-			imageUrl,
 		});
 	} catch (error) {
 		logSafeError('Error generating review content', error);
@@ -338,17 +280,15 @@ async function main() {
 		let failures = 0;
 		for (let i = 0; i < topGames.length; i++) {
 			const game = topGames[i];
-			// const imageUrl = await fetchImage(game.name);
 			const reviewDate = BACKFILL_COUNT
 				? new Date(`${days[i]}T00:12:00Z`)
 				: new Date();
 			try {
 				const reviewContent = await generateReviewContent(
 					game,
-					null, // disable image fetching for now,
 					reviewDate,
 					BACKFILL_COUNT ? today : null
-				); // Pass imageUrl and reviewDate
+				);
 				const filename = `_posts/${
 					reviewDate.toISOString().split('T')[0]
 				}-review-${slugify(game.name)}.md`;
