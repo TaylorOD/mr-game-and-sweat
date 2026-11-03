@@ -112,3 +112,41 @@ Just customize your theme here.
 		margin: 1.5rem auto 0;
 	}
 }
+
+/* All reviews page */
+.review-filters {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+	gap: 0.75rem 1rem;
+	align-items: end;
+}
+.review-filter label {
+	display: block;
+	margin-bottom: 0.25rem;
+	font-size: 0.85rem;
+	font-weight: 700;
+}
+.review-filter-search {
+	grid-column: 1 / -1;
+}
+.review-filter-check label {
+	margin-bottom: 0.5rem;
+	font-weight: 400;
+}
+
+/* Keep the menu on one line */
+.navbar .nav-link,
+.navbar .text-muted.small {
+	white-space: nowrap;
+}
+
+/* Menu fit */
+.navbar-brand,
+.navbar-brand img {
+	flex-shrink: 0;
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.navbar .text-muted.small {
+		display: none;
+	}
+}
