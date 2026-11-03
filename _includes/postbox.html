@@ -1,7 +1,7 @@
 <!-- begin post -->
 <div class="card">
     <a class="card-image-link" href="{{ post.url | absolute_url }}">
-        {% if post.image %}<img loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title | escape }}">{% endif %}
+        {% if post.image %}{% include image.html src=post.image alt=post.title sizes="(min-width: 768px) 33vw, 100vw" eager=include.eager %}{% endif %}
         {% if post.score_overall %}{% include score_badge.html score=post.score_overall %}{% endif %}
     </a>
     <div class="card-block">

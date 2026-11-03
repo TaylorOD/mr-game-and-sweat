@@ -26,7 +26,7 @@
 		return 'low';
 	}
 
-	function card(review) {
+	function card(review, eager) {
 		var col = document.createElement('div');
 		col.className = 'col-md-4 mb-5';
 		var box = document.createElement('div');
@@ -38,7 +38,9 @@
 		imageLink.href = review.url;
 		if (review.image) {
 			var image = document.createElement('img');
-			image.loading = 'lazy';
+			image.loading = eager ? 'eager' : 'lazy';
+			image.width = 460;
+			image.height = 215;
 			image.src = review.image;
 			image.alt = review.title;
 			imageLink.appendChild(image);
@@ -71,8 +73,8 @@
 	}
 
 	function showMore() {
-		matches.slice(shown, shown + PAGE_SIZE).forEach(function (review) {
-			grid.appendChild(card(review));
+		matches.slice(shown, shown + PAGE_SIZE).forEach(function (review, index) {
+			grid.appendChild(card(review, shown === 0 && index < 3));
 		});
 		shown = Math.min(shown + PAGE_SIZE, matches.length);
 		more.hidden = shown >= matches.length;

@@ -57,13 +57,7 @@
 						href="{{site.baseurl}}/"
 					>
 						{% if site.logo %}
-						<img
-							class="mr-2"
-							src="{{site.baseurl}}/{{site.logo}}"
-							alt="{{ site.title }}"
-							height="44"
-							width="50"
-						/>
+						{% include image.html src=site.logo alt=site.title class="mr-2" sizes="50px" width=50 height=44 eager=true %}
 						{% else %}
 						<span class="d-none d-md-inline-block">{{ site.title }}</span>
 						{% endif %}

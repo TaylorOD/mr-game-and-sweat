@@ -22,7 +22,7 @@ background: '/img/bg-index.jpg'
   </div>
   <div class="hero-art">
     {% for p in top_rated offset: 3 limit: 4 %}
-    <a href="{{ p.url | absolute_url }}"><img src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}" width="460" height="215"></a>
+    {% comment %}Lazy on purpose, phones hide this art and shouldnt download it{% endcomment %}<a href="{{ p.url | absolute_url }}">{% include image.html src=p.image alt=p.title %}</a>
     {% endfor %}
   </div>
 </section>
@@ -42,7 +42,7 @@ background: '/img/bg-index.jpg'
 <section class="row">
   {% for post in top_rated limit: 3 %}
   <div class="col-md-4 mb-5">
-    {% include postbox.html %}
+    {% include postbox.html eager=true %}
   </div>
   {% endfor %}
 </section>

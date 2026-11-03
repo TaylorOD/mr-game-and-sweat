@@ -16,7 +16,7 @@
 	{% assign shown = shown | plus: 1 %}
 	<li>
 		<span class="best-rank" aria-hidden="true"></span>
-		<a class="best-list-image" href="{{ p.url | absolute_url }}">{% if p.image %}<img loading="lazy" class="rounded" src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}">{% endif %}</a>
+		<a class="best-list-image" href="{{ p.url | absolute_url }}">{% if p.image %}{% include image.html src=p.image alt=p.title sizes="200px" %}{% endif %}</a>
 		<div class="best-list-text">
 			<h2 class="h5"><a href="{{ p.url | absolute_url }}">{{ p.title }}</a>{% include score_badge.html score=p.score_overall %}</h2>
 			<p class="best-list-facts"><span class="post-genre">Treadmill and bike {{ p.score_treadmill }}/3</span>{% if p.pause_friendly %}<span class="post-genre">Pause friendly: {{ p.pause_friendly }}</span>{% endif %}</p>
