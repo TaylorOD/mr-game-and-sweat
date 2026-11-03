@@ -1,0 +1,12 @@
+---
+layout: null
+sitemap: false
+permalink: /opensearch.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Mr. Game and Sweat</ShortName>
+  <Description>Search reviews of games you can play on a treadmill or exercise bike</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="{{ '/reviews/' | absolute_url }}?q={searchTerms}" />
+</OpenSearchDescription>
