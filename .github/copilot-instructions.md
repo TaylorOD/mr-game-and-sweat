@@ -6,6 +6,7 @@ A Jekyll site on GitHub Pages that reviews games you can play on a treadmill or 
 * `docs/design.md` for anything people see
 * `docs/images.md` for anything with an image
 * `docs/testing.md` for tests and CI
+* `docs/crawlers.md` for robots, sitemaps and indexing
 
 ## Images
 
@@ -30,6 +31,7 @@ Short, casual and plain, in site copy, docs, commits and PRs. No hyphens, em das
 * Invented personal stories or made up facts in reviews or guides.
 * Anything added to the site about how reviews get written. Taylor decides that.
 * A post URL changing without a `redirect_from`.
+* Anything that blocks a bot or adds `noindex`. We want every page indexed.
 * Colors or fonts outside the variables in `assets/css/custom.css`, or new styles in `theme.scss`.
 * An image that skips `_includes/image.html`, or game art added to the repo.
 * Secrets in the repo.
