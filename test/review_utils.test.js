@@ -9,6 +9,7 @@ const {
   emptyDays,
   pickUnreviewedGames,
   buildReviewPost,
+  fixInlineScores,
 } = require('../lib/review_utils');
 
 // Editions of a game we already reviewed count as the same game
@@ -109,5 +110,15 @@ const plain = buildReviewPost({
 assert.ok(!plain.includes('added:'));
 assert.ok(!plain.includes('pause_friendly'));
 assert.ok(plain.includes('image: null\n'));
+
+// Scores stuck on the end of a paragraph get their own line
+assert.strictEqual(
+  fixInlineScores('Some text. ### Category Score: 2 out of 3'),
+  'Some text.\n\n### Category Score: 2 out of 3'
+);
+assert.strictEqual(
+  fixInlineScores('Some text.\n\n### Category Score: 2 out of 3'),
+  'Some text.\n\n### Category Score: 2 out of 3'
+);
 
 console.log('review utils checks passed');
