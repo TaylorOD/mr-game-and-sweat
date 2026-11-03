@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-12-29T00:10:01.834Z
 categories: [ review, game ]
-excerpt: "From the brilliant minds at FromSoftware comes Sekiro: Shadows Die Twice - GOTY Edition, a challenging action game that invites players to immerse themselves in a beautifully crafted world of danger, stealth, and intense swordplay."
+excerpt: "Sekiro works with a controller, but its fast combat takes enough attention that it can be hard to keep a steady pace on a treadmill or bike."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,32 +17,33 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-From the brilliant minds at FromSoftware comes "Sekiro: Shadows Die Twice - GOTY Edition," a challenging action game that invites players to immerse themselves in a beautifully crafted world of danger, stealth, and intense swordplay. As a dedicated gamer and exercise enthusiast, I was eager to see how this game holds up in the realm of treadmill and biking compatibility. Let’s dive in!
+Sekiro is a challenging action game built around stealth and sword combat. Its dangerous world gives you plenty to deal with, even before the fights begin.
 
 ## Gameplay
 
-Sekiro’s gameplay is a riveting experience filled with intense combat and strategic maneuvers, which will absolutely keep players on their toes. The game is fast-paced, requiring a high degree of concentration and reflexes to master the combat mechanics. This focus makes it engaging; however, I would argue that during boss fights, where every moment can demand all your attention, you might find yourself getting distracted from keeping up your cardio regimen. The game does feature moments of exploration and slower pacing, but they’re generally brief and serve as necessary respites from the relentless action rather than prolonged cutscene interruptions. 
+Combat is fast and demands focus and quick reactions. Exploration offers some slower moments, but they are brief, and boss fights can pull your attention away from exercise.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-For those keen on burning calories while slashing through enemies, Sekiro performs quite well. The game boasts full controller compatibility, allowing you to maintain a good grip even when moving your legs to the beat of your running or pedaling. However, be cautious—its fast-paced combat can demand quick reflexes and precise timing, which can be difficult while maintaining a steady rhythm on a treadmill or bike. I recommend picking your moments wisely. Gameplay that requires you to repeatedly react in rapid succession can lead to some unintentional stumbles. 
+Controller support makes it possible to play while you run or pedal. Still, precise timing can be tough to manage while keeping a steady rhythm, and rapid reactions may lead to a stumble.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Sekiro isn’t the most demanding game out there, but it does require a decent gaming setup to run smoothly. Requiring at least 12 GB of RAM and an NVIDIA GeForce GTX 970 (or equivalent), the game has specific minimum requirements that ensure you get to enjoy its stunning visuals and fluid animations without performance hiccups. With many gamers frequently investing in better rigs for high-intensity games, most setups today should handle Sekiro comfortably.
+The game is not especially demanding, but it does need a decent gaming setup. The minimum requirements listed are 12 GB of RAM and an NVIDIA GeForce GTX 970 or equivalent.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-In conclusion, Sekiro: Shadows Die Twice - GOTY Edition offers a breathtaking experience filled with gripping action and profound aesthetics, but it’s not entirely without challenges for those trying to exercise while playing. The engaging gameplay keeps you on your toes, and the compatibility with controllers allows for a seamless experience while on the move. However, the fast-paced nature of the combat can sometimes overshadow the fitness benefit you seek. 
+Sekiro has engaging combat and works with a controller, so it can fit into a workout. But its demanding fights can get in the way of your exercise, which makes it a mixed choice for playing on the move.
 
 ### Overall Score: 2 out of 3
 
-If you’re an avid gamer, don’t let the challenges deter you—embrace the grind of both your cardio and the game as you weave through the beautiful yet perilous landscape of the Sengoku period!
+The game has plenty to offer if you enjoy a challenge. Its fast combat makes it hard to focus on both the game and your cardio at once.

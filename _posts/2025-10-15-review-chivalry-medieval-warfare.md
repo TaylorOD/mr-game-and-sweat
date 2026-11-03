@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-10-15T00:12:09.322Z
 categories: [ review, game ]
-excerpt: "Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war."
+excerpt: "The battles keep you busy, but quick reflexes make it hard to play while you run or ride. It works best at a moderate pace."
 score_gameplay: 3
 score_treadmill: 2
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Action", "Indie"]
 pause_friendly: "No"
 session_length: Short
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war. Whether you’re hacking through waves of enemy soldiers or defending your castle from siege, the game promises an action-packed experience. But how does it hold up for those looking to get a bit of exercise while gaming? Let's break down the details.
+Chivalry: Medieval Warfare puts you in medieval battles with swords and shields. The fighting is the main draw, though keeping up with it during a workout can be tough.
 
 ## Gameplay
 
-The gameplay in Chivalry: Medieval Warfare is engrossing and relentless, characterized by large-scale battles that pit players against each other in a free-for-all melee of swords, shields, and blood. Each match offers plenty of moments that keep your adrenaline pumping, blending strategy and skill with ample excitement. The fast-paced action means there are minimal slow sections or long cutscenes, allowing you to stay focused and engaged without losing momentum. On a treadmill or bike, you’ll find yourself fully immersed in the chaos—just don’t let your heart rate get too wild during those intense moments!
+The battles are fast and keep you focused, with little downtime or long cutscenes. Skill and strategy matter, and the action stays lively throughout each match. It gets a full three out of three for gameplay.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-Chivalry is optimized for controller gameplay, which allows for easier play while on a treadmill or stationary bike. However, it does demand quick reflexes in battle, which can be a bit tricky when you’re trying to balance your workout with your slashing and bashing. The movements required may not be as physically taxing as a demanding sports game, but you’ll need to keep your feet in rhythm while managing attacks and dodging enemy strikes. It’s a balancing act, but one that’s manageable if you maintain a moderate pace. 
+Controller support helps, but the quick reflexes needed in battle can be awkward while you work out. The movement is not especially taxing, and a moderate pace makes it manageable. Still, splitting your attention between the game and your workout keeps this from being an easy fit.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Chivalry: Medieval Warfare isn’t an overly demanding game when it comes to computer specifications. It can run on mid-range systems, which means you likely won’t need the latest GPU to enjoy a smooth gameplay experience. On average, your system should meet the following requirements: Dual-core CPU with at least 2.0GHz, 4GB of RAM, and a DirectX 9-compatible video card. This makes it accessible to a broader audience, allowing more players to hop on their treadmill or bike and slash their way through the game.
+The game can run on a mid range computer, so you do not need the latest GPU. The listed requirements are a dual core CPU at 2.0GHz, 4GB of RAM, and a DirectX 9 compatible video card. Check your setup before you start, even if the requirements are fairly modest.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Chivalry: Medieval Warfare delivers heart-pounding action that effectively keeps players engaged and on their toes. Its engaging gameplay, combined with reasonable compatibility for workout setups, makes it a solid option for gamers looking to break a sweat. While the demand for quick reflexes might require some adaptation to your workout routine, the thrill of battle is certainly worth it. Whether you’re fighting for glory or simply trying to distract yourself during those treadmill sessions, Chivalry is an excellent choice.
+The combat is fun and keeps you engaged, but the need for quick reactions makes it a mixed choice for treadmill or bike play. A moderate workout pace helps, and the computer requirements are reasonable. It is a decent option, but not an ideal workout game.
 
 ### Overall Score: 2.33 out of 3

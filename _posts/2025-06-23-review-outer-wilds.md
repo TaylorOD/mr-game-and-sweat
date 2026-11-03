@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-06-23T00:13:06.378Z
 categories: [ review, game ]
-excerpt: "Outer Wilds presents players with a captivating blend of exploration, puzzle-solving, and narrative—a balance that keeps you engaged while you run on your treadmill or bike."
+excerpt: "The controller and deliberate pace make Outer Wilds easy to handle while you run or ride. There are quiet stretches and moments to pause, so you may not have something to do every second."
 score_gameplay: 3
 score_treadmill: 3
 score_computer: 2
@@ -17,32 +17,29 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg
+last_modified_at: 2026-11-03
 ---
 
 ## Gameplay
 
-Outer Wilds presents players with a captivating blend of exploration, puzzle-solving, and narrative—a balance that keeps you engaged while you run on your treadmill or bike. The gameplay thrives on its intriguing open-world design, transporting you across a visually stunning solar system filled with secrets to uncover. Each playthrough unfolds with new discoveries, but the pacing allows for moments where you can simply take in the vastness of space without feeling stressed or hurried.
-
-There are minimal cutscenes, and while there are several dialogues with intriguing NPCs, the game’s natural flow keeps you actively engaged. You won't find yourself at a standstill, making it relatively easy to stay focused on your run while piloting your ship or exploring celestial bodies. The cosmic mysteries and the intriguing time loop mechanic encourage thoughtful exploration, so if you enjoy pondering over thoughts while jogging, you’re in luck!
+Outer Wilds mixes exploration, puzzles, and story, with plenty to discover across its solar system. The pacing gives you room to take things in without rushing, and there are few cutscenes. You spend most of your time piloting your ship, exploring, and talking with characters while following its mysteries and time loop.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-Outer Wilds shines in its compatibility with both treadmill and bike setups. The game primarily uses a controller, which is excellent for maintaining your focus on exercise. The movements are deliberate rather than frantic, allowing you to traverse landscapes and engage in puzzle-solving without requiring rapid reflexes or complicated combinations that would detract from your workout. You can smoothly enjoy your cosmic journey while maintaining a steady pace on your machine.
-
-The game doesn’t demand twitch gameplay, making it easy to play while maintaining your rhythm, whether you're labored in running or cycling. Plus, when you come across moments to pause, you can catch your breath and enjoy the beautiful soundtrack, adding to the ambiance of your workout.
+It works well on a treadmill or bike because it uses a controller and does not demand quick reactions or complicated button combinations. Movement is deliberate, so you can keep a steady pace while exploring and solving puzzles. Some moments let you pause, though the quiet stretches may leave you with less to do.
 
 ### Category Score: 3 out of 3
 
 ## Computer Requirements
 
-In terms of computer requirements, Outer Wilds is fairly modest, making it accessible to a wide range of systems. While the game does boast stunning visuals, it does not demand the highest-end hardware to run smoothly. A mid-range PC with a decent graphics card and 8GB of RAM is sufficient to experience the game in its full glory without performance issues. This accessibility means that you can enjoy your cosmic exploration, even on systems not equipped for the latest AAA titles, allowing more players to experience the game while tackling their fitness goals.
+A mid range PC with a decent graphics card and 8GB of RAM is enough to run it smoothly. That is reasonable, but not a particularly low bar if you want a game that works on a modest setup.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Outer Wilds truly offers a unique and engaging experience for those looking to immerse themselves in an adventurous space journey while getting their exercise in. Its captivating gameplay ensures you're entertained while you keep moving, and its forgiving nature means you won't feel pressured to stop running just to navigate the game's challenges. It’s an experience where the cosmos feels effortlessly inviting, allowing you to solve its mysteries while staying active.
+Outer Wilds is easy to fit around a workout, with a steady pace and challenges that do not demand you stop to keep up. Its exploration and time loop make it worth sticking with, though the computer requirements pull the overall package down a little.
 
 ### Overall Score: 2.67 out of 3

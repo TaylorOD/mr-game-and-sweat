@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-07-05T00:11:59.232Z
 categories: [ review, game ]
-excerpt: "The gameplay in OMORI is rich and multi-layered. The game offers a turn-based combat system that, while strategic, is not overly demanding or fast-paced."
+excerpt: "OMORI’s slower turn based combat works reasonably well for a workout. Dialogue and emotional scenes can pull your attention from the treadmill or bike."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 3
@@ -17,30 +17,31 @@ genres: ["Adventure", "Indie", "RPG"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-**OMORI** is a unique entry in the indie RPG genre that combines charming visuals and a haunting narrative to explore themes of mental health and friendship. It tantalizes players with its intricate storytelling and vibrant yet melancholic art style. For gamers who love incorporating physical activity into their play sessions, especially on a treadmill or bike, this review will help you gauge how engaging OMORI can be for your workout experience.
+**OMORI** mixes turn based combat with a story about mental health and friendship. Its vibrant, melancholic art gives the game a clear mood, though the dialogue can ask for more attention than a workout allows.
 
 ## Gameplay
 
-The gameplay in OMORI is rich and multi-layered. The game offers a turn-based combat system that, while strategic, is not overly demanding or fast-paced. This means you have ample time to think, making it easier to maintain focus while engaging in physical activity. Although there are cutscenes and dialogue-heavy moments, they are generally well-paced, allowing you to absorb the narrative without feeling completely drawn out of your workout. The exploration and puzzle-solving elements keep things dynamic enough to prevent any sense of monotony, even during longer runs or biking sessions.
+Combat is strategic without being fast paced, so you have time to think while you play. Cutscenes and dialogue slow things down, while exploration and puzzles help keep the game from feeling too repetitive.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-OMORI is quite compatible with treadmill and bike use, especially because it allows for controller support, which is ideal for hands-free operation. Most of the gameplay requires only simple directional inputs and choice selections, as opposed to any frantic button-mashing or quick reaction time challenges. This design means that players can easily focus on their cardio without the risk of missing vital gameplay moments. However, during more intense emotional scenes, you might find yourself wanting to lean into the screen a bit more, which could disrupt your rhythm. 
+Controller support and simple directional inputs and choices make OMORI fairly easy to play while exercising. Still, emotional scenes may draw your focus to the screen and interrupt your rhythm.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-To play OMORI, you'll need a relatively modest setup. It doesn’t demand high-end graphics or processing power, which makes it accessible to a broader range of players. The game is designed to run smoothly on older hardware, typically requiring only a dual-core processor and basic graphics card. Therefore, if you’re looking for a game that won’t tax your system while you pedal away on your exercise bike, OMORI fits the bill nicely.
+OMORI does not need high end graphics or much processing power. The review lists a dual core processor and basic graphics card as enough, so it should run on older hardware.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-In conclusion, **OMORI** is an engaging title that balances storytelling and gameplay efficiently, ensuring players stay immersed without losing focus during their workout. Its compatibility with treadmill and biking sessions is commendable, making it a solid choice for those who wish to integrate gaming into their exercise routines. Along with its minimal system requirements, it promises an easygoing gaming experience while you break a sweat.
+OMORI balances turn based combat with a story that sometimes asks for your full attention. It is a decent fit for treadmill or bike sessions, but those more focused scenes keep it from being an easy workout game.
 
 ### Overall Score: 2.33 out of 3

@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-04-26T00:11:28.266Z
 categories: [ review, game ]
-excerpt: "Scrap Mechanic has rapidly carved out its own niche as a creative engineering sandbox, allowing players to construct wild contraptions and vehicles in a colorful, whimsical world."
+excerpt: "Scrap Mechanic gives you things to build, which can help pass the time during a workout. But complex projects take focus, so it may pull your attention away from your pace."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -16,34 +16,31 @@ genres: ["Action", "Adventure", "Indie", "Simulation"]
 pause_friendly: "Sometimes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Scrap Mechanic has rapidly carved out its own niche as a creative engineering sandbox, allowing players to construct wild contraptions and vehicles in a colorful, whimsical world. As an avid gamer and exercise enthusiast, I’ve put this game to the ultimate test: could I keep my heart rate up on the treadmill while navigating its mechanics? Let’s see how Scrap Mechanic stacks up in various sections tailored for tread and bike compatibility.
+Scrap Mechanic is a creative sandbox where you build contraptions and vehicles. It can keep your mind busy during a workout, but building takes enough focus to disrupt your rhythm.
 
 ## Gameplay
 
-The gameplay in Scrap Mechanic is engaging and endlessly stimulating. Players have the freedom to build-and-mash together pieces in a blocky world, something that can help keep your mind off the monotonous rhythm of running or biking. The pure creativity involved means there are no lengthy cutscenes or slow sections dragging you down. 
-
-However, it does demand a good amount of focus when assembling complex machines or solving puzzles that can temporarily break your exercise groove—especially if you're trying to replicate intricate designs. Yet, the satisfaction of completing an impressive project can be highly motivating, much like reaching a fitness goal.
+You can piece together machines in a blocky world, with no long cutscenes or slow stretches. Complex builds and puzzles need more attention, which can interrupt your workout.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-Scrap Mechanic shines in this category with solid controller compatibility, making it perfect for those wanting to stay active while gaming. The controls are relatively simple, allowing players to use both movement and action buttons fluidly through a gamepad while maintaining their cardio sessions. 
-
-However, crafting and building can require more attention than quick reflexes, which can be an advantage when you're concentrating on your workout as it enables you to pause and take a breather (perfect for a quick sip of water). I found myself able to shift weights with ease while still focusing on creating fantastic machines, but be mindful that intricate motorcycle designs could take a little more dexterity and strategic thought.
+Controller support and simple controls make it possible to play while exercising. Crafting takes more focus than quick reactions, and intricate designs require extra dexterity and thought.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-The game's requirements are fairly moderate, making it accessible to many gamers without demanding an expensive rig. You won't need the latest graphics card to enjoy the colorful environment and smooth mechanics. However, more complex builds or larger multiplayer sessions can lead to a dip in frame rates, which can detract from your gaming experience if you're also trying to focus on maintaining a steady pace on your treadmill or bike.
+The computer requirements are fairly moderate, so you do not need the latest graphics card. Complex builds or larger multiplayer sessions can lower the frame rate, which may make it harder to keep your pace.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Scrap Mechanic offers an engaging experience that does well with treadmill and bike gameplay due to its accessible mechanics and controller support. While it requires a bit of concentration, the creative freedom and lack of slow-paced downtime can help you power through your workout. If you’re looking for a game that allows you to unleash your inner engineer while breaking a sweat, Scrap Mechanic might just be the right pick.
+Scrap Mechanic can work on a treadmill or bike, thanks to controller support and a lack of long slow sections. The focus needed for building keeps it from being an easy workout game.
 
 ### Overall Score: 2 out of 3

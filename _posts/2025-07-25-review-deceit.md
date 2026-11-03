@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-07-25T00:12:21.336Z
 categories: [ review, game ]
-excerpt: "In the world of multiplayer horror games, “Deceit” stands out as a thrilling experience that merges social deduction mechanics with heart-pounding tension."
+excerpt: "Deceit has fast gameplay and no long cutscenes, but tense moments can make it tough to keep a steady pace. You can use a controller, though staying comfortable on a treadmill or bike may take practice."
 score_gameplay: 3
 score_treadmill: 2
 score_computer: 2
@@ -16,30 +16,31 @@ genres: ["Action", "Indie", "Free To Play"]
 pause_friendly: "No"
 session_length: Short
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466240/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-In the world of multiplayer horror games, “Deceit” stands out as a thrilling experience that merges social deduction mechanics with heart-pounding tension. Whether you're playing with friends or diving into matches with strangers, the game keeps players on their toes while challenging their ability to trust—or distrust—others. Here’s how it fares for gamers who enjoy breaking a sweat while playing.
+Deceit puts players in a mysterious facility, where they work together to escape while some are secretly infected and trying to sabotage the group. You gather resources, solve puzzles, and decide who you can trust. The pace stays brisk, with no long cutscenes or slow sections to break things up.
 
 ## Gameplay
 
-The core gameplay of "Deceit" involves players waking up in a mysterious facility, where they must work together to escape while some among them are secretly infected and intent on sabotaging the group. The tension builds as players gather resources, solve puzzles, and contribute to survival strategies—all while trying to gauge who they can trust. The swift pace of the game, combined with its social dynamics, keeps you highly engaged and draws you into the action without any slow sections or lengthy cut scenes that could disrupt your flow. You’ll be too focused on avoiding the infected players and completing objectives to even think about slowing down on the treadmill.
+The mix of teamwork, resource gathering, and suspicion gives you plenty to focus on. You have to watch for infected players while completing objectives, so the gameplay stays active. There is little downtime.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-"Deceit" offers a first-person perspective that is friendly to casual players. However, it does recommend using a mouse and keyboard or a game controller. The game primarily relies on decision-making and stealth rather than excessive quick movements, which can allow for smoother operation while you’re exercising. That said, it's important to maintain a stable pace on the treadmill or bike as the level of stress can trigger your instinct to perform rapid movements; this can be managed, but it might take some practice to get into a comfortable rhythm.
+The first person view and controller support make Deceit possible to play while exercising. Most of the play is about decisions and stealth, but tense moments can tempt you to make quick movements. You may need practice to find a steady pace on a treadmill or bike.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Deceit is not overly demanding, making it accessible for many users. The game requires a moderate system setup: at least a dual-core processor and a dedicated graphics card, with 8GB of RAM being the recommendation for a smooth experience. While on lower-end systems, you might notice a dip in performance during more chaotic moments, it's possible to enjoy the game on budget PCs without major sacrifice to gameplay quality.
+Deceit needs a moderate computer setup, including at least a dual core processor and a dedicated graphics card. 8GB of RAM is recommended for smooth play. Lower end systems may slow down during chaotic moments.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-"Deceit" offers an exciting blend of strategy, teamwork, and deception that thrives on social interaction, making it a perfect match for those looking to combine gaming with cardio workouts. The absence of long cutscenes and slow gameplay keeps you glued to your screen while you run or cycle, making it a solid choice for exercise gamers. While the controller compatibility is great, be prepared to stay steady during those tense moments, and rest assured, your computer likely won't struggle too much to run it. Overall, this game delivers an exhilarating and engaging experience that can be enjoyed while working up a sweat.
+Deceit’s teamwork and deception make for a strong multiplayer game, and the brisk pace suits a workout better than long stretches of downtime. Still, the tense action can make it hard to stay steady, so it is only a fair fit for running or cycling. Lower end computers may also struggle when things get chaotic.
 
 ### Overall Score: 2.3 out of 3
