@@ -1,3 +1,9 @@
+{% assign compare_pages = site.pages | where: "layout", "comparison" %}
+{% for comparison in compare_pages %}
+{% if comparison.left == page.slug or comparison.right == page.slug %}
+<p class="compare-more">Can't decide? See <a href="{{ comparison.url | absolute_url }}">{{ comparison.short_title }}</a></p>
+{% endif %}
+{% endfor %}
 {% assign related_genre = page.genres | first %}
 {% if related_genre %}
 {% assign related_pool = site.posts | where_exp: "p", "p.genres contains related_genre" | where_exp: "p", "p.score_treadmill >= 2" | where_exp: "p", "p.url != page.url" | sort: "score_overall" | reverse %}
