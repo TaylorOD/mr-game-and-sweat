@@ -24,3 +24,4 @@ jobs:
       - run: node --check lib/review_utils.js
       - run: node test/safe_error_log.test.js
       - run: node test/review_utils.test.js
+      - run: node test/posts.test.js
