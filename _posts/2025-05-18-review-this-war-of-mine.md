@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: This War of Mine"
+title:  "This War of Mine"
 author: taylor
 comments: false
 disqus: false

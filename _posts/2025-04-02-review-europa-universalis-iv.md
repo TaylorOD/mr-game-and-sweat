@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Europa Universalis IV"
+title:  "Europa Universalis IV"
 author: taylor
 comments: false
 disqus: false

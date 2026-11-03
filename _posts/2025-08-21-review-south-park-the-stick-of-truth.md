@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: South Park: The Stick of Truth"
+title:  "South Park: The Stick of Truth"
 author: taylor
 comments: false
 disqus: false

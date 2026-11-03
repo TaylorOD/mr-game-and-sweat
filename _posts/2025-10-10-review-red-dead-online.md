@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Red Dead Online"
+title:  "Red Dead Online"
 author: taylor
 comments: false
 disqus: false

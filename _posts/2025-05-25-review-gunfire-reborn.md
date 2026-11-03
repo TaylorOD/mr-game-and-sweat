@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Gunfire Reborn"
+title:  "Gunfire Reborn"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Stumble Guys"
+title:  "Stumble Guys"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ultimate Custom Night"
+title:  "Ultimate Custom Night"
 author: taylor
 comments: false
 disqus: false

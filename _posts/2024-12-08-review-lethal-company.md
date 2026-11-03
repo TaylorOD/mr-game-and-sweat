@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Lethal Company"
+title:  "Lethal Company"
 author: taylor
 comments: false
 disqus: false

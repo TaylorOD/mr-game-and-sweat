@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: FOR HONOR"
+title:  "FOR HONOR"
 author: taylor
 comments: false
 disqus: false

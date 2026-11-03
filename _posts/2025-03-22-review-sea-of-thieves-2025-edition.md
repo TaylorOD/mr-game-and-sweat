@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sea of Thieves: 2025 Edition"
+title:  "Sea of Thieves: 2025 Edition"
 author: taylor
 comments: false
 disqus: false

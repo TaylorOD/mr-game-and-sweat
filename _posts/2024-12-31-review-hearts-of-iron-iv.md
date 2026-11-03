@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hearts of Iron IV"
+title:  "Hearts of Iron IV"
 author: taylor
 comments: false
 disqus: false

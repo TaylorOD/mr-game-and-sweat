@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Sims 4"
+title:  "The Sims 4"
 author: taylor
 comments: false
 disqus: false

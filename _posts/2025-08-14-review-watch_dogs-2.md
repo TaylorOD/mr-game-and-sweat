@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Watch_Dogs 2"
+title:  "Watch_Dogs 2"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Space Engineers"
+title:  "Space Engineers"
 author: taylor
 comments: false
 disqus: false

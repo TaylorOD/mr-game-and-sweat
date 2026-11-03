@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mortal Kombat 11"
+title:  "Mortal Kombat 11"
 author: taylor
 comments: false
 disqus: false

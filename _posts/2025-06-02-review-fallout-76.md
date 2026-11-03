@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout 76"
+title:  "Fallout 76"
 author: taylor
 comments: false
 disqus: false

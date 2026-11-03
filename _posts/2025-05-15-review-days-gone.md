@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Days Gone"
+title:  "Days Gone"
 author: taylor
 comments: false
 disqus: false

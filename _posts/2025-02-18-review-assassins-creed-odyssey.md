@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assassin's Creed Odyssey"
+title:  "Assassin's Creed Odyssey"
 author: taylor
 comments: false
 disqus: false

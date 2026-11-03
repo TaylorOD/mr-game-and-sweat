@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Batman: Arkham Origins"
+title:  "Batman: Arkham Origins"
 author: taylor
 comments: false
 disqus: false

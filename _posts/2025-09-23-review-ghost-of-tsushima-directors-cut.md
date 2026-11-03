@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ghost of Tsushima DIRECTOR'S CUT"
+title:  "Ghost of Tsushima DIRECTOR'S CUT"
 author: taylor
 comments: false
 disqus: false

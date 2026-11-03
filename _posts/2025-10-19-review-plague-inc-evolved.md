@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Plague Inc: Evolved"
+title:  "Plague Inc: Evolved"
 author: taylor
 comments: false
 disqus: false

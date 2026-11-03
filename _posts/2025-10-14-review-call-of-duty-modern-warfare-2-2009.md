@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare 2 (2009)"
+title:  "Call of Duty: Modern Warfare 2 (2009)"
 author: taylor
 comments: false
 disqus: false

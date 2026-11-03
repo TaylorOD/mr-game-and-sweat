@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Team Fortress 2"
+title:  "Team Fortress 2"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: No More Room in Hell"
+title:  "No More Room in Hell"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PAYDAY 2"
+title:  "PAYDAY 2"
 author: taylor
 comments: false
 disqus: false

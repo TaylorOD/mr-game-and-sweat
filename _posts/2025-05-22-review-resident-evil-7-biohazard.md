@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Resident Evil 7 Biohazard"
+title:  "Resident Evil 7 Biohazard"
 author: taylor
 comments: false
 disqus: false

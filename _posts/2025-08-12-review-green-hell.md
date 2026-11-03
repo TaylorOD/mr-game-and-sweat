@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Green Hell"
+title:  "Green Hell"
 author: taylor
 comments: false
 disqus: false

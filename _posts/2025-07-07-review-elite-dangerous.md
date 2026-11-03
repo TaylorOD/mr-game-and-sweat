@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Elite Dangerous"
+title:  "Elite Dangerous"
 author: taylor
 comments: false
 disqus: false

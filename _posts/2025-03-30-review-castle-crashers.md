@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Castle Crashers"
+title:  "Castle Crashers"
 author: taylor
 comments: false
 disqus: false

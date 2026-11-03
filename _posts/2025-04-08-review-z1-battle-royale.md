@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Z1 Battle Royale"
+title:  "Z1 Battle Royale"
 author: taylor
 comments: false
 disqus: false

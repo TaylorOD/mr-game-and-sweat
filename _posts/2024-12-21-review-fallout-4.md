@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout 4"
+title:  "Fallout 4"
 author: taylor
 comments: false
 disqus: false

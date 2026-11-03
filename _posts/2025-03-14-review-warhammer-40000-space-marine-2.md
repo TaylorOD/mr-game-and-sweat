@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warhammer 40,000: Space Marine 2"
+title:  "Warhammer 40,000: Space Marine 2"
 author: taylor
 comments: false
 disqus: false

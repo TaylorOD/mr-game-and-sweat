@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: My Summer Car"
+title:  "My Summer Car"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: To the Moon"
+title:  "To the Moon"
 author: taylor
 comments: false
 disqus: false

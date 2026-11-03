@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hell Let Loose"
+title:  "Hell Let Loose"
 author: taylor
 comments: false
 disqus: false

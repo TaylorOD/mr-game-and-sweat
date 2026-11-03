@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto IV: The Complete Edition"
+title:  "Grand Theft Auto IV: The Complete Edition"
 author: taylor
 comments: false
 disqus: false

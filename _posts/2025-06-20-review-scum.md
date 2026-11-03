@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: SCUM"
+title:  "SCUM"
 author: taylor
 comments: false
 disqus: false

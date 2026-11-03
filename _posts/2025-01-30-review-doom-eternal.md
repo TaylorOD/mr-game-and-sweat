@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DOOM Eternal"
+title:  "DOOM Eternal"
 author: taylor
 comments: false
 disqus: false

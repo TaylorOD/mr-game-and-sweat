@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ARMORED CORE VI FIRES OF RUBICON"
+title:  "ARMORED CORE VI FIRES OF RUBICON"
 author: taylor
 comments: false
 disqus: false

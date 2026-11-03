@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Lost Ark"
+title:  "Lost Ark"
 author: taylor
 comments: false
 disqus: false

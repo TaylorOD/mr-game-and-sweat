@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hogwarts Legacy"
+title:  "Hogwarts Legacy"
 author: taylor
 comments: false
 disqus: false

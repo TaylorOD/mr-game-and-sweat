@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dying Light"
+title:  "Dying Light"
 author: taylor
 comments: false
 disqus: false

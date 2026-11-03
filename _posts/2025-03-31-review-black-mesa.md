@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Black Mesa"
+title:  "Black Mesa"
 author: taylor
 comments: false
 disqus: false

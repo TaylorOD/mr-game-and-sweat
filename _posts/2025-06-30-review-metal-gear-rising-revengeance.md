@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: METAL GEAR RISING: REVENGEANCE"
+title:  "METAL GEAR RISING: REVENGEANCE"
 author: taylor
 comments: false
 disqus: false

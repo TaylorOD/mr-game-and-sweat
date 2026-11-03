@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Planet Zoo"
+title:  "Planet Zoo"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warhammer 40,000: Darktide"
+title:  "Warhammer 40,000: Darktide"
 author: taylor
 comments: false
 disqus: false

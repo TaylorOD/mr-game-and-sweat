@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DARK SOULS: REMASTERED"
+title:  "DARK SOULS: REMASTERED"
 author: taylor
 comments: false
 disqus: false

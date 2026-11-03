@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Life is Strange - Episode 1"
+title:  "Life is Strange - Episode 1"
 author: taylor
 comments: false
 disqus: false

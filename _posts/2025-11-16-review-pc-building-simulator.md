@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PC Building Simulator"
+title:  "PC Building Simulator"
 author: taylor
 comments: false
 disqus: false

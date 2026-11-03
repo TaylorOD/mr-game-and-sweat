@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Middle-earth: Shadow of Mordor"
+title:  "Middle-earth: Shadow of Mordor"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Content Warning"
+title:  "Content Warning"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Risk of Rain"
+title:  "Risk of Rain"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: State of Decay 2: Juggernaut Edition"
+title:  "State of Decay 2: Juggernaut Edition"
 author: taylor
 comments: false
 disqus: false

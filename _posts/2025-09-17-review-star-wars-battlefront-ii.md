@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: STAR WARS Battlefront II"
+title:  "STAR WARS Battlefront II"
 author: taylor
 comments: false
 disqus: false

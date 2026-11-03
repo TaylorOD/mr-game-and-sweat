@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sleeping Dogs: Definitive Edition"
+title:  "Sleeping Dogs: Definitive Edition"
 author: taylor
 comments: false
 disqus: false

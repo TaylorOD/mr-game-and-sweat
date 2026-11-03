@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: TEKKEN 7"
+title:  "TEKKEN 7"
 author: taylor
 comments: false
 disqus: false

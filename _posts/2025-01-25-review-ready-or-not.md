@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ready or Not"
+title:  "Ready or Not"
 author: taylor
 comments: false
 disqus: false

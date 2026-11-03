@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ring of Elysium"
+title:  "Ring of Elysium"
 author: taylor
 comments: false
 disqus: false

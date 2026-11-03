@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Forza Horizon 4"
+title:  "Forza Horizon 4"
 author: taylor
 comments: false
 disqus: false

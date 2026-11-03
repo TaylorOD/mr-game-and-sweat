@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DEVOUR"
+title:  "DEVOUR"
 author: taylor
 comments: false
 disqus: false

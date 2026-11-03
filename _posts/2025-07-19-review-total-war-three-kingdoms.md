@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Total War: THREE KINGDOMS"
+title:  "Total War: THREE KINGDOMS"
 author: taylor
 comments: false
 disqus: false

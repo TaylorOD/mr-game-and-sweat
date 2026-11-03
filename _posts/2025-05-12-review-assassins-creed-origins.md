@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assassin's Creed Origins"
+title:  "Assassin's Creed Origins"
 author: taylor
 comments: false
 disqus: false

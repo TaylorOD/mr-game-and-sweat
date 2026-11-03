@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Five Nights at Freddy's: Security Breach"
+title:  "Five Nights at Freddy's: Security Breach"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Just Cause 3"
+title:  "Just Cause 3"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Crab Game"
+title:  "Crab Game"
 author: taylor
 comments: false
 disqus: false

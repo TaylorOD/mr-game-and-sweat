@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hunt: Showdown 1896"
+title:  "Hunt: Showdown 1896"
 author: taylor
 comments: false
 disqus: false

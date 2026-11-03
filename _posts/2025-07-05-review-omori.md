@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: OMORI"
+title:  "OMORI"
 author: taylor
 comments: false
 disqus: false

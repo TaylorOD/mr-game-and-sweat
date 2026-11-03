@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Stray"
+title:  "Stray"
 author: taylor
 comments: false
 disqus: false

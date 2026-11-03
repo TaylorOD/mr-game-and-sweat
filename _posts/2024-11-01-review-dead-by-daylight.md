@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dead by Daylight"
+title:  "Dead by Daylight"
 author: taylor
 comments: false
 disqus: false

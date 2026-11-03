@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Halo: The Master Chief Collection"
+title:  "Halo: The Master Chief Collection"
 author: taylor
 comments: false
 disqus: false

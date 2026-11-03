@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Soundpad"
+title:  "Soundpad"
 author: taylor
 comments: false
 disqus: false

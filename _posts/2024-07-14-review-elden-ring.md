@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ELDEN RING"
+title:  "ELDEN RING"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto: San Andreas"
+title:  "Grand Theft Auto: San Andreas"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Oxygen Not Included"
+title:  "Oxygen Not Included"
 author: taylor
 comments: false
 disqus: false

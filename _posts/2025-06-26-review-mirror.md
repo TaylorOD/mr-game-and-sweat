@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mirror"
+title:  "Mirror"
 author: taylor
 comments: false
 disqus: false

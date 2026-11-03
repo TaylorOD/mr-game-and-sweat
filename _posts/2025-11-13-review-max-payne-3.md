@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Max Payne 3"
+title:  "Max Payne 3"
 author: taylor
 comments: false
 disqus: false

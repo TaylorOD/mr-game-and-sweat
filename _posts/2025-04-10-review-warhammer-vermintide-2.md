@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warhammer: Vermintide 2"
+title:  "Warhammer: Vermintide 2"
 author: taylor
 comments: false
 disqus: false

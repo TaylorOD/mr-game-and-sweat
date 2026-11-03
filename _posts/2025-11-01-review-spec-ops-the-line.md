@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Spec Ops: The Line"
+title:  "Spec Ops: The Line"
 author: taylor
 comments: false
 disqus: false

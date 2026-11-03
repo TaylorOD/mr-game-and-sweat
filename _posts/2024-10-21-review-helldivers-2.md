@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: HELLDIVERS 2"
+title:  "HELLDIVERS 2"
 author: taylor
 comments: false
 disqus: false

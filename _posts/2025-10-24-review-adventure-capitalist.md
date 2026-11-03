@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: AdVenture Capitalist"
+title:  "AdVenture Capitalist"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fishing Planet"
+title:  "Fishing Planet"
 author: taylor
 comments: false
 disqus: false
