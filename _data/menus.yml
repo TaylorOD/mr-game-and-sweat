@@ -1,21 +1,21 @@
 # Top Menu
 topmenu:
-  - title: Home
-    url: ''
-
   - title: All Reviews
     url: 'reviews/'
 
   - title: Best Of
     url: 'best-of/'
 
+  - title: Guides
+    url: 'guides/'
+
   - title: About
     url: 'about/'
 
-  - title: Review?
+  - title: Submit a Game
     url: 'contact/'
 
-  - title: Steam Page
+  - title: Follow on Steam
     url: https://store.steampowered.com/curator/45035411/
     class: 'ml-2 btn btn-accent px-3'
     external: true

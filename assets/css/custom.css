@@ -274,8 +274,7 @@ td {
 }
 
 /* Keep the menu on one line */
-.navbar .nav-link,
-.navbar .text-muted.small {
+.navbar .nav-link {
 	white-space: nowrap;
 }
 
@@ -283,11 +282,6 @@ td {
 .navbar-brand,
 .navbar-brand img {
 	flex-shrink: 0;
-}
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.navbar .text-muted.small {
-		display: none;
-	}
 }
 
 /* Best of pages */
@@ -333,4 +327,39 @@ td {
 /* Longer byline on cards, wrap instead of cutting off the date */
 .author-meta {
 	white-space: normal !important;
+}
+
+/* Header */
+body {
+	padding-top: 92px;
+}
+.start-header {
+	padding: 14px 0;
+}
+.navbar {
+	padding: 0;
+}
+.navbar .nav-link:hover {
+	color: var(--accent);
+}
+.navbar .btn-accent:hover {
+	color: var(--accent-ink);
+}
+.navbar-toggler {
+	padding: 0;
+	border: 0;
+	color: #fff;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+	outline: 2px solid var(--accent);
+}
+@media only screen and (max-width: 991px) {
+	.navbar-nav {
+		padding: 1rem 0 0.5rem;
+		font-size: 1.05rem;
+	}
+	.navbar-nav .btn-accent {
+		margin: 0.5rem 0 0 !important;
+	}
 }
