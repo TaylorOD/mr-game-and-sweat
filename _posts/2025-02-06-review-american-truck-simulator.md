@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-02-06T00:10:21.947Z
 categories: [ review, game ]
-excerpt: "American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States."
+excerpt: "The calm driving and controller support make American Truck Simulator a good fit for a treadmill or bike workout. You can keep a steady pace without needing quick reflexes."
 score_gameplay: 3
 score_treadmill: 3
 score_computer: 2
@@ -16,34 +16,31 @@ genres: ["Indie", "Simulation"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-American Truck Simulator (ATS) is a driving simulation game that invites players to take the wheel of a heavy-duty truck and traverse the expansive landscapes of the United States. Like many life-sim games, it presents a serene and calming driving experience perfect for fitness enthusiasts who enjoy combining their workout routines with their gaming hobbies.
+American Truck Simulator puts you behind the wheel of a truck and has you drive across the United States. It offers a calm, steady pace that works well alongside a workout.
 
 ## Gameplay
 
-ATS excels in providing an engaging and immersive gameplay experience. The world is beautifully detailed, drawing players into its lifelike environments. The act of driving can be quite soothing, and you will spend plenty of time focusing on the road, which can help to keep your mind engaged while you’re sweating it out on your treadmill or bike. 
-
-There are minimal cut scenes, allowing you to remain focused on the task at hand without constant interruptions. The variety of different routes and driving conditions offers a rich experience, keeping things dynamic yet not overwhelming. Whether you're cruising through the Pacific coastline or navigating urban traffic, the gameplay keeps a steady pace that harmonizes well with aerobic exercise.
+Driving is soothing, and focusing on the road can help keep your mind busy while you exercise. There are few cut scenes, and routes range from the Pacific coastline to urban traffic.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-ATS supports controller compatibility, making it a fantastic choice for both treadmill and bike setups. Maneuvering a truck does not require rapid reflexes or complex combinations of movement, so you can seamlessly blend gameplay with your exercise routine. The controls are simple enough that you can adjust your pace while maintaining awareness of your workout. 
-
-The calm nature of the game allows you to use your peripheral vision to focus on your cardio device, while also keeping your hands engaged with the controller. Therefore, you can easily find a rhythm that allows for a satisfying workout experience.
+The game supports controllers, and driving does not call for quick reflexes or complicated button combinations. You can keep your hands on the controller and use your peripheral vision to check your cardio device.
 
 ### Category Score: 3 out of 3
 
 ## Computer Requirements
 
-American Truck Simulator isn’t overly demanding on your computer, which is great news for those who might have older setups. The minimum requirements are reasonable, calling for a dual-core CPU, a mid-range graphics card, and 4GB of RAM. This means that you won’t have to break the bank on hardware to enjoy this laid-back trucking experience while you're working up a sweat. 
+The game is not too demanding, but the computer requirements are only reasonable, not a sure thing for every older setup. The minimum asks for a dual core CPU, a midrange graphics card, and 4GB of RAM.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-American Truck Simulator provides a relaxing simulation experience that is perfect for gamers who want to incorporate fitness into their daily routine. With its engaging gameplay, excellent compatibility with treadmill and bike workouts, and reasonable computer requirements, ATS strikes a perfect balance between working out and gaming. 
+American Truck Simulator has strong gameplay for a workout, and it works well with treadmill and bike setups. Its computer requirements are less of a sure bet, so the overall package is good but not perfect.
 
 ### Overall Score: 2.67 out of 3

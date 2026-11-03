@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2024-09-14T04:58:30.908Z
 categories: [ review, game ]
-excerpt: "Baldur's Gate 3 is a masterful blend of traditional RPG elements and modern gameplay mechanics, setting a high bar for storytelling and character interactions in the gaming landscape."
+excerpt: "Turn based combat can work during a workout, but long dialogue and planning can pull your attention away. Expect a few slow stretches on the treadmill or bike."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Adventure", "RPG", "Strategy"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Baldur's Gate 3 is a masterful blend of traditional RPG elements and modern gameplay mechanics, setting a high bar for storytelling and character interactions in the gaming landscape. However, for those of us who want to stay active—whether on a treadmill or bike—it's essential to consider how it fits into an exercise routine.
+Baldur's Gate 3 has strong storytelling and character interactions, but it can be slow if you want to keep moving. Long conversations and cutscenes may interrupt your workout.
 
 ## Gameplay
 
-The gameplay in Baldur's Gate 3 is undeniably engaging. Packed with rich narrative decisions and complex character interactions, the game immerses you in its fantasy world. The turn-based combat system encourages strategic thinking, which can keep your mind occupied without being overly taxing. However, some sections might slow down due to longer dialogues and cutscenes, which can be a distraction during a workout. While you might find yourself on the edge of your seat during tense battles, prolonged discussions can make it hard to maintain your intensity on the treadmill or bike.
+The story and character choices give you plenty to think about. Turn based combat calls for strategy without demanding quick reactions, but long dialogues and cutscenes can make it harder to keep your workout going at the same pace.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-When it comes to compatibility with exercise equipment, Baldur's Gate 3 performs reasonably well. The game supports various controller schemes, which can be a boon for staying active while playing. However, the turn-based combat, while methodical, does require periods of focused attention and can lag during critical decision-making moments. This gameplay can cause a dip in workout intensity if you find yourself glued to the screen, especially during strategic planning. Quick reflex movements are not essential, making it viable for those looking for an active experience, albeit with some limitations.
+The game works reasonably well with exercise equipment, and quick reflexes are not essential. Still, combat and strategic planning need your attention, so you may slow down when you focus on the screen.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Baldur's Gate 3 boasts impressive graphics and deep world-building, so it does demand a fair amount of computing power. The recommended specifications might require a mid to high-end gaming rig, which could limit accessibility for some users. If you're considering a session while working out, you should ensure that your setup is capable of running this visually stimulating game without hiccups.
+The game asks for a fair amount of computing power. Its recommended specifications may call for a mid to high end gaming rig, which could put it out of reach for some players.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Baldur's Gate 3 is a stunning title that excels in storytelling, deep character interactions, and immersive gameplay. However, it does have its drawbacks when it comes to maintaining focus during a workout, particularly with its propensity for lengthy cutscenes and strategic pauses. If you're willing to engage in a slightly less intense workout, this game can certainly be enjoyed from the comfort of your treadmill or bike. Its impressive aesthetics deserve to be savored while strategic elements interact well with exercise, but be prepared for some slower moments.
+Baldur's Gate 3 has good storytelling and character interactions, but its long cutscenes and pauses can get in the way of a steady workout. It can work on a treadmill or bike if you are fine with slower stretches.
 
 ### Overall Score: 2 out of 3

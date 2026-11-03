@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-18T00:11:37.957Z
 categories: [ review, game ]
-excerpt: "As a thrilling addition to the Borderlands franchise, Borderlands 3 offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay."
+excerpt: "Borderlands 3 has enough action to keep you engaged during a workout, but hectic fights can be tough to manage while you move. Long cutscenes can also interrupt your pace."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,36 +17,33 @@ genres: ["Action", "RPG"]
 pause_friendly: "Sometimes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-As a thrilling addition to the Borderlands franchise, "Borderlands 3" offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay. While it captures the essence of its predecessors, it also provides an opportunity to engage with your fitness routine without sacrificing fun. Let's dive into the specifics to see how well it aligns with an active gaming lifestyle.
+Borderlands 3 mixes gunfights, humor, and loot, and you can play solo or with others. It works for a workout, but cutscenes and demanding fights can get in the way.
 
 ## Gameplay
 
-Borderlands 3 excels in delivering a captivating co-op and solo experience packed with action, humor, and an astonishing array of weapons. The game features smooth gameplay that keeps players on their toes without long lulls in action. Whether you're running, gunning, or engaging in quirky side missions, the fast-paced nature of the game significantly minimizes the chances of zoning out while on the treadmill or bike.
-
-The procedural generation of weapons means you're likely to discover new and exciting equipment regularly, which adds an addictive layer to the gameplay. However, there are moments when the story’s pointed humor leads to some lengthy cutscenes, which could interrupt your rhythm when exercising. Nevertheless, the game's general pace is engaging enough that it rarely detracts from your workout.
+The action moves along, and new weapons keep things from feeling stale. Some story cutscenes run long, though, and the fast pace can be hard to follow while exercising.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-When it comes to compatibility with treadmill or bike exercises, Borderlands 3 performs admirably. The game is fully playable with controllers, allowing for diverse movement on your treadmill or bike. The aiming and shooting mechanics are intuitive, making it easy to shoot while maintaining your form. 
-
-However, this is where the game can become a bit tricky. If your heart rate is pumping, it might be challenging to navigate quickly through tougher sections or handle more demanding combat encounters, especially with the myriad of enemies you face. The calmer moments, however, provide a good opportunity to keep your pace steady. Just be cautious during the hectic firefights, as quick reflexes are needed! 
+You can play with a controller, and aiming and shooting are fairly intuitive while you move. Tough fights need quick reactions, so calmer moments are easier to handle on a treadmill or bike.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-On the technical side, Borderlands 3 is somewhat demanding when it comes to computer requirements. You’ll want a decent GPU and CPU to enjoy the game at its best settings without hiccups. Running it smoothly requires at least an Nvidia GTX 750 2GB or a comparable model. If you’re using a gaming setup to both play and work out, make sure your machine can handle the workload to avoid any frustrating lags during your workout session.
+The game can be demanding on your computer. You will want a decent GPU and CPU, with at least an Nvidia GTX 750 2GB or a comparable model for smooth play.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-In summary, Borderlands 3 is a vibrant and engaging title that will keep your heart rate elevated, rich in content, and ideal for players looking to blend their fitness routine with gaming. While there are minor points to consider, such as the occasional lengthy cutscene and the need for a capable gaming rig, the game's engaging mechanics and fun co-op experience make it a great fit for treadmill or biking sessions.
+The action and weapon variety make Borderlands 3 a decent workout game. Long cutscenes, tougher fights, and its computer requirements keep it from being an easy fit.
 
 ### Overall Score: 2 out of 3
 
-With an overall score of 2 out of 3, Borderlands 3 is an excellent choice for gamers seeking to maintain their fitness without sacrificing excitement in their gaming experience! Lace up your shoes or hop on that bike—you’re in for a wild ride!
+Borderlands 3 is a reasonable choice for playing while you exercise, but it has some rough spots. The fights can demand more attention than you may want to give while moving.

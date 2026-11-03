@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-28T00:10:24.229Z
 categories: [ review, game ]
-excerpt: "NieR:Automata is an action RPG that offers a deeply engaging narrative set in a post-apocalyptic world, entwined with thought-provoking themes, immersive gameplay, and beautiful visuals."
+excerpt: "The fast combat takes quick reactions, so it can be hard to keep a steady pace on a treadmill or bike. Cutscenes and slower dialogue give you breaks, but they can interrupt your workout rhythm."
 score_gameplay: 2
 score_treadmill: 1.5
 score_computer: 2
@@ -16,30 +16,31 @@ genres: ["Action", "RPG"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-NieR:Automata is an action RPG that offers a deeply engaging narrative set in a post-apocalyptic world, entwined with thought-provoking themes, immersive gameplay, and beautiful visuals. As a fitness enthusiast and avid gamer, I was curious to see how this title could fit into a treadmill or biking routine. Here’s the breakdown.
+NieR:Automata is an action RPG set in a post apocalyptic world, with a story built around thought provoking themes. Its combat is fun, but the story and action do not always fit neatly into a workout.
 
 ## Gameplay
 
-NieR:Automata features fast-paced combat and an engaging storyline that unfolds across multiple playthroughs. The action is fluid and keeps you on your toes, making each encounter exciting. However, the game does include lengthy cutscenes and slower dialogue sequences, which might pose a challenge if you’re trying to maintain an active workout pace. While the battles are intense and can distract you from running, some sections require you to stop for story moments. Overall, it strikes a balance but might pull you out of your workout rhythm occasionally.
+Combat is fast and fluid, and the story unfolds over multiple playthroughs. The battles can pull your attention from exercise, while long cutscenes and slower dialogue can make you stop. It works for a workout at times, but it can break your rhythm.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-NieR:Automata is compatible with both keyboard and game controllers, allowing for flexibility in setup. The game’s combat system does involve a range of movements, such as dodging, jumping, and using special abilities, which can make it difficult to maintain form while exercising. Some quick reflexes are required, which may hinder your ability to keep pace on a treadmill or bike. If you tend to play at a more leisurely pace, you might find the experience more enjoyable while staying active, though it can be a challenge during intense battles.
+You can play with a keyboard or controller. Combat asks you to dodge, jump, and use special abilities, with quick reactions that can make it hard to keep good form and pace. A slower workout may be easier, but intense fights can still get in the way.
 
 ### Category Score: 1.5 out of 3
 
 ## Computer Requirements
 
-NieR:Automata requires a decent setup to run smoothly, particularly if you want to experience the stunning visuals in full glory. The minimum requirements include an Intel Core i3 or equivalent, along with 4 GB of RAM. For optimal performance, an Intel Core i5 and 8 GB of RAM are recommended. If you're playing on a laptop or an older computer, be prepared for potential performance hiccups, which could detract from your gameplay experience while trying to exercise.
+NieR:Automata needs a decent computer to run smoothly. The minimum requirements are an Intel Core i3 or equivalent and 4 GB of RAM, while the recommended setup is an Intel Core i5 and 8 GB of RAM. Older computers or laptops may have performance hiccups.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-NieR:Automata is a phenomenal game that captivates with its storytelling and gameplay mechanics. However, its blend of intense action and slower narrative moments may disrupt your exercise routine on a treadmill or bike. If you're focused on your workout, you might face challenges staying engaged due to some cutscenes and intense combat mechanics. That being said, it's a captivating experience that makes it worth a play when you're not specifically focused on exercise.
+NieR:Automata has a good story and enjoyable combat, but its action and slower story moments can disrupt your workout. You may find it easier to focus on the game when exercise is not your main concern.
 
 ### Overall Score: 1.83 out of 3

@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-02-21T00:10:31.281Z
 categories: [ review, game ]
-excerpt: "Detroit: Become Human is a visually stunning narrative-driven adventure game that immerses players in a futuristic world where androids grapple with their existence and strive for independence."
+excerpt: "The cutscenes and slower parts make this manageable at an easy pace, but quick time events and dialogue need your attention. It works for a workout, just not one where you want constant action."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,30 +17,31 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
+last_modified_at: 2026-11-03
 ---
 
-Detroit: Become Human is a visually stunning narrative-driven adventure game that immerses players in a futuristic world where androids grapple with their existence and strive for independence. As a title that combines storytelling with player choices, it's fascinating; but how does it fare when you’re trying to stay active on a treadmill or bike?
+Detroit: Become Human is a story focused adventure about androids seeking independence. The choices are interesting, but the slower pace is a mixed fit for exercising.
 
 ## Gameplay
 
-Detroit: Become Human offers a richly woven narrative filled with engrossing plot twists and dynamic decision-making. However, be prepared for the numerous cutscenes and slower-paced interactions that punctuate the experience. While the choices are engaging, large portions of gameplay hinge on dialogue and exploration, which can pull focus from your exercise routine. If you’re hoping for a swift-paced experience to keep your heart rate up, you might find yourself occasionally drifting into inactive periods. 
+The story has plot twists and choices, but you spend a lot of time watching cutscenes, talking, and exploring. That can pull your focus from your workout, and there are stretches with little activity.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-When it comes to playing while being active, Detroit: Become Human has mixed results. The game relies heavily on controller input, which is manageable; however, the nature of cutscenes and occasionally slow in-game interactions might require you to slow down your treadmill speed or ease up on cycling intensity to fully absorb the story. The quick-time events do require some dexterity, but the lack of frantic action means most players won’t need to pump the brakes often, making it relatively compatible with low to moderate exercise.
+You can play while exercising, but some scenes may make you slow down or ease up so you can follow the story. Quick time events need some dexterity, so it suits low or moderate exercise better than a hard workout.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Detroit: Become Human is graphically intensive and demands a solid gaming rig to run smoothly. For optimal performance, you’ll need a dedicated graphics card, a decent CPU, and ample RAM. Therefore, if you're looking to engage in a gaming session while exercising, ensure your setup is up to par, or be prepared for sacrifices in visual fidelity. If your setup is lagging, it could distract you from focusing on your workout.
+The game is graphically demanding and needs a solid gaming PC, with a dedicated graphics card, a decent CPU, and enough RAM. If your setup struggles, lowering visual quality may help, though lag can distract you from exercising.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Detroit: Become Human is a masterpiece in narrative design that offers a compelling experience, but it may not be the best choice for those trying to stay active while gaming. Its cutscenes and slower moments require a degree of attention that may disrupt your exercise flow. If you’re committed to immersing yourself in its story while keeping a chill-paced workout, it can be a decent option; just don’t expect a high-intensity experience.
+Detroit: Become Human has a good story, but its slower scenes make it an uneven workout game. It can work for a relaxed session if you can keep your attention on the game, but do not expect much action.
 
 ### Overall Score: 2 out of 3
