@@ -44,7 +44,3 @@ To run PAYDAY 2 smoothly, your setup needs to meet moderate system requirements.
 In conclusion, PAYDAY 2 is an action-packed, cooperative experience that successfully engages players both in terms of gameplay and strategy. Its relatively low demand on hardware allows more gamers to access the action, while its controller compatibility can enhance your cardio sessions. Despite some minor quick-reflex moments, the game remains a solid option for those looking to mingle their gaming and fitness goals.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: PAYDAY 2 - By Taylor Owen Dorsett

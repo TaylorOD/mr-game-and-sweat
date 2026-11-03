@@ -43,7 +43,3 @@ To enjoy Arma 3 at its fullest, you'll need a decently powerful PC. The game dem
 In conclusion, Arma 3 can provide a dynamic and highly engaging gaming experience that encourages tactical thinking, with limited distractions that could affect your workout session. While it has some quick movements that might break your rhythm on a treadmill or bike, the game’s adaptability across devices balances it out effectively. Just ensure your gaming setup is up to the task to keep performance smooth and enjoyable.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Arma 3 - By Taylor Owen Dorsett

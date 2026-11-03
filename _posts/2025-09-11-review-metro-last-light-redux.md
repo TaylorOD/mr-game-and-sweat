@@ -44,7 +44,3 @@ The requirements for "Metro: Last Light Redux" are moderate compared to more gra
 "Metro: Last Light Redux" provides an immersive experience that thrives on atmosphere and narrative depth, making it a solid choice for fitness gamers. Its gameplay keeps your heart racing, though with sporadic slower moments that may challenge your focus on physical activity. With good compatibility for controller-based play and moderate demands on your system, it also supports a healthy balance of gaming and exercise.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Metro: Last Light Redux - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ The Division has moderate computer requirements, which is a good thing for those
 Overall, Tom Clancy's The Division is a solid pick for those wanting to combine video gaming with exercise. Its engaging gameplay and accessibility on moderate systems are a plus, though be prepared for some slower moments that could disrupt your workout's flow. If you enjoy tactical gameplay that allows for a competitive edge without the need for intense reflexes at all times, this game is a winner for your treadmill or biking needs.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Tom Clancy’s The Division - By Taylor Owen Dorsett

@@ -7,7 +7,7 @@ comments: false
 disqus: false
 date:   2025-03-22T00:10:19.905Z
 categories: [ review, game ]
-excerpt: "Ahoy, mateys!"
+excerpt: "Ahoy, mateys! Set sail on an ocean of adventure and exercise with “Sea of Thieves: 2025 Edition.” This beloved pirate simulator has returned, fully equipped with shiny new features and..."
 score_gameplay: 3
 score_treadmill: 2
 score_computer: 2
@@ -46,7 +46,3 @@ Overall, "Sea of Thieves: 2025 Edition" delivers a hearty gameplay experience th
 ### Overall Score: 2.33 out of 3
 
 So strap on your pirate hat, hop on that treadmill or bike, and get ready to embark on an epic sea adventure that’ll challenge both your gaming skills and your physical fitness!
-
----
-
-Mr. Game and Sweat Reviews: Sea of Thieves: 2025 Edition - By Taylor Owen Dorsett

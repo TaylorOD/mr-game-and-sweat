@@ -49,7 +49,3 @@ Far Cry 3 offers an exhilarating blend of expansive gameplay and action that can
 If you’re looking to combine your love for gaming with a solid workout, Far Cry 3 serves as a fantastic option. Prepare to conquer both the challenges of the game and the treadmill!
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Far Cry 3 - By Taylor Owen Dorsett

@@ -41,7 +41,3 @@ The minimum specs call for a dual core processor at 2.8 GHz, 4 GB of RAM, and In
 Battlerite delivers quick, active matches and should run on modest hardware. Its focus on competitive reactions makes it a poor workout companion unless you can play while keeping your hands steady.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Battlerite - By Taylor Owen Dorsett

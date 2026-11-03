@@ -47,7 +47,3 @@ In terms of system requirements, WEBFISHING is quite approachable. It runs smoot
 WEBFISHING presents an intriguing mix of fishing and exploration that adds a fun layer to your workout routine. While it manages to maintain a lively and engaging pace, it occasionally detracts from the physical aspect of exercising with its exploration segments. Nonetheless, its compatibility with treadmill and bike setups, combined with demand-friendly computer specifications, positions it as an accessible option for gamers looking to blend fitness with play.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: WEBFISHING - By Taylor Owen Dorsett

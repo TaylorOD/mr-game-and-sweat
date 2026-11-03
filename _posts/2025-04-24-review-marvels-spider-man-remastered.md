@@ -46,7 +46,3 @@ Marvel’s Spider-Man Remastered offers an engaging experience with its fast-pac
 ### Overall Score: 2 out of 3
 
 In conclusion, if you’re in the market for an action-packed game that keeps you on your toes—both on the screen and on your treadmill or bike—Marvel’s Spider-Man Remastered is a solid choice to level up both your gaming and fitness game. So, grab your controller, hit the treadmill, and let Spider-Man teach you that with great power comes great way to stay fit!
-
----
-
-Mr. Game and Sweat Reviews: Marvel’s Spider-Man Remastered - By Taylor Owen Dorsett

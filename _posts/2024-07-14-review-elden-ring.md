@@ -44,7 +44,3 @@ As an open-world title with stunning graphics, ELDEN RING does require a moderat
 ELDEN RING serves as an excellent option for gamers who enjoy incorporating exercise into their routines, offering a balance of engagement without overwhelming focus. Its gameplay keeps you on your feet and moving, and its controller compatibility makes it accessible for those on treadmills or bikes. While the computer requirements are reasonable, make sure your setup is capable of delivering the best performance. Ultimately, ELDEN RING enriches both your gaming and exercising experience, making it a compelling choice for fitness-oriented gamers.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ELDEN RING - By Taylor Owen Dorsett

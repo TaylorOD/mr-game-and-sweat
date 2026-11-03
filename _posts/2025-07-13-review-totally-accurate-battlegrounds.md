@@ -47,7 +47,3 @@ Totally Accurate Battlegrounds is surprisingly accessible in terms of computer r
 In conclusion, Totally Accurate Battlegrounds ups the ante on engaging and zany battle royale gameplay perfect for keeping you entertained while you exercise. While it’s excellent for treadmill running or biking with controller compatibility, the instant reflexes needed might require some adaptation for focused workouts. Coupled with reasonable computer requirements, TABG offers a delightful experience for those who want a laugh while breaking a sweat.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Totally Accurate Battlegrounds - By Taylor Owen Dorsett

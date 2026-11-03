@@ -44,7 +44,3 @@ Dead by Daylight isn’t overly demanding on system resources. It requires a Win
 Dead by Daylight combines gripping horror gameplay with the quick decisions necessary to keep players on edge. While it works remarkably well with treadmill and biking setups, potential players should be prepared for moments requiring rapid movements that could disrupt their workout flow. It's a fun way to incorporate exercise into gaming, racing against time and a killer while also keeping fit. Overall, it serves as an excellent bridge for gamers looking to stay active while enjoying an intense multiplayer experience.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dead by Daylight - By Taylor Owen Dorsett

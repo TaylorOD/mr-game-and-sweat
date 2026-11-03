@@ -43,7 +43,3 @@ On the technical side, Ghostrunner is moderately demanding. It requires a decent
 In conclusion, Ghostrunner delivers a heart-pounding, engaging experience that is not only captivating but also manageable for exercise routines. Its focus on fast-paced action with no time wasted on unnecessary narrative elements makes it perfect for a quick workout session. While its compatibility with fitness equipment has room for improvement, the engaging gameplay ensures that your attention remains locked. Whether you're looking for a challenging run or simply a thrilling escape, Ghostrunner is a compelling choice.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ghostrunner - By Taylor Owen Dorsett

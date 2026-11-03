@@ -44,7 +44,3 @@ As a free-to-play game, MultiVersus is relatively accessible in terms of compute
 In conclusion, MultiVersus offers an exciting combination of character-driven gameplay that’s engaging enough to hold your attention while you exercise. While it does have some areas where it could enhance compatibility for those vigorously working out, the fun of engaging with your favorite pop culture icons makes the occasional controller adjustments worthwhile. Overall, it’s an enjoyable experience catering to both gamers and fitness enthusiasts looking to break a sweat while battling it out.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: MultiVersus - By Taylor Owen Dorsett

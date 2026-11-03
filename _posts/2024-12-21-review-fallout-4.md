@@ -46,7 +46,3 @@ Overall, Fallout 4 offers an engaging experience with its impressive open world;
 ### Overall Score: 1.67 out of 3
 
 If you can find the right balance, Fallout 4 can provide both a thrilling escape and a unique workout opportunity. Just remember to take breaks to hydrate and stretch!
-
----
-
-Mr. Game and Sweat Reviews: Fallout 4 - By Taylor Owen Dorsett

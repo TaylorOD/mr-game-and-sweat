@@ -43,7 +43,3 @@ Darkest Dungeon is relatively light in terms of system requirements, making it a
 Darkest Dungeon is a phenomenal game for those looking to blend strategic gaming with their fitness routine. Its engaging gameplay, compatibility with exercise equipment, and minimal computer requirements make it a solid choice for your next workout session. While it's a bit more comfortable for those who prefer slower-paced gaming, it offers an excellent balance of challenge and immersion that keeps you invested—all without compromising your exercise goals.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Darkest Dungeon - By Taylor Owen Dorsett

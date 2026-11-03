@@ -44,7 +44,3 @@ When considering "Battlefield V" in the context of treadmill or bike compatibili
 "Battlefield V" excels in delivering an immersive gameplay experience with high-energy action, making it a competent partner for running or biking workouts. While there are fleeting moments that could disrupt your focus, it generally accommodates a vigorous gaming session. The game's solid graphics, however, demand a decent setup, which should be taken into account for optimal performance. In sum, as long as you're prepared to ride the wave of intense combat and adjust your pace accordingly, "Battlefield V" serves as an entertaining and engaging way to break a sweat.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Battlefield V - By Taylor Owen Dorsett

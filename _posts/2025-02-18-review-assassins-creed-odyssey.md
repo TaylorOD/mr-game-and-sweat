@@ -43,7 +43,3 @@ In terms of computer requirements, "Assassin's Creed Odyssey" is relatively dema
 "Assassin's Creed Odyssey" effectively merges storytelling, exploration, and a thrilling gameplay experience. Its compatibility with exercising helps maintain the balance between gaming and fitness, making it an enjoyable choice for players who don’t want to sacrifice their workouts. While the game's demanding specs require consideration, in the grand scheme of things, it's a worthy trade-off for the rich adventures you'll experience.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assassin's Creed Odyssey - By Taylor Owen Dorsett

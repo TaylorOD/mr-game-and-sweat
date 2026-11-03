@@ -46,7 +46,3 @@ In conclusion, "DRAGON BALL: Sparking! ZERO" successfully marries the thrill of 
 ### Overall Score: 2.33 out of 3
 
 So, strap on those headphones, get ready to unleash your inner Z fighter, and enjoy a cardio session that feels less like a chore and more like adventure!
-
----
-
-Mr. Game and Sweat Reviews: DRAGON BALL: Sparking! ZERO - By Taylor Owen Dorsett

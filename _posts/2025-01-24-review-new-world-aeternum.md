@@ -45,7 +45,3 @@ In conclusion, "New World: Aeternum" presents an engaging experience for gamers 
 ### Overall Score: 2.17 out of 3 
 
 In short, if you're ready to conquer Aeternum while keeping your fitness journey alive, this game makes a formidable companion. So gear up, strap in, and enjoy the adventure—all while breaking a sweat!
-
----
-
-Mr. Game and Sweat Reviews: New World: Aeternum - By Taylor Owen Dorsett

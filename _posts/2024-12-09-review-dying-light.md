@@ -52,7 +52,3 @@ Dying Light seamlessly marries thrilling gameplay with the excitement needed to 
 ### Overall Score: 2.33 out of 3
 
 If you're seeking a game that makes you jump, run, and keep fit all at once, look no further than Dying Light. Strap in, get moving, and enjoy the thrill of surviving against the odds!
-
----
-
-Mr. Game and Sweat Reviews: Dying Light - By Taylor Owen Dorsett

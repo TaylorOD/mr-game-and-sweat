@@ -44,7 +44,3 @@ In terms of computer requirements, DARK SOULS III is not overly demanding but do
 DARK SOULS III is a well-crafted experience offering both challenge and aesthetic allure. While it may not be perfect for every exercise enthusiast due to its slower sections and occasional interruptions, it does provide an engaging gameplay experience that can keep you motivated and focused, making it an excellent choice for those on a treadmill or bike. The game’s compatibility with basic controllers smooths out the experience, allowing for most players to enjoy one of the finest entries in the franchise without sacrificing their fitness goals.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DARK SOULS III - By Taylor Owen Dorsett

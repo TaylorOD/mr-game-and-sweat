@@ -43,7 +43,3 @@ Undertale is not demanding on computer resources, making it accessible for a ran
 Undertale is an engaging and charming indie RPG that offers a rich experience and entertaining gameplay while fitting reasonably well into an exercise schedule. While it might not completely align with high-intensity workouts due to some slower segments, its overall flexibility and low computer demands enhance its attractiveness as a fitness-friendly game. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Undertale - By Taylor Owen Dorsett

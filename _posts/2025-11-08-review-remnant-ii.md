@@ -42,7 +42,3 @@ The minimum specs call for a GTX 1650 or Radeon RX 590, 16 GB of RAM, and 80 GB 
 REMNANT II is a good action RPG, but its precise combat makes it a tough pick for treadmill play. Try it on a bike if you want to exercise while gaming, and save the harder boss fights for when you can focus.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: REMNANT II - By Taylor Owen Dorsett

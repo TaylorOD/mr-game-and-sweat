@@ -43,7 +43,3 @@ On the technical side, TW:W3 demands a fair level of expertise from your PC. Run
 All in all, Total War: WARHAMMER III provides a compelling mix of strategy and fantasy that will resonate with fans of the franchise, all while being mindful of the need to stay active. Balanced pacing and engaging gameplay allow you to enjoy your workout without compromising your gaming experience. While avid gamers may want a bit more dynamism in combat to keep up the heart rate, it's generally a solid companion for treadmill and biking enthusiasts. Get ready to strategize, but just remember to keep an eye on your workout results!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Total War: WARHAMMER III - By Taylor Owen Dorsett

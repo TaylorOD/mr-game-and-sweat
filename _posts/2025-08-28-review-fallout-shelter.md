@@ -44,7 +44,3 @@ As a mobile-friendly game, Fallout Shelter isn't particularly demanding on compu
 In conclusion, Fallout Shelter is a solid choice for those looking to combine their exercise routines with an engaging gaming experience. The gameplay, while interrupted by some slow resource management segments, remains captivating and keeps you involved. Its compatibility with treadmill and biking sessions makes it easy to dive into the Vault without breaking a sweat—at least not too much! Plus, the limited system requirements further enhance its accessibility. While not a “perfect” fitness game, it certainly has its merits for breaking up your routine while you enjoy a bit of apocalypse management.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Fallout Shelter - By Taylor Owen Dorsett

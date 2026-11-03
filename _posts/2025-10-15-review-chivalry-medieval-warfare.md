@@ -44,7 +44,3 @@ Chivalry: Medieval Warfare isn’t an overly demanding game when it comes to com
 Chivalry: Medieval Warfare delivers heart-pounding action that effectively keeps players engaged and on their toes. Its engaging gameplay, combined with reasonable compatibility for workout setups, makes it a solid option for gamers looking to break a sweat. While the demand for quick reflexes might require some adaptation to your workout routine, the thrill of battle is certainly worth it. Whether you’re fighting for glory or simply trying to distract yourself during those treadmill sessions, Chivalry is an excellent choice.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Chivalry: Medieval Warfare - By Taylor Owen Dorsett

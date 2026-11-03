@@ -43,7 +43,3 @@ Playing "Slay the Spire" while on a treadmill or bike is surprisingly manageable
 Overall, we give "Slay the Spire" a perfect score of 3 out of 3. It excels in every category, making it a must-play for any gamer.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Slay the Spire - By Taylor Owen Dorsett

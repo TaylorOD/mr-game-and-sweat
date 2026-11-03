@@ -43,7 +43,3 @@ On the technical front, MiSide is moderately demanding. It requires a decent gra
 Overall, MiSide successfully delivers an engaging gameplay experience that enhances your workout rather than detracting from it. With its well-paced missions, decent controller support, and manageable computer requirements, it stands out as a great option for gamers looking to incorporate fitness into their hobbies. While there are a few moments where gameplay might interfere with your rhythm, the overall design compliments an active lifestyle beautifully.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: MiSide - By Taylor Owen Dorsett

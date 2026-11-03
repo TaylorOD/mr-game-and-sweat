@@ -44,7 +44,3 @@ On the technical side, Grounded is reasonably demanding but not excessively so. 
 Grounded successfully captures the essence of survival and adventure in a unique miniaturized world that’s perfect for both gaming enthusiasts and those looking to maintain their fitness routines. The engaging gameplay will distract you just enough from the grind of a treadmill or bike while still forcing you to maintain focus and balance. While more intense moments may interrupt the flow, they are well-integrated into the overall experience. Ultimately, Grounded is a great choice for fitness gaming, offering just the right blend of challenge, exploration, and adrenaline.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Grounded - By Taylor Owen Dorsett

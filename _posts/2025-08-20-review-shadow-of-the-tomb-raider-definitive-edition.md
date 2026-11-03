@@ -44,7 +44,3 @@ As for computer requirements, "Shadow of the Tomb Raider: Definitive Edition" is
 In conclusion, “Shadow of the Tomb Raider: Definitive Edition” is an engaging title that offers plenty of excitement for gamers looking to exercise while playing. The gameplay is captivating, but be prepared for moments that may disrupt your rhythm. The game is fairly adaptable for treadmill or bike use, but be mindful of those slower segments. Overall, it's a solid option for an exercise-gaming hybrid, granting an average score that reflects its merits and challenges.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Shadow of the Tomb Raider: Definitive Edition - By Taylor Owen Dorsett

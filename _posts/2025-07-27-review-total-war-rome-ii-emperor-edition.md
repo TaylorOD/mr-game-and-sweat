@@ -43,7 +43,3 @@ Total War: ROME II can be slightly demanding on your computer, especially during
 Total War: ROME II - Emperor Edition is a strategic tour de force that provides substantial engagement while you're exercising, albeit with a few slow moments that may disrupt your rhythm. The controller compatibility and lack of quick reflex gameplay make it a solid choice for treadmill or biking warriors. Just make sure your computer can handle the demands of the game if you want to avoid any distractions that might derail your workout.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Total War: ROME II - Emperor Edition - By Taylor Owen Dorsett

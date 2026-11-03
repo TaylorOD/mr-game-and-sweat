@@ -44,7 +44,3 @@ Resident Evil 2's remastered graphics are a sight to behold, but they do come wi
 Resident Evil 2 seamlessly blends brisk gameplay perfect for keeping your heart rate up while engaging in some serious gameplay. While there are a few logistical challenges, such as needing precision during intense moments, it’s largely a fantastic companion for treadmill or biking sessions. With a strong focus on atmosphere, strategy, and thrills, this title is a must-play for fitness gamers, especially those who enjoy an adrenaline rush. 
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil 2 - By Taylor Owen Dorsett

@@ -46,7 +46,3 @@ DARK SOULS II: Scholar of the First Sin triumphs as a compelling choice for game
 ### Overall Score: 2.33 out of 3
 
 In conclusion, if you’re looking for an engaging video game experience that won't pull you away from your fitness goals, DARK SOULS II: Scholar of the First Sin is well worth the effort. Just remember to bring water—staying hydrated is key when you’re battling both the game’s challenges and your own endurance!
-
----
-
-Mr. Game and Sweat Reviews: DARK SOULS II: Scholar of the First Sin - By Taylor Owen Dorsett

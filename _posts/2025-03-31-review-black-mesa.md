@@ -45,7 +45,3 @@ In terms of computer requirements, Black Mesa is accessible without being demand
 Overall, Black Mesa is a fantastic remake that marries nostalgia with modern gaming sensibilities. It keeps you engaged without pulling focus from your workout, and it offers a level of accessibility that makes it easy for anyone to jump in. Whether you’re on the treadmill or cycling away, Black Mesa offers the perfect balance of gaming and exercise. With its minor flaws being easily manageable, it's a title worth firing up during your fitness routine.
 
 ### Overall Score: 2.58 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Black Mesa - By Taylor Owen Dorsett

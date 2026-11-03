@@ -44,7 +44,3 @@ Terraria is not demanding when it comes to computer requirements. The game runs 
 Overall, Terraria is an excellent option for gamers looking to combine their love for exercise with gaming. The gameplay is engaging and fast-paced, making it excellent for treadmill and bike use, while also being easy on resources. It’s a title that keeps you entertained while still providing an opportunity to stay active. So, if you’re looking to break a sweat and dive into a fantastical world of exploration and creativity, look no further than Terraria.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Terraria - By Taylor Owen Dorsett

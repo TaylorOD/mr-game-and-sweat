@@ -50,7 +50,3 @@ HITMAN 2 successfully delivers an engaging experience without straying too far f
 ### Overall Score: 2 out of 3
 
 If you're looking for a way to blend your workout with a thrilling assassination experience, HITMAN 2 could be your perfect companion!
-
----
-
-Mr. Game and Sweat Reviews: HITMAN 2 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Assetto Corsa isn’t excessively demanding, but it does have specific requireme
 In summary, Assetto Corsa offers an exhilarating racing experience that can keep you engaged during workouts without the distraction of slow gameplay or lengthy cut scenes. Its manageability on exercise equipment, paired with solid computer requirements, makes it a viable option for those looking to combine gaming and fitness. If racing is your genre of choice, this title can turn an intense treadmill or biking session into a thrilling ride—just make sure your setup is up to speed!
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assetto Corsa - By Taylor Owen Dorsett

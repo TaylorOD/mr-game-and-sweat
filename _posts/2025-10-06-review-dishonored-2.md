@@ -43,7 +43,3 @@ Dishonored 2 is graphically demanding, which means your PC should be relatively 
 In conclusion, Dishonored 2 is a great game that offers engaging gameplay and an innovative immersive experience, making it a good choice for gamers who want to exercise simultaneously. Its compatibility with treadmill and bike usage is decent, though some pacing issues and intense moments might require adjusting how you balance your workouts with the intricacies of gameplay. Overall, this sequel brilliantly captures what made the first game special while building upon its foundations—making it a worthy addition to your gaming and fitness arsenal.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dishonored 2 - By Taylor Owen Dorsett

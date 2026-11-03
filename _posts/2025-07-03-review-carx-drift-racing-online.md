@@ -43,7 +43,3 @@ The computer requirements for CarX Drift Racing Online are fairly reasonable, ma
 CarX Drift Racing Online is a thrilling entry into the world of racing games, successfully combining fun gameplay with the potential for an engaging workout experience. Its solid drifting mechanics and minimal interruptions make it an excellent choice for anyone looking to enjoy gaming while on a treadmill or bike. With reasonable computer requirements, most gamers can join in the fun. While there's room for improvement in the fast-paced interaction, it remains an attractive option for keeping fit while gaming.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: CarX Drift Racing Online - By Taylor Owen Dorsett

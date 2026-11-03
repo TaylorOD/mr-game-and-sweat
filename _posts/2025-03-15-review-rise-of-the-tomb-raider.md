@@ -42,7 +42,3 @@ The controls in "Rise of the Tomb Raider" are friendly and intuitive, primarily 
 Overall, “Rise of the Tomb Raider” proves to be an excellent choice for both gamers and fitness enthusiasts. Its engaging gameplay, while needing occasional bursts of quick reflexes, is otherwise perfectly fitted for a treadmill or bike session. Just make sure your gaming setup can handle it with optimum settings to keep the immersion high. Whether you're in the midst of a thrilling chase or solving ancient mysteries, you’ll find both motivation and excitement to keep those legs moving!
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Rise of the Tomb Raider - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ SMITE is moderately demanding in terms of computer specifications. It runs well 
 Overall, SMITE is a vibrant, engaging game that can definitely serve as a welcome distraction during treadmill or bike sessions. While there are moments that may pull you away from your workout rhythm, the overall engaging gameplay and controller compatibility make it a solid choice for exercising gamers. Just be mindful of the moments when the action heats up—it might take your focus away from your physical activity briefly. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: SMITE - By Taylor Owen Dorsett

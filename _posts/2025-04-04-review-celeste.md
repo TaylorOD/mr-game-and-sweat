@@ -44,7 +44,3 @@ Celeste is relatively light on system requirements, ensuring that nearly any mod
 In conclusion, Celeste is an ideal game for those who want to keep their heart rate up while experiencing a heartfelt narrative complemented by challenging, engaging gameplay. The lack of slower sections or lengthy cutscenes means you can effectively focus on your physical exertion, which is paramount when exercising. Combing the game’s simple controls with low system demands makes it a fantastic pick for treadmill or bike gamers. If you’re looking for a title that perfectly blends emotional storytelling with fitness, Celeste is a climb worth taking.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Celeste - By Taylor Owen Dorsett

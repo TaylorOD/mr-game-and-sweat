@@ -43,7 +43,3 @@ The Witcher 3 is known for its stunning visuals, which means it comes with some 
 The Witcher 3: Wild Hunt is a monumental RPG that offers an engaging story and captivating gameplay. While the slow sections could distract you from your treadmill run or bike workout, the game's broad appeal and flexibility with controller support allow for a novel exercise experience. With robust requirements, it may be best suited for those with capable gaming hardware. Overall, it’s a rewarding balance of adventure and activity, provided you’re mindful of the gameplay pacing while on the move.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Witcher 3: Wild Hunt - By Taylor Owen Dorsett

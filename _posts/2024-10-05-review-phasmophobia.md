@@ -44,7 +44,3 @@ While “Phasmophobia” has a decent graphical style that enhances the eerie at
 In conclusion, “Phasmophobia” offers an engaging blend of horror and collaboration that can seamlessly fit into your exercise routine. With its compelling gameplay, compatibility for treadmill and biking, and reasonable computer game requirements, this title stands out for those looking to stay active while enjoying a thrill. Just remember to check your rig before diving into the essence of ghost-hunting madness!
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Phasmophobia - By Taylor Owen Dorsett

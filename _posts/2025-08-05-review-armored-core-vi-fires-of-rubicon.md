@@ -49,7 +49,3 @@ This may not be a significant barrier for most gamers, as the genre typically at
 Overall, Armored Core VI: Fires of Rubicon is a thrilling addition to the series that does well in providing consistent engagement while allowing for some flexibility in your exercise routine. It excels in gameplay and maintains a reasonable compatibility with fitness practices; however, its quick-reflex requirements and elevated hardware need should be carefully considered if you're trying to keep your gaming sessions integrated with your workouts. 
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ARMORED CORE VI FIRES OF RUBICON - By Taylor Owen Dorsett

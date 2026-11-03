@@ -48,7 +48,3 @@ The need for strategic movement means you won’t be rapidly flipping or respond
 "Alien: Isolation" offers a unique blend of horror and immersive gameplay that keeps your heart racing. While there are moments that may momentarily distract from your workout, the overall engagement of the narrative and gameplay mechanics create an atmosphere that can enhance your treadmill or biking experience. With manageable computer requirements, it makes for a solid addition to any fitness gamer’s library.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Alien: Isolation - By Taylor Owen Dorsett

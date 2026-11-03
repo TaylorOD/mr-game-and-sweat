@@ -43,7 +43,3 @@ Crab Game isn't a demanding title on the hardware front. It can run on modest PC
 In summary, Crab Game is a delightful and energetic multiplayer experience that keeps the adrenaline pumping both in-game and during your workout on the treadmill or bike. Its fast pace and engaging mini-games provide perfect distractions while exercising, making it a solid option for those seeking to combine gaming with fitness. With simple controls, minimal hardware requirements, and engaging gameplay, it's easy to recommend for active gamers. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Crab Game - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Dota Underlords isn’t overly demanding, which is excellent news for gamers loo
 In conclusion, Dota Underlords offers an engaging gameplay experience that pairs well with workouts on a treadmill or bike. The game’s strategic elements promote a thoughtful approach to gaming that can fit into your exercise routine, while the manageable requirements for a computer facilitate accessibility. While focused gaming can sometimes pull you away from the workout, it's a small price to pay for such a deeply rewarding experience.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dota Underlords - By Taylor Owen Dorsett

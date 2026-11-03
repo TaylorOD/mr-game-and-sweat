@@ -47,7 +47,3 @@ In terms of the technical demands, Age of Empires II: Definitive Edition is quit
 Age of Empires II: Definitive Edition is a worthy addition to any gamer's library, especially for those who wish to combine their love for strategy games with their fitness routines. With engaging gameplay that keeps you involved but allows for breaks, compatibility with various control schemes, and reasonable computer requirements, it strikes a good balance for playing while exercising. While it has minor drawbacks in the necessity for strategic focus during intense moments, the overall experience makes it a great fit for the treadmill or bike.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Age of Empires II: Definitive Edition - By Taylor Owen Dorsett

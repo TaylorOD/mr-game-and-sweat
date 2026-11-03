@@ -43,7 +43,3 @@ Far Cry 5 isn’t overly demanding compared to some of its AAA counterparts, but
 Overall, Far Cry 5 delivers a thrilling mixture of gameplay that can entertain while you exercise, but it’s not without its quirks that might disrupt your workout flow. The blend of open-world exploration and intense encounters means players will find moments of distraction, but with manageable pacing, it remains a relatively fitting workout companion. Just keep in mind the balance between immersive gameplay and maintaining your focus while running or biking. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Far Cry 5 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Total War: THREE KINGDOMS is relatively demanding in terms of system requirement
 In conclusion, Total War: THREE KINGDOMS offers an engaging experience with a historical flair that pulls you into its world while allowing for most treadmill and bike users to enjoy its gameplay. There are moments of distraction, particularly during slower sections, but the overall enjoyment and strategic depth make it worth the occasional pause in motion. If you're looking to blend your love for gaming with exercise, this title is a solid choice, though you may need to balance your attention between the game and your workout.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Total War: THREE KINGDOMS - By Taylor Owen Dorsett

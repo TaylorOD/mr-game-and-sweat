@@ -43,7 +43,3 @@ Northgard is not particularly demanding on computer hardware, making it accessib
 Overall, Northgard delivers an engaging strategic experience that fits seamlessly into a workout routine. With its intuitive gameplay and minimal demands on your concentration while exercising, it is ideal for players looking to stay active while indulging in tactical conquest. It’s a perfect balance of mental stimulation and physical engagement that keeps you moving on your treadmill or bike while conquering new territories in a beautifully crafted Viking world.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Northgard - By Taylor Owen Dorsett

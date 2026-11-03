@@ -43,7 +43,3 @@ Trove isn’t exceptionally demanding when it comes to system requirements. Most
 Trove stands out as an engaging and accessible game that fits perfectly into a fitness routine. With its captivating gameplay, strong controller support, and reasonable system demands, this blocky adventure is a perfect companion for those looking to both exercise and enjoy gaming. The minimal downtime and fast-paced action help keep your heart rate up while you explore the vast voxel universe. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Trove - By Taylor Owen Dorsett

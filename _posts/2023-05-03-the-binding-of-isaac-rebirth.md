@@ -43,7 +43,3 @@ Playing "The Binding of Isaac: Rebirth" while on a treadmill or bike presents so
 Overall, we give "The Binding of Isaac: Rebirth" a score of 2.65 out of 3. It excels in gameplay and accessibility, though it poses some challenges for exercise-focused play.
 
 ### Overall Score: 2.65 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Binding of Isaac: Rebirth - By Taylor Owen Dorsett

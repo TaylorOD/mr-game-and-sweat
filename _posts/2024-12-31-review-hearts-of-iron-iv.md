@@ -43,7 +43,3 @@ When it comes to computer requirements, Hearts of Iron IV does not demand a high
 Hearts of Iron IV offers a rich experience steeped in historical strategy, but its pacing may interfere with high-intensity workouts. Nevertheless, its engaging gameplay and suitable compatibility for exercise scenarios mean you can still enjoy a workout, provided you’re up for a more cerebral challenge rather than fast-paced action. While not perfect, it holds up well when considering its exercise compatibility.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hearts of Iron IV - By Taylor Owen Dorsett

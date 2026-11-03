@@ -52,7 +52,3 @@ In conclusion, METAL GEAR SOLID V: THE PHANTOM PAIN is an exhilarating gaming ex
 While not completely devoid of distractions, this game proves to be a worthy companion for your treadmill running or biking sessions.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: METAL GEAR SOLID V: THE PHANTOM PAIN - By Taylor Owen Dorsett

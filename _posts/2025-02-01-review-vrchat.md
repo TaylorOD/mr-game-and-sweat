@@ -44,7 +44,3 @@ VRChat is relatively modest when it comes to computer requirements, especially i
 In conclusion, VRChat offers a unique blend of social interaction and exploration, making it a solid choice for those looking to incorporate exercise through gaming. While it may not be a conventional exercise title, the engaging user-generated content, coupled with its compatibility for treadmill and bike use, delivers an active experience that can keep you moving. Just ensure that you’re ready for a potential slow section of conversation among friends. Overall, it’s a fun, engaging, and moderately demanding game that rewards creativity and active participation.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: VRChat - By Taylor Owen Dorsett

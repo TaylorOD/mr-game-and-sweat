@@ -44,7 +44,3 @@ FOR HONOR is moderately demanding on computer systems. It usually requires a dec
 In summary, FOR HONOR offers engaging gameplay that can definitely elevate your heart rate. However, the pacing and some of the demanding mechanics aren’t perfectly suited for multitasking during a workout. For those serious about combining gaming with fitness, you may need to find a balance between intensity and your exercise routine. Still, the thrill of battle might motivate you to push through those final miles!
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: FOR HONOR - By Taylor Owen Dorsett

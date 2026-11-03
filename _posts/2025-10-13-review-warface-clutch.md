@@ -47,7 +47,3 @@ On the technical end, "Warface: Clutch" has moderate computer requirements. Itâ€
 Overall, "Warface: Clutch" is an exciting option for those who want to combine fitness and gaming. The engaging gameplay keeps your heart rate up while allowing for enough control and responsiveness to go hand in hand with a workout on a treadmill or bike. If you appreciate a fast-paced shooter and enjoy getting your exercise while leveling up your skills, this game is worth adding to your collection.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Warface: Clutch - By Taylor Owen Dorsett

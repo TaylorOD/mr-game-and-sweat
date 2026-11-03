@@ -44,7 +44,3 @@ Modern Warfare II is undoubtedly a demanding title, as is typical for AAA first-
 In conclusion, Call of Duty: Modern Warfare II stands out as an engaging exercise-friendly video game. Its fast-paced gameplay and controller compatibility make it an excellent choice for those looking to weave gaming into their workout routines. While the hardware demands may require some preparation, the overall experience is rewarding, proving that you can combine fun and fitness seamlessly.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare II - By Taylor Owen Dorsett

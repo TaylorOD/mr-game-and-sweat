@@ -47,7 +47,3 @@ In terms of computer requirements, Euro Truck Simulator 2 is relatively light, e
 Euro Truck Simulator 2 stands out as a unique gaming experience that complements a fitness routine quite well. With engaging gameplay that doesn't demand fast reflexes, ideal control options for treadmill and bike use, and moderate system requirements, it’s an excellent choice for those looking to game while keeping active. Whether you’re cruising through a scenic route in the Alps or delivering cargo to city markets, this game is sure to transform your workout session into a road trip adventure.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Euro Truck Simulator 2 - By Taylor Owen Dorsett

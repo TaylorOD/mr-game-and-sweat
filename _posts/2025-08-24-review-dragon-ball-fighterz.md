@@ -44,7 +44,3 @@ The game is moderately demanding, which is worth noting for those who are consid
 In conclusion, "Dragon Ball FighterZ" brilliantly merges the high-octane action of fighting games with the potential for an engaging workout experience. Its fast-paced gameplay ensures you're constantly entertained, and the controller compatibility is a bonus for those exercising. However, those who run or cycle at intense speeds might find the quick-reflex demands slightly challenging. With a reassuring balance between performance and playability, this title is well-suited for gamers who love to stay active.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DRAGON BALL FighterZ - By Taylor Owen Dorsett

@@ -52,7 +52,3 @@ Overall, Monster Hunter Wilds offers an engaging blend of action and exploration
 ### Overall Score: 2.33 out of 3
 
 Whether you’re a seasoned hunter or a newcomer to the franchise, pick up Monster Hunter Wilds and get ready to sweat it out while you embark on epic adventures!
-
----
-
-Mr. Game and Sweat Reviews: Monster Hunter Wilds - By Taylor Owen Dorsett

@@ -49,7 +49,3 @@ In conclusion, "Blade and Sorcery" merges an engaging combat experience with a l
 ### Overall Score: 2.33 out of 3
 
 If you're looking for a game that pushes your limits—not only in the virtual battlefield but also during your exercise sessions—"Blade and Sorcery" could just be the gripping workout you need.
-
----
-
-Mr. Game and Sweat Reviews: Blade and Sorcery - By Taylor Owen Dorsett

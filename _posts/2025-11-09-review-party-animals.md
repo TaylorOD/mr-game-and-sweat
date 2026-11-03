@@ -45,7 +45,3 @@ The minimum specs call for an Intel Core i5 or AMD equivalent, 8 GB of memory, a
 Party Animals is a good pick for a lively bike session if you are fine with giving the matches your attention. On a treadmill, the frantic fighting makes it a risky choice.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Party Animals - By Taylor Owen Dorsett

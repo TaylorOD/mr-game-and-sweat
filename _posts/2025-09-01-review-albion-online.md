@@ -47,7 +47,3 @@ Albion Online is not overly demanding on hardware, making it accessible for a br
 Albion Online successfully marries an engaging MMORPG experience with a relatively low-impact gaming style that suits those looking to exercise at the same time. While there are moments of slower gameplay, it keeps the interaction fun without requiring excessive focus that could detract from your workout. This game can be a solid companion during your gym sessions, provided you approach it with an understanding of its mechanics.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Albion Online - By Taylor Owen Dorsett

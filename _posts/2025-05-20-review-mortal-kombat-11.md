@@ -48,7 +48,3 @@ In conclusion, Mortal Kombat 11 stands out as a fantastic fighting game that off
 ### Overall Score: 1.67 out of 3 
 
 For the ultimate fitness gaming experience, be ready to adjust your expectations or opt for shorter match-oriented playtimes to maintain your workout rhythm.
-
----
-
-Mr. Game and Sweat Reviews: Mortal Kombat 11 - By Taylor Owen Dorsett

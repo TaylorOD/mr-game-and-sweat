@@ -43,7 +43,3 @@ Barotrauma is not overly demanding when it comes to computer specifications, mak
 Barotrauma offers an exhilarating cooperative gameplay experience that is beautifully suited for exercising as it keeps you engaged and challenged. The way it blends strategic planning with continuous action makes it ideal for anyone looking to enhance their treadmill or biking routine. A minor drawback may be the occasional need for quick reflexes, but its overall charm and immersive depth make it easy to forget you're even exercising. With decent computer compatibility, it’s an excellent title for anyone who wants to try something different while they exercise.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Barotrauma - By Taylor Owen Dorsett

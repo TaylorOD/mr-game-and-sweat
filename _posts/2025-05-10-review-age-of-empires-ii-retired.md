@@ -47,7 +47,3 @@ Despite its age, Age of Empires II doesn't demand a robust setup. Its requiremen
 In conclusion, Age of Empires II remains a fantastic option for those looking to combine gaming with exercise. Its engaging gameplay keeps you absorbed, and its requirements are minimal, ensuring you won't struggle to enjoy the game while maintaining an active lifestyle. While some slower sections might pose a slight challenge for focus during an intense workout, the overall experience warrants a solid thumbs-up. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Age of Empires II (Retired) - By Taylor Owen Dorsett

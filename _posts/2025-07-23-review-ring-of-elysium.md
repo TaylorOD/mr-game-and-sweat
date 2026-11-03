@@ -43,7 +43,3 @@ As for computer requirements, "Ring of Elysium" is relatively forgiving. It does
 "Ring of Elysium" successfully marries intense action with immersive environments, creating an engaging battlefield for players who also want to get a good workout. While it has its distractions during high-tension moments, the overall gameplay maintains a rhythm that supports an enjoyable cardio session. The game’s compatibility with exercise setups is well-designed, making it approachable for avid gamers and fitness enthusiasts alike. If you’re looking for a fun way to break a sweat while enjoying a competitive gaming experience, "Ring of Elysium" might just be your perfect match.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ring of Elysium - By Taylor Owen Dorsett

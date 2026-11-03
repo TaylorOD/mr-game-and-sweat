@@ -43,7 +43,3 @@ As for the computer requirements, V Rising is relatively forgiving. While the gr
 In conclusion, V Rising excels at providing an engaging gaming experience that suits those who like to combine exercise with play. With its immersive gameplay, excellent compatibility for treadmill and bike use, and reasonable system requirements, it represents a solid choice for any gamer aiming to stay active. Whether you're hunting for blood in between runs or breaking records while biking, this title keeps you coming back for more.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: V Rising - By Taylor Owen Dorsett

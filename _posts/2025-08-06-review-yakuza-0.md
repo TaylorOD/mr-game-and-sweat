@@ -44,7 +44,3 @@ Yakuza 0 has relatively modest system requirements, making it accessible for a w
 Yakuza 0 presents an engaging mix of crime drama and engaging gameplay, but the frequent cutscenes and combat may take you out of your exercise mindset at times. However, its compatibility with standard controllers and reasonable computer requirements make it a solid choice for combining workouts with gaming. Just remember to find that sweet spot in your effort—whether you're running or biking—where you can focus on both your exercise and the unfolding drama of the game.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Yakuza 0 - By Taylor Owen Dorsett

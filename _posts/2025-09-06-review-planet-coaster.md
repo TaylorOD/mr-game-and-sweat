@@ -47,7 +47,3 @@ On the technical side, "Planet Coaster" is relatively demanding compared to simp
 "Planet Coaster" successfully blends creativity and gameplay in a way that keeps you engaged while you sweat it out on the treadmill or bike. With its engaging design, seamless controller compatibility, and reasonable system requirements, it stands out as an exercise-friendly title. Whether you’re designing the next big roller coaster or managing visitor happiness, it’s a delightful experience that can make your cardio workouts much more enjoyable.
 
 ### Overall Score: 2.66 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Planet Coaster - By Taylor Owen Dorsett

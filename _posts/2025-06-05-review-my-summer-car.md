@@ -43,7 +43,3 @@ In terms of computer requirements, "My Summer Car" is relatively modest, making 
 "My Summer Car" combines the thrill of vehicle repair and life simulation with an engaging environment that enthralls players, even while they work out. Its slower-paced gameplay and straightforward controls make it compatible with exercise routines, allowing for an entertaining distraction from the treadmill or bike. While there are a few slow segments, the game ultimately keeps you engaged without overwhelming your workout regimen. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: My Summer Car - By Taylor Owen Dorsett

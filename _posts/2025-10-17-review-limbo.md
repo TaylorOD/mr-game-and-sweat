@@ -44,7 +44,3 @@ LIMBO is relatively undemanding on computer resources, making it accessible to a
 In conclusion, LIMBO is an excellent choice for gamers who want to combine their passion for video games with physical activity. The engaging gameplay, compatibility with treadmill and bike setups, and modest computer requirements make it a standout choice. The seamless integration of gameplay and exercise ensures that you stay focused on your fitness goals without losing the immersive experience LIMBO offers. 
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: LIMBO - By Taylor Owen Dorsett

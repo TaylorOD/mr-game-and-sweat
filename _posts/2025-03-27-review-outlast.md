@@ -44,7 +44,3 @@ Outlast is not particularly demanding by modern standards, but it runs best on a
 Outlast delivers a haunting and immersive horror experience that can keep your heart racing both in-game and on the treadmill. While it keeps you engaged with minimal downtime, be wary that the gripping gameplay might occasionally pull your focus from your physical efforts. It’s a thrilling adventure for horror fans that still leaves some room for improvement when it comes to compatibility with active gaming. Overall, it offers an exciting, albeit occasionally distracting, escapade.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Outlast - By Taylor Owen Dorsett

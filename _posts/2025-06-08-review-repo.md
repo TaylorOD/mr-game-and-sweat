@@ -48,7 +48,3 @@ On the technical side, R.E.P.O. runs relatively smoothly on most machines withou
 In sum, R.E.P.O. is a stellar addition to the repertoire of fitness-friendly video games that can keep your heart racing on a treadmill or bike while providing a compelling narrative and exciting gameplay. Its engaging mechanics, excellent compatibility with exercise equipment, and reasonable computer requirements make it a top contender for gamers looking to enhance their workouts. If you’re seeking a game that not only entertains but also encourages movement, R.E.P.O. might be the perfect companion on your fitness journey.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: R.E.P.O. - By Taylor Owen Dorsett

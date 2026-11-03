@@ -43,7 +43,3 @@ Fallout: New Vegas is not particularly demanding in terms of computer requiremen
 In conclusion, Fallout: New Vegas serves as an excellent companion for both your gaming and exercise needs. Its engaging gameplay keeps you motivated and attentive without overwhelming the senses, while its compatibility with a treadmill or bike makes it easy to immerse yourself in the game while working up a sweat. The low system requirements ensure virtually anyone can enjoy it without technical hitches. Overall, if you’re looking for a game to help you escape into a richly crafted world while staying active, look no further.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Fallout: New Vegas - By Taylor Owen Dorsett

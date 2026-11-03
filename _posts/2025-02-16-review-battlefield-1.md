@@ -44,7 +44,3 @@ In terms of computer requirements, Battlefield 1 is relatively demanding. It req
 In conclusion, Battlefield 1 successfully combines historical storytelling with engaging gameplay that makes it an excellent choice for gamers who enjoy exercising while playing. Its fast-paced nature and controller compatibility allow for a seamless experience on a treadmill or bike, making it easy to stay active and entertained simultaneously. While the computer requirements may be higher, the overall experience is well worth it for both history buffs and action game enthusiasts. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Battlefield 1 - By Taylor Owen Dorsett

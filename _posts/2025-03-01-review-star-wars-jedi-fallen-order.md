@@ -44,7 +44,3 @@ As for the technical demands, "Jedi: Fallen Order" requires a solid rig to run o
 "STAR WARS Jedi: Fallen Order" masterfully captures the essence of the franchise with engaging storytelling and enjoyable gameplay. However, its consistency in pace may not be suited for every runner or cyclist looking for a seamless workout experience. If you’re willing to navigate through slower sections and adjust to on-the-fly combat, you'll find yourself rewarded with a compelling adventure in the Star Wars universe. Just make sure your computer is up to the task!  
 
 ### Overall Score: 2 out of 3  
-
----
-
-Mr. Game and Sweat Reviews: STAR WARS Jedi: Fallen Order - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ On the technical side, Hell Let Loose demands a solid rig to experience its imme
 Hell Let Loose offers a thrilling and immersive experience that captivates players with its depth and emphasis on teamwork. While the gameplay may provide moments of distraction from running or biking, the overall experience is enriched with enough excitement to keep you engaged, albeit requiring a balance to maintain your workout goals. With solid graphics demands, it’s critical to have suitable hardware, ensuring you can dive deep into the action without performance hiccups.
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hell Let Loose - By Taylor Owen Dorsett

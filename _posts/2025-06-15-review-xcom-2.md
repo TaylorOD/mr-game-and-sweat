@@ -43,7 +43,3 @@ XCOM 2 has moderate system requirements, making it accessible on a wide range of
 XCOM 2 is a captivating tactical experience that provides a great balance of strategic challenge and narrative immersion. While it has a few slower sections that could distract you from your treadmill or bike workout, it compensates well with its turn-based mechanics and controller support. An engaging choice for gamers who want to break a sweat while diving into a deep and compelling storyline, XCOM 2 proves that fitness and gaming can indeed go hand in hand.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: XCOM 2 - By Taylor Owen Dorsett

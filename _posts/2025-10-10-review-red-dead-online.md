@@ -43,7 +43,3 @@ For those interested in diving into Red Dead Online, the computer requirements a
 Red Dead Online offers a compelling experience for players looking to embrace their inner cowboy or cowgirl while getting a bit of exercise in. The blend of explorative gameplay and interaction can keep users engaged, although some slower sections may disrupt workout flow at times. With good controller compatibility, exercising on a treadmill or bike is feasible, though it requires a slight adjustment to manage the more intense moments of gameplay. Despite the computer requirements being on the higher end, it remains a solid choice for gamers aiming to stay active.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Red Dead Online - By Taylor Owen Dorsett

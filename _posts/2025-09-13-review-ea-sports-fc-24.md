@@ -44,7 +44,3 @@ EA SPORTS FC 24 is demanding but not excessively so. It requires a mid-range gam
 In summary, EA SPORTS FC 24 provides an exhilarating gameplay experience that keeps players engaged throughout. Its integration into an exercise routine is solid, with only minor adjustments needed during gameplay to maintain focus on your workout. While the computer requirements may nudge some towards a hardware upgrade, they are manageable for most gamers. Overall, EA SPORTS FC 24 successfully merges exercise with engaging competitive gameplay, making it a worthwhile addition to the library for fitness-focused players.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: EA SPORTS FC 24 - By Taylor Owen Dorsett

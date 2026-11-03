@@ -44,7 +44,3 @@ In terms of computer demands, "Metro Exodus" is moderately demanding. For optima
 "Metro Exodus" serves as both an enthralling adventure and a potential workout companion. Its engaging gameplay and manageable pace ensure that you can keep moving while your mind explores an intricately crafted world. Although it has a few slow moments and a moderate demand on your hardware, the rewards are well worth the effort. Overall, this game can keep you entertained and energized as you push through your cardio sessions, making it a worthy addition to your exercise playlist.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Metro Exodus - By Taylor Owen Dorsett

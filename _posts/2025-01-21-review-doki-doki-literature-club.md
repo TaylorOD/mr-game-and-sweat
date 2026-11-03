@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-01-21T00:10:53.831Z
 categories: [ review, game ]
-excerpt: "Doki Doki Literature Club!"
+excerpt: "Doki Doki Literature Club! (DDLC) may initially appear to be a lighthearted visual novel, but it unfolds into an experience unlike any other, weaving a gripping narrative that will stick..."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 3
@@ -43,7 +43,3 @@ Doki Doki Literature Club! isn't demanding when it comes to computer specificati
 Doki Doki Literature Club! excels at marrying storytelling with choice, ushering players into a world where their decisions hold significant weight. However, there are moments that may slow down your treadmill run or bike ride, especially when fully immersed in the experience. With good controller compatibility and minimal computer resource needs, this game is ultimately a solid choice for those looking to engage their mind while getting in their workout.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Doki Doki Literature Club! - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Kenshi is relatively lightweight in terms of system demands compared to many mod
 Overall, Kenshi offers a unique, engaging experience that can be enjoyed while exercising, especially for those who appreciate slower-paced, strategic gameplay. While it isn’t perfect for keeping your heart rate high throughout, its sandbox design and controller accessibility make it a solid choice for treadmill or bike sessions. Just be wary of those slower moments that might take your focus away from your workout. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Kenshi - By Taylor Owen Dorsett

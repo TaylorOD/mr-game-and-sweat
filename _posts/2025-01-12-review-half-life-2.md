@@ -44,7 +44,3 @@ Despite being released in 2004, Half-Life 2 can run on relatively modest hardwar
 Half-Life 2 remains a gaming classic that manages to keep players hooked while also allowing for a solid workout experience. Its engaging gameplay and compatibility with exercise equipment make it a suitable choice for anyone looking to add some excitement to their treadmill or biking sessions. Whether you’re traversing the iconic City 17 or solving intricate puzzles, this game encourages active participation without demanding your exclusive attention. It’s definitely a title that can help you burn calories while enjoying a remarkable storyline.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Half-Life 2 - By Taylor Owen Dorsett

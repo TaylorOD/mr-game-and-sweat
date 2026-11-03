@@ -45,7 +45,3 @@ Overall, Brawlhalla provides a dynamic and engaging gaming experience that compl
 ### Overall Score: 2.33 out of 3
 
 In sum, Brawlhalla is a fantastic game to consider for anyone looking to combine their love for gaming with their desire to stay fit. So grab your controller, hop on your treadmill, and get ready to brawl!
-
----
-
-Mr. Game and Sweat Reviews: Brawlhalla - By Taylor Owen Dorsett

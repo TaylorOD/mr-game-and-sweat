@@ -42,7 +42,3 @@ Last Epoch runs on somewhat modest system requirements, especially for a visuall
 Last Epoch offers a satisfying blend of engaging gameplay and compatibility with physical activities, showing that you can indeed workout and play at the same time. Its fast-paced action, smooth controls, and relatively low system requirements make it a prime candidate for anyone looking to enhance their exercise routine while enjoying quality gaming. If you’re seeking a great way to make your treadmill runs or bike rides more entertaining, Last Epoch comes highly recommended.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Last Epoch - By Taylor Owen Dorsett

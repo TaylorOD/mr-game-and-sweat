@@ -44,7 +44,3 @@ Hollow Knight is relatively light on system resources, making it accessible for 
 In conclusion, Hollow Knight is an excellent choice for gamers who enjoy combining their passions for video games and fitness. With fluid and engaging gameplay, optimal compatibility for treadmill and bike workouts, and low computer demands, this game allows you to enjoy long sessions without losing momentum. It enhances your workout experience rather than detracting from it, making every minute on the treadmill or bike feel rewarding. 
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hollow Knight - By Taylor Owen Dorsett

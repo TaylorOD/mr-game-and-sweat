@@ -46,7 +46,3 @@ Overall, "God of War" is an engaging but occasionally distracting game choice fo
 ### Overall Score: 1.67 out of 3
 
 In conclusion, while "God of War" may not be the perfect choice for enhancing your exercise regimen, it’s definitely a memorable gaming experience that can still be enjoyed while staying fit, provided you’re mindful of the slower moments and exercise intensity.
-
----
-
-Mr. Game and Sweat Reviews: God of War - By Taylor Owen Dorsett

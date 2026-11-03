@@ -43,7 +43,3 @@ Ravenfield isn’t particularly demanding on hardware, making it accessible for 
 Ravenfield successfully combines engaging gunplay and a fun overall experience, perfect for maintaining a workout on the treadmill or bike. With its accessible gameplay, minimal hardware requirements, and compatibility with exercise routines, it emerges as a solid choice for those who love video gaming as well as keeping fit. You’ll find yourself reduced to laughter or adrenaline as you navigate battles, all while conveniently exercising.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ravenfield - By Taylor Owen Dorsett

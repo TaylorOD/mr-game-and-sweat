@@ -44,7 +44,3 @@ TEKKEN 7 is not the most demanding game in terms of computer hardware. The recom
 TEKKEN 7 delivers an engaging fighting experience with quick-paced action that can perk up your treadmill or biking workout, though it has some moments that may disrupt your flow. Its controller compatibility is a plus, making it feasible to play while exercising, while the game's accessible requirements mean you won’t need a high-end rig to enjoy it. Ultimately, while it's not the perfect game for sticking to your exercise routine, it certainly adds an exciting layer to your cardio regimen.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: TEKKEN 7 - By Taylor Owen Dorsett

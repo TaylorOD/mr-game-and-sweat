@@ -48,7 +48,3 @@ To run Persona 4 Golden smoothly, you won’t need a particularly powerful setup
 Overall, Persona 4 Golden offers a unique mix of compelling storytelling and engaging mechanics that can hold your attention during cardio workouts. While it may not be perfect due to distracting cutscenes and some slower moments, its turn-based gameplay accommodates players trying to stay active. With low system requirements, it also welcomes gamers who might not have the latest hardware. Whether you're running, biking, or enjoying a leisurely workout, Persona 4 Golden provides a solid gaming experience.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Persona 4 Golden - By Taylor Owen Dorsett

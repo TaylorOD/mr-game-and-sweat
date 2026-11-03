@@ -44,7 +44,3 @@ To play OMORI, you'll need a relatively modest setup. It doesn’t demand high-e
 In conclusion, **OMORI** is an engaging title that balances storytelling and gameplay efficiently, ensuring players stay immersed without losing focus during their workout. Its compatibility with treadmill and biking sessions is commendable, making it a solid choice for those who wish to integrate gaming into their exercise routines. Along with its minimal system requirements, it promises an easygoing gaming experience while you break a sweat.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: OMORI - By Taylor Owen Dorsett

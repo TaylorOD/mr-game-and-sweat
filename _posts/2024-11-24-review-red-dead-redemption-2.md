@@ -43,7 +43,3 @@ Red Dead Redemption 2 is demanding on computer systems, requiring a solid graphi
 Red Dead Redemption 2 stands out for its narrative depth and world-building, but it does pose challenges for those looking to combine gaming with exercise. It can sometimes pull your focus away from your runs or bike rides due to its slower-paced gameplay and cinematic sequences. Still, those who can balance the thrilling moments with their cardio routine may reap the rewards of both an exciting storyline and a good workout.
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Red Dead Redemption 2 - By Taylor Owen Dorsett
