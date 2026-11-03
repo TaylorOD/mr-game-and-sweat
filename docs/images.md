@@ -13,7 +13,7 @@ Reviews link straight to Steam's image in the `image` field of the post. We dont
 
 ## Images we host
 
-This is everything that isn't from Steam: guide art, author photos and logos. Every one follows these rules.
+This is everything that isn't from Steam: guide art, author photos, logos and art for the rare game that isn't on Steam, like StarCraft II. Those get our own illustration, not the publisher's art. Every one follows these rules.
 
 | Rule | How |
 |---|---|
@@ -28,6 +28,7 @@ Current sizes:
 | Images | Widths |
 |---|---|
 | `assets/images/guides/*.jpg` | 480, 960, 1536 |
+| `assets/images/reviews/*.jpg` | 480, 960 |
 | `assets/images/authors/*.jpg` | 128, 256 |
 | `assets/images/logos/logo-on-dark.png` | 100, 220 |
 

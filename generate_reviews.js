@@ -119,6 +119,14 @@ function stripHtml(text) {
 
 // Real store facts so the review isnt guessing. Reviews still work without it.
 async function fetchSteamFacts(game) {
+	// Games that arent on Steam bring their own facts
+	if (!game.appid) {
+		return {
+			text: game.facts,
+			genres: game.genres || [],
+			image: game.image,
+		};
+	}
 	try {
 		const response = await axios.get(STEAM_STORE_API_URL, {
 			params: { appids: game.appid, l: 'english' },
@@ -199,13 +207,13 @@ ${review}`,
 	}
 }
 
-async function generateReviewContent(game, reviewDate, addedDate) {
+async function generateReviewContent(game, reviewDate, addedDate, options = {}) {
 	const steam = await fetchSteamFacts(game);
 	const steamFacts = steam && steam.text;
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
-  ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
-  Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
+  ${steamFacts ? `\n  Facts from the store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
+  ${options.desk ? `This review is for our Great Games, Bad Workouts series. This is a great game that you should not play while exercising, because of things like needing a mouse and keyboard, careful thinking or a lot of reading. Be honest about what makes it great, then be clear about why that works against a workout. The Treadmill and Bike Compatibility score must be 0 or 1. Scores are about workouts, not how good the game is, so low scores are fine. End the conclusion by telling people to play it at their desk.\n\n  ` : ''}Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
 
   Scores are whole numbers. Be a tough critic and use the whole scale. Most games should score 1 or 2 in a category. A 3 is rare. Do not give 2 by default, pick the score the rubric below gives you.
 
@@ -273,6 +281,9 @@ async function generateReviewContent(game, reviewDate, addedDate) {
 		if (scores.length !== 3) {
 			throw new Error('Review did not have three category scores');
 		}
+		if (options.desk && scores[1] > 1) {
+			throw new Error(`${game.name} scored too high to be a bad workout`);
+		}
 
 		const workout = await fetchWorkoutDetails(game, body);
 		return buildReviewPost({
@@ -283,6 +294,7 @@ async function generateReviewContent(game, reviewDate, addedDate) {
 			scores,
 			reviewDate,
 			addedDate,
+			desk: options.desk,
 		});
 	} catch (error) {
 		logSafeError('Error generating review content', error);
@@ -347,7 +359,11 @@ async function main() {
 	}
 }
 
-main().catch((error) => {
-	logSafeError('Unhandled error', error);
-	process.exit(1); // Exit with a non-zero status code to indicate failure
-});
+if (require.main === module) {
+	main().catch((error) => {
+		logSafeError('Unhandled error', error);
+		process.exit(1); // Exit with a non-zero status code to indicate failure
+	});
+}
+
+module.exports = { generateReviewContent, loadReviewedGames, slugify };

@@ -1,0 +1,64 @@
+name: Publish Extra Posts
+
+on:
+  workflow_dispatch:
+    inputs:
+      desk_count:
+        description: 'How many Great Games, Bad Workouts reviews to write'
+        default: '1'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Write posts
+        run: node generate_extras.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DESK_COUNT: ${{ inputs.desk_count || '1' }}
+
+      - name: Check the new posts
+        run: node test/posts.test.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A -- _posts assets/images/guides
+          if git diff --cached --quiet; then
+            echo "Nothing new to publish"
+            exit 0
+          fi
+          git commit -m "Add extra posts"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Open an issue if this failed
+        if: failure()
+        run: |
+          TITLE="Extra posts are failing"
+          BODY="The extra posts job failed on $(date -u +%F). Run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          OPEN=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number')
+          if [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY" --assignee "$GITHUB_REPOSITORY_OWNER"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
