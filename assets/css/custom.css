@@ -426,7 +426,8 @@ body {
 	font-weight: 500;
 }
 @media only screen and (max-width: 767px) {
-	.container {
+	.container,
+	.navbar-expand-lg > .container {
 		width: 100%;
 		max-width: 100%;
 		padding: 0 16px;
