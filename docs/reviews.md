@@ -49,6 +49,10 @@ The body needs these `##` sections, with a `### Category Score: N out of 3` line
 
 The scores in the text have to match the front matter. Only the page title is a top level heading.
 
+## Length
+
+Reviews are long and detailed, about 600 to 900 words.
+
 ## Scoring
 
 * Plenty of games should get a 2 or higher. A 3 means we enjoyed it and would tell you to play it, not that its perfect.
