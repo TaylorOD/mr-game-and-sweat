@@ -1,0 +1,6 @@
+{% assign row_score = include.score | plus: 0 %}{% if row_score >= 2.5 %}{% assign row_tier = 'great' %}{% elsif row_score >= 2 %}{% assign row_tier = 'good' %}{% elsif row_score >= 1.5 %}{% assign row_tier = 'okay' %}{% else %}{% assign row_tier = 'low' %}{% endif %}
+<li>
+	<span class="score-row-label">{{ include.label }}</span>
+	<span class="score-bar"><span class="score-{{ row_tier }}" style="width: {{ row_score | times: 100 | divided_by: 3.0 | round }}%"></span></span>
+	<strong>{{ row_score | round: 1 }}/3</strong>
+</li>
