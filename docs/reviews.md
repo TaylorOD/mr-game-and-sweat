@@ -91,3 +91,7 @@ Guides are posts with `categories: [ guide ]`, an `excerpt` and art in `assets/i
 Scheduled guides come from the topics in `_data/guide_topics.json`, so add more there. `generate_extras.js` writes the text and the art, and the job makes the image sizes. The prompt tells it to leave out numbers, studies and product specs, since nobody checks a guide before it goes live.
 
 If you add art by hand, run the resize script. See [images.md](images.md).
+
+## Rewriting old reviews
+
+The `Rewrite Old Reviews` workflow rewrites old generated reviews in our current voice and pushes them to the `rewrite-old-reviews` branch for a look. Scores, headings, dates and URLs stay the same, and it sets `last_modified_at` so it wont redo a review. It skips posts whose file name doesnt start with `review-`, since those are older and have people's own words in them.
