@@ -361,6 +361,9 @@ body {
 	color: var(--text-soft);
 	font-size: 1.15rem;
 }
+.hero-text {
+	min-width: 0;
+}
 .hero-buttons {
 	display: flex;
 	flex-wrap: wrap;
@@ -423,6 +426,11 @@ body {
 	font-weight: 500;
 }
 @media only screen and (max-width: 767px) {
+	.container {
+		width: 100%;
+		max-width: 100%;
+		padding: 0 16px;
+	}
 	.hero {
 		grid-template-columns: 1fr;
 		gap: 0;
@@ -442,8 +450,8 @@ body {
 	}
 	.browse-chips {
 		flex-wrap: nowrap;
-		margin: 0 -25px 2rem;
-		padding: 0 25px 0.25rem;
+		margin: 0 -16px 2rem;
+		padding: 0 16px 0.25rem;
 		overflow-x: auto;
 		scrollbar-width: none;
 	}
