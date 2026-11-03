@@ -1,0 +1,42 @@
+name: Check review schedule
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check the last scheduled review run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          MAX_AGE_DAYS: 4
+        run: |
+          TITLE="Review schedule has stopped"
+          LAST=$(gh api "repos/$GH_REPO/actions/workflows/generate-reviews.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // empty')
+          LAST_SECONDS=$(date -d "${LAST:-1970-01-01}" +%s)
+          AGE_DAYS=$(( ($(date +%s) - LAST_SECONDS) / 86400 ))
+          OPEN=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number // empty')
+          echo "Last scheduled run: ${LAST:-never}, $AGE_DAYS days ago"
+
+          if [ "$AGE_DAYS" -le "$MAX_AGE_DAYS" ]; then
+            if [ -n "$OPEN" ]; then
+              gh issue close "$OPEN" --comment "Scheduled review runs are back. Last one was $LAST."
+            fi
+            exit 0
+          fi
+
+          BODY="No scheduled review run in $AGE_DAYS days. Last one: ${LAST:-never}. Try turning the Generate and Publish Game Reviews workflow off and on again."
+          if [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY" --assignee "$GITHUB_REPOSITORY_OWNER"
+          fi
