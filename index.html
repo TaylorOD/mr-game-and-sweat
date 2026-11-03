@@ -5,42 +5,76 @@ layout: default
 background: '/img/bg-index.jpg'
 ---
 
+{% assign reviews = site.posts | where_exp: "p", "p.score_overall" %}
+{% assign top_rated = reviews | where_exp: "p", "p.score_treadmill == 3" | sort: "score_overall" | reverse %}
+
+{% if paginator.page == 1 %}
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
-<div class="rounded mb-5 hero">
-  <div class="row align-items-center justify-content-between">
-    <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4">Get Fit While Gaming!</h1>
-      <p class="lead mb-4">At Mr. Game and Sweat we review games you can play while exercising. Take that mom and dad!</p>
-      <a href="{{site.baseurl}}/reviews/" class="btn btn-accent px-4 btn-lg">Browse all reviews</a>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro rounded" height="250" width="375" alt="Mr. Game and Sweat logo" src="{{site.baseurl}}/assets/images/logos/mr-game-and-sweat.png">
+<section class="hero">
+  <div class="hero-text">
+    <h1>Get Fit While Gaming!</h1>
+    <p class="lead">At Mr. Game and Sweat we review games you can play while exercising. Take that mom and dad!</p>
+    <div class="hero-buttons">
+      <a href="{{ site.baseurl }}/reviews/" class="btn btn-accent btn-lg">Browse all {{ reviews.size }} reviews</a>
+      <a href="{{ site.baseurl }}/best-of/" class="btn btn-ghost btn-lg">See the best of</a>
     </div>
   </div>
-</div>
-{% endif %}
+  <div class="hero-art">
+    {% for p in top_rated offset: 3 limit: 4 %}
+    <a href="{{ p.url | absolute_url }}"><img src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ site.baseurl }}/{{ p.image }}{% endif %}" alt="{{ p.title | escape }}" width="460" height="215"></a>
+    {% endfor %}
+  </div>
+</section>
 
-{% if paginator.page > 1 %}<h1 class="h3 mb-4">Reviews, page {{ paginator.page }}</h1>{% endif %}
-
-<!-- Featured
+<!-- Browse
 ================================================== -->
+<nav class="browse-chips" aria-label="Browse by type">
+  {% for list in site.data.best_lists %}<a href="{{ site.baseurl }}/{{ list.url }}">{{ list.label }}</a>{% endfor %}
+</nav>
+
+<!-- Top rated
+================================================== -->
+<div class="section-heading">
+  <h2>Top rated for a workout</h2>
+  <a href="{{ site.baseurl }}/best-of/">See the full list</a>
+</div>
 <section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
+  {% for post in top_rated limit: 3 %}
+  <div class="col-md-4 mb-5">
+    {% include postbox.html %}
+  </div>
   {% endfor %}
 </section>
 
-<!-- Posts List (except featured)
+<!-- Guides
+================================================== -->
+{% assign guides = site.categories.guide | sort: "date" %}
+<div class="section-heading">
+  <h2>New to this? Start here</h2>
+  <a href="{{ site.baseurl }}/guides/">All guides</a>
+</div>
+<section class="row">
+  {% for post in guides limit: 3 %}
+  <div class="col-md-4 mb-5">
+    {% include postbox.html %}
+  </div>
+  {% endfor %}
+</section>
+
+<div class="section-heading">
+  <h2>New reviews</h2>
+  <a href="{{ site.baseurl }}/reviews/">Search all reviews</a>
+</div>
+{% else %}
+<h1 class="h3 mb-4">Reviews, page {{ paginator.page }}</h1>
+{% endif %}
+
+<!-- Posts List
 ================================================== -->
 <section class="row">
   {% for post in paginator.posts %}
-  {% unless post.featured == true %}
+  {% unless post.categories contains 'guide' %}
   <div class="col-md-4 mb-5">
     {% include postbox.html %}
   </div>
