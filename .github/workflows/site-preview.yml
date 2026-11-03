@@ -24,6 +24,6 @@ jobs:
         with:
           node-version: '24'
       - run: node test/site.test.js _site
-      - run: npm install --no-save --no-audit --no-fund playwright@1.56.1
+      - run: npm install --no-save --no-audit --no-fund playwright@1.64.1
       - run: npx playwright install --with-deps chromium
       - run: node test/browser.test.js _site
