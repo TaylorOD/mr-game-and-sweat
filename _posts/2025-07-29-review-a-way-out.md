@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-29T00:13:35.451Z
 categories: [ review, game ]
 image: null
+excerpt: "A Way Out is an innovative co-op adventure that plunges players into the lives of two inmates, Leo and Vincent, as they forge a daring escape from prison."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "A Way Out,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# A Way Out Review
 
 A Way Out is an innovative co-op adventure that plunges players into the lives of two inmates, Leo and Vincent, as they forge a daring escape from prison. This unique split-screen co-op experience can be played locally or online, making it an excellent choice for friends looking to team up. Let's delve into its gameplay, compatibility with exercise equipment, computer requirements, and ultimately, how it holds up for those looking to mix fitness with fun.
 

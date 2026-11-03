@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-21T00:10:53.831Z
 categories: [ review, game ]
 image: null
+excerpt: "Doki Doki Literature Club!"
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Doki Doki Literature Club!,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Doki Doki Literature Club! - Game Review
 
 Doki Doki Literature Club! (DDLC) may initially appear to be a lighthearted visual novel, but it unfolds into an experience unlike any other, weaving a gripping narrative that will stick with you long after the last words are read. As you engage with the characters and make choices that influence the story, you'll find a unique blend of creativity and psychological horror that sets this game apart. 
 

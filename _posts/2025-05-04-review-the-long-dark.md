@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-04T00:12:28.250Z
 categories: [ review, game ]
 image: null
+excerpt: "The Long Dark is an atmospheric survival game set in the frigid wilderness of Canada, where you'll face the harsh elements as a pilot stranded after a mysterious geomagnetic disaster."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Long Dark,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# The Long Dark - Game Review
 
 The Long Dark is an atmospheric survival game set in the frigid wilderness of Canada, where you'll face the harsh elements as a pilot stranded after a mysterious geomagnetic disaster. As you navigate through an unforgiving landscape teeming with wildlife and harsh weather, the game's focus on realism and survival mechanics becomes both a challenge and a reward.
 

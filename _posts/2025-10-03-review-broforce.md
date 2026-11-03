@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-03T00:13:14.311Z
 categories: [ review, game ]
 image: null
+excerpt: "Broforce is a side-scrolling run-and-gun game that excels in fast-paced action and pixelated nostalgia."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Broforce,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Broforce Review
 
 Broforce is a side-scrolling run-and-gun game that excels in fast-paced action and pixelated nostalgia. With its over-the-top absurdity and a melange of characters inspired by iconic action heroes, it’s a title that will have you laughing and cheering in equal measure. However, what really makes Broforce stand out, especially for users looking to exercise while gaming, is its engaging gameplay that can surprisingly enhance your workout sessions. 
 

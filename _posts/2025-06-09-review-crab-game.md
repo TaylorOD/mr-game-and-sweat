@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-09T00:11:46.484Z
 categories: [ review, game ]
 image: null
+excerpt: "Crab Game, the social deduction and chaos-infused multiplayer experience, offers an engaging environment that cleverly takes inspiration from the popular Squid Game series."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Crab Game,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Crab Game Review
 
 Crab Game, the social deduction and chaos-infused multiplayer experience, offers an engaging environment that cleverly takes inspiration from the popular "Squid Game" series. It’s a fun, frantic experience that turns simple mini-games into a battleground for survival. But how does it stack up for those looking to get their cardio in while gaming on a treadmill or bike? Let’s find out!
 

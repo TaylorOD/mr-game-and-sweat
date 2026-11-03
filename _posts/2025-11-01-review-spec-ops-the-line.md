@@ -7,13 +7,8 @@ disqus: false
 date:   2025-11-01T00:11:49.362Z
 categories: [ review, game ]
 image: null
+excerpt: "Spec Ops: The Line is often heralded as one of the most poignant military shooters in recent memory, but how does it hold up as a game you can enjoy while staying active on a treadmill or bike?"
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Spec Ops: The Line,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Spec Ops: The Line Review
 
 "Spec Ops: The Line" is often heralded as one of the most poignant military shooters in recent memory, but how does it hold up as a game you can enjoy while staying active on a treadmill or bike? Let’s break it down.
 

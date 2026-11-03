@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-15T00:12:17.505Z
 categories: [ review, game ]
 image: null
+excerpt: "XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "XCOM 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# XCOM 2 Review
 
 XCOM 2 is a tactical turn-based strategy game that tasks players with leading a resistance against an alien regime bent on controlling Earth. Its engaging mix of strategic planning, resource management, and combat makes it an enticing choice, but how does it fare for those looking to exercise while gaming? Let’s dive into each category.
 

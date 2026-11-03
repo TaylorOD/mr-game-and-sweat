@@ -6,9 +6,8 @@ categories: [ review, roguelike, bullet hell ]
 comments: false
 disqus: false
 image: assets/images/review-images/enter-the-gungeon.jpg
+excerpt: "Enter the Gungeon provides a challenging yet rewarding gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
 ---
-
-Welcome back to Mr. Game and Sweat, where we combine the excitement of gaming with the benefits of staying active! Today, we’re delving into "Enter the Gungeon," a game that offers a unique blend of roguelike mechanics and bullet hell gameplay. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

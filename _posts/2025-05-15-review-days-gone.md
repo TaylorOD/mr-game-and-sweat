@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-15T00:11:50.022Z
 categories: [ review, game ]
 image: null
+excerpt: "Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Days Gone,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Days Gone Review
 
 Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC. Set in a post-apocalyptic Oregon, the game takes players on a journey as motorcycle rangers navigate through a world filled with mutated creatures and human survivors. If you're a fan of immersive storytelling complemented by action, this title may pique your interest. But how does it hold up for gamers who exercise on a treadmill or bike? Let's dive into the details.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-27T00:12:40.172Z
 categories: [ review, game ]
 image: null
+excerpt: "Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Total War: ROME II - Emperor Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Total War: ROME II - Emperor Edition Review
 
 Total War: ROME II - Emperor Edition is a grand strategy game that impresses both strategy enthusiasts and history buffs alike. But can it hold your attention while you're running on a treadmill or biking? Let's break it down.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-31T00:12:43.412Z
 categories: [ review, game ]
 image: null
+excerpt: "Pizza Tower is a delightful throwback to the fast-paced platformers of the 90s, packed with a vibrant aesthetic and a pizza-loving protagonist."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Pizza Tower,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Pizza Tower Review
 
 Pizza Tower is a delightful throwback to the fast-paced platformers of the 90s, packed with a vibrant aesthetic and a pizza-loving protagonist. Its frenetic gameplay makes for an exhilarating experience, especially when paired with a cardio workout on a treadmill or bike!
 

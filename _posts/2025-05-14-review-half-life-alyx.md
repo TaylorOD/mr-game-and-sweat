@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-14T00:11:36.955Z
 categories: [ review, game ]
 image: null
+excerpt: "Set in the critically acclaimed Half-Life universe, “Half-Life: Alyx” brings players back to City 17 with breathtaking visuals and immersive gameplay, all while delivering a story that fans have long awaited."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Half-Life: Alyx,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Half-Life: Alyx Review
 
 Set in the critically acclaimed Half-Life universe, “Half-Life: Alyx” brings players back to City 17 with breathtaking visuals and immersive gameplay, all while delivering a story that fans have long awaited. But how does it stack up for those looking to stay active on a treadmill or bike? Let’s dive in.
 

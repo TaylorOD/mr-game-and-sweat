@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-15T00:11:28.313Z
 categories: [ review, game ]
 image: null
+excerpt: "Hollow Knight is a beautifully crafted Metroidvania-style platformer that transports players into a hauntingly enchanting world filled with mystery and challenges."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hollow Knight,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hollow Knight Game Review
 
 Hollow Knight is a beautifully crafted Metroidvania-style platformer that transports players into a hauntingly enchanting world filled with mystery and challenges. As you control the titular character, a small knight exploring the vast kingdom of Hallownest, it’s essential to find the right rhythm in both gameplay and physical activity—especially when tackling it while running on a treadmill or biking. 
 

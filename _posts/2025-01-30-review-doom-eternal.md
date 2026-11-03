@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-30T00:10:28.376Z
 categories: [ review, game ]
 image: null
+excerpt: "DOOM Eternal, the highly acclaimed sequel to 2016's DOOM, is a relentless, adrenaline-pumping FPS that not only challenges your gaming prowess but also provides a fantastic backdrop for your exercise routine."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "DOOM Eternal,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# DOOM Eternal Review
 
 DOOM Eternal, the highly acclaimed sequel to 2016's DOOM, is a relentless, adrenaline-pumping FPS that not only challenges your gaming prowess but also provides a fantastic backdrop for your exercise routine. As we dive into various facets of the game, particularly how it integrates with treadmill or biking workouts, let’s see how well it holds up!
 

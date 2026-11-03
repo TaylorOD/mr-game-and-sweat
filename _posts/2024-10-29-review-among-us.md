@@ -6,13 +6,8 @@ comments: false
 disqus: false
 date:   2024-10-29T20:20:35.894Z
 categories: [ review, game ]
+excerpt: "Among Us has taken the gaming world by storm, combining social deduction with lighthearted gameplay that invites mystery and trust issues."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Among Us,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Among Us Game Review
 
 Among Us has taken the gaming world by storm, combining social deduction with lighthearted gameplay that invites mystery and trust issues. Whether you’re alone or in a party setting with friends, the game provides an engaging experience that is adaptable to a variety of gameplay styles. But how does it hold up for those of us trying to keep fit while indulging in video gaming? Let's dive deeper into the different aspects of the game!
 

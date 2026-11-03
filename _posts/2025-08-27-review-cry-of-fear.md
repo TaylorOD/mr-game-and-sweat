@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-27T00:12:22.626Z
 categories: [ review, game ]
 image: null
+excerpt: "Cry of Fear, a psychological horror game developed by Team Psykskallar, masterfully combines immersive storytelling with a nightmarish atmosphere, making it an intriguing choice for gamers who also want to keep active while exercising on a "
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Cry of Fear,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Cry of Fear Game Review
 
 "Cry of Fear," a psychological horror game developed by Team Psykskallar, masterfully combines immersive storytelling with a nightmarish atmosphere, making it an intriguing choice for gamers who also want to keep active while exercising on a treadmill or bike. 
 

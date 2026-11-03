@@ -6,13 +6,8 @@ comments: false
 disqus: false
 date:   2024-10-05T04:51:14.428Z
 categories: [ review, game ]
+excerpt: "“Phasmophobia” is a co-op survival horror game that has taken the gaming world by storm with its unique blend of ghost hunting and immersive gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Phasmophobia,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Phasmophobia: A Hauntingly Good Time on the Treadmill
 
 “Phasmophobia” is a co-op survival horror game that has taken the gaming world by storm with its unique blend of ghost hunting and immersive gameplay. As you and your friends set out to investigate haunted locations, you rely on teamwork and communication to uncover various spirits haunting the premises. But how does this spine-tingling experience fare on your treadmill or bike? Let’s take a closer look!
 

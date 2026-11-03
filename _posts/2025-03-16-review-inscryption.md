@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-16T00:11:15.952Z
 categories: [ review, game ]
 image: null
+excerpt: "Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Inscryption,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Inscryption Game Review
 
 Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes. However, how well does it fare for those of us who are simultaneously trying to get our exercise in on a treadmill or bike? Let’s break it down.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-23T00:12:18.343Z
 categories: [ review, game ]
 image: null
+excerpt: "Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ghost of Tsushima DIRECTOR'S CUT,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ghost of Tsushima DIRECTOR'S CUT Review
 
 Ghost of Tsushima DIRECTOR'S CUT is an expansive open-world adventure that transports players to feudal Japan during the Mongol invasion. As samurai Jin Sakai, players embark on a visually stunning journey filled with combat, exploration, and a rich narrative. It’s a game that can engage the body and mind—if managed correctly while exercising!
 

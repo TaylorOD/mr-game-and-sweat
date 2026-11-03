@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-26T00:10:01.193Z
 categories: [ review, game ]
 image: null
+excerpt: "Raft is a unique survival game that places you in an open ocean filled with challenges and opportunities for creativity."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Raft,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Raft Game Review
 
 "Raft" is a unique survival game that places you in an open ocean filled with challenges and opportunities for creativity. The concept is simple: you start on a small raft, gathering debris from the water to expand and fortify your floating home while surviving against the elements and the occasional shark attack. With a seamless blend of crafting, building, and exploration, "Raft" presents an engaging experience that can work beautifully for those looking to stay active while gaming.
 

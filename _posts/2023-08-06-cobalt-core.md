@@ -6,9 +6,8 @@ categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/cobalt-core.jpg
+excerpt: "Cobalt Core offers an adrenaline-pumping experience with its blend of fast-paced action and strategic elements."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re exploring "Cobalt Core," a game known for its intense action and strategic depth. Let's dive into our evaluation based on gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-06T00:10:42.527Z
 categories: [ review, game ]
 image: null
+excerpt: "Dishonored 2, developed by Arkane Studios, immerses players in a beautifully crafted steampunk world."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dishonored 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dishonored 2: A Game Review for the Active Gamer
 
 Dishonored 2, developed by Arkane Studios, immerses players in a beautifully crafted steampunk world. As the sequel to the critically-acclaimed Dishonored, this title expands upon the rich lore and gameplay mechanics while offering choices that profoundly impact your experience. But how does it fit into a fitness routine involving treadmill runs or bicycle rides? Let's delve in.
 

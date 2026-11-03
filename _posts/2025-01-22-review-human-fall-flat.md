@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-22T00:09:59.886Z
 categories: [ review, game ]
 image: null
+excerpt: "Human: Fall Flat is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Human Fall Flat,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Human: Fall Flat
 
 "Human: Fall Flat" is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob. The charm lies in its unique mechanics and engaging narrative, but how does it fare for those wanting to get their exercise in while gaming? Let's dive in!
 

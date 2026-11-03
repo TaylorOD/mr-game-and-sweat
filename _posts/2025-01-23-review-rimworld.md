@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-23T00:10:09.247Z
 categories: [ review, game ]
 image: null
+excerpt: "RimWorld, developed by Ludeon Studios, is an indie colony simulation game that combines elements of strategy, resource management, and storytelling."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "RimWorld,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of "RimWorld"
 
 "RimWorld," developed by Ludeon Studios, is an indie colony simulation game that combines elements of strategy, resource management, and storytelling. It places you in a randomly generated world where you oversee a group of strandees trying to build a thriving colony on the edge of space. As you juggle the individual needs and potential meltdowns of your colonists, the game continually presents unexpected challenges, making it an engaging experience. 
 

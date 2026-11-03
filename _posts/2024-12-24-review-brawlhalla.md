@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-24T00:11:15.649Z
 categories: [ review, game ]
 image: null
+excerpt: "Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Brawlhalla,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Brawlhalla: An Exercise in Fun and Fitness
 
 Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons. Released by Blue Mammoth Games, it has rapidly gained popularity as an accessible yet competitive title. With its fast-paced gameplay, Brawlhalla provides an engaging experience while you work up a sweat on a treadmill or bike. 
 

@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Rising Storm 2: Vietnam’s 64-player firefights can make a workout fly by, but its precise aiming and sudden combat make it a poor fit for playing while moving."
 ---
 
 Rising Storm 2: Vietnam’s 64-player firefights can make a workout fly by, but its precise aiming and sudden combat make it a poor fit for playing while moving. The tactical lulls between bursts of action are less demanding, yet the game’s competitive matches don’t wait for you to catch your breath.

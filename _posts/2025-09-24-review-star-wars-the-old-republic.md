@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-24T00:12:34.741Z
 categories: [ review, game ]
 image: null
+excerpt: "If you're looking for a game to immerse yourself in while perfecting your treadmill running or biking sessions, STAR WARS: The Old Republic (SWTOR) offers a unique blend of engaging gameplay set in the illustrious Star Wars universe."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "STAR WARS: The Old Republic,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-### STAR WARS: The Old Republic Game Review
 
 If you're looking for a game to immerse yourself in while perfecting your treadmill running or biking sessions, "STAR WARS: The Old Republic" (SWTOR) offers a unique blend of engaging gameplay set in the illustrious Star Wars universe. But how does it hold up when combined with exercise? Let’s jump into the details.
 

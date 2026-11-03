@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-23T00:11:17.566Z
 categories: [ review, game ]
 image: null
+excerpt: "Overcooked! 2 is a delightful couch co-op experience that throws players into the chaotic world of culinary challenges."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Overcooked! 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Overcooked! 2 - Game Review
 
 Overcooked! 2 is a delightful couch co-op experience that throws players into the chaotic world of culinary challenges. As you dash from stovetops to cutting boards, it becomes a frantic race against time that demands both teamwork and quick thinking. But how does it stack up for those looking to stay active on the treadmill or bike?
 

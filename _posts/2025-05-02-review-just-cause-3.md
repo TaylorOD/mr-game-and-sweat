@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-02T00:12:32.804Z
 categories: [ review, game ]
 image: null
+excerpt: "Just Cause 3 is a wild, chaotic adventure that invites players to unleash their inner daredevil on the beautiful Mediterranean island of Medici."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Just Cause 3,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Just Cause 3
 
 Just Cause 3 is a wild, chaotic adventure that invites players to unleash their inner daredevil on the beautiful Mediterranean island of Medici. Known for its over-the-top physics and action-packed gameplay, this installment in the beloved franchise continues to push the boundaries of what an open-world game can offer. But how does it fare for those looking to get a workout while gaming? Let’s dive in!
 

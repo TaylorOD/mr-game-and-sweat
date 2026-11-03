@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-08T00:11:53.767Z
 categories: [ review, game ]
 image: null
+excerpt: "Supermarket Together is a delightfully chaotic cooperative simulation game where players team up to run a bustling grocery store."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Supermarket Together,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Supermarket Together Review
 
 Supermarket Together is a delightfully chaotic cooperative simulation game where players team up to run a bustling grocery store. While the premise may sound straightforward, the execution provides an engaging, collaborative experience that can be a fantastic companion for those looking to keep active while gaming.
 

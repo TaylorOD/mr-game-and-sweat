@@ -7,11 +7,8 @@ disqus: false
 date:   2024-12-27T00:10:10.075Z
 categories: [ review, game ]
 image: null
+excerpt: "The Elder Scrolls V: Skyrim offers a vast open world filled with exploration, combat, and quests that can easily immerse players for hours on end."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Elder Scrolls V: Skyrim,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

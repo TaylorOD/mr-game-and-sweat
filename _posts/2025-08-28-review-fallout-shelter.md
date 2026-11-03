@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-28T00:11:11.618Z
 categories: [ review, game ]
 image: null
+excerpt: "Fallout Shelter is a unique, mobile-based simulation game set in the post-apocalyptic universe of Fallout."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Fallout Shelter,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Fallout Shelter Review
 
 Fallout Shelter is a unique, mobile-based simulation game set in the post-apocalyptic universe of Fallout. As a player, you assume the role of the Overseer of a vault, responsible for managing its inhabitants and resources. But how does this game translate to a fitness-friendly gaming experience? Let’s embark on that journey.
 

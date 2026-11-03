@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-18T00:12:38.687Z
 categories: [ review, game ]
 image: null
+excerpt: "In the realm of cooperative horror gaming, “DEVOUR” stands out as an exhilarating experience that not only tests your nerve but also can combine surprisingly well with your at-home workout routines."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "DEVOUR,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## DEVOUR Review
 
 In the realm of cooperative horror gaming, “DEVOUR” stands out as an exhilarating experience that not only tests your nerve but also can combine surprisingly well with your at-home workout routines. Developed by Tread Lightly, this game brings together frantic gameplay and high-stakes survival mechanics, all wrapped in an unequivocally haunting atmosphere.
 

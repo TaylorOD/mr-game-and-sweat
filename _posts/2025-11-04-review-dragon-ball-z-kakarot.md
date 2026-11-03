@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "DRAGON BALL Z: KAKAROT invites players into the beloved universe of Dragon Ball Z, offering an engaging RPG experience that can be challenging to balance with a workout routine."
 ---
 
 "DRAGON BALL Z: KAKAROT" invites players into the beloved universe of Dragon Ball Z, offering an engaging RPG experience that can be challenging to balance with a workout routine. While the game's captivating storytelling and nostalgia factor can make it enticing, certain gameplay elements may detract from an effective exercise session.

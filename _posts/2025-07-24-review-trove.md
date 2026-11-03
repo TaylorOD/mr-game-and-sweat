@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-24T00:13:06.347Z
 categories: [ review, game ]
 image: null
+excerpt: "Trove, the blocky MMORPG developed by Trion Worlds, invites players into a vibrant voxel world filled with adventure, crafting, and exploration."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Trove,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Trove: A Gem for Fitness and Fun
 
 Trove, the blocky MMORPG developed by Trion Worlds, invites players into a vibrant voxel world filled with adventure, crafting, and exploration. It’s a realm where you can build, combat, and tackle dungeons to your heart's content. But how does this game fare for those looking to stay active on a treadmill or bike? Let’s dive in.
 

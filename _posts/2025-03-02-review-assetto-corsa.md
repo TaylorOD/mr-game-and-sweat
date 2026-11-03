@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-02T00:11:23.928Z
 categories: [ review, game ]
 image: null
+excerpt: "Assetto Corsa is often regarded as a quintessential racing simulator that brings the thrill of high-speed driving directly to your screen."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Assetto Corsa,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Assetto Corsa: A Racing Experience on the Treadmill
 
 Assetto Corsa is often regarded as a quintessential racing simulator that brings the thrill of high-speed driving directly to your screen. But how does it fare as a game to play while working up a sweat on a treadmill or bike? Let’s break it down.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-03T00:11:32.494Z
 categories: [ review, game ]
 image: null
+excerpt: "Darkest Dungeon is a game that masterfully combines difficulty, strategy, and gothic horror, offering players a unique experience that keeps them on their toes."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Darkest Dungeon,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Darkest Dungeon Review
 
 Darkest Dungeon is a game that masterfully combines difficulty, strategy, and gothic horror, offering players a unique experience that keeps them on their toes. However, how does this dark and punishing indie title fare in the realm of exercise-compatible gaming?
 

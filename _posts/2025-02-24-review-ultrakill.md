@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-24T00:10:09.023Z
 categories: [ review, game ]
 image: null
+excerpt: "ULTRAKILL burst onto the scene with an exhilarating fusion of retro FPS mechanics and a heavy dose of stylish movement, making it a perfect contender for both our gaming and exercise community."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "ULTRAKILL,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# ULTRAKILL Game Review
 
 ULTRAKILL burst onto the scene with an exhilarating fusion of retro FPS mechanics and a heavy dose of stylish movement, making it a perfect contender for both our gaming and exercise community. This game is not only a blast to play, but it also helps keep your heart rate elevated while you run or bike.
 

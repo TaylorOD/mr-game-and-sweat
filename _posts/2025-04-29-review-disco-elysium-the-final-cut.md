@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-29T00:11:48.331Z
 categories: [ review, game ]
 image: null
+excerpt: "Disco Elysium - The Final Cut is a groundbreaking role-playing game that combines rich narrative, deep character development, and an intricate decision-making system."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Disco Elysium - The Final Cut,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Disco Elysium - The Final Cut: A Game Review
 
 Disco Elysium - The Final Cut is a groundbreaking role-playing game that combines rich narrative, deep character development, and an intricate decision-making system. But how does it hold up as a companion for your treadmill or bike exercise routine? Let’s dive into the details.
 

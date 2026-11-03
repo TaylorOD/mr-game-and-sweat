@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-01T00:12:53.632Z
 categories: [ review, game ]
 image: null
+excerpt: "Albion Online presents itself as a sandbox MMORPG that offers a unique player-driven economy and an immersive world."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Albion Online,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Albion Online - A Review for the Active Gamer
 
 Albion Online presents itself as a sandbox MMORPG that offers a unique player-driven economy and an immersive world. But for the fitness-minded gamer, the key question remains: how well does it accommodate gameplay while you exercise? Let’s dive into the details.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-15T00:10:20.559Z
 categories: [ review, game ]
 image: null
+excerpt: "If you enjoyed the frenetic pace and stylized violence of the original *Hotline Miami*, its sequel takes that formula and ramps it up to an exhilarating—with a side of challenging—experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hotline Miami 2: Wrong Number,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hotline Miami 2: Wrong Number - Game Review
 
 If you enjoyed the frenetic pace and stylized violence of the original *Hotline Miami*, its sequel takes that formula and ramps it up to an exhilarating—with a side of challenging—experience. However, if you’re planning to power through this while on a treadmill or bike, you might want to consider a few factors before diving in.
 

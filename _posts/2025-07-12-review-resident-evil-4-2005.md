@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-12T00:12:36.280Z
 categories: [ review, game ]
 image: null
+excerpt: "Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Resident Evil 4 (2005),". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Resident Evil 4 (2005) Review
 
 Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective. This leap in gameplay design captivates players, making it a timeless classic that can also be a surprisingly effective companion during exercise sessions on a treadmill or bike. 
 

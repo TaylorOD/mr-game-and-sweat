@@ -7,11 +7,8 @@ disqus: false
 date:   2025-08-17T00:11:40.528Z
 categories: [ review, game ]
 image: null
+excerpt: "Enshrouded is an intriguing title that combines the elements of an open-world survival adventure with captivating visuals and engaging gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Enshrouded,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 **Game Review: Enshrouded**
 

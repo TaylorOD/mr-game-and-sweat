@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-04T00:11:33.403Z
 categories: [ review, game ]
 image: null
+excerpt: "Company of Heroes 2, a real-time strategy game set during World War II, immerses players in tactical warfare with a focus on squad-based combat, compelling storytelling, and dynamic environments."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Company of Heroes 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Company of Heroes 2 Game Review
 
 "Company of Heroes 2," a real-time strategy game set during World War II, immerses players in tactical warfare with a focus on squad-based combat, compelling storytelling, and dynamic environments. As a fan of both video games and fitness, I was intrigued to see how well this title would fare in an exercise setting, particularly while on a treadmill or biking. 
 
