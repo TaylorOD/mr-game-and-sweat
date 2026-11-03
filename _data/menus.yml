@@ -31,6 +31,9 @@ footermenu:
   - title: Best Of
     url: 'best-of/'
 
+  - title: Guides
+    url: 'guides/'
+
   - title: Want us to review your game?
     url: 'https://store.steampowered.com/curator/45035411/'
     external: true
