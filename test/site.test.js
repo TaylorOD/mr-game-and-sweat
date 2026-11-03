@@ -100,6 +100,10 @@ for (const page of ['index.html', 'reviews/index.html', 'best-of/index.html', 'g
   if (!fs.existsSync(path.join(siteDir, page))) report(page, 'is missing');
 }
 
+// Page links should go straight to the page, not through a redirect
+const homePage = fs.readFileSync(path.join(siteDir, 'index.html'), 'utf8');
+if (!homePage.includes(`rel="next" href="${SITE_URL}/page2/"`)) report('index.html', 'next link should end in a slash');
+
 // Bots are welcome everywhere and can find the sitemap
 const robots = fs.readFileSync(path.join(siteDir, 'robots.txt'), 'utf8');
 if (/^Disallow:\s*\S/m.test(robots)) report('robots.txt', 'should not block anything');
