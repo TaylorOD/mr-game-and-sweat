@@ -6,6 +6,7 @@ comments: false
 disqus: false
 date:   2026-06-17T15:00:00Z
 categories: [ guide ]
+image: assets/images/guides/how-fast-can-you-walk-or-run-while-gaming.jpg
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "There isnt a magic number, but most people should start around 1 to 2 mph. Your real limit is the fastest speed where you can keep your balance and still play."
