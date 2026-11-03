@@ -1,0 +1,15 @@
+---
+layout: page
+title: Game Comparisons for Treadmill and Bike Workouts
+permalink: "/comparisons/"
+description: Can't pick between two games? See which one works better on a treadmill or exercise bike, side by side.
+---
+
+<p>Can't pick between two games? Here is how they stack up side by side for a run or a ride.</p>
+
+{% assign comparisons = site.pages | where: "layout", "comparison" | sort: "short_title" %}
+<ul class="compare-list">
+	{% for comparison in comparisons %}
+	<li><a href="{{ comparison.url | absolute_url }}">{{ comparison.short_title }}</a></li>
+	{% endfor %}
+</ul>
