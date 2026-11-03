@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-16T00:11:15.952Z
 categories: [ review, game ]
-excerpt: "Controller support and mostly turn based card play give you time to think while you exercise. Slow story sections and moments that need steady footing make it a better fit for an easy pace than a hard workout."
+excerpt: "Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 3
@@ -16,31 +16,30 @@ genres: ["Adventure", "Indie", "Strategy"]
 pause_friendly: "Yes"
 session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg
-last_modified_at: 2026-11-03
 ---
 
-Inscryption mixes deck building with psychological horror. It has a few good ideas for playing while you exercise, but it can still pull your attention away from your workout.
+Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes. However, how well does it fare for those of us who are simultaneously trying to get our exercise in on a treadmill or bike? Let’s break it down.
 
 ## Gameplay
 
-You manage resources, plan your moves, and build your deck during a mysterious card game. The strategy and surprises are fun, but the slower story sections can make it harder to keep your focus on exercising. Building a strong deck and outsmarting your opponent help make up for those lulls.
+The gameplay mechanics of Inscryption are engaging and intricate. As you embark on a mysterious card game, you find yourself strategizing your moves, managing resources, and uncovering layers of narrative while facing eerie challenges. The game keeps you hooked with suspenseful moments and gnarly surprises that come into play as you stack your deck. While the tension is palpable, there are sections of the game that delve into slow pacing, particularly during the storytelling segments, which could risk pulling your focus away from your workout. Thankfully, the satisfaction you gain from building powerful decks and outsmarting your opponent typically overshadows these slower patches, making it an immersive experience that can absorb your thoughts while you jog or pedal away.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-You can use a controller, and most card play is turn based, so there is time to make decisions. Some moments need steadier footing, which can be a problem if you are running or biking hard. At a gentler pace, it is easier to play without the game taking over your workout.
+Inscryption is compatible with controllers, which is a big plus for exercising gamers. The card gameplay is mostly turn-based, meaning you can take your time to make decisions without missing a beat on the treadmill or bike. However, some delicate movements, especially during critical moments in the game, might require you to stabilize your footing – a possible challenge if you're running or biking at a high intensity. If you're pacing yourself, though, it allows for an enjoyable gaming experience that complements your workout rather than distracting from it.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Inscryption does not need a powerful computer. Its art and effects do not push modern PCs too hard, and most mid range setups should run it smoothly. That makes it an easy game to run without worrying much about computer specs.
+Inscryption is relatively moderate when it comes to computer requirements. While its unique art style and atmospheric effects create a compelling visual experience, the game doesn’t push the limits of modern PCs too high. Most players should be able to run Inscryption smoothly on mid-range setups without the need for advanced graphics cards or high-end processors. This makes it accessible for a wider audience, especially those who might also be focused on fitness rather than tech specs during their gaming sessions.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-Inscryption has strategic card play, but the slower story sections can interrupt your workout focus. It works better at a moderate pace than at high intensity, and it is not a perfect exercise game. Still, it can be a decent pick if you are willing to ease off when the game needs more attention.
+Inscryption captivates with its eerie charm and strategic depth, while still offering enough flexibility to keep you focused on your workout. It’s a game that requires thought and concentration without being excessively demanding, making it relatively compatible with exercising. However, be mindful of those slower storytelling segments that could pull your focus if your intensity levels are high. All things considered, it’s a worthy addition to your gaming arsenal while getting your daily cardio in.
 
 ### Overall Score: 2.33 out of 3

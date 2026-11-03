@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-03-20T00:11:04.519Z
 categories: [ review, game ]
-excerpt: "Oxygen Not Included gives you plenty to think about, but its crises can be awkward to manage while you work out. Quieter stretches help, though fast decisions make it a better fit for steady effort than a hard session."
+excerpt: "As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging."
 score_gameplay: 3
 score_treadmill: 2
 score_computer: 3
@@ -16,33 +16,38 @@ genres: ["Indie", "Simulation"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg
-last_modified_at: 2026-11-03
 ---
 
-Oxygen Not Included is a survival and resource management game about keeping a group of colonists alive underground. Its systems give you a lot to manage, though that can be a mixed fit for working out.
+As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging. "Oxygen Not Included" has captured my attention with its unique blend of resource management and simulation, making it a perfect candidate for an exercise session. Here’s my detailed review of how well it works in this context.
 
 ## Gameplay
 
-You gather resources, manage stamina, and try to keep your Dupes alive in a space environment. The systems have real depth, and your choices affect the environment, which gives the gameplay plenty to chew on. Crises keep coming, so you need to stay alert.
+"Oxygen Not Included" thrusts you into a hilariously engaging subterranean survival experience where you manage a group of colonists in a space environment. The gameplay revolves around gathering resources, managing stamina, and keeping your Dupes alive. What’s remarkable about this game is the depth in its systems—every decision impacts the overall environment, which keeps players engaged for hours on end.
+
+While the pace can vary, the game has a rhythm that lures you in with constant crises that demand your attention. It’s perfect for those on a treadmill or bike, as it constantly provides situations to think about and react to—whether it’s fixing an oxygen shortage, managing temperatures, or fending off power shortages. There are no long cutscenes or unnecessary dialogue; the gameplay flow is smooth and encourages ongoing interaction without forming the kind of distractions that could pull your focus away from your workout.
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-The game supports keyboard and mouse, but its fast decisions and micromanagement can be tough during a hard workout. You can let it run while handling tasks that do not need an immediate response, which gives you time to catch your breath. It works better at a steady pace than when you are pushing hard.
+One of the best aspects of "Oxygen Not Included" is its flexibility when it comes to control schemes. The game supports keyboard and mouse setups beautifully, making it a viable choice for those who prefer the precision of a mouse while exercising. However, it does require some fast-paced thinking, especially when reacting to unexpected hazards or micromanaging your colonists, which might be challenging during high-intensity workouts.
+
+That said, the game does allow for breaks in action. If you’re running or biking steadily, you can easily manage tasks that don't require immediate responses, letting the game run while you catch your breath. Players can have a great time switching between intensity levels, using quieter segments to ramp up the level of effort on their treadmill or bike.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Oxygen Not Included has light system requirements compared with many modern games. Most midrange PCs should run it smoothly, and the review lists a dual core processor, 4 GB of RAM, and integrated graphics as enough to get started.
+"Oxygen Not Included" is relatively lightweight on system requirements compared to many modern titles. You’ll find that most mid-range PCs will have no trouble running it smoothly, even while multitasking with other applications. The game asks for minimal graphical resources, which means you can easily dedicate your full attention to it without worrying about performance drops.
+
+This accessibility makes it easier for those with modest setups to enjoy the game while still focusing on physical fitness. You’ll need at least a dual-core processor, 4 GB of RAM, and an integrated graphics card to get started, which is feasible for most.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-The resource management and deep systems make this a good game to play, but the constant crises ask for plenty of attention. It can work during a steady workout, though it is not an easy fit when you need to react quickly.
+"Oxygen Not Included" is a fantastic choice for anyone who loves to exercise while gaming. It masterfully blends resource management with engaging gameplay mechanics that keep you on your toes, making it difficult to focus on anything but survival. While it may require some quick decision-making, its overall compatibility with workout routines makes it an enjoyable addition to your exercise regimen.
 
 ### Overall Score: 2.67 out of 3
 
-There is a lot to think about, and the slower stretches give you some room to focus on your workout. Still, the need to manage your colonists and react to hazards keeps this from being a great workout game.
+In summary, if you're looking for a game that lets you exercise while keeping your mind sharp, "Oxygen Not Included" is a solid investment. It’s rich in strategy and creativity, ensuring that every workout is invigorating both physically and mentally!
