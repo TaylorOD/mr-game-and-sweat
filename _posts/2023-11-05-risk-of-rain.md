@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Risk of Rain"
+title:  "Risk of Rain (2013)"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false
@@ -11,6 +11,8 @@ score_gameplay: 3
 score_treadmill: 2
 score_computer: 3
 score_overall: 2.67
+steam_appid: 248820
+genres: ["Action","Indie","RPG"]
 pause_friendly: "Sometimes"
 session_length: Medium
 ---
