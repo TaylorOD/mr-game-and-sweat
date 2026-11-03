@@ -186,7 +186,13 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
   ${steamFacts ? `\n  Facts from the Steam store page. Use them, and dont contradict them:\n${steamFacts}\n` : ''}
   Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
 
-  Scores are whole numbers. Be critical: 0 is bad, 1 is below average, 2 is good and 3 is rare and only for the very best. If a game has no controller support or needs fast precise inputs, its Treadmill and Bike Compatibility score should be 0 or 1.
+  Scores are whole numbers. Be a tough critic and use the whole scale. Most games should score 1 or 2 in a category. A 3 is rare. Do not give 2 by default, pick the score the rubric below gives you.
+
+  Gameplay: 3 means constant action with almost no cut scenes or waiting. 2 means engaging with some slow parts. 1 means long cut scenes, a lot of reading or a lot of waiting. 0 means mostly menus, story or sitting still.
+
+  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means full controller support but some sections need focus or timing. 1 means fast reactions, precise aiming, stealth, horror chases, or competitive multiplayer you cant pause. 0 means no controller support, or it needs a keyboard and mouse to play well.
+
+  Computer Requirements: use the minimum requirements. 3 means it runs on integrated graphics. 2 means an old or basic dedicated graphics card is enough. 1 means a mid range graphics card or better. 0 means a high end gaming PC.
 
   Always include these sections in your review, using these exact headings:
 
