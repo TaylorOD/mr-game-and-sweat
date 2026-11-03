@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-02T00:10:47.663Z
 categories: [ review, game ]
 image: null
+excerpt: "Counter-Strike: Source (CS:S) stands as one of the quintessential multiplayer first-person shooters, combining strategic gameplay with fast-paced action."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Counter-Strike: Source,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Counter-Strike: Source Review
 
 Counter-Strike: Source (CS:S) stands as one of the quintessential multiplayer first-person shooters, combining strategic gameplay with fast-paced action. The game has a dedicated following, and today we're focusing on how well it fits into the workout routines of active gamers looking to stay in shape while enjoying their favorite pastime.
 

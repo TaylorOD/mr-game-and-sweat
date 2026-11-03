@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-23T00:10:33.922Z
 categories: [ review, game ]
 image: null
+excerpt: "Helltaker is a unique puzzle indie game that has gained a considerable following thanks to its charming graphics, witty dialogue, and engaging mechanics."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Helltaker,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Helltaker: Review for the Exercising Gamer
 
 Helltaker is a unique puzzle indie game that has gained a considerable following thanks to its charming graphics, witty dialogue, and engaging mechanics. While it may not be the most conventional choice for those looking to exercise while gaming, let’s break down how it stands up in various aspects for our active audience.
 

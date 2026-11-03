@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-18T00:12:00.648Z
 categories: [ review, game ]
 image: null
+excerpt: "In an age where cooperative gameplay meets good old-fashioned zombie horror, No More Room in Hell stands out as a unique survival experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "No More Room in Hell,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# No More Room in Hell Review
 
 In an age where cooperative gameplay meets good old-fashioned zombie horror, "No More Room in Hell" stands out as a unique survival experience. As you navigate an infested urban landscape with friends (or strangers), the game provides a thrilling blend of suspense and strategy that can keep anyone on their toes—hopefully while you're running on that treadmill or pedaling away on your bike! 
 

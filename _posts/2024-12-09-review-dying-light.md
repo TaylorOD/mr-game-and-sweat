@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-09T00:10:55.369Z
 categories: [ review, game ]
 image: null
+excerpt: "As a game that combines the thrill of parkour with the horror of a zombie apocalypse, Dying Light not only captivates players with its dynamic gameplay but can also fit seamlessly into an exercise-focused gaming experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dying Light,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dying Light: Game Review
 
 As a game that combines the thrill of parkour with the horror of a zombie apocalypse, **Dying Light** not only captivates players with its dynamic gameplay but can also fit seamlessly into an exercise-focused gaming experience. Let’s break down how this game fares for those looking to get a workout in while enjoying their time in Harran's undead-infested streets.
 

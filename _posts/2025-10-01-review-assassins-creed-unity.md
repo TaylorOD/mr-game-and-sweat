@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-01T00:12:46.590Z
 categories: [ review, game ]
 image: null
+excerpt: "Assassin's Creed Unity may just be the perfect ally for those looking to maintain their exercise routine while submerged in a rich, immersive world."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Assassin's Creed Unity,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Assassin's Creed Unity Review
 
 Assassin's Creed Unity may just be the perfect ally for those looking to maintain their exercise routine while submerged in a rich, immersive world. Set during the tumultuous French Revolution, it presents a sprawling Paris filled with culture, architecture, and intrigue. But how does it hold up for those looking to run or bike while playing? Let’s dive into the details.
 

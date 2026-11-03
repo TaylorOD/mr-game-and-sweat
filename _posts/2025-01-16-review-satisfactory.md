@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-16T00:09:46.163Z
 categories: [ review, game ]
 image: null
+excerpt: "Satisfactory is a delightful hybrid of factory-building and exploration set in an open-world environment, in which players take on the role of a pioneer on an alien planet, tasked with building and managing complex production lines."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Satisfactory,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of "Satisfactory"
 
 "Satisfactory" is a delightful hybrid of factory-building and exploration set in an open-world environment, in which players take on the role of a pioneer on an alien planet, tasked with building and managing complex production lines. It's engaging, immersive, and, importantly for our audience, it can provide a unique backdrop for your exercise routines on a treadmill or bike. Let's dive into how it holds up across different categories.
 

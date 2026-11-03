@@ -6,13 +6,8 @@ comments: false
 disqus: false
 date:   2024-11-16T20:21:24.867Z
 categories: [ review, game ]
+excerpt: "ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "ARK: Survival Evolved,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# ARK: Survival Evolved Review
 
 ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats. As you navigate this massive open-world environment, it becomes essential to balance your exploration and survival with your exercise routine. Here’s how it holds up for fitness gamers.
 

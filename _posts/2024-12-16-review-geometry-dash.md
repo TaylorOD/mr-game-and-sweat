@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-16T00:11:18.674Z
 categories: [ review, game ]
 image: null
+excerpt: "If you’re looking for a thrilling way to keep your heart rate up while you exercise, Geometry Dash is an exhilarating choice."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Geometry Dash,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Geometry Dash Review
 
 If you’re looking for a thrilling way to keep your heart rate up while you exercise, **Geometry Dash** is an exhilarating choice. This rhythm-based platformer has you jumping, flying, and flipping your way through levels set to catchy music, making it not only engaging but also addictive enough to distract you from your workout!
 

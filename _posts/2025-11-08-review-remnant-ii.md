@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "In REMNANT II, you’ll find yourself deeply immersed in a world teeming with relentless action and adrenaline-pumping encounters—elements that can actually help keep your heart rate up while you exercise."
 ---
 
 In "REMNANT II," you’ll find yourself deeply immersed in a world teeming with relentless action and adrenaline-pumping encounters—elements that can actually help keep your heart rate up while you exercise. The game’s fast-paced nature and co-op mechanics can hold your attention, making it easier to forget you're on the treadmill or bike.

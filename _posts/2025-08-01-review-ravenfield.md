@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-01T00:14:09.392Z
 categories: [ review, game ]
 image: null
+excerpt: "Ravenfield is a single-player first-person shooter (FPS) that smoothly blends simplicity and fun, and with its focus on chaotic, action-packed gameplay, it delivers an engaging experience that pairs well with exercise routines."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ravenfield,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ravenfield – Game Review
 
 Ravenfield is a single-player first-person shooter (FPS) that smoothly blends simplicity and fun, and with its focus on chaotic, action-packed gameplay, it delivers an engaging experience that pairs well with exercise routines. Let's dive into the details!
 

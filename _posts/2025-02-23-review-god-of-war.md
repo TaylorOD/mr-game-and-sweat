@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-23T00:09:57.874Z
 categories: [ review, game ]
 image: null
+excerpt: "God of War is a fantastic entry in the action-adventure genre that has been captivating gamers since its debut."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "God of War,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: God of War
 
 "God of War" is a fantastic entry in the action-adventure genre that has been captivating gamers since its debut. While it offers an incredible narrative and engaging combat, we’re here to determine how well it pairs with your exercise routine, especially for those utilizing treadmills or bikes during gameplay. Let’s delve into its various aspects!
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-06T00:14:12.080Z
 categories: [ review, game ]
 image: null
+excerpt: "Yakuza 0 takes players deep into the seedy underbelly of 1980s Japan, interweaving crime drama with captivating minigames and unforgettable characters."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Yakuza 0,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Yakuza 0 Review: A Gritty Adventure on the Run
 
 Yakuza 0 takes players deep into the seedy underbelly of 1980s Japan, interweaving crime drama with captivating minigames and unforgettable characters. But is its engaging narrative a good companion for your exercising routine on the treadmill or bike? Let’s find out.
 

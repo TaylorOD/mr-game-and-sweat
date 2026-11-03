@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-25T00:11:20.971Z
 categories: [ review, game ]
 image: null
+excerpt: "FOR HONOR is an action-packed melee combat game that places you in the midst of intense battles between knights, samurais, and vikings."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "FOR HONOR,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# FOR HONOR - Game Review
 
 FOR HONOR is an action-packed melee combat game that places you in the midst of intense battles between knights, samurais, and vikings. Its tactical approach to combat and deep lore make it an intriguing option for gamers. However, as a site dedicated to helping users exercise, it’s essential to look at how this game fits into a treadmill or biking routine. 
 

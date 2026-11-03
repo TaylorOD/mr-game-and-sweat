@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-17T00:11:08.967Z
 categories: [ review, game ]
 image: null
+excerpt: "Starbound is an indie exploration and sandbox game that invites players to traverse procedurally generated worlds across the cosmos."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Starbound,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Starbound: A Cosmic Adventure for Gamers on the Move
 
 Starbound is an indie exploration and sandbox game that invites players to traverse procedurally generated worlds across the cosmos. Created by Chucklefish, this pixel-art-styled adventure captivates the imagination and encourages creativity in a universe filled with alien societies, treasures, and the constant thrill of discovery. But how well does it hold up when paired with your treadmill or bike? Let’s delve into the details.
 

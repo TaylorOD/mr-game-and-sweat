@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-28T00:09:52.198Z
 categories: [ review, game ]
 image: null
+excerpt: "Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Paladins,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Paladins Game Review
 
 Paladins, the vibrant team-based shooter from Hi-Rez Studios, has garnered a dedicated fanbase since its release, mixing strategy and a diverse cast of characters. But how does it hold up when you're trying to stay active on a treadmill or bike? Let’s dive into the details.
 

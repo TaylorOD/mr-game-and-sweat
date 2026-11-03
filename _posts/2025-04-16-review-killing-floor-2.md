@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-16T00:11:03.508Z
 categories: [ review, game ]
 image: null
+excerpt: "Killing Floor 2 is a frenetic first-person shooter that pits players against hordes of zeds (zombies and monstrous creatures) in a variety of locales, ranging from eerie laboratories to decaying wastelands."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Killing Floor 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Killing Floor 2 Game Review
 
 Killing Floor 2 is a frenetic first-person shooter that pits players against hordes of zeds (zombies and monstrous creatures) in a variety of locales, ranging from eerie laboratories to decaying wastelands. The game is known for its intense gameplay that thrives on cooperation, allowing players to strategize and execute their plans as the grotesque enemies close in. 
 

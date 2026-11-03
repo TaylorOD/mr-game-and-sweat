@@ -7,13 +7,8 @@ disqus: false
 date:   2025-11-01T00:13:10.188Z
 categories: [ review, game ]
 image: null
+excerpt: "Skul: The Hero Slayer is a unique roguelike action-platformer that puts players in the shoes of Skul, a small skeleton on a mission to rescue his kidnapped demon friends from the clutches of a band of heroes."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Skul: The Hero Slayer,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of "Skul: The Hero Slayer"
 
 "Skul: The Hero Slayer" is a unique roguelike action-platformer that puts players in the shoes of Skul, a small skeleton on a mission to rescue his kidnapped demon friends from the clutches of a band of heroes. While the premise may sound whimsical, the gameplay is intense and addictive, making it perfect for gamers looking to stay active while exercising on a treadmill or bike.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-17T00:11:45.913Z
 categories: [ review, game ]
 image: null
+excerpt: "LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "LIMBO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# LIMBO Game Review
 
 LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles. Perfectly suited for gamers who wish to stay active while indulging in a rich, immersive experience, this game provides a compelling combination of gameplay and ambiance that can complement your treadmill or biking sessions nicely.
 

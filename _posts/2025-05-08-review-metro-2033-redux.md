@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-08T00:11:35.728Z
 categories: [ review, game ]
 image: null
+excerpt: "In the densely atmospheric world of Metro 2033 Redux, you are thrust into the post-apocalyptic Moscow Metro system where survival hinges on stealth, survival, and resource management."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Metro 2033 Redux,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Metro 2033 Redux: A Breathless Journey Through the Wasteland
 
 In the densely atmospheric world of Metro 2033 Redux, you are thrust into the post-apocalyptic Moscow Metro system where survival hinges on stealth, survival, and resource management. But can this chilling narrative and intense action keep your heart racing on the treadmill or bike? Let’s dive into the details.
 

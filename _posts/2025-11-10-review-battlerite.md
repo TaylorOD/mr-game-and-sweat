@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Battlerite offers a brisk and energetic gameplay experience that perfectly aligns with exercising on a treadmill or bike."
 ---
 
 Battlerite offers a brisk and energetic gameplay experience that perfectly aligns with exercising on a treadmill or bike. Its fast-paced action keeps your heart rate up, but the lack of controller support may make for a tricky challenge while trying to juggle movement and gameplay.

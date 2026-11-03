@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-21T00:11:09.908Z
 categories: [ review, game ]
 image: null
+excerpt: "Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Black Squad,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Black Squad: A Game Review
 
 Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront. Developed by NS Studio, this game is known for its solid mechanics and engaging multiplayer experience. But how does it hold up when you're running on a treadmill or biking while gaming? Let’s break it down.
 

@@ -7,11 +7,8 @@ disqus: false
 date:   2025-06-30T00:11:31.697Z
 categories: [ review, game ]
 image: null
+excerpt: "METAL GEAR RISING: REVENGEANCE is a heart-pounding experience that immerses players in fast-paced, adrenaline-fueled action."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "METAL GEAR RISING: REVENGEANCE,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

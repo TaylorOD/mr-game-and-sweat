@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-28T00:10:02.398Z
 categories: [ review, game ]
 image: null
+excerpt: "It Takes Two, a whimsical co-op adventure from Hazelight Studios, not only captures the complexities of relationships but also entices players into a vibrant world bursting with creativity and engaging gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "It Takes Two,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# It Takes Two - A Game Review for the Active Gamer
 
 "It Takes Two," a whimsical co-op adventure from Hazelight Studios, not only captures the complexities of relationships but also entices players into a vibrant world bursting with creativity and engaging gameplay. But how does it stack up for those who want to keep their cardio game strong while diving into this captivating experience? Let’s break it down.
 

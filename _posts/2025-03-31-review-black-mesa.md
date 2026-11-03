@@ -7,11 +7,8 @@ disqus: false
 date:   2025-03-31T00:11:17.986Z
 categories: [ review, game ]
 image: null
+excerpt: "Black Mesa, the fan-made remake of the iconic Half-Life, brings back the thrill of Gordon Freeman’s journey through the Black Mesa Research Facility with updated graphics, refined mechanics, and an immersive experience that’s hard to resist"
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Black Mesa,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 **Game Review: Black Mesa**
 

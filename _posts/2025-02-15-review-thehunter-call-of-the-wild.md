@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-15T00:10:29.848Z
 categories: [ review, game ]
 image: null
+excerpt: "theHunter: Call of the Wild immerses players in breathtaking landscapes while simulating the art of hunting."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "theHunter: Call of the Wild,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# theHunter: Call of the Wild - Game Review
 
 theHunter: Call of the Wild immerses players in breathtaking landscapes while simulating the art of hunting. As an advocate for integrating exercise with gaming, I explored how well this title complements a workout routine on treadmills and bikes. Here's my breakdown:
 

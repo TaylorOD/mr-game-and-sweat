@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "PC Building Simulator is a poor fit for treadmill or bike workouts: repairing and assembling PCs involves reading job notes, navigating menus, and carefully handling components."
 ---
 
 PC Building Simulator is a poor fit for treadmill or bike workouts: repairing and assembling PCs involves reading job notes, navigating menus, and carefully handling components. Its calm pace avoids twitchy action, but you’ll need to keep your attention—and your hands—on the game.

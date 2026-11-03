@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-28T00:11:36.930Z
 categories: [ review, game ]
 image: null
+excerpt: "Teardown is a voxel-based sandbox game that lets players unleash their inner demolitionist, combining creativity and chaos in a destructible world."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Teardown,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Teardown Game Review
 
 Teardown is a voxel-based sandbox game that lets players unleash their inner demolitionist, combining creativity and chaos in a destructible world. You guide a character as they navigate through various heist scenarios, employing an array of tools and an intuitive physics engine to break and enter, steal valuable items, and then escape without being caught. 
 

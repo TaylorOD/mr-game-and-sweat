@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-23T00:11:19.344Z
 categories: [ review, game ]
 image: null
+excerpt: "Insurgency: Sandstorm, the sequel to the acclaimed Insurgency, brings the intensity of modern military combat to life with a focus on realism and team-based gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Insurgency: Sandstorm,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Insurgency: Sandstorm - Review
 
 Insurgency: Sandstorm, the sequel to the acclaimed Insurgency, brings the intensity of modern military combat to life with a focus on realism and team-based gameplay. As both a gaming and fitness enthusiast, I was eager to see how well this tactical shooter would complement a home exercise routine, especially while using a treadmill or bike. Here's my breakdown for you treadmill warriors and biking buffs!
 

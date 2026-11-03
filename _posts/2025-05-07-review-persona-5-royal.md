@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-07T00:11:27.399Z
 categories: [ review, game ]
 image: null
+excerpt: "The gameplay in *Persona 5 Royal* is engaging, boasting a mixture of social simulation and dungeon crawling."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Persona 5 Royal,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Persona 5 Royal Game Review
 
 **Persona 5 Royal**, an enhanced version of the critically acclaimed JRPG, seamlessly amalgamates thrilling turn-based combat, an engrossing narrative, and a stylish aesthetic that has captivated audiences worldwide. Perfect for workout sessions, let's dissect how it holds up when combined with a treadmill or bike.
 

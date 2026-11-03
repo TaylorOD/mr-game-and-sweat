@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-31T00:09:46.499Z
 categories: [ review, game ]
 image: null
+excerpt: "Hearts of Iron IV is a grand strategy game that immerses players in the tumultuous global conflicts of World War II."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hearts of Iron IV,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hearts of Iron IV Game Review
 
 Hearts of Iron IV is a grand strategy game that immerses players in the tumultuous global conflicts of World War II. As you take command of a nation, you’ll manage everything from political alliances and military strategies to resource distribution and technological advancements. This review will assess how playable the game is while you’re on the move, focusing on its engagement, treadmill compatibility, and computer requirements.
 

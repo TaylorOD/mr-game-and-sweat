@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-02T00:13:02.680Z
 categories: [ review, game ]
 image: null
+excerpt: "Capcom's highly anticipated sequel, Dragon's Dogma 2, once again immerses players in a sprawling fantasy world filled with impressive lore, engaging combat, and a diverse set of quests."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dragon's Dogma 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dragon's Dogma 2 Review
 
 Capcom's highly anticipated sequel, "Dragon's Dogma 2," once again immerses players in a sprawling fantasy world filled with impressive lore, engaging combat, and a diverse set of quests. But how does it hold up when you’re trying to get your cardio in on a treadmill or bike? Let's dig in.
 

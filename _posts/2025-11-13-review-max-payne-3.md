@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Max Payne 3’s frequent shootouts can make a treadmill or bike session fly by, but its long cinematic stretches interrupt the action."
 ---
 
 Max Payne 3’s frequent shootouts can make a treadmill or bike session fly by, but its long cinematic stretches interrupt the action. Its precise, fast-paced gunplay is also a poor match for exercising while playing.

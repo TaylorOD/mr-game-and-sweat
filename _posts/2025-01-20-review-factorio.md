@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-20T00:10:47.066Z
 categories: [ review, game ]
 image: null
+excerpt: "Factorio is a complex and captivating factory-building game that immerses players in the joys of automation and industrial conquest."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Factorio,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Factorio Game Review
 
 Factorio is a complex and captivating factory-building game that immerses players in the joys of automation and industrial conquest. It’s a game that not only engages your mind but can also keep your feet moving while you’re on a treadmill or bike, turning gaming into an active pastime.
 

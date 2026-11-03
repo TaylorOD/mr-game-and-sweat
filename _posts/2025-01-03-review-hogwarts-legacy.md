@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-03T00:11:40.026Z
 categories: [ review, game ]
 image: null
+excerpt: "As a massive fan of both gaming and fitness, I was curious to see how Hogwarts Legacy would perform as a game suitable for treadmill running or biking."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hogwarts Legacy,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hogwarts Legacy Review
 
 As a massive fan of both gaming and fitness, I was curious to see how "Hogwarts Legacy" would perform as a game suitable for treadmill running or biking. Here’s how it stacks up in various categories.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-04T00:10:24.491Z
 categories: [ review, game ]
 image: null
+excerpt: "In Prison Architect, you step into the shoes of a prison warden, taking on the monumental task of building and managing a correctional facility."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Prison Architect,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of Prison Architect
 
 In "Prison Architect," you step into the shoes of a prison warden, taking on the monumental task of building and managing a correctional facility. With its blend of strategy, simulation, and creativity, this game presents a unique opportunity for those looking to combine video gaming with staying active on a treadmill or bike.
 

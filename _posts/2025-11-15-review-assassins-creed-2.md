@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Assassin’s Creed II’s rooftop running across Renaissance Italy can make a treadmill session feel lively, but stealth missions and story scenes bring the pace to a halt."
 ---
 
 Assassin’s Creed II’s rooftop running across Renaissance Italy can make a treadmill session feel lively, but stealth missions and story scenes bring the pace to a halt. It’s better for workouts where you can slow down or pause than for keeping a steady, hands-free rhythm.

@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-08T00:10:49.435Z
 categories: [ review, game ]
 image: null
+excerpt: "When it comes to blending the worlds of horror gaming and exercising, Lethal Company takes a bold stab at creating an adrenaline-pumping experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Lethal Company,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Lethal Company - Game Review
 
 When it comes to blending the worlds of horror gaming and exercising, "Lethal Company" takes a bold stab at creating an adrenaline-pumping experience. Imagine you're on a treadmill, running for your life while monsters lurk around every corner, and your friend is yelling at you to help find the critical items. Let's dive into the various categories to see if this thrilling game is a suitable companion for your workout routine.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-25T00:12:00.738Z
 categories: [ review, game ]
 image: null
+excerpt: "INSIDE is a haunting, atmospheric puzzle-platformer that plunges players into a dystopian world filled with mystery, danger, and intrigue."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "INSIDE,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: INSIDE
 
 INSIDE is a haunting, atmospheric puzzle-platformer that plunges players into a dystopian world filled with mystery, danger, and intrigue. Developed by Playdead, this game captivates with its striking visuals and ambient sound design, but how does it fare for those looking to exercise while gaming? Let’s jump in!
 

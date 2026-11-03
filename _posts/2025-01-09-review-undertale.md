@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-09T00:11:03.040Z
 categories: [ review, game ]
 image: null
+excerpt: "Undertale, created by Toby Fox, is a unique RPG that defies the conventional mechanics of traditional games while delivering a compelling narrative and memorable characters."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Undertale,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Undertale Game Review
 
 Undertale, created by Toby Fox, is a unique RPG that defies the conventional mechanics of traditional games while delivering a compelling narrative and memorable characters. As a fitness-focused gamer, I’ll delve into its mechanics and see how it fares as a companion for your treadmill runs and bike rides.
 

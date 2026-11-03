@@ -6,12 +6,8 @@ comments: false
 disqus: false
 date:   2024-07-07T04:40:36.413Z
 categories: [ review, game ]
-
+excerpt: "Dota 2 is a staple in the MOBA genre, renowned for its deep strategic gameplay, diverse hero roster, and a competitive community that feeds into its endless replayability."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dota 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 **Game Review: Dota 2**
 

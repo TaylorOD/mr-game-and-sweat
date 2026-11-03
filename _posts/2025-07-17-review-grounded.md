@@ -7,17 +7,12 @@ disqus: false
 date:   2025-07-17T00:12:26.889Z
 categories: [ review, game ]
 image: null
+excerpt: "Grounded is an innovative survival adventure game developed by Obsidian Entertainment, where players find themselves shrunk down to the size of an ant in a suburban backyard."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Grounded,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Grounded
 
 Grounded is an innovative survival adventure game developed by Obsidian Entertainment, where players find themselves shrunk down to the size of an ant in a suburban backyard. As you navigate this miniaturized world, you confront insects, gather resources, and build your own base to survive. It’s a captivating premise that offers a seamless blend of crafting, exploration, and survival mechanics.
 
-# Gameplay 
+# Gameplay
 
 The gameplay in Grounded is highly engaging. You'll find yourself running, jumping, and climbing throughout the vibrant environment, which has been meticulously crafted with a plethora of details. The objectives are clear, and the sense of progression is satisfying as you upgrade your gear and discover new crafting recipes. There are no lengthy cutscenes that disrupt your experience, which is perfect for keeping your heart rate elevated while you’re on the treadmill or bike. The game's pacing keeps you on your toes, but the ability to explore at your leisure allows for a more relaxed mode if you need a breather.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-07T00:12:51.453Z
 categories: [ review, game ]
 image: null
+excerpt: "FINAL FANTASY XIV Online is a brilliant MMORPG that has made waves in the gaming community with its vast world, compelling narrative, and an engaged player base."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "FINAL FANTASY XIV Online,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of FINAL FANTASY XIV Online
 
 FINAL FANTASY XIV Online is a brilliant MMORPG that has made waves in the gaming community with its vast world, compelling narrative, and an engaged player base. But how does it hold up for gamers who want to stay active, particularly while running on a treadmill or biking? Let's dive into the details.
 

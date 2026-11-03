@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "The Henry Stickmin Collection offers a light-hearted choose-your-own-path adventure that lends itself to a casual gaming experience."
 ---
 
 The Henry Stickmin Collection offers a light-hearted choose-your-own-path adventure that lends itself to a casual gaming experience. However, the game's reliance on decision-making and humor may detract from intense workout sessions since it requires a bit more focus than more active titles. 

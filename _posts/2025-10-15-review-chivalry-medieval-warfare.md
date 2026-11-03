@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-15T00:12:09.322Z
 categories: [ review, game ]
 image: null
+excerpt: "Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Chivalry: Medieval Warfare,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Chivalry: Medieval Warfare - Review
 
 Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war. Whether you’re hacking through waves of enemy soldiers or defending your castle from siege, the game promises an action-packed experience. But how does it hold up for those looking to get a bit of exercise while gaming? Let's break down the details.
 

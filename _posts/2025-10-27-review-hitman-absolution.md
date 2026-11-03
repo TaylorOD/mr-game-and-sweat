@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-27T00:11:33.383Z
 categories: [ review, game ]
 image: null
+excerpt: "Hitman: Absolution returns players to the shadowy, stealth-filled world of Agent 47, a clone-turned-assassin."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hitman: Absolution,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hitman: Absolution - Game Review
 
 Hitman: Absolution returns players to the shadowy, stealth-filled world of Agent 47, a clone-turned-assassin. This entry in the beloved Hitman franchise brings a crisp gameplay experience, complete with new mechanics and the series' signature strategic assassinations. However, how does it fare in our mission to help players exercise while gaming? Here’s the full breakdown.
 

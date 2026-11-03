@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-14T00:10:54.985Z
 categories: [ review, game ]
 image: null
+excerpt: "Prepare yourself for a gripping excursion into the grim darkness of the distant future with Warhammer 40,000: Space Marine 2."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Warhammer 40,000: Space Marine 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Warhammer 40,000: Space Marine 2 - Review
 
 Prepare yourself for a gripping excursion into the grim darkness of the distant future with "Warhammer 40,000: Space Marine 2." As a sequel to the beloved original, this title not only immerses players in its lore but does so with mechanics that lend themselves surprisingly well to those who prefer to combine their gaming with physical activity. 
 

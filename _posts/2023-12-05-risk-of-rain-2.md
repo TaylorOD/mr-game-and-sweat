@@ -6,9 +6,8 @@ categories: [ review, action, roguelike, multiplayer ]
 comments: false
 disqus: false
 image: assets/images/review-images/risk-of-rain-2.jpg
+excerpt: "Risk of Rain 2 offers an incredibly engaging experience with its dynamic and fast-paced gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat, where we combine the thrill of gaming with the benefits of staying active! Today, we’re diving into "Risk of Rain 2," a game known for its exhilarating action, challenging gameplay, and cooperative multiplayer experience. Let’s evaluate it based on our three main criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

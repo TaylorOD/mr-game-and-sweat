@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-12T00:11:23.774Z
 categories: [ review, game ]
 image: null
+excerpt: "Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Call of Duty: Modern Warfare II,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Call of Duty: Modern Warfare II - Game Review
 
 Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming. Whether you're on the treadmill or biking, this title is designed to keep your adrenaline pumping. 
 

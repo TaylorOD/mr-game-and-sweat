@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-30T00:12:13.210Z
 categories: [ review, game ]
 image: null
+excerpt: "Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Hotline Miami,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Hotline Miami Game Review
 
 Hotline Miami is a frenetic top-down shooter that blends strategic gameplay with an addictive audiovisual experience. As you lace up your sneakers for a treadmill run or bike session, this review dissects how well this iconic indie title complements your exercise routine.
 

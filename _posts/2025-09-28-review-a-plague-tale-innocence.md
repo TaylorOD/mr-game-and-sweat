@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-28T00:12:03.219Z
 categories: [ review, game ]
 image: null
+excerpt: "A Plague Tale: Innocence is a harrowing journey through medieval France, enveloped in the dark taint of the Black Death."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "A Plague Tale: Innocence,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# A Plague Tale: Innocence - Game Review
 
 A Plague Tale: Innocence is a harrowing journey through medieval France, enveloped in the dark taint of the Black Death. Developed by Asobo Studio, this title combines stealth, puzzle-solving, and narrative-driven gameplay with an emotional soundtrack and stunning visuals. However, how does it fare for those looking to combine their gaming experience with a solid workout on a treadmill or bike? Let's break it down.
 

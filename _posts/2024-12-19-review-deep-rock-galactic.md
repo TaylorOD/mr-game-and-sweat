@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-19T00:10:38.121Z
 categories: [ review, game ]
 image: null
+excerpt: "The gameplay in Deep Rock Galactic thrives on its fast-paced cooperative missions that never seem to have a dull moment."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Deep Rock Galactic,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Deep Rock Galactic Review
 
 **Deep Rock Galactic**, a cooperative first-person shooter developed by Ghost Ship Games, invites players to step into the rugged boots of a space dwarf on a mission to mine precious resources and engage in some gun-slinging action against alien hordes. On the surface, it tantalizes with its unique mix of humor, teamwork, and exploration. As someone who prioritizes fitness while gaming, I took a closer look at how this title performs in terms of gameplay engagement, exercise compatibility, and technical demands.
 

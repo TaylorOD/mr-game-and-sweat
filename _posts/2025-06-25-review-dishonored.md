@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-25T00:11:50.640Z
 categories: [ review, game ]
 image: null
+excerpt: "Arkane Studios’ *Dishonored* is a stealth action-adventure game that seamlessly blends an engaging narrative with a unique artistic style."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dishonored,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Dishonored Game Review
 
 Arkane Studios’ *Dishonored* is a stealth action-adventure game that seamlessly blends an engaging narrative with a unique artistic style. It immerses players in the steampunk city of Dunwall, where you assume the role of Corvo Attano, a bodyguard framed for the murder of the Empress. Throughout your journey, you’ll wield supernatural abilities and make pivotal decisions that shape the outcome of the game. But how does this experience translate to a treadmill or biking session? Let’s dive into it.
 

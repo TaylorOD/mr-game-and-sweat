@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-25T00:09:52.721Z
 categories: [ review, game ]
 image: null
+excerpt: "Ahoy, fellow adventurers and fitness enthusiasts!"
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Sea of Thieves: 2024 Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Sea of Thieves: 2024 Edition Review
 
 Ahoy, fellow adventurers and fitness enthusiasts! "Sea of Thieves: 2024 Edition" has set sail with some exciting updates that's bound to have you hoisting a pirate flag while raising your heart rate. This multiplayer pirate adventure allows players to explore vast seas, conquer rival crews, and seek treasure, all while you aim to get some exercise in. Let’s dive into the nitty-gritty!
 

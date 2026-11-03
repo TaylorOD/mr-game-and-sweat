@@ -6,9 +6,8 @@ categories: [ review, card-game, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/slay-the-spire.jpg
+excerpt: "Slay the Spire offers a uniquely addictive gameplay experience. The blend of deck-building and roguelike mechanics creates a fresh and engaging challenge every time you play."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we're exploring "Slay the Spire," a game that masterfully combines card strategy and roguelike elements. Let’s see how it fares in terms of gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

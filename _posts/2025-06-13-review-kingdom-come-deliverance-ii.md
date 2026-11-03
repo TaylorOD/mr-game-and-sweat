@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-13T00:11:56.049Z
 categories: [ review, game ]
 image: null
+excerpt: "The gameplay in *Kingdom Come: Deliverance II* continues the franchise's commitment to realism and immersion."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kingdom Come: Deliverance II,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Kingdom Come: Deliverance II - Review
 
 *Kingdom Come: Deliverance II* has returned to immerse players in its historically rich world, and it brings some intriguing mechanics to the table that can enhance your treadmill or biking sessions. But how does it stack up for exercise enthusiasts? Let’s dig in.
 

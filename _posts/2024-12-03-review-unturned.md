@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-03T00:12:54.403Z
 categories: [ review, game ]
 image: null
+excerpt: "Unturned is a unique take on the zombie survival genre."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Unturned,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Review of "Unturned"
 
 "Unturned" is a unique take on the zombie survival genre. Initially released as a free-to-play game on Steam, it quickly gained traction for its blocky aesthetic reminiscent of classic titles like Minecraft, combined with an extensive crafting system and multiplayer aspects. As more gamers turn towards an exercise-centric lifestyle, finding games that blend well with physical activity is key. Let’s dive into how well "Unturned" holds up in this context.
 

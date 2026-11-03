@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-29T00:10:14.753Z
 categories: [ review, game ]
 image: null
+excerpt: "Forza Horizon 5 is the latest installment in the open-world racing series by Playground Games."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Forza Horizon 5,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Forza Horizon 5 Game Review
 
 Forza Horizon 5 is the latest installment in the open-world racing series by Playground Games. Set against the vibrant backdrop of Mexico, it offers a thrilling experience that makes driving feel as captivating as it does exhilarating. If you’re a fitness enthusiast looking to get active while gaming, read on for how well this game fits your treadmill or bike routine.
 

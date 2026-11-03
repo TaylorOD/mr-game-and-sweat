@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-18T00:10:14.917Z
 categories: [ review, game ]
 image: null
+excerpt: "Path of Exile (PoE) is not just another action RPG; it's a treasure trove of complexity and depth that will keep you hooked for hours."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Path of Exile,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Path of Exile: A Game Worth Sweating For
 
 Path of Exile (PoE) is not just another action RPG; it's a treasure trove of complexity and depth that will keep you hooked for hours. But how does it fare when you're getting your heart rate up on a treadmill or bike? Let’s dive in!
 

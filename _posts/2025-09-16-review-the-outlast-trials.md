@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-16T00:10:23.783Z
 categories: [ review, game ]
 image: null
+excerpt: "The Outlast Trials marks a fresh entry into the horror genre, combining psychological thriller elements with cooperative multiplayer gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Outlast Trials,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Outlast Trials Review
 
 The Outlast Trials marks a fresh entry into the horror genre, combining psychological thriller elements with cooperative multiplayer gameplay. Set during the Cold War, players find themselves trapped in a sinister experiment, pitted against terrifying foes in a truly harrowing environment. But how does this game fare when it comes to keeping you engaged during your treadmill or biking routine?
 

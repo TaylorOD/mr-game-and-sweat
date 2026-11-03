@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-29T00:12:15.039Z
 categories: [ review, game ]
 image: null
+excerpt: "Total War: SHOGUN 2 transports players into the captivating world of feudal Japan, offering an epic blend of grand strategy and real-time tactics."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Total War: SHOGUN 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Total War: SHOGUN 2 - Game Review
 
 Total War: SHOGUN 2 transports players into the captivating world of feudal Japan, offering an epic blend of grand strategy and real-time tactics. As a fan of both video games and fitness, I found it essential to analyze how this game fits into a workout while keeping you entertained and engaged.
 

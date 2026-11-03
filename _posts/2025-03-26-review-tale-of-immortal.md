@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-26T00:11:02.608Z
 categories: [ review, game ]
 image: null
+excerpt: "Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "鬼谷八荒 Tale of Immortal,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: 鬼谷八荒 (Tale of Immortal)
 
 Tale of Immortal brings players into the mystical world of Chinese mythology, blending traditional folklore with captivating gameplay mechanics. As a game that encourages exploration and discovery, it beckons players for hours on end—but how does it fit into a routine of treadmill running or biking?
 

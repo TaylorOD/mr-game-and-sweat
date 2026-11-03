@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-08T00:11:35.917Z
 categories: [ review, game ]
 image: null
+excerpt: "“R.E.P.O.” is an ingenious blend of action, strategy, and storytelling that places players in a dystopian world where technology meets survival."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "R.E.P.O.,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Game Review: R.E.P.O.
 
 “R.E.P.O.” is an ingenious blend of action, strategy, and storytelling that places players in a dystopian world where technology meets survival. Designed to keep your adrenaline pumping, this game presents an innovative opportunity for gamers who want to stay fit while indulging in deep gameplay. Let’s dive into the nitty-gritty of what makes R.E.P.O. both entertaining and conducive to your fitness regime.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-27T00:10:25.786Z
 categories: [ review, game ]
 image: null
+excerpt: "When it comes to gaming, few titles embody the essence of an open world like Grand Theft Auto IV: Complete Edition."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Grand Theft Auto IV: Complete Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Grand Theft Auto IV: Complete Edition Review
 
 When it comes to gaming, few titles embody the essence of an open world like "Grand Theft Auto IV: Complete Edition." A staple in the gaming industry, this installment brings the gritty streets of Liberty City into your living room. But how does it fare as a companion to your treadmill runs or bike rides? Let's dig in!
 

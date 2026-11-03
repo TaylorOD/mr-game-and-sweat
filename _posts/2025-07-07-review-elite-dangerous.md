@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-07T00:12:50.182Z
 categories: [ review, game ]
 image: null
+excerpt: "Elite Dangerous invites players into an expansive universe teeming with possibilities, and when you bring exercise into the mix, things get even more intriguing."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Elite Dangerous,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Elite Dangerous Review
 
 Elite Dangerous invites players into an expansive universe teeming with possibilities, and when you bring exercise into the mix, things get even more intriguing. As a fitness enthusiast who loves the thrill of gaming, I put this game through its paces to see how it aligns with treadmill running or biking.
 

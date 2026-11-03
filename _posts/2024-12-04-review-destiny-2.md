@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-04T00:10:50.854Z
 categories: [ review, game ]
 image: null
+excerpt: "Destiny 2 is a widely acclaimed online multiplayer first-person shooter that invites players into a richly designed sci-fi universe filled with engaging narratives, varied gameplay modes, and a vibrant community."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Destiny 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Destiny 2 Review
 
 Destiny 2 is a widely acclaimed online multiplayer first-person shooter that invites players into a richly designed sci-fi universe filled with engaging narratives, varied gameplay modes, and a vibrant community. But how does it fare when it comes to providing an exercise-friendly experience while running on a treadmill or biking? Let’s dive into the various aspects.
 

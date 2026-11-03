@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-23T00:11:29.561Z
 categories: [ review, game ]
 image: null
+excerpt: "Kenshi is an open-world, sandbox RPG developed by Lo-Fi Games, known for its unique blend of survival, exploration, and strategy."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kenshi,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Kenshi: A Review for the Gamers Who Exercise
 
 Kenshi is an open-world, sandbox RPG developed by Lo-Fi Games, known for its unique blend of survival, exploration, and strategy. It drops players into a brutal post-apocalyptic world where they must fend for themselves, build their own factions, and survive against the odds. So, how does this expansive adventure stack up for gamers looking to squeeze in cardio on the treadmill or bike? Let’s dive in.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-27T00:13:12.157Z
 categories: [ review, game ]
 image: null
+excerpt: "Hideo Kojima's magnum opus, METAL GEAR SOLID V: THE PHANTOM PAIN, is not just a narrative-driven experience but offers a tantalizing playground of stealth and action."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "METAL GEAR SOLID V: THE PHANTOM PAIN,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# METAL GEAR SOLID V: THE PHANTOM PAIN Review
 
 Hideo Kojima's magnum opus, METAL GEAR SOLID V: THE PHANTOM PAIN, is not just a narrative-driven experience but offers a tantalizing playground of stealth and action. Ideal for gamers looking to squeeze in some cardio during their gaming sessions, this title provides a unique blend of engagement and immersive gameplay.
 

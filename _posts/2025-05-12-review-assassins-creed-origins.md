@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-12T00:11:16.206Z
 categories: [ review, game ]
 image: null
+excerpt: "Assassin's Creed Origins transports players to ancient Egypt, immersing them in a beautifully crafted open world teeming with adventure, history, and rich storytelling."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Assassin's Creed Origins,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Assassin's Creed Origins
 
 "Assassin's Creed Origins" transports players to ancient Egypt, immersing them in a beautifully crafted open world teeming with adventure, history, and rich storytelling. As you step into the sandals of Bayek, an early Assassin, you'll uncover a narrative that intertwines personal vendettas with larger conspiracies. But what's particularly compelling for those of us who enjoy exercising while gaming is how well this title fits into an active lifestyle on the treadmill or bike.
 

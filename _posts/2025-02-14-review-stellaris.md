@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-14T00:10:20.069Z
 categories: [ review, game ]
 image: null
+excerpt: "As a blend of grand strategy and empire management, Stellaris has carved out a niche in the gaming world that offers an expansive universe for exploration and conquest."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Stellaris,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Stellaris: A Cosmic Adventure for Gamers on the Move
 
 As a blend of grand strategy and empire management, Stellaris has carved out a niche in the gaming world that offers an expansive universe for exploration and conquest. But how does it fare for those of us who like to keep active, running or biking while we unravel the cosmos’ many mysteries? Let’s dive in.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-29T00:11:21.226Z
 categories: [ review, game ]
 image: null
+excerpt: "Planet Zoo is a beautifully crafted simulation game developed by Frontier Developments that allows players to create and manage their own zoo while focusing on animal welfare, conservation, and guest satisfaction."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Planet Zoo,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Planet Zoo Review
 
 Planet Zoo is a beautifully crafted simulation game developed by Frontier Developments that allows players to create and manage their own zoo while focusing on animal welfare, conservation, and guest satisfaction. As someone who enjoys both gaming and exercise, I’ve put this game to the test while on the treadmill, and here’s how it fared.
 

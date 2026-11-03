@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-17T00:10:03.084Z
 categories: [ review, game ]
 image: null
+excerpt: "Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Fallout: New Vegas,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Fallout: New Vegas Review
 
 Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative. But how does it hold up when you’re trying to squeeze in a workout on the treadmill or bike? Let’s break it down.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-14T00:11:08.799Z
 categories: [ review, game ]
 image: null
+excerpt: "Fromsoft’s critically acclaimed title, DARK SOULS III, is a perfect blend of challenging gameplay and breathtaking aesthetics that captures the essence of its dark fantasy world."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "DARK SOULS III,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# DARK SOULS III Game Review
 
 Fromsoft’s critically acclaimed title, DARK SOULS III, is a perfect blend of challenging gameplay and breathtaking aesthetics that captures the essence of its dark fantasy world. But how does it fare for gamers looking to integrate physical exercise into their session? Let's delve into the details.
 

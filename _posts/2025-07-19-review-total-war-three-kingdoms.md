@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-19T00:12:13.954Z
 categories: [ review, game ]
 image: null
+excerpt: "Total War: THREE KINGDOMS offers an engaging blend of real-time strategy and turn-based gameplay wrapped in a rich historical context."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Total War: THREE KINGDOMS,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Total War: THREE KINGDOMS Review
 
 Total War: THREE KINGDOMS offers an engaging blend of real-time strategy and turn-based gameplay wrapped in a rich historical context. Players dive into the tumultuous eras of ancient China, where they can command vast armies, develop intricate strategies, and engage in detailed diplomacy with various factions. 
 

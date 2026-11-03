@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Outlast 2 is both a gripping horror experience and a unique challenge for gamers who want to integrate their workout routines."
 ---
 
 Outlast 2 is both a gripping horror experience and a unique challenge for gamers who want to integrate their workout routines. The game's tension and atmosphere can keep you engaged, but the need for occasional stillness while hiding may interrupt your stride on the treadmill or bike.

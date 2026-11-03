@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-12T00:10:52.156Z
 categories: [ review, game ]
 image: null
+excerpt: "In *Getting Over It*, the gameplay revolves around precise movements and incremental progress."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Getting Over It with Bennett Foddy,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Getting Over It with Bennett Foddy
 
 **Getting Over It with Bennett Foddy** is a unique experience that combines a philosophical meditation on the nature of failure with an infuriatingly engaging gameplay loop. As players control the character—an individual stuck in a cauldron using a hammer to propel upward—every facet of the game is designed to challenge both your patience and coordination. For fitness enthusiasts looking to combine gameplay with exercise, this game offers an experience unlike any other, but it's essential to analyze how it holds up in terms of treadmill or biking compatibility.
 

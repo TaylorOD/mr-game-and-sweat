@@ -7,13 +7,8 @@ disqus: false
 date:   2025-09-11T00:10:35.619Z
 categories: [ review, game ]
 image: null
+excerpt: "Metro: Last Light Redux is a harrowing post-apocalyptic tale that immerses players in the dimly-lit tunnels of Moscow’s metro system."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Metro: Last Light Redux,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Metro: Last Light Redux Review
 
 "Metro: Last Light Redux" is a harrowing post-apocalyptic tale that immerses players in the dimly-lit tunnels of Moscow’s metro system. With its engaging storyline and atmospheric world, it may tempt you to settle in for an exhilarating adventure. But how does it measure up for fitness enthusiasts who are looking to combine gaming with their treadmill or biking routines? Let’s break it down.
 

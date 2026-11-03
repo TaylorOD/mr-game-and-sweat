@@ -7,13 +7,8 @@ disqus: false
 date:   2024-12-01T00:12:36.285Z
 categories: [ review, game ]
 image: null
+excerpt: "Warframe is an exhilarating free-to-play action RPG that has garnered a massive following since its initial release in 2013."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Warframe,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Warframe Game Review
 
 Warframe is an exhilarating free-to-play action RPG that has garnered a massive following since its initial release in 2013. Set in a sprawling sci-fi universe teeming with enemies, lore, and upgrade paths, it’s a game that rewards both quick reflexes and lasting commitment. As we delve into its gameplay mechanics, how it complements running or biking, and its computer requirements, let’s find out if this title can effectively keep you moving on your treadmill or bike!
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-26T00:12:12.740Z
 categories: [ review, game ]
 image: null
+excerpt: "Batman: Arkham City - Game of the Year Edition is a beloved classic that takes the vibrant world of Gotham City and spins it into an engaging playground for fans of the Dark Knight."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Batman: Arkham City - Game of the Year Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Batman: Arkham City - Game of the Year Edition Review
 
 Batman: Arkham City - Game of the Year Edition is a beloved classic that takes the vibrant world of Gotham City and spins it into an engaging playground for fans of the Dark Knight. But the real question is, can it keep you entertained while you run on a treadmill or bike? Let's delve into the details.
 
