@@ -26,7 +26,7 @@ Skip it if you have photosensitive epilepsy or get motion sick from games. Fast 
 * **Use the safety clip.** Clip it to your clothes every time. If you drift back, it stops the belt.
 * **Go slower than usual.** Your normal pace is not your gaming pace. Start at a slow walk.
 * **Keep your eyes up and your feet centered.** Drifting to the side or the back of the belt is the big risk.
-* **Keep the space behind you clear.** Leave room in case you come off the back, and check your manual for how much.
+* **Keep the space behind you clear.** Leave room in case you come off the back. [Consumer Reports](https://www.consumerreports.org/treadmills/how-to-stay-safe-on-a-treadmill/) suggests at least 6 feet, and your manual may ask for more.
 * **Keep cords away from the belt.** Use a wireless controller and route every cable away from the machine.
 * **Keep kids and pets away.** A moving belt is dangerous for them, and they are a distraction for you.
 * **Stop before you make a change.** Pause the game and slow the belt before you grab water, wipe your hands or change settings.
