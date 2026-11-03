@@ -10,7 +10,7 @@
 
 		<title>{{ page.title }} | {{site.title}}</title>
 
-		{% seo %}
+		{% seo title=false %}
 		{% unless page.image %}
 		<meta property="og:image" content="{{ 'assets/images/logos/mr-game-and-sweat.png' | absolute_url }}" />
 		<meta name="twitter:image" content="{{ 'assets/images/logos/mr-game-and-sweat.png' | absolute_url }}" />
