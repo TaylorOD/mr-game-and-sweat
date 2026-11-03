@@ -74,6 +74,16 @@ Reviews of great games you shouldnt play while exercising, like RTS games and po
 
 `publish-extras.yml` runs at 15:41 UTC on the 1st and 15th of each month. Each run writes 1 Great Games, Bad Workouts review and 1 guide, so we get 2 of each a month on top of normal reviews. When a list runs out, the run logs it and writes nothing for that list.
 
+## Steam curator page
+
+Reviews stay on the site and get cross posted to [our curator page](https://store.steampowered.com/curator/45035411/). Steam has no official way to post these, so it happens by hand from a logged in browser. Never store a Steam login anywhere in this repo.
+
+`python scripts/curator_queue.py curator_queue.csv` lists what to post, with the text in our usual format, under 200 characters.
+
+* 2 and up is Recommended, under 2 is Not Recommended, and Great Games, Bad Workouts are Informational.
+* Steam only shows the script the newest 50 reviews, so older ones may be on the list already. Steam will show that when you go to post one.
+* Games not on Steam, like StarCraft II, cant be cross posted.
+
 ## Guides
 
 Guides are posts with `categories: [ guide ]`, an `excerpt` and art in `assets/images/guides/`. They use the same layout with no score box, and they follow the same no invented stories rule. Facts like calorie numbers need a real source.

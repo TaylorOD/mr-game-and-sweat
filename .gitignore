@@ -8,3 +8,5 @@ Gemfile.lock
 .env
 
 node_modules
+
+curator_queue.csv
