@@ -11,7 +11,7 @@ last_modified_at: 2026-11-03
 excerpt: "Yes, but holding one while you walk isnt the best way to do it. The better option is to dock it to a TV and use a wireless controller."
 ---
 
-Yes, but holding one while you walk isnt the best way to do it. A Steam Deck weighs about 1.4 pounds, and that gets heavy fast with your arms up. It also pulls your eyes down and away from where you are going. The better option is to dock it to a TV and use a wireless controller.
+Yes, but holding one while you walk isnt the best way to do it. A Steam Deck weighs about 1.4 to 1.5 pounds depending on the model, and that gets heavy fast with your arms up. It also pulls your eyes down and away from where you are going. The better option is to dock it to a TV and use a wireless controller.
 
 ## Option 1: Dock it to a TV
 
