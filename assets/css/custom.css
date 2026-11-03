@@ -914,3 +914,17 @@ body {
 		column-count: 1;
 	}
 }
+
+/* Guides above the search results */
+.guide-results ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.guide-results li {
+	padding: 12px 0;
+	border-bottom: 1px solid var(--line);
+}
+.guide-results p {
+	margin: 4px 0 0;
+}

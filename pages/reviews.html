@@ -11,7 +11,7 @@ description: Search and filter every Mr. Game and Sweat review by score, genre, 
 <form id="review-filters" class="review-filters mb-4" role="search" onsubmit="return false">
 	<div class="review-filter review-filter-search">
 		<label for="filter-search">Search</label>
-		<input id="filter-search" class="form-control" type="search" placeholder="Search by game" />
+		<input id="filter-search" class="form-control" type="search" placeholder="Search games, genres and guides" />
 	</div>
 	<button id="filters-toggle" class="btn btn-ghost filters-toggle" type="button" aria-expanded="false" aria-controls="filters-more">Filters</button>
 	<div id="filters-more" class="review-filter-more">
@@ -62,10 +62,14 @@ description: Search and filter every Mr. Game and Sweat review by score, genre, 
 </form>
 
 <p id="review-count" class="small text-muted" aria-live="polite"></p>
+<section id="guide-results" class="guide-results mb-4" hidden>
+	<h2 class="h5">Guides</h2>
+	<ul id="guide-list"></ul>
+</section>
 <div id="review-grid" class="row"></div>
 <div class="text-center mb-5">
 	<button id="review-more" class="btn btn-accent" type="button" hidden>Show more</button>
 </div>
 <noscript><p>Turn on JavaScript to search, or head back to the <a href="{{ site.baseurl }}/">home page</a> to browse every review.</p></noscript>
 
-<script src="{{ site.baseurl }}/assets/js/reviews.js" data-index="{{ site.baseurl }}/reviews.json" defer></script>
+<script src="{{ site.baseurl }}/assets/js/reviews.js" data-index="{{ site.baseurl }}/reviews.json" data-search="{{ site.baseurl }}/search.json" defer></script>

@@ -81,9 +81,9 @@ async function run(base) {
     const all = await reviewCount(page);
     assert.ok(all > 380, `Only ${all} reviews`);
     await page.fill('#filter-search', 'hades');
-    assert.strictEqual(await reviewCount(page), 2);
+    await page.waitForFunction(() => document.querySelector('#review-grid .card-title').textContent.includes('Hades'));
     const titles = await page.locator('#review-grid .card-title').allTextContents();
-    assert.ok(titles.every((title) => /hades/i.test(title)), titles.join());
+    assert.ok(titles.slice(0, 2).every((title) => /hades/i.test(title)), titles.join());
     await page.fill('#filter-search', 'zzzznotagame');
     assert.strictEqual(await reviewCount(page), 0);
     await page.fill('#filter-search', '');
@@ -93,7 +93,19 @@ async function run(base) {
   await test('search works from the address bar', async (page) => {
     await page.goto(`${base}/reviews/?q=hades`);
     await page.waitForSelector('#review-grid .card');
-    assert.strictEqual(await reviewCount(page), 2);
+    assert.ok((await page.locator('#review-grid .card-title').first().textContent()).includes('Hades'));
+  });
+
+  await test('search reads genres and full reviews, and finds guides', async (page) => {
+    await page.goto(`${base}/reviews/`);
+    await page.waitForSelector('#review-grid .card');
+    await page.fill('#filter-search', 'rogue-like');
+    await page.waitForFunction(() => Number(document.getElementById('review-count').textContent.split(' ')[0]) > 3);
+    await page.fill('#filter-search', 'sweat controller');
+    await page.waitForSelector('#guide-results:not([hidden]) li');
+    assert.ok((await page.textContent('#guide-list')).includes('Keep Sweat Off Your Controller'));
+    await page.selectOption('#filter-pause', 'Yes');
+    assert.ok(!(await page.isVisible('#guide-results')));
   });
 
   await test('header search goes to the results', async (page) => {
@@ -102,7 +114,6 @@ async function run(base) {
     await page.press('.header-search input', 'Enter');
     await page.waitForSelector('#review-grid .card');
     assert.ok(page.url().includes('/reviews/?q=hades'), page.url());
-    assert.strictEqual(await reviewCount(page), 2);
     assert.strictEqual(await page.inputValue('#filter-search'), 'hades');
     assert.strictEqual(await page.locator('.header-search').count(), 0);
   });
