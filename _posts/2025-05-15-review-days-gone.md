@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-05-15T00:11:50.022Z
 categories: [ review, game ]
-excerpt: "Combat and exploration give you something to focus on during a workout, but long cutscenes and dialogue can break your rhythm. The controls are manageable on a treadmill or bike, though quick reactions make it a mixed fit."
+excerpt: "Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -17,31 +17,34 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Long
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg
-last_modified_at: 2026-11-03
 ---
 
-Days Gone is an action adventure game set in post apocalyptic Oregon, with mutated creatures and human survivors. It came to PC after its PlayStation release, and its story scenes are worth considering if you plan to play while exercising.
+Days Gone is an open-world action-adventure game that was released as a PlayStation exclusive and later on PC. Set in a post-apocalyptic Oregon, the game takes players on a journey as motorcycle rangers navigate through a world filled with mutated creatures and human survivors. If you're a fan of immersive storytelling complemented by action, this title may pique your interest. But how does it hold up for gamers who exercise on a treadmill or bike? Let's dive into the details.
 
 ## Gameplay
 
-Missions, combat, and open world exploration give you plenty to do, but the pacing is uneven. Long cutscenes and dialogue slow things down, while the action helps keep a workout from feeling dull. It is a decent distraction, not a game that keeps you moving every minute.
+The gameplay in Days Gone is engaging and well-designed. You will find yourself immersed in the expansive open-world environment while completing missions, battling Freakers (zombie-like creatures), and surviving against hostile human factions. The mix of intense combat and exploration keeps the adrenaline pumping, which is fantastic when you’re trying to distract yourself from the monotony of a treadmill or bike workout. 
+
+The game does feature some slow-paced segments, including lengthy cutscenes and expansive narrative dialogues that could interrupt a vigorous workout. However, they provide context and depth to the story, so skipping through them entirely might not be the best choice. Balancing fitness and storyline can be a challenge here, but the action-heavy gameplay moments generally outweigh the slower sections, allowing you to stay engaged in the game even while focusing on your workout.
 
 ### Category Score: 2 out of 3
 
 ## Treadmill and Bike Compatibility
 
-The controller controls are intuitive and usually do not demand much precision. Quick time events and dodging still call for attention, so fast moments can pull your focus from your workout. Exploring the open world is easier to manage at your own pace.
+Days Gone supports controller compatibility, which is wonderful for users exercising on a treadmill or bike. The game does involve some quick-time events and minor reflex actions, but overall, the controls are intuitive enough that they do not require extreme precision, making it easier to maintain your rhythm without losing balance. 
+
+While there are moments where you might find yourself needing to react quickly to on-screen events (like dodging a freaker), the overall pacing allows for a more lenient approach—especially when navigating the open world. However, exercises that require intense concentration and dexterity might not be the best fit for a game with some occasional fast-paced interactions. Ultimately, the game strikes a decent balance, enabling you to enjoy the action without it completely derailing your workout.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Days Gone needs a midrange gaming PC for a comfortable experience. The review lists an Intel i5 processor, 8GB of RAM, and a NVIDIA GTX 770 or AMD Radeon R9 390 as targets. Older systems may need lower graphics settings to maintain frame rates.
+Days Gone is moderately demanding in terms of computer requirements. For optimal play, you should aim for a decent gaming rig with at least an Intel i5 processor, 8GB of RAM, and a capable GPU like the NVIDIA GTX 770 or AMD Radeon R9 390. While it is not one of the most demanding games on the market, players using older systems may need to lower graphical settings to maintain optimal frame rates. Still, for the most part, if you have a mid-range gaming setup, you should be equipped to handle it while engaging in a workout.
 
 ### Category Score: 2 out of 3
 
 ## Conclusion and Score
 
-Days Gone is a decent workout game, but slow scenes and quick reactions can interrupt your rhythm. Its controls and open world make it manageable on a treadmill or bike, while its computer requirements are moderate.
+Days Gone offers an engaging gaming experience that keeps your heart rate up with its blend of exploration and survival action—making it relatively compatible for exercising on a treadmill or bike. While slower sections and cutscenes may disrupt the flow from time to time, the intuitive controls and manageable pace make it a solid choice for gamers looking to stay active. With moderate hardware requirements, you won't need to break the bank to fully enjoy the game. 
 
 ### Overall Score: 2 out of 3

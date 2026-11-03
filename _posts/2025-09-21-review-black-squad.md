@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-09-21T00:11:09.908Z
 categories: [ review, game ]
-excerpt: "Black Squad’s quick matches can help distract you from exercise, but aiming and shooting while running takes more coordination than you may want. Biking is easier to manage, though the game still asks for quick reactions."
+excerpt: "Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront."
 score_gameplay: 3
 score_treadmill: 2
 score_computer: 3
@@ -16,31 +16,30 @@ genres: ["Action", "Free To Play"]
 pause_friendly: "No"
 session_length: Short
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550650/header.jpg
-last_modified_at: 2026-11-03
 ---
 
-Black Squad is a free game built around multiplayer first person shooting. Its controls and pace make it fun to play, but it can be awkward to pair with a workout.
+Black Squad is a free-to-play first-person shooter that brings the intensity of tactical gameplay to the forefront. Developed by NS Studio, this game is known for its solid mechanics and engaging multiplayer experience. But how does it hold up when you're running on a treadmill or biking while gaming? Let’s break it down.
 
 ## Gameplay
 
-The action moves quickly, and the range of modes and maps keeps things from feeling slow. Shooting feels smooth, and there are few quiet stretches to pull you out of the game. It’s easy to get caught up in a match and forget about the exercise.
+The gameplay in Black Squad is fast-paced and thrilling, making it engaging enough to keep you distracted from the monotony of exercise. With diverse game modes and maps, the action is non-stop, ensuring that you’re not bogged down by excessive cut scenes or slow periods. Whether you’re sneaking through enemy lines or engaging in fierce firefights, the pace is brisk and dynamic. The game’s mechanics are well-tuned, allowing for smooth shooting and quick actions, which makes it easy to lose track of time—even when you’re pushing your limits on a treadmill or bike. 
 
 ### Category Score: 3 out of 3
 
 ## Treadmill and Bike Compatibility
 
-You can use a controller, which gives you an option beyond keyboard controls. Still, competitive matches call for quick reactions and steady aiming, so running on a treadmill can be tricky. Biking is easier since you can keep a steady pace while playing. It’s a workable fit, but not a game you can ignore while you exercise.
+Black Squad performs admirably when it comes to treadmill and bike compatibility. It supports both keyboard and controller inputs, which means you can set it up in a way that works best for your cardio routine. However, the game does demand a certain level of dexterity and quick reflexes—especially in competitive matches. If you play on a treadmill, the challenge of maintaining stability while aiming and shooting can be tricky, but if you're determined, it adds to the workout effort. Biking might be a bit easier since you can maintain a steady pace while engaging with the game. Overall, while Black Squad may require some agile movements, it allows for a decent balance between exercising and gaming.
 
 ### Category Score: 2 out of 3
 
 ## Computer Requirements
 
-Black Squad does not need the latest computer hardware to run smoothly. Its minimum requirements are low enough for older systems. You can play without upgrading your setup.
+In terms of computer requirements, Black Squad is quite forgiving. It doesn’t demand the latest hardware to run smoothly, which is a plus for gamers who also prioritize fitness. Minimum requirements are relatively low, allowing it to be played on older systems, which means you won’t need to sacrifice your gaming setup or a workout session to upgrade your hardware. Despite the moderate graphics options that may entice visually-oriented players, it comfortably accommodates casual gamers and fitness enthusiasts alike.
 
 ### Category Score: 3 out of 3
 
 ## Conclusion and Score
 
-Black Squad is a solid shooter, but the focus and coordination it asks for make it a mixed choice for exercise. It works better on a bike than on a treadmill.
+In conclusion, Black Squad stands out as an engaging and accessible choice for gamers looking to incorporate exercise into their routine. Its fast-paced gameplay keeps you glued to the screen, while its relatively manageable control requirements mean you can still focus on your fitness regimen. If you’re seeking a game that makes the treadmill or biking experience more enjoyable, Black Squad may just prove to be the perfect companion.
 
 ### Overall Score: 2.67 out of 3
