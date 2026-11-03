@@ -108,7 +108,7 @@
 			link.href = result.guide.url;
 			link.textContent = result.guide.title;
 			var excerpt = document.createElement('p');
-			excerpt.className = 'small text-muted';
+			excerpt.className = 'small text-muted d-none d-md-block';
 			excerpt.textContent = result.guide.excerpt;
 			item.appendChild(link);
 			item.appendChild(excerpt);
