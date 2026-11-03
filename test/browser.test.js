@@ -104,6 +104,17 @@ async function run(base) {
     assert.strictEqual(await reviewCount(page), all);
   });
 
+  await test('no results offers a way out', async (page) => {
+    await page.goto(`${base}/reviews/?q=zzzznotagame&genre=RPG`);
+    await page.waitForSelector('#review-empty:not([hidden])');
+    assert.strictEqual(await reviewCount(page), 0);
+    assert.strictEqual(await page.locator('#review-empty-grid .card').count(), 3);
+    await page.click('#review-clear');
+    assert.ok((await reviewCount(page)) > 380);
+    assert.ok(!(await page.isVisible('#review-empty')));
+    assert.strictEqual(new URL(page.url()).search, '');
+  });
+
   await test('search works from the address bar', async (page) => {
     await page.goto(`${base}/reviews/?q=hades`);
     await page.waitForSelector('#review-grid .card');
