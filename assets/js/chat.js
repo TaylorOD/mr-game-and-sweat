@@ -45,7 +45,7 @@
 		}
 		if (!SITE_ORIGINS.includes(parsed.origin)) return document.createTextNode(text);
 		const link = element('a', '', text);
-		link.href = parsed.pathname;
+		link.href = location.origin + parsed.pathname; // a bare //host path would leave the site
 		return link;
 	}
 
@@ -218,7 +218,7 @@
 			body.classList.add('mgs-chat-error');
 			body.textContent = error || 'No answer came back. Please try again.';
 		}
-		save(true);
+		save(!panel.hidden);
 		scrollDown();
 		busy = false;
 		send.disabled = false;
@@ -246,6 +246,7 @@
 
 	form.addEventListener('submit', (event) => {
 		event.preventDefault();
+		if (busy) return; // keep the draft until the answer finishes
 		const question = input.value;
 		input.value = '';
 		ask(question);
