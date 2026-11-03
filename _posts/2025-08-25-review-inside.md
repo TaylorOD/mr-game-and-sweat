@@ -47,4 +47,4 @@ INSIDE offers a masterclass in atmosphere and engagement that translates well to
 
 ---
 
-Mr. Game and Sweat Reviews: INSIDE - By Taylor Dorsett
+Mr. Game and Sweat Reviews: INSIDE - By Taylor Owen Dorsett

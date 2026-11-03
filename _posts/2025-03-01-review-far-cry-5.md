@@ -46,4 +46,4 @@ Overall, Far Cry 5 delivers a thrilling mixture of gameplay that can entertain w
 
 ---
 
-Mr. Game and Sweat Reviews: Far Cry 5 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Far Cry 5 - By Taylor Owen Dorsett

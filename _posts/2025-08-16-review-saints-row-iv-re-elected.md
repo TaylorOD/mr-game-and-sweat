@@ -53,4 +53,4 @@ If you’re after a wild ride that doesn’t anchor you in one place, "Saints Ro
 
 ---
 
-Mr. Game and Sweat Reviews: Saints Row IV: Re-Elected - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Saints Row IV: Re-Elected - By Taylor Owen Dorsett

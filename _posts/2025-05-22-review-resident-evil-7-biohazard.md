@@ -47,4 +47,4 @@ Resident Evil 7 Biohazard is an exhilarating horror experience that successfully
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil 7 Biohazard - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil 7 Biohazard - By Taylor Owen Dorsett

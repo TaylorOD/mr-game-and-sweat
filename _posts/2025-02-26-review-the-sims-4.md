@@ -46,4 +46,4 @@ In conclusion, "The Sims 4" offers a deeply immersive experience that works exce
 
 ---
 
-Mr. Game and Sweat Reviews: The Sims 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Sims 4 - By Taylor Owen Dorsett

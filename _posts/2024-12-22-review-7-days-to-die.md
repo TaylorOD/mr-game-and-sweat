@@ -49,4 +49,4 @@ If you’re seeking a game that encourages a good sweat while you fend off zombi
 
 ---
 
-Mr. Game and Sweat Reviews: 7 Days to Die - By Taylor Dorsett
+Mr. Game and Sweat Reviews: 7 Days to Die - By Taylor Owen Dorsett

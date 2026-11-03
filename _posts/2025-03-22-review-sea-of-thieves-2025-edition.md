@@ -48,4 +48,4 @@ So strap on your pirate hat, hop on that treadmill or bike, and get ready to emb
 
 ---
 
-Mr. Game and Sweat Reviews: Sea of Thieves: 2025 Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sea of Thieves: 2025 Edition - By Taylor Owen Dorsett

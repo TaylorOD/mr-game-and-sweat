@@ -48,4 +48,4 @@ Overall, Muse Dash is a bright and engaging rhythm game that brings together act
 
 ---
 
-Mr. Game and Sweat Reviews: Muse Dash - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Muse Dash - By Taylor Owen Dorsett

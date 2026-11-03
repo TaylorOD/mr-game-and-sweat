@@ -47,4 +47,4 @@ Half-Life 2 remains a gaming classic that manages to keep players hooked while a
 
 ---
 
-Mr. Game and Sweat Reviews: Half-Life 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Half-Life 2 - By Taylor Owen Dorsett

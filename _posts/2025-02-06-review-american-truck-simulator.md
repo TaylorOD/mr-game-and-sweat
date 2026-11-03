@@ -50,4 +50,4 @@ American Truck Simulator provides a relaxing simulation experience that is perfe
 
 ---
 
-Mr. Game and Sweat Reviews: American Truck Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: American Truck Simulator - By Taylor Owen Dorsett

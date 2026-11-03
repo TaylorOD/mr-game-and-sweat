@@ -46,4 +46,4 @@ Red Dead Redemption 2 stands out for its narrative depth and world-building, but
 
 ---
 
-Mr. Game and Sweat Reviews: Red Dead Redemption 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Red Dead Redemption 2 - By Taylor Owen Dorsett

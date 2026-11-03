@@ -47,4 +47,4 @@ In summary, ASTRONEER offers a wonderfully immersive gameplay experience that al
 
 ---
 
-Mr. Game and Sweat Reviews: ASTRONEER - By Taylor Dorsett
+Mr. Game and Sweat Reviews: ASTRONEER - By Taylor Owen Dorsett

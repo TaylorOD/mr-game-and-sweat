@@ -51,4 +51,4 @@ In conclusion, Just Cause 3 offers a thrilling gaming experience filled with cha
 
 ---
 
-Mr. Game and Sweat Reviews: Just Cause 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Just Cause 3 - By Taylor Owen Dorsett

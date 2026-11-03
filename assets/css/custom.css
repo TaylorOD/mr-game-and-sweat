@@ -190,3 +190,8 @@ Just customize your theme here.
 	background: none;
 	text-decoration: none;
 }
+
+/* Longer byline on cards, wrap instead of cutting off the date */
+.author-meta {
+	white-space: normal !important;
+}

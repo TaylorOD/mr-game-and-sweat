@@ -47,4 +47,4 @@ Overall, Terraria is an excellent option for gamers looking to combine their lov
 
 ---
 
-Mr. Game and Sweat Reviews: Terraria - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Terraria - By Taylor Owen Dorsett

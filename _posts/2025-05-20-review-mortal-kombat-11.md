@@ -51,4 +51,4 @@ For the ultimate fitness gaming experience, be ready to adjust your expectations
 
 ---
 
-Mr. Game and Sweat Reviews: Mortal Kombat 11 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mortal Kombat 11 - By Taylor Owen Dorsett

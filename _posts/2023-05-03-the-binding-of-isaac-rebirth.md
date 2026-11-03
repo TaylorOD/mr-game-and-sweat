@@ -46,4 +46,4 @@ Overall, we give "The Binding of Isaac: Rebirth" a score of 2.65 out of 3. It ex
 
 ---
 
-Mr. Game and Sweat Reviews: The Binding of Isaac: Rebirth - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Binding of Isaac: Rebirth - By Taylor Owen Dorsett

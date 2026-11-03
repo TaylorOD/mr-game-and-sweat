@@ -49,4 +49,4 @@ In conclusion, if you're a fan of narrative-driven experiences and can manage th
 
 ---
 
-Mr. Game and Sweat Reviews: Mafia: Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mafia: Definitive Edition - By Taylor Owen Dorsett

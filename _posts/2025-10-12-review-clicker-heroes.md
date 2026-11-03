@@ -47,4 +47,4 @@ Clicker Heroes proves to be an enjoyable, simple, and non-intrusive gaming exper
 
 ---
 
-Mr. Game and Sweat Reviews: Clicker Heroes - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Clicker Heroes - By Taylor Owen Dorsett

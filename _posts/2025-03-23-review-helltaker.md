@@ -46,4 +46,4 @@ Helltaker is a delightful puzzle game that offers a fresh approach to the genre.
 
 ---
 
-Mr. Game and Sweat Reviews: Helltaker - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Helltaker - By Taylor Owen Dorsett

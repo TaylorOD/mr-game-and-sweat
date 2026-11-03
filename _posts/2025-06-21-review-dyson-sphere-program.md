@@ -46,4 +46,4 @@ In conclusion, Dyson Sphere Program is an incredibly engaging strategy game that
 
 ---
 
-Mr. Game and Sweat Reviews: Dyson Sphere Program - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dyson Sphere Program - By Taylor Owen Dorsett

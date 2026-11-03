@@ -47,4 +47,4 @@ In conclusion, A Plague Tale: Innocence offers an emotionally charged narrative 
 
 ---
 
-Mr. Game and Sweat Reviews: A Plague Tale: Innocence - By Taylor Dorsett
+Mr. Game and Sweat Reviews: A Plague Tale: Innocence - By Taylor Owen Dorsett

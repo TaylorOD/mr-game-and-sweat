@@ -52,4 +52,4 @@ In conclusion, *Gorilla Tag* combines the sheer enjoyment of tag with a compelli
 
 ---
 
-Mr. Game and Sweat Reviews: Gorilla Tag - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Gorilla Tag - By Taylor Owen Dorsett

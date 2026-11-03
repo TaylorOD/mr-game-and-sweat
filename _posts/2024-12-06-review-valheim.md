@@ -47,4 +47,4 @@ Valheim brilliantly merges exploration, crafting, and combat into an experience 
 
 ---
 
-Mr. Game and Sweat Reviews: Valheim - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Valheim - By Taylor Owen Dorsett

@@ -52,4 +52,4 @@ With a few minor pacing issues during gameplay, I feel that "Plague Inc: Evolved
 
 ---
 
-Mr. Game and Sweat Reviews: Plague Inc: Evolved - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Plague Inc: Evolved - By Taylor Owen Dorsett

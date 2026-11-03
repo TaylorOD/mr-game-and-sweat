@@ -46,4 +46,4 @@ PlanetSide 2 provides an enthralling mix of adrenaline-fueled gameplay and acces
 
 ---
 
-Mr. Game and Sweat Reviews: PlanetSide 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: PlanetSide 2 - By Taylor Owen Dorsett

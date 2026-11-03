@@ -47,4 +47,4 @@ Hotline Miami transcends the typical indie game experience, combining engaging a
 
 ---
 
-Mr. Game and Sweat Reviews: Hotline Miami - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hotline Miami - By Taylor Owen Dorsett

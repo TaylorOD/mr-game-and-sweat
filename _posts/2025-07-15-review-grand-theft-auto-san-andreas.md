@@ -50,4 +50,4 @@ Grand Theft Auto: San Andreas provides an engaging and nostalgic gameplay experi
 
 ---
 
-Mr. Game and Sweat Reviews: Grand Theft Auto: San Andreas - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grand Theft Auto: San Andreas - By Taylor Owen Dorsett

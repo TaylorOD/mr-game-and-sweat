@@ -46,4 +46,4 @@ Black Desert is undeniably captivating and possesses a thrilling gameplay experi
 
 ---
 
-Mr. Game and Sweat Reviews: Black Desert - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Black Desert - By Taylor Owen Dorsett

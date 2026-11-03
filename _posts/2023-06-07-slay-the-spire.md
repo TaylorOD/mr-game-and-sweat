@@ -46,4 +46,4 @@ Overall, we give "Slay the Spire" a perfect score of 3 out of 3. It excels in ev
 
 ---
 
-Mr. Game and Sweat Reviews: Slay the Spire - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Slay the Spire - By Taylor Owen Dorsett

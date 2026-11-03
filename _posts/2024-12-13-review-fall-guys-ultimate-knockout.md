@@ -52,4 +52,4 @@ With its perfect blend of fun, exercise compatibility, and accessibility, Fall G
 
 ---
 
-Mr. Game and Sweat Reviews: Fall Guys: Ultimate Knockout - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fall Guys: Ultimate Knockout - By Taylor Owen Dorsett

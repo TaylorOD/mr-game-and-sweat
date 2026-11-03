@@ -47,4 +47,4 @@ Overall, Gunfire Reborn is a fantastic choice for anyone looking to combine thei
 
 ---
 
-Mr. Game and Sweat Reviews: Gunfire Reborn - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Gunfire Reborn - By Taylor Owen Dorsett

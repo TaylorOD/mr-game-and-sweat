@@ -47,4 +47,4 @@ On the technical side, "DARK SOULS: REMASTERED" is relatively forgiving in terms
 
 ---
 
-Mr. Game and Sweat Reviews: DARK SOULS: REMASTERED - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DARK SOULS: REMASTERED - By Taylor Owen Dorsett

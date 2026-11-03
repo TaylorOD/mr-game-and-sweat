@@ -47,4 +47,4 @@ Tabletop Simulator is a unique blend of fun and fitness-friendly gameplay, espec
 
 ---
 
-Mr. Game and Sweat Reviews: Tabletop Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Tabletop Simulator - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ In conclusion, "Lethal Company" serves up a thrilling combination of cooperative
 
 ---
 
-Mr. Game and Sweat Reviews: Lethal Company - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Lethal Company - By Taylor Owen Dorsett

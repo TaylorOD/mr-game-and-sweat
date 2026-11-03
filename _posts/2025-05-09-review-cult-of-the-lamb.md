@@ -45,4 +45,4 @@ Cult of the Lamb offers a fantastic balance of engaging gameplay, compatibility 
 
 ---
 
-Mr. Game and Sweat Reviews: Cult of the Lamb - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cult of the Lamb - By Taylor Owen Dorsett

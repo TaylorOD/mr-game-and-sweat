@@ -48,4 +48,4 @@ Outlast 2 has enough tension to hold your attention, but its chases and stealth 
 
 ---
 
-Mr. Game and Sweat Reviews: Outlast 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Outlast 2 - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ FTL: Faster Than Light is a remarkable balance of strategic gameplay and engagin
 
 ---
 
-Mr. Game and Sweat Reviews: FTL: Faster Than Light - By Taylor Dorsett
+Mr. Game and Sweat Reviews: FTL: Faster Than Light - By Taylor Owen Dorsett

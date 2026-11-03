@@ -45,4 +45,4 @@ In conclusion, "METAL GEAR RISING: REVENGEANCE" delivers a thrilling experience 
 
 ---
 
-Mr. Game and Sweat Reviews: METAL GEAR RISING: REVENGEANCE - By Taylor Dorsett
+Mr. Game and Sweat Reviews: METAL GEAR RISING: REVENGEANCE - By Taylor Owen Dorsett

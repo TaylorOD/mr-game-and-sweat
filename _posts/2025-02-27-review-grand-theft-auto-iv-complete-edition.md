@@ -46,4 +46,4 @@ In conclusion, "Grand Theft Auto IV: Complete Edition" offers a thrilling ride t
 
 ---
 
-Mr. Game and Sweat Reviews: Grand Theft Auto IV: Complete Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grand Theft Auto IV: Complete Edition - By Taylor Owen Dorsett

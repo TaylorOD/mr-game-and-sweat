@@ -46,4 +46,4 @@ In conclusion, Soundpad offers an engaging and energetic experience that aligns 
 
 ---
 
-Mr. Game and Sweat Reviews: Soundpad - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Soundpad - By Taylor Owen Dorsett

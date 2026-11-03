@@ -50,4 +50,4 @@ Euro Truck Simulator 2 stands out as a unique gaming experience that complements
 
 ---
 
-Mr. Game and Sweat Reviews: Euro Truck Simulator 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Euro Truck Simulator 2 - By Taylor Owen Dorsett

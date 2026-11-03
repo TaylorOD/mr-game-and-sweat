@@ -46,4 +46,4 @@ Overall, "Unturned" is a fun and engaging game that can be adapted to an exercis
 
 ---
 
-Mr. Game and Sweat Reviews: Unturned - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Unturned - By Taylor Owen Dorsett

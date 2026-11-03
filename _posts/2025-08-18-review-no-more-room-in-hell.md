@@ -46,4 +46,4 @@ In conclusion, "No More Room in Hell" delivers a unique blend of immersive gamep
 
 ---
 
-Mr. Game and Sweat Reviews: No More Room in Hell - By Taylor Dorsett
+Mr. Game and Sweat Reviews: No More Room in Hell - By Taylor Owen Dorsett

@@ -50,4 +50,4 @@ In summary, "Escape the Backrooms" is an engaging horror-puzzle experience that 
 
 ---
 
-Mr. Game and Sweat Reviews: Escape the Backrooms - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Escape the Backrooms - By Taylor Owen Dorsett

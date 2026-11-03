@@ -46,4 +46,4 @@ Tom Clancy's Ghost Recon Wildlands delivers an engaging and strategically rich e
 
 ---
 
-Mr. Game and Sweat Reviews: Tom Clancy's Ghost Recon Wildlands - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Tom Clancy's Ghost Recon Wildlands - By Taylor Owen Dorsett

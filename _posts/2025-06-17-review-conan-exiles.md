@@ -47,4 +47,4 @@ Conan Exiles offers a captivating blend of survival mechanics, exploration, and 
 
 ---
 
-Mr. Game and Sweat Reviews: Conan Exiles - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Conan Exiles - By Taylor Owen Dorsett

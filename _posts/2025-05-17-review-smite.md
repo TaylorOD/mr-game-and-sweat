@@ -47,4 +47,4 @@ Overall, SMITE is a vibrant, engaging game that can definitely serve as a welcom
 
 ---
 
-Mr. Game and Sweat Reviews: SMITE - By Taylor Dorsett
+Mr. Game and Sweat Reviews: SMITE - By Taylor Owen Dorsett

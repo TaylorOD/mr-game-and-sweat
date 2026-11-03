@@ -47,4 +47,4 @@ Tomb Raider is a fantastic option for gamers looking to combine their love of in
 
 ---
 
-Mr. Game and Sweat Reviews: Tomb Raider - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Tomb Raider - By Taylor Owen Dorsett

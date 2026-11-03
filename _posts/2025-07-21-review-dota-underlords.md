@@ -46,4 +46,4 @@ In conclusion, Dota Underlords offers an engaging gameplay experience that pairs
 
 ---
 
-Mr. Game and Sweat Reviews: Dota Underlords - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dota Underlords - By Taylor Owen Dorsett

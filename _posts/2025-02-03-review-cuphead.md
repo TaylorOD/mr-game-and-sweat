@@ -49,4 +49,4 @@ Cuphead delivers an engaging experience paired with eye-catching art, but its de
 
 ---
 
-Mr. Game and Sweat Reviews: Cuphead - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cuphead - By Taylor Owen Dorsett

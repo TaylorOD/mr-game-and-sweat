@@ -47,4 +47,4 @@ DARK SOULS III is a well-crafted experience offering both challenge and aestheti
 
 ---
 
-Mr. Game and Sweat Reviews: DARK SOULS III - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DARK SOULS III - By Taylor Owen Dorsett

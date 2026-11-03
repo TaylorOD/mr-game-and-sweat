@@ -51,4 +51,4 @@ In summary, "It Takes Two" is a joyful yet dynamic game that manages to keep you
 
 ---
 
-Mr. Game and Sweat Reviews: It Takes Two - By Taylor Dorsett
+Mr. Game and Sweat Reviews: It Takes Two - By Taylor Owen Dorsett

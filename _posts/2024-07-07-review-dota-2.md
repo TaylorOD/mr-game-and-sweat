@@ -48,4 +48,4 @@ Dota 2 stands out as a compelling choice for gamers who wish to balance their pa
 
 ---
 
-Mr. Game and Sweat Reviews: Dota 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dota 2 - By Taylor Owen Dorsett

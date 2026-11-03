@@ -49,4 +49,4 @@ Overall, “Schedule I” proves to be a standout game that keeps you moving bot
 
 ---
 
-Mr. Game and Sweat Reviews: Schedule I - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Schedule I - By Taylor Owen Dorsett

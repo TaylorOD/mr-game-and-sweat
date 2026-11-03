@@ -46,4 +46,4 @@ Overall, we give "Cobalt Core" a perfect score of 3 out of 3. It’s a stellar a
 
 ---
 
-Mr. Game and Sweat Reviews: Cobalt Core - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cobalt Core - By Taylor Owen Dorsett

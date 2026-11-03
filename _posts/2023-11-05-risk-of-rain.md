@@ -43,4 +43,4 @@ Overall, we give "Risk of Rain" a score of 2.65 out of 3. It excels in engagemen
 
 ---
 
-Mr. Game and Sweat Reviews: Risk of Rain - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Risk of Rain - By Taylor Owen Dorsett

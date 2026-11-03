@@ -46,4 +46,4 @@ Mount & Blade II: Bannerlord is an immersive title that allows players to engage
 
 ---
 
-Mr. Game and Sweat Reviews: Mount & Blade II: Bannerlord - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mount & Blade II: Bannerlord - By Taylor Owen Dorsett

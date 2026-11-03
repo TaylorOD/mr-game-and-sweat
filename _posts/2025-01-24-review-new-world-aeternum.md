@@ -48,4 +48,4 @@ In short, if you're ready to conquer Aeternum while keeping your fitness journey
 
 ---
 
-Mr. Game and Sweat Reviews: New World: Aeternum - By Taylor Dorsett
+Mr. Game and Sweat Reviews: New World: Aeternum - By Taylor Owen Dorsett

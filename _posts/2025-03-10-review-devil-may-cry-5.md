@@ -47,4 +47,4 @@ In summary, "Devil May Cry 5" offers fast-paced, exciting gameplay that compleme
 
 ---
 
-Mr. Game and Sweat Reviews: Devil May Cry 5 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Devil May Cry 5 - By Taylor Owen Dorsett

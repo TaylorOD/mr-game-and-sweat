@@ -46,4 +46,4 @@ In terms of computer requirements, "My Summer Car" is relatively modest, making 
 
 ---
 
-Mr. Game and Sweat Reviews: My Summer Car - By Taylor Dorsett
+Mr. Game and Sweat Reviews: My Summer Car - By Taylor Owen Dorsett

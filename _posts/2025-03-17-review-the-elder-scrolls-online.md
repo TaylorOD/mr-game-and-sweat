@@ -52,4 +52,4 @@ If you're looking for a game that can keep your mind engaged while you sweat it 
 
 ---
 
-Mr. Game and Sweat Reviews: The Elder Scrolls Online - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Elder Scrolls Online - By Taylor Owen Dorsett

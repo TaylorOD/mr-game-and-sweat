@@ -52,4 +52,4 @@ If you’re looking to combine your love for gaming with a solid workout, Far Cr
 
 ---
 
-Mr. Game and Sweat Reviews: Far Cry 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Far Cry 3 - By Taylor Owen Dorsett

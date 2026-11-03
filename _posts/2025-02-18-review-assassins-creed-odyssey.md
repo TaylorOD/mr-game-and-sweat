@@ -46,4 +46,4 @@ In terms of computer requirements, "Assassin's Creed Odyssey" is relatively dema
 
 ---
 
-Mr. Game and Sweat Reviews: Assassin's Creed Odyssey - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Assassin's Creed Odyssey - By Taylor Owen Dorsett

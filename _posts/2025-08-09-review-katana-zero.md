@@ -53,4 +53,4 @@ If you’re searching for a game that can keep your heart rate up while simultan
 
 ---
 
-Mr. Game and Sweat Reviews: Katana ZERO - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Katana ZERO - By Taylor Owen Dorsett

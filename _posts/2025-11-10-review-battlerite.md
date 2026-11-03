@@ -44,4 +44,4 @@ Battlerite delivers quick, active matches and should run on modest hardware. Its
 
 ---
 
-Mr. Game and Sweat Reviews: Battlerite - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Battlerite - By Taylor Owen Dorsett

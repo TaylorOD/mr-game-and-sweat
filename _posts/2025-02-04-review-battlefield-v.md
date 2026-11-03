@@ -47,4 +47,4 @@ When considering "Battlefield V" in the context of treadmill or bike compatibili
 
 ---
 
-Mr. Game and Sweat Reviews: Battlefield V - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Battlefield V - By Taylor Owen Dorsett

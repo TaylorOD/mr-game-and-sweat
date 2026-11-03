@@ -47,4 +47,4 @@ Overall, Middle-earth: Shadow of War offers an engaging experience that brillian
 
 ---
 
-Mr. Game and Sweat Reviews: Middle-earth: Shadow of War - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Middle-earth: Shadow of War - By Taylor Owen Dorsett

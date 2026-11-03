@@ -46,4 +46,4 @@ Ravenfield successfully combines engaging gunplay and a fun overall experience, 
 
 ---
 
-Mr. Game and Sweat Reviews: Ravenfield - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ravenfield - By Taylor Owen Dorsett

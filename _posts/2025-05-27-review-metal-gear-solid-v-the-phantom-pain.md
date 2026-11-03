@@ -55,4 +55,4 @@ While not completely devoid of distractions, this game proves to be a worthy com
 
 ---
 
-Mr. Game and Sweat Reviews: METAL GEAR SOLID V: THE PHANTOM PAIN - By Taylor Dorsett
+Mr. Game and Sweat Reviews: METAL GEAR SOLID V: THE PHANTOM PAIN - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ Overall, No Man's Sky offers a perfect blend of engaging exploration with the fl
 
 ---
 
-Mr. Game and Sweat Reviews: No Man's Sky - By Taylor Dorsett
+Mr. Game and Sweat Reviews: No Man's Sky - By Taylor Owen Dorsett

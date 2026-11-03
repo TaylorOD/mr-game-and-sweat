@@ -47,4 +47,4 @@ XCOM: Enemy Unknown offers an engaging blend of strategic gameplay and intense s
 
 ---
 
-Mr. Game and Sweat Reviews: XCOM: Enemy Unknown - By Taylor Dorsett
+Mr. Game and Sweat Reviews: XCOM: Enemy Unknown - By Taylor Owen Dorsett

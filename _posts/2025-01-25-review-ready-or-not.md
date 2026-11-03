@@ -47,4 +47,4 @@ In conclusion, "Ready or Not" offers a thrilling, tactical experience that seaml
 
 ---
 
-Mr. Game and Sweat Reviews: Ready or Not - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ready or Not - By Taylor Owen Dorsett

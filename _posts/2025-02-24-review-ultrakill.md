@@ -47,4 +47,4 @@ In conclusion, ULTRAKILL successfully blends intense combat, stylish movement, a
 
 ---
 
-Mr. Game and Sweat Reviews: ULTRAKILL - By Taylor Dorsett
+Mr. Game and Sweat Reviews: ULTRAKILL - By Taylor Owen Dorsett

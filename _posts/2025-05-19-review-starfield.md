@@ -49,4 +49,4 @@ In conclusion, Starfield is a worthy addition to the exercise-friendly gaming la
 
 ---
 
-Mr. Game and Sweat Reviews: Starfield - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Starfield - By Taylor Owen Dorsett

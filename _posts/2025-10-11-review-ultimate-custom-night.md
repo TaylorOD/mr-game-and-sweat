@@ -46,4 +46,4 @@ Ultimate Custom Night is an impressive addition to the franchise that successful
 
 ---
 
-Mr. Game and Sweat Reviews: Ultimate Custom Night - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ultimate Custom Night - By Taylor Owen Dorsett

@@ -49,4 +49,4 @@ With its engaging gameplay and immersive world, “Sons Of The Forest” might j
 
 ---
 
-Mr. Game and Sweat Reviews: Sons Of The Forest - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sons Of The Forest - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Hearts of Iron IV offers a rich experience steeped in historical strategy, but i
 
 ---
 
-Mr. Game and Sweat Reviews: Hearts of Iron IV - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hearts of Iron IV - By Taylor Owen Dorsett

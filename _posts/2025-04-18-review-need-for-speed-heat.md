@@ -48,4 +48,4 @@ For those looking to burn calories while tearing through the streets, Need for S
 
 ---
 
-Mr. Game and Sweat Reviews: Need for Speed Heat - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Need for Speed Heat - By Taylor Owen Dorsett

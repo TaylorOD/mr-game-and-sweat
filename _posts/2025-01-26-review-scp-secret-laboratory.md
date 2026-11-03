@@ -46,4 +46,4 @@ SCP: Secret Laboratory delivers a gripping and captivating gameplay experience t
 
 ---
 
-Mr. Game and Sweat Reviews: SCP: Secret Laboratory - By Taylor Dorsett
+Mr. Game and Sweat Reviews: SCP: Secret Laboratory - By Taylor Owen Dorsett

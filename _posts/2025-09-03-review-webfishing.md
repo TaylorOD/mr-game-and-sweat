@@ -50,4 +50,4 @@ WEBFISHING presents an intriguing mix of fishing and exploration that adds a fun
 
 ---
 
-Mr. Game and Sweat Reviews: WEBFISHING - By Taylor Dorsett
+Mr. Game and Sweat Reviews: WEBFISHING - By Taylor Owen Dorsett

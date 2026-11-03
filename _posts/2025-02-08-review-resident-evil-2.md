@@ -47,4 +47,4 @@ Resident Evil 2 seamlessly blends brisk gameplay perfect for keeping your heart 
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil 2 - By Taylor Owen Dorsett

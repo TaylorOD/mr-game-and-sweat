@@ -47,4 +47,4 @@ In conclusion, Call of Duty: Modern Warfare II stands out as an engaging exercis
 
 ---
 
-Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare II - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare II - By Taylor Owen Dorsett

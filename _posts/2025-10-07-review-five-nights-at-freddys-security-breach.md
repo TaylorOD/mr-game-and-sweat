@@ -49,4 +49,4 @@ In summary, if you're looking to balance exercise with immersive horror gaming, 
 
 ---
 
-Mr. Game and Sweat Reviews: Five Nights at Freddy's: Security Breach - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Five Nights at Freddy's: Security Breach - By Taylor Owen Dorsett

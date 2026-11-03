@@ -51,4 +51,4 @@ In summary, it’s a fantastic game for those who enjoy storytelling, but if you
 
 ---
 
-Mr. Game and Sweat Reviews: Life is Strange - Episode 1 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Life is Strange - Episode 1 - By Taylor Owen Dorsett

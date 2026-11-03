@@ -46,4 +46,4 @@ In conclusion, Destiny 2 creates a captivating gaming experience that combines t
 
 ---
 
-Mr. Game and Sweat Reviews: Destiny 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Destiny 2 - By Taylor Owen Dorsett

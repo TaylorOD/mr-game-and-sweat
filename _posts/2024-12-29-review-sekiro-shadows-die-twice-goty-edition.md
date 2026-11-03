@@ -49,4 +49,4 @@ If you’re an avid gamer, don’t let the challenges deter you—embrace the gr
 
 ---
 
-Mr. Game and Sweat Reviews: Sekiro: Shadows Die Twice - GOTY Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sekiro: Shadows Die Twice - GOTY Edition - By Taylor Owen Dorsett

@@ -49,4 +49,4 @@ In conclusion, lace up those running shoes or hop on that bike, and prepare for 
 
 ---
 
-Mr. Game and Sweat Reviews: Saints Row: The Third - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Saints Row: The Third - By Taylor Owen Dorsett

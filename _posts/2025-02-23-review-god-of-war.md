@@ -49,4 +49,4 @@ In conclusion, while "God of War" may not be the perfect choice for enhancing yo
 
 ---
 
-Mr. Game and Sweat Reviews: God of War - By Taylor Dorsett
+Mr. Game and Sweat Reviews: God of War - By Taylor Owen Dorsett

@@ -53,4 +53,4 @@ In summary, if you're looking to elevate your workout experience while immersing
 
 ---
 
-Mr. Game and Sweat Reviews: Tom Clancy's Rainbow Six Siege - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Tom Clancy's Rainbow Six Siege - By Taylor Owen Dorsett

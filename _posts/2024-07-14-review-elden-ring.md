@@ -47,4 +47,4 @@ ELDEN RING serves as an excellent option for gamers who enjoy incorporating exer
 
 ---
 
-Mr. Game and Sweat Reviews: ELDEN RING - By Taylor Dorsett
+Mr. Game and Sweat Reviews: ELDEN RING - By Taylor Owen Dorsett

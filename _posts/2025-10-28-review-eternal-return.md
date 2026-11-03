@@ -45,4 +45,4 @@ Eternal Return provides a lively, engaging experience for gamers looking to exer
 
 ---
 
-Mr. Game and Sweat Reviews: Eternal Return - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Eternal Return - By Taylor Owen Dorsett

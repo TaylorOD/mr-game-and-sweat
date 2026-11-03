@@ -47,4 +47,4 @@ In conclusion, "Clair Obscur: Expedition 33" successfully marries captivating ga
 
 ---
 
-Mr. Game and Sweat Reviews: Clair Obscur: Expedition 33 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Clair Obscur: Expedition 33 - By Taylor Owen Dorsett

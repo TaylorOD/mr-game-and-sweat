@@ -46,4 +46,4 @@ In summary, Middle-earth: Shadow of Mordor provides an exhilarating experience, 
 
 ---
 
-Mr. Game and Sweat Reviews: Middle-earth: Shadow of Mordor - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Middle-earth: Shadow of Mordor - By Taylor Owen Dorsett

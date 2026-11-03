@@ -46,4 +46,4 @@ Factorio successfully meshes the strategies of factory-building with an addictiv
 
 ---
 
-Mr. Game and Sweat Reviews: Factorio - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Factorio - By Taylor Owen Dorsett

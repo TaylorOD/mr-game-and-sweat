@@ -47,4 +47,4 @@ In terms of computer requirements, "Batman: Arkham Origins" is relatively access
 
 ---
 
-Mr. Game and Sweat Reviews: Batman: Arkham Origins - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Batman: Arkham Origins - By Taylor Owen Dorsett

@@ -55,4 +55,4 @@ If you’re searching for a game that allows you to experience the thrill of the
 
 ---
 
-Mr. Game and Sweat Reviews: theHunter: Call of the Wild - By Taylor Dorsett
+Mr. Game and Sweat Reviews: theHunter: Call of the Wild - By Taylor Owen Dorsett

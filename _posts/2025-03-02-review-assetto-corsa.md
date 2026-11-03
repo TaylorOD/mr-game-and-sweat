@@ -46,4 +46,4 @@ In summary, Assetto Corsa offers an exhilarating racing experience that can keep
 
 ---
 
-Mr. Game and Sweat Reviews: Assetto Corsa - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Assetto Corsa - By Taylor Owen Dorsett

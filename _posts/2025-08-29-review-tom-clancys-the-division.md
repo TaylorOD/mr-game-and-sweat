@@ -47,4 +47,4 @@ Overall, Tom Clancy's The Division is a solid pick for those wanting to combine 
 
 ---
 
-Mr. Game and Sweat Reviews: Tom Clancy’s The Division - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Tom Clancy’s The Division - By Taylor Owen Dorsett

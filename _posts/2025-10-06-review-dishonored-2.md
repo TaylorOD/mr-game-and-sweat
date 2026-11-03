@@ -46,4 +46,4 @@ In conclusion, Dishonored 2 is a great game that offers engaging gameplay and an
 
 ---
 
-Mr. Game and Sweat Reviews: Dishonored 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dishonored 2 - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ Farming Simulator 22 is an unexpectedly suitable game for those who want to keep
 
 ---
 
-Mr. Game and Sweat Reviews: Farming Simulator 22 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Farming Simulator 22 - By Taylor Owen Dorsett

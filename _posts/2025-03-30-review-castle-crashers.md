@@ -47,4 +47,4 @@ Castle Crashers is a fantastic game that merges engaging gameplay with excellent
 
 ---
 
-Mr. Game and Sweat Reviews: Castle Crashers - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Castle Crashers - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ In summary, Crab Game is a delightful and energetic multiplayer experience that 
 
 ---
 
-Mr. Game and Sweat Reviews: Crab Game - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Crab Game - By Taylor Owen Dorsett

@@ -50,4 +50,4 @@ Planet Zoo ultimately shines as an engaging and visually stunning simulation tha
 
 ---
 
-Mr. Game and Sweat Reviews: Planet Zoo - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Planet Zoo - By Taylor Owen Dorsett

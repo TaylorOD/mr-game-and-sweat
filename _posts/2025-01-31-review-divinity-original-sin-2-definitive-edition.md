@@ -47,4 +47,4 @@ In conclusion, Divinity: Original Sin 2 - Definitive Edition excels in terms of 
 
 ---
 
-Mr. Game and Sweat Reviews: Divinity: Original Sin 2 - Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Divinity: Original Sin 2 - Definitive Edition - By Taylor Owen Dorsett

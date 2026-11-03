@@ -47,4 +47,4 @@ In conclusion, LIMBO is an excellent choice for gamers who want to combine their
 
 ---
 
-Mr. Game and Sweat Reviews: LIMBO - By Taylor Dorsett
+Mr. Game and Sweat Reviews: LIMBO - By Taylor Owen Dorsett

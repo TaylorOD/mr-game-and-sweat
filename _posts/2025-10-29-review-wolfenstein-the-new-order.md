@@ -46,4 +46,4 @@ Overall, *Wolfenstein: The New Order* is a thrilling experience that balances hi
 
 ---
 
-Mr. Game and Sweat Reviews: Wolfenstein: The New Order - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Wolfenstein: The New Order - By Taylor Owen Dorsett
