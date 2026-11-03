@@ -213,6 +213,12 @@ async function run(base) {
     const response = await page.goto(`${base}/this-page-does-not-exist/`);
     assert.strictEqual(response.status(), 404);
     assert.ok((await page.title()).includes('404'));
+    assert.strictEqual(await page.locator('.card').count(), 3);
+    assert.strictEqual(await page.locator('.header-search').count(), 0);
+    await page.fill('.not-found-search input', 'hades');
+    await page.press('.not-found-search input', 'Enter');
+    await page.waitForSelector('#review-grid .card');
+    assert.ok(page.url().includes('/reviews/?q=hades'), page.url());
   });
 
   const phone = { viewport: { width: 375, height: 812 }, isMobile: true, hasTouch: true };
