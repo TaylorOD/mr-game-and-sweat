@@ -42,7 +42,3 @@ To enjoy SHOGUN 2, you should have a moderately capable machine. Although it isn
 Total War: SHOGUN 2 is a fantastic game that serves as an excellent strategy experience, with rich gameplay that immerses players in Japan's history. However, the slower moments and strategic depth might occasionally disrupt the rhythm of your workout. Still, with controller support and moderate system requirements, it stands out as a solid option for those looking to blend fitness with engaging gameplay. Ultimately, it provides a great reason to keep pushing through that treadmill run or cycling session, even if it occasionally demands your attention.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Total War: SHOGUN 2 - By Taylor Owen Dorsett

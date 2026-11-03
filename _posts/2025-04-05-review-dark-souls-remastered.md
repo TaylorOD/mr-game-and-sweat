@@ -44,7 +44,3 @@ On the technical side, "DARK SOULS: REMASTERED" is relatively forgiving in terms
 "DARK SOULS: REMASTERED" seamlessly combines gripping gameplay with a workout-friendly experience. Its challenging combat can keep you engaged, while its moderate system demands ensure accessibility for many players. While there are slower sections, they don’t hinder the intense beauty of traversing Lordran. So if you’re looking to strengthen both your gaming skills and your physique, this title deserves a spot on your list.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DARK SOULS: REMASTERED - By Taylor Owen Dorsett

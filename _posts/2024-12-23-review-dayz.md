@@ -49,7 +49,3 @@ In conclusion, DayZ delivers a gripping experience that can keep you engaged whi
 ### Overall Score: 2.17 out of 3
 
 So, gear up, strap in, and brava! Get ready to experience survival of the fittest—on both the battlefield and the treadmill!
-
----
-
-Mr. Game and Sweat Reviews: DayZ - By Taylor Owen Dorsett

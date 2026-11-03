@@ -43,7 +43,3 @@ The game isn't overly demanding, which is a plus for those who might be using ol
 Heroes & Generals is a thrilling blend of gameplay that fits well within the realm of fitness gaming. Its engaging atmosphere and multiplayer dynamics create an enjoyable distraction, keeping you focused and entertained while you pound away on your treadmill or bike. Despite requiring some apt motor skills, it accommodates a wide range of players. If you’re a fitness enthusiast looking to merge gaming with a workout, you’ll find plenty to love here. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Heroes & Generals - By Taylor Owen Dorsett

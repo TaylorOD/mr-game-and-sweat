@@ -44,7 +44,3 @@ Resident Evil 3 is well-optimized for modern systems, but it still requires a de
 In summary, Resident Evil 3 offers an engaging and intense gameplay experience that keeps your heart racing as you navigate the horrors of Raccoon City. While there are slow moments and some demand for quick reactions, it strikes a commendable balance for those wanting a thrilling workout. Just ensure your gaming setup is sturdy enough to support both your gaming and fitness goals.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil 3 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Inscryption is relatively moderate when it comes to computer requirements. While
 Inscryption captivates with its eerie charm and strategic depth, while still offering enough flexibility to keep you focused on your workout. It’s a game that requires thought and concentration without being excessively demanding, making it relatively compatible with exercising. However, be mindful of those slower storytelling segments that could pull your focus if your intensity levels are high. All things considered, it’s a worthy addition to your gaming arsenal while getting your daily cardio in.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Inscryption - By Taylor Owen Dorsett

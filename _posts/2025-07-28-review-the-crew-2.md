@@ -47,7 +47,3 @@ Running *The Crew 2* does demand a moderately powerful system. It requires a min
 In conclusion, *The Crew 2* offers a vibrant, fast-paced gaming experience that combines a variety of vehicles and landscapes with enjoyable multiplayer elements. While it isn’t perfect—there are minor slowdowns and some hardware requirements to keep in mind—the game successfully keeps you engaged and enhances your exercise routine. It encourages a level of active participation that few games can manage, making it a standout choice for fitness-focused gamers.
 
 ### Overall Score: 2.6 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Crew 2 - By Taylor Owen Dorsett

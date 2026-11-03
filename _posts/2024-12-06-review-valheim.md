@@ -44,7 +44,3 @@ Valheim isn't overly demanding on your hardware, making it accessible for a wide
 Valheim brilliantly merges exploration, crafting, and combat into an experience that can enhance your workout on a treadmill or bike. With engaging gameplay, solid compatibility with workout equipment, and reasonable computer requirements, it stands out as a perfect choice for those looking to get more out of their gaming and exercise time. While the computer requirements are slightly above minimal, they are manageable for most gamers. Overall, Valheim provides a unique escape that not only entertains but also ensures that your workout remains fulfilling.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Valheim - By Taylor Owen Dorsett

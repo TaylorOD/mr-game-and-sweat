@@ -44,7 +44,3 @@ As an ambitious sequel, "Path of Exile 2" does come with some moderate computer 
 Overall, "Path of Exile 2" is a triumphant return to the franchise, delivering addictive gameplay that meshes wonderfully with a workout routine. Its engaging combat mechanics and controller compatibility make it an excellent choice for those looking to balance their love for gaming with fitness. While the computer requirements may be slightly above average, they are nothing truly daunting. So grab your device, lace up those running shoes, or hop on your bike, and prepare to dive into another epic journey through Wraeclast.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Path of Exile 2 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ The Witcher 2 is fairly demanding yet, for its time, reasonable in system requir
 The Witcher 2: Assassins of Kings Enhanced Edition is a compelling choice for anyone who loves to immerse themselves in captivating stories while staying active. Although the game has some slower moments that might pull focus, its engaging gameplay largely compensates for this. With good compatibility for controllers and a reasonable demand on PCs, it strikes a wholesome balance between leisure and physical activity. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Witcher 2: Assassins of Kings Enhanced Edition - By Taylor Owen Dorsett

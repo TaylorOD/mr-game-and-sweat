@@ -49,7 +49,3 @@ In summary, **Fall Guys: Ultimate Knockout** excels as an entertaining and engag
 ### Overall Score: 2.33 out of 3 
 
 With its perfect blend of fun, exercise compatibility, and accessibility, Fall Guys: Ultimate Knockout comes highly recommended for fitness enthusiasts and gamers alike!
-
----
-
-Mr. Game and Sweat Reviews: Fall Guys: Ultimate Knockout - By Taylor Owen Dorsett

@@ -47,7 +47,3 @@ In terms of computer requirements, STAR WARS Battlefront II is moderately demand
 STAR WARS Battlefront II is a dynamic and engaging option for gamers looking to mix their love for video games with a healthier lifestyle. Its varied gameplay keeps you involved, but the occasional cutscene and quick movements may disrupt your rhythm. Overall, as long as you’re prepared for some interruptions and have a capable setup, you can enjoy this epic journey through the Star Wars universe while getting your heart rate up.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: STAR WARS Battlefront II - By Taylor Owen Dorsett

@@ -46,7 +46,3 @@ In terms of computer requirements, Outer Wilds is fairly modest, making it acces
 Outer Wilds truly offers a unique and engaging experience for those looking to immerse themselves in an adventurous space journey while getting their exercise in. Its captivating gameplay ensures you're entertained while you keep moving, and its forgiving nature means you won't feel pressured to stop running just to navigate the game's challenges. It’s an experience where the cosmos feels effortlessly inviting, allowing you to solve its mysteries while staying active.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Outer Wilds - By Taylor Owen Dorsett

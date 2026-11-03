@@ -44,7 +44,3 @@ The minimum specs call for an older dedicated graphics card with 256 MB of memor
 Assassin’s Creed 2 has a good mix of exploration, climbing, and combat, with a story that takes its time. It is better suited to a bike or a slow treadmill pace than a workout where you need to keep your eyes off the screen.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assassin's Creed 2 - By Taylor Owen Dorsett

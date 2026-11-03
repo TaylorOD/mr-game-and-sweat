@@ -43,7 +43,3 @@ SPORE's system requirements are relatively modest given its unique graphics styl
 In conclusion, SPORE offers a dynamic and engaging experience that can work well for exercising gamers, provided you’re mindful of its slower moments. While it may not require quick reflexes, the controls can occasionally be a hassle on exercise equipment. That said, with its manageable computer requirements and delightful gameplay, SPORE remains an exciting option for making your treadmill or bike sessions more enjoyable. Just keep in mind that some parts might test your multitasking abilities to the limit.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: SPORE - By Taylor Owen Dorsett

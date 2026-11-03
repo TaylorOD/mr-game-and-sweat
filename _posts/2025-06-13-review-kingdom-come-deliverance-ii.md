@@ -44,7 +44,3 @@ On the technical side of things, *Kingdom Come: Deliverance II* holds onto its p
 *Kingdom Come: Deliverance II* provides a balanced experience while also catering well to those looking to combine gaming with exercise. Its engaging gameplay and adequate compatibility with treadmill and bike setups make it an excellent choice, though the occasional slow moments can disrupt the flow. If you have the hardware to support it, you'll find this title classically rewarding as you explore its vast world – just be wary of those long cutscenes during your workout!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Kingdom Come: Deliverance II - By Taylor Owen Dorsett

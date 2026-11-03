@@ -41,7 +41,3 @@ Civilization VI is moderately demanding in terms of hardware. While you don’t 
 Sid Meier’s Civilization VI impresses with its engaging gameplay and compatibility for your fitness routine. You can enjoy hours of strategic planning and diplomatic maneuvering while maintaining your exercise regimen, thanks to its turn-based mechanics and controller support. While it has moderate computer requirements that could impact less powerful setups, the overall experience makes it a worthy addition to your gaming library, particularly for those who value fitness while enjoying video games.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Sid Meier’s Civilization VI - By Taylor Owen Dorsett

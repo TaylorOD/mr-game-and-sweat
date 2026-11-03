@@ -43,7 +43,3 @@ Cookie Clicker is surprisingly light on computer resources. It can run effective
 In conclusion, Cookie Clicker is an excellent choice for those looking to mix gaming with their exercise routine. Its engaging gameplay and straightforward mechanics perfectly complement workouts on treadmills or bikes. With its minimal demands on your computer, you can focus on building your cookie empire while getting your exercise in. There’s no denying that this game is a fantastic companion for your fitness sessions.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cookie Clicker - By Taylor Owen Dorsett

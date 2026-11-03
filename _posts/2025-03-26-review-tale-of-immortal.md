@@ -46,7 +46,3 @@ The requirements for running Tale of Immortal are moderate—fairly scalable, al
 In conclusion, Tale of Immortal is an engaging game steeped in rich story and exploration, complemented by solid compatibility with exercise equipment. It’s not without its slow moments, but the balance of gameplay elements allows for a manageable experience while you work on your fitness. With decent computer requirements and supportive control options, jumping into the world of immortals can indeed sync with your treadmill or biking adventures.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: 鬼谷八荒 Tale of Immortal - By Taylor Owen Dorsett

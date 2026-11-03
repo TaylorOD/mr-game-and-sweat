@@ -44,7 +44,3 @@ Among Us is surprisingly lightweight in terms of computer specifications. It req
 Overall, Among Us offers a uniquely enjoyable experience that’s perfectly suited for players looking to maintain their fitness while gaming. Its engaging gameplay keeps your mind active, while excellent compatibility with physical activities means you can run or bike without major distractions or interruptions. Additionally, its low computer requirements ensure that it runs seamlessly across various devices, making it accessible for everyone.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Among Us - By Taylor Owen Dorsett

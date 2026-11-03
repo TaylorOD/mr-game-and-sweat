@@ -44,7 +44,3 @@ In terms of computer requirements, "Batman: Arkham Origins" is relatively access
 "Batman: Arkham Origins" offers a compelling mix of storytelling and gameplay that can engage players as they exercise. While there are some minor pitfalls with cutscene interruptions and twitch gameplay moments, its good controller compatibility and moderate system demands make it a decent choice for workout gamers. Just be prepared for moments of intensity that might require hitting pause or slowing down your machine. Overall, it's a title worth considering for those looking to mix crime-fighting with a fitness routine.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Batman: Arkham Origins - By Taylor Owen Dorsett

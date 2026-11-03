@@ -44,7 +44,3 @@ On the technical side, A Plague Tale: Innocence is fairly demanding, boasting im
 In conclusion, A Plague Tale: Innocence offers an emotionally charged narrative experience that can be engaging while exercising, but its slower, contemplative pace may lead you to occasionally disengage from your physical workout. Not the best choice for a high-intensity session, but it can work for lighter exercises where you want an engaging story alongside. Overall, it’s a solid title that can coexist with your treadmill or biking routine, provided you adjust your expectations accordingly.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: A Plague Tale: Innocence - By Taylor Owen Dorsett

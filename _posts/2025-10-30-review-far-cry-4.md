@@ -47,7 +47,3 @@ From a technical perspective, Far Cry 4 is relatively demanding compared to othe
 Far Cry 4 successfully immerses players in a sprawling, open world filled with thrilling gameplay and engaging quests, making it a compelling choice for exercising gamers. While it does have some slower moments and technical demands, its overall performance on a treadmill or bike setup scores well, maintaining a fine balance between action and the need for focus on your fitness.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Far Cry 4 - By Taylor Owen Dorsett

@@ -47,7 +47,3 @@ Originally, San Andreas wasn’t demanding on hardware, making it widely accessi
 Grand Theft Auto: San Andreas provides an engaging and nostalgic gameplay experience that holds up well today, especially for those who appreciate immersive storylines and vast explorative worlds. While it does have its slower sections that may distract from your workout, the game’s overall accessibility and forgiving control scheme allow for a moderately enjoyable experience while exercising. Perfect for fans of action-adventure looking to add some excitement to their treadmill or biking routine, San Andreas stands the test of time.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Grand Theft Auto: San Andreas - By Taylor Owen Dorsett

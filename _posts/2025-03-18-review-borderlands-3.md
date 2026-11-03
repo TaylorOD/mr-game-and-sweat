@@ -50,7 +50,3 @@ In summary, Borderlands 3 is a vibrant and engaging title that will keep your he
 ### Overall Score: 2 out of 3
 
 With an overall score of 2 out of 3, Borderlands 3 is an excellent choice for gamers seeking to maintain their fitness without sacrificing excitement in their gaming experience! Lace up your shoes or hop on that bike—you’re in for a wild ride!
-
----
-
-Mr. Game and Sweat Reviews: Borderlands 3 - By Taylor Owen Dorsett

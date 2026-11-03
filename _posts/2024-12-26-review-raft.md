@@ -43,7 +43,3 @@ The gameplay of "Raft" is both engaging and rhythmic. The action revolves around
 In conclusion, "Raft" provides an excellent gaming experience that seamlessly blends survival mechanics with engaging gameplay, all while accommodating users who want to exercise. Its compatibility with treadmill and bike setups makes it a standout option for active gamers, and its modest system demands ensure that almost anyone can enjoy it. If you're looking for a game that won't detract from your workout routine, "Raft" is an outstanding choice.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Raft - By Taylor Owen Dorsett

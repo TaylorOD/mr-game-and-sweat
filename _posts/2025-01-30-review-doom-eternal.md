@@ -43,7 +43,3 @@ DOOM Eternal is visually breathtaking, but that stunning graphics powerhouse com
 In conclusion, DOOM Eternal offers a high-octane gaming experience that's intensely engaging, perfect for those looking to sweat it out on their treadmill or bike while launching themselves into combat against iconic demons. The gameplay keeps you moving, making it remarkably compatible with exercise. However, just keep in mind the hardware demands—ensure your computer can handle the power that this game wields. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DOOM Eternal - By Taylor Owen Dorsett

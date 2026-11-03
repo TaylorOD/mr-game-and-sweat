@@ -43,7 +43,3 @@ As a fairly older title, "Cry of Fear" isn’t particularly demanding on compute
 "Cry of Fear" offers an engaging blend of horror and gameplay that can easily hold your attention while you exercise. It's not without its slower moments, but the intense atmosphere and thought-provoking story shine through. The game performs admirably on most computers, making it accessible to many players. Overall, it's an excellent choice for those looking to challenge themselves physically while diving into an eerie narrative.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cry of Fear - By Taylor Owen Dorsett

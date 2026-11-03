@@ -52,7 +52,3 @@ Overall, theHunter: Call of the Wild is a delightful blend of outdoor immersion 
 ### Overall Score: 2.33 out of 3
 
 If you’re searching for a game that allows you to experience the thrill of the hunt while getting in your cardio, theHunter: Call of the Wild is a fantastic choice that checks all the right boxes!
-
----
-
-Mr. Game and Sweat Reviews: theHunter: Call of the Wild - By Taylor Owen Dorsett

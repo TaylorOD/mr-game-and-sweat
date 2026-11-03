@@ -44,7 +44,3 @@ Portal 2 is relatively undemanding when it comes to computer specifications. It 
 Overall, Portal 2 is an exceptional choice for gamers who want to engage their minds while working on their fitness. With its engaging gameplay, solid compatibility with exercise equipment, and minimal computer requirements, it checks all the right boxes. Whether you’re navigating through challenging puzzles or soaking in its humorous writing, you’ll find that your workouts can become a little more enjoyable—and perhaps even a lot more productive!
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Portal 2 - By Taylor Owen Dorsett

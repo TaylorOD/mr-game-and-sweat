@@ -44,7 +44,3 @@ If you're looking to play Ghost of Tsushima DIRECTOR'S CUT on a PC (available vi
 Ghost of Tsushima DIRECTOR'S CUT delivers an enriching experience that captivates with its narrative and visuals. While it has some slower moments that could disrupt the flow of an exercise routine, the integration of exploration and combat can still keep your heart rate elevated when managed accordingly. Overall, it’s a beautiful game that can complement physical activity with the right approach.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ghost of Tsushima DIRECTOR'S CUT - By Taylor Owen Dorsett

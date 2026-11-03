@@ -45,7 +45,3 @@ BeamNG.drive offers a rich and immersive driving experience that can certainly p
 ### Overall Score: 2.17 out of 3
 
 BeamNG.drive may not be the quintessential exercise game, but it offers a unique alternative for players who enjoy a solid simulation experience while keeping active.
-
----
-
-Mr. Game and Sweat Reviews: BeamNG.drive - By Taylor Owen Dorsett

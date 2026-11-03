@@ -43,7 +43,3 @@ In terms of computer requirements, DOOM demands a decent setup to really get the
 In summary, DOOM provides a thrilling gaming experience that's perfect for workout enthusiasts looking to blend exercise with intense gameplay. Its engaging mechanics and non-intrusive pacing will keep you on your feet—both literally and figuratively. With smooth controls and minimal interruptions, it stands out as a solid choice for people eager to pump up their heart rate while having a blast. The computer requirements are manageable, making it accessible to a broader audience. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DOOM - By Taylor Owen Dorsett

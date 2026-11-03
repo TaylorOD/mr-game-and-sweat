@@ -43,7 +43,3 @@ Destiny 2 does require a bit of horsepower, especially if you aim to enjoy the g
 In conclusion, Destiny 2 creates a captivating gaming experience that combines thrilling action with community engagement. While the gameplay does have its slower moments, it mostly maintains a pace that keeps you moving, making it an excellent candidate for treadmill or cycling workouts. Its solid controller support and manageable requirements for modern computers lend themselves well to energetic exercise. All in all, if you’re seeking a game that enhances your workout with an engaging backdrop, Destiny 2 is worth considering.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Destiny 2 - By Taylor Owen Dorsett

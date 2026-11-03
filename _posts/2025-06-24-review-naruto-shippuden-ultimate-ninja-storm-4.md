@@ -48,7 +48,3 @@ In terms of specifications, "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4" is relati
 In summary, "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4" shines with its engaging gameplay and accessibility. However, it might present intermittent distractions due to the storytelling pace and quick movements needed during intense battles, making it a bit challenging to keep your focus on a workout. If you’re a devoted anime fan looking for a fun way to enhance your exercise routine, just be cautious about how you integrate it; with a little practice, it can serve as an exciting way to break a sweat.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - By Taylor Owen Dorsett

@@ -49,7 +49,3 @@ While it does require a decent graphics card and a VR headset, it won’t break 
 In conclusion, *Gorilla Tag* combines the sheer enjoyment of tag with a compelling VR experience that not only entertains but also provides an excellent workout. Its engaging gameplay and minimal interruptions make it a great option for those looking to exercise while gaming. While there are some considerations regarding its compatibility with treadmill and bike setups, it still offers a solid way to keep active. With manageable computer requirements, it stands out as an accessible title for fitness-oriented gamers.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Gorilla Tag - By Taylor Owen Dorsett

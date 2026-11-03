@@ -44,7 +44,3 @@ On the tech side of things, Black Ops III is quite demanding. Players will requi
 In summary, Call of Duty: Black Ops III not only delivers an intense and engaging gaming experience but excels at integrating into a fitness regimen. With its fast-paced gameplay that keeps your heart racing and a fair level of compatibility with exercise setups, it’s clear that this game can be a fun ally in your workout routine. While you may need a moderately powerful PC to run it without hiccups, the overall experience is exceptionally rewarding for gamers who wish to break the sweat. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Call of Duty: Black Ops III - By Taylor Owen Dorsett

@@ -48,7 +48,3 @@ The good news for those considering playing GRIS on a computer is that it is not
 In conclusion, "GRIS" offers a unique and immersive experience, marrying breath-taking visuals with a poignant narrative. For exercising enthusiasts, its tranquil gameplay allows for a relaxed treadmill or biking experience, though the slower segments may occasionally distract from your workout. Nevertheless, its accessibility on various systems makes it an excellent choice to enhance your gaming workout routine.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: GRIS - By Taylor Owen Dorsett

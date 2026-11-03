@@ -50,7 +50,3 @@ That said, the game's pacing accommodates bursts of speed and dynamic character 
 ### Overall Score: 2.67 out of 3
 
 If you’re after a wild ride that doesn’t anchor you in one place, "Saints Row IV: Re-Elected" might just be the ideal companion for your fitness routine. Grab that controller, hit the treadmill, and get ready to save the world—one workout at a time!
-
----
-
-Mr. Game and Sweat Reviews: Saints Row IV: Re-Elected - By Taylor Owen Dorsett

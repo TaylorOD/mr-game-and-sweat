@@ -44,7 +44,3 @@ GTA V is beautiful, showcasing intricate details in its environments and charact
 In conclusion, Grand Theft Auto V strikes an impressive balance between full-throttle chaos and maintaining engagement during your workout. While the occasional cutscene can disrupt your pace, the overall gameplay experience is thrilling and well-designed for treadmill and biking scenarios. Just ensure your gaming rig can handle the graphical demands, and you’re set for exhilarating journeys in an open world that can keep your heart racing—both in and out of the game.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Grand Theft Auto V - By Taylor Owen Dorsett

@@ -47,7 +47,3 @@ Still, if you’re careful about your setup and practice your coordination, you 
 In summary, "Escape the Backrooms" is an engaging horror-puzzle experience that can provide a thrilling distraction while you work up a sweat. The gameplay is captivating and generally progresses smoothly, supporting a healthy dose of exercise without frequent interruptions. Its controller compatibility makes it an excellent choice for treadmill and biking setups, while the hardware demands remain accessible. For anyone looking to blend gaming with a fitness regimen, this title might just be a great fit to keep your heart racing—both in-game and in reality.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Escape the Backrooms - By Taylor Owen Dorsett

@@ -47,7 +47,3 @@ Planet Zoo requires a reasonably robust computer to run smoothly. It calls for a
 Planet Zoo ultimately shines as an engaging and visually stunning simulation that offers a satisfying experience, especially if you enjoy exercising while gaming. With its moderately paced gameplay, controller compatibility, and detailed requirements, it manages to strike a balance between providing a fun and rewarding experience while allowing you to keep active. Just be prepared for the occasional challenge if your computer struggles to keep up.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Planet Zoo - By Taylor Owen Dorsett

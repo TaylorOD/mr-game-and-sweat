@@ -43,7 +43,3 @@ The technical demands of “Half-Life: Alyx” are notably high. To fully enjoy 
 “Half-Life: Alyx” is undoubtedly a masterpiece in the realm of virtual reality gaming. Its engaging gameplay, while offering some slow-paced moments, can still provide an immersive experience. The compatibility with treadmill and bike setups presents an interesting opportunity, albeit with some caveats. High computer requirements could be a barrier for many potential players. Overall, if you’re looking to integrate gaming into your fitness routine, “Half-Life: Alyx” presents a compelling option, but you’ll want to be mindful of its challenges.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Half-Life: Alyx - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ Stray is not overly demanding on computer hardware, which is a plus if you're ga
 In conclusion, Stray offers a unique and immersive gaming experience that is well-suited for exercising enthusiasts. Its engaging gameplay and easy controller compatibility create an enjoyable atmosphere to pair with your treadmill runs or biking sessions. While there are some slower elements, they do not detract significantly from the overall experience. The game’s moderate system requirements also make it accessible to a wider audience. Overall, Stray brings a fresh perspective to the gaming landscape, making it a delightful addition to your exercise routine.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Stray - By Taylor Owen Dorsett

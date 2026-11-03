@@ -44,7 +44,3 @@ Left 4 Dead 2 is relatively undemanding in terms of computer specifications, mak
 In summary, Left 4 Dead 2 is an exhilarating game that combines intense co-op gameplay with the excitement of zombie combat—all without dragging your workout down. With engaging gameplay, exceptional treadmill and bike compatibility, and light system requirements, it's a perfect choice for anyone looking to get their blood pumping while gaming. If you’re looking for a workout that won’t feel like a chore, this game will help you power through those exercise sessions with adrenaline-fueled joy.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Left 4 Dead 2 - By Taylor Owen Dorsett

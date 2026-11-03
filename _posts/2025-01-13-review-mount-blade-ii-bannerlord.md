@@ -43,7 +43,3 @@ Bannerlord has relatively high system requirements due to its expansive world an
 Mount & Blade II: Bannerlord is an immersive title that allows players to engage in dynamic combat and strategic decision-making while keeping them entertained and distracted from the physical exertion of running or biking. Its mix of gameplay and pacing works well for exercise enthusiasts, albeit with some demands on computing power. Overall, if you’re looking to enhance your workout experience with captivating storytelling and interaction, you can’t go wrong with Bannerlord. 
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mount & Blade II: Bannerlord - By Taylor Owen Dorsett

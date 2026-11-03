@@ -46,7 +46,3 @@ In conclusion, Paladins is a vibrant and engaging team-based shooter that provid
 ### Overall Score: 2.33 out of 3
 
 Paladins is an enjoyable title that can keep you entertained while you work up a sweat. Grab your controller, hop on that treadmill, and dive into the whimsical world of champions!
-
----
-
-Mr. Game and Sweat Reviews: Paladins - By Taylor Owen Dorsett

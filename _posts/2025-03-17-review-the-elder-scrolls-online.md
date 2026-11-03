@@ -49,7 +49,3 @@ The Elder Scrolls Online is a fantastic option for those looking to exercise whi
 ### Overall Score: 2.6 out of 3 
 
 If you're looking for a game that can keep your mind engaged while you sweat it out, give The Elder Scrolls Online a shot. You might find yourself embarking on epic quests to save Tamriel, all while burning those calories!
-
----
-
-Mr. Game and Sweat Reviews: The Elder Scrolls Online - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ The gameplay in *Wolfenstein: The New Order* is a seamless blend of intense gunp
 Overall, *Wolfenstein: The New Order* is a thrilling experience that balances high-octane gameplay with some narrative dips that can disrupt your rhythm during exercise. While it’s not perfectly optimized for treadmill or bike compatibility, the solid action and engaging story still make it a worthwhile experience for gamers who want to add some excitement to their workouts. Just prepare for those moments when you’ll want to sprint into action as you juggle cardio with a compelling tale of resistance.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Wolfenstein: The New Order - By Taylor Owen Dorsett

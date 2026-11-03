@@ -46,7 +46,3 @@ Sniper Elite 4 successfully blends storytelling and gameplay mechanics that keep
 ### Overall Score: 2 out of 3
 
 In summary, Sniper Elite 4 is a solid title for gamers who enjoy a mix of strategy and action, suitable for exercising if handled carefully. While it might not be the best option for high-energy gaming sessions, it can still make for a unique and satisfying workout experience when played at a leisurely pace.
-
----
-
-Mr. Game and Sweat Reviews: Sniper Elite 4 - By Taylor Owen Dorsett

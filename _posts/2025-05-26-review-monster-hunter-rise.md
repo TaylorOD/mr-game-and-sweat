@@ -44,7 +44,3 @@ When it comes to compatibility with treadmills and bikes, "Monster Hunter Rise" 
 Overall, "Monster Hunter Rise" offers a compelling mix of engaging gameplay that fits surprisingly well with an exercise routine. With its energetic combat, manageable controller requirements, and reasonable computer specs, it's an excellent choice for those looking to keep their workouts lively. Whether you're chasing down colossal monsters on a treadmill or pushing yourself on a bike, this game might just be the perfect companion for a rigorous and fun workout.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: MONSTER HUNTER RISE - By Taylor Owen Dorsett

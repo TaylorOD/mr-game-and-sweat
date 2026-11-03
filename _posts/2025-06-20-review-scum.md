@@ -43,7 +43,3 @@ SCUM is relatively demanding on your computer, needing a decent processor and a 
 In summary, SCUM offers an engaging experience that successfully integrates survival gameplay with high-energy scenarios, making it a decent companion for exercise sessions on a treadmill or bike. Although there are moments of slow pacing and higher-than-average computer requirements, the exciting gameplay and compatibility with controllers provide a solid experience. 
 
 ### Overall Score: 2.0 out of 3
-
----
-
-Mr. Game and Sweat Reviews: SCUM - By Taylor Owen Dorsett

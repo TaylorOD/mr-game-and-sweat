@@ -43,7 +43,3 @@ Squad has moderately high system requirements, primarily due to its large maps a
 Overall, Squad is a compelling choice for gamers looking to enjoy a tactical shooter while balancing fitness goals. While the gameplay is engaging and relatively accommodating to moderate workouts, the need for controller usage makes it a bit clunky for super high-intensity routines. If you’re looking for something that can keep your mind engaged while you maintain a solid sweat session, it fits the bill, but be aware of its limitations in terms of pacing and computer requirements.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Squad - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ On the technical side, the game offers a beautiful visual experience but may req
 Tomb Raider is a fantastic option for gamers looking to combine their love of interactive narratives with cardiovascular exercise. With its engaging gameplay, compatibility with workout machines, and moderate computer requirements, it seamlessly integrates with a fitness-focused lifestyle. Although you might need a decent computer for a top-notch experience, the rewards it offers in motivation and entertainment while exercising far outweigh that minor consideration. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Tomb Raider - By Taylor Owen Dorsett

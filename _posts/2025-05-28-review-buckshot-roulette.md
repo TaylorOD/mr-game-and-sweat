@@ -41,7 +41,3 @@ In terms of computer requirements, "Buckshot Roulette" is surprisingly forgiving
 Overall, "Buckshot Roulette" excels in providing an energetic gaming experience that seamlessly integrates with physical exercise, making it ideal for those looking to break a sweat while immersing themselves in wild adventures. With its engaging gameplay, compatibility with treadmill and bike setups, and accessible computer requirements, it's a title worth adding to your fitness gaming library.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Buckshot Roulette - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ Kingdom Come: Deliverance is quite demanding regarding computer specifications. 
 Kingdom Come: Deliverance successfully immerses players in a stunning historical setting, complete with intricate mechanics and a knack for realism. Yet, as an exercise-friendly title, it falls short due to its pacing and computer demands. While it can keep you entertained with rich storytelling, those serious about workouts might find themselves struggling to maintain their momentum on a treadmill or bike—especially during its slower moments. 
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Kingdom Come: Deliverance - By Taylor Owen Dorsett

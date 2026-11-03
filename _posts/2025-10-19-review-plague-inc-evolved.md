@@ -49,7 +49,3 @@ Overall, "Plague Inc: Evolved" is a compelling strategy game that successfully c
 With a few minor pacing issues during gameplay, I feel that "Plague Inc: Evolved" is still a robust choice for fitness enthusiasts looking to keep their minds active while they run or bike.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Plague Inc: Evolved - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Geometry Dash is incredibly lightweight; it runs smoothly on a wide range of dev
 In conclusion, **Geometry Dash** is a fantastic choice for gamers looking to add a dynamic twist to their treadmill or biking routines. Its exhilarating gameplay will keep you engaged without interruption, and it’s accessible on various platforms with minimal technical requirements. While it might distract you at times, the rhythm and excitement of the game can serve to amplify your workout rather than detract from it. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Geometry Dash - By Taylor Owen Dorsett

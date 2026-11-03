@@ -43,7 +43,3 @@ As for the computer requirements, Z1 Battle Royale isn't overly demanding. Most 
 In conclusion, Z1 Battle Royale offers a thrilling experience that keeps you on your toes and blends seamlessly with physical activity. Its engaging gameplay and solid compatibility with exercise equipment make it an excellent choice for fitness gamers. While it's not the most demanding in terms of hardware, its graphics and mechanics ensure that it stays appealing enough to keep you coming back for more. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Z1 Battle Royale - By Taylor Owen Dorsett

@@ -46,7 +46,3 @@ In summary, 7 Days to Die is a thrilling choice for gamers looking to exercise w
 ### Overall Score: 2.33 out of 3
 
 If you’re seeking a game that encourages a good sweat while you fend off zombies and build your dream survival shelter, 7 Days to Die could very well be the perfect fit!
-
----
-
-Mr. Game and Sweat Reviews: 7 Days to Die - By Taylor Owen Dorsett

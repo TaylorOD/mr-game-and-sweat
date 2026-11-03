@@ -41,7 +41,3 @@ A Dance of Fire and Ice isn’t particularly demanding on computer resources, ma
 In summary, A Dance of Fire and Ice successfully blends rhythmic gameplay with a straightforward approach that makes it ideal for exercise enthusiasts. With engaging mechanics that keep you focused, outstanding compatibility with treadmill and bike workouts, and minimal requirements for computer performance, it offers a well-rounded experience. If you’re looking for a game that can enhance your exercise routine without pulling you away from the intensity of your workout, this title is a top contender.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: A Dance of Fire and Ice - By Taylor Owen Dorsett

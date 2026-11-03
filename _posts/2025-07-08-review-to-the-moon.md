@@ -44,7 +44,3 @@ To the Moon has modest system requirements that won’t bog down the performance
 To the Moon offers a heartwarming narrative that's well-suited for more leisurely exercise sessions rather than high-energy workouts. If you are looking for a game that allows you to leisurely explore a narrative while maintaining a steady cardio regimen, it may hit the right notes. However, its slow pacing and emotional cut scenes could also be a distraction, breaking the flow of your exercise. Overall, it’s an interesting choice for those who want to blend gameplay and emotional storytelling into their fitness routines.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: To the Moon - By Taylor Owen Dorsett

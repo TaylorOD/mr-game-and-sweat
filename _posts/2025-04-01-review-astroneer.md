@@ -44,7 +44,3 @@ In terms of technical demands, ASTRONEER is relatively light on resources. With 
 In summary, ASTRONEER offers a wonderfully immersive gameplay experience that aligns perfectly with exercising on a treadmill or bike. Its engaging exploration mechanics keep you entertained without overwhelming you, while its controller compatibility allows for a seamless balance between fitness and fun. The game’s computer requirements are friendly, making it accessible for many users. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ASTRONEER - By Taylor Owen Dorsett

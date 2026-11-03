@@ -45,7 +45,3 @@ When it comes to specifications, The Witcher: Enhanced Edition is surprisingly a
 The Witcher: Enhanced Edition Director's Cut is an engaging title that offers a deep narrative experience, but its slower segments may distract from your exercise session. The compatibility with controllers is a plus for active gamers, while the low computer requirements ensure you can play this game on a variety of setups. If you’re keen on balancing cardio with high-quality storytelling, it might be worth integrating into your routine, but perhaps reserve it for lower-intensity workouts.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Witcher: Enhanced Edition Director's Cut - By Taylor Owen Dorsett

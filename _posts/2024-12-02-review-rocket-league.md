@@ -49,7 +49,3 @@ Overall, Rocket League delivers an electrifying gameplay experience that keeps p
 ### Overall Score: 2.67 out of 3
 
 In summary, Rocket League makes for an exciting way to break a sweat while indulging in gaming. Whether you’re racing on your bike or running on a treadmill, this game offers a dynamic blend of fun and fitness that can motivate any player to keep moving.
-
----
-
-Mr. Game and Sweat Reviews: Rocket League - By Taylor Owen Dorsett

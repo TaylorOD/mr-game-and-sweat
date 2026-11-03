@@ -44,7 +44,3 @@ As for computer requirements, "Skul: The Hero Slayer" isn’t overly demanding, 
 In conclusion, "Skul: The Hero Slayer" is an absolute gem for gamers who want an engaging experience while exercising. Its fast-paced gameplay keeps you focused, the compatibility with exercise equipment is seamless, and the computer requirements are fair. If you're looking for a game that combines fun, challenge, and a great way to keep fit, "Skul: The Hero Slayer" is a must-try. 
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Skul: The Hero Slayer - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ The minimum asks for a 1.5 GHz Pentium 4 or similar, 256 MB of memory, and a 64 
 Battlefront II has a strong mix of battlefield action and a campaign centered on the 501st. It is easy to recommend as a game, but aiming under exercise is the catch. Save it for a slower pace or a workout where you can focus on the screen.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: STAR WARS Battlefront II (Classic, 2005) - By Taylor Owen Dorsett

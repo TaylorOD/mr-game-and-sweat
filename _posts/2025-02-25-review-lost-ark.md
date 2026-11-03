@@ -45,7 +45,3 @@ Lost Ark offers a captivating take on the MMORPG genre that provides plenty of a
 ### Overall Score: 2 out of 3
 
 In summary, if you’re looking to enjoy a rich gaming experience while still keeping yourself active, Lost Ark is certainly worth a spin—but remember to find a good balance between intense combat and maintaining your workout regime!
-
----
-
-Mr. Game and Sweat Reviews: Lost Ark - By Taylor Owen Dorsett

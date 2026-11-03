@@ -44,7 +44,3 @@ Forza Horizon 4 has moderate to high system requirements, depending on how graph
 Forza Horizon 4 manages to strike an impressive balance between exhilarating gameplay and compatibility with physical activity. Its engaging environment, minimal interruptions, and easy control scheme make it an excellent choice for those looking to get their heart rates up while cruising through a vivid virtual world. Although its computer requirements are a bit steep, the overall experience is so enjoyable that it’s well worth the investment. If you’re looking for a fun, interactive way to stay fit, this game is certainly a worthy contender.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Forza Horizon 4 - By Taylor Owen Dorsett

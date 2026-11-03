@@ -43,7 +43,3 @@ The requirements for "Modern Warfare 2" are fairly approachable for a classic ti
 "Call of Duty: Modern Warfare 2" offers a timeless and gripping experience melded with competitive gameplay. While it can certainly distract you during your workout, the heart-racing action coupled with controller compatibility makes it a decent choice for treadmill and biking enthusiasts. Just be mindful of those quick reflexes as you sweat it out! Overall, this game offers an exciting way to boost your fitness journey while engaging in an exhilarating gaming experience.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare 2 (2009) - By Taylor Owen Dorsett

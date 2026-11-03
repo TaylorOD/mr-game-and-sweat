@@ -50,7 +50,3 @@ Players will need at least a 64-bit version of Windows 7 or newer, 8 GB of RAM, 
 Skyrim Special Edition is an engaging RPG that presents a harmonious blend of exercise and entertainment. Its immersive gameplay allows for gradual participation on a treadmill or bike, helping gamers stay focused on their fitness goals while diving into the mystical world of Tamriel. Despite the rare long cutscene and occasional need for quick reactions, overall, it's an excellent choice for the exercise-focused gamer.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim Special Edition - By Taylor Owen Dorsett

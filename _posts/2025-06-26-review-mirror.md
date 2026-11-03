@@ -45,7 +45,3 @@ While "Mirror" presents a visually rich experience, it is relatively light on sy
 In conclusion, "Mirror" offers a compelling blend of engaging mechanics, compatibility with physical exercise, and low computer demands, making it an excellent choice for those looking to sweat it out while enjoying a vibrant gaming experience. Its minor drawbacks in puzzle complexity are easily outweighed by the overall enjoyment and functionality it provides for treadmill and bike use.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mirror - By Taylor Owen Dorsett

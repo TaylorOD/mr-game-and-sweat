@@ -44,7 +44,3 @@ On the technical side, Borderlands 2 is fairly forgiving when it comes to comput
 Borderlands 2 is an outstanding choice for fitness gamers. Its engaging gameplay will keep you distracted from your workout routine, making it easier to power through those last few minutes on the treadmill or bike. While it has some minor downsides in terms of intense combat situations, it generally allows for a flow of relaxed gameplay suitable for cardio. The computer requirements are also accessible enough for most gamers, so you won't need to upgrade your setup just for this title.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Borderlands 2 - By Taylor Owen Dorsett

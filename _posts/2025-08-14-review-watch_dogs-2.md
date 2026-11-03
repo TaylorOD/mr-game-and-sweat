@@ -47,7 +47,3 @@ While "Watch_Dogs 2" isn’t the most graphically demanding game out there, it n
 "Watch_Dogs 2" taps into an exhilarating formula that encourages exploration and a feel of liberation through its world-building and gameplay mechanics. It strikes a fine balance for gamers looking to exercise while entertained; its engaging nature, coupled with controls friendly enough for those maintaining a workout pace, makes it a solid choice. While there are areas that could be refined, the overall experience is worthwhile and invigorating.
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Watch_Dogs 2 - By Taylor Owen Dorsett

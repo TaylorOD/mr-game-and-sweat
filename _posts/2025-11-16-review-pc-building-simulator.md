@@ -1,4 +1,5 @@
 ---
+excerpt: "PC Building Simulator is a poor workout companion because building PCs takes careful clicks and menu work, not quick decisions you can make while bouncing along. The repair jobs give..."
 layout: post
 title:  "PC Building Simulator"
 author: taylor
@@ -42,7 +43,3 @@ The minimum specs ask for a GeForce GTX 660 or Radeon R9 285, both older dedicat
 PC Building Simulator is a relaxed repair sim with a satisfying list of jobs to tackle, but the careful clicking makes it a poor fit for exercise. You can play at a gentle pace, though you may spend more time looking at the screen than focusing on your stride.
 
 ### Overall Score: 1.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: PC Building Simulator - By Taylor Owen Dorsett

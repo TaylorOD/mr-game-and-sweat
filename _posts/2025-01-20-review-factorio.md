@@ -43,7 +43,3 @@ Factorio isn't particularly demanding on system resources. It has a pixelated ar
 Factorio successfully meshes the strategies of factory-building with an addictive gameplay loop that keeps players engaged while navigating their exercise routines. Although the controls can be a minor hurdle on a treadmill or bike, its low system requirements and captivating mechanics make it an excellent choice for gamers looking to exercise simultaneously. Factorio proves that you can build an empire while breaking a sweat!
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Factorio - By Taylor Owen Dorsett

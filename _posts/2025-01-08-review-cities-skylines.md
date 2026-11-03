@@ -43,7 +43,3 @@ While Cities: Skylines is graphically pleasing, it is not overly demanding on a 
 Cities: Skylines excels at providing an immersive city-building experience that pairs well with physical exercise, thanks to its engaging gameplay and controller support. There are very few moments of inactivity, ensuring you're always in the zone, focused on planning your next urban development while keeping your heart rate up. Additionally, its moderate computer requirements make it accessible for most gamers. Whether you’re keen on creating sprawling metropolises or just managing a quaint little town, this game is an excellent choice for anyone looking to have fun while burning calories.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cities: Skylines - By Taylor Owen Dorsett

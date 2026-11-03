@@ -43,7 +43,3 @@ PUBG is moderately demanding on computer resources. It runs well on a range of h
 In conclusion, **PUBG: BATTLEGROUNDS** is an outstanding choice for gamers looking to blend their fitness routine with competitive play. With its engaging gameplay, excellent compatibility with exercise equipment, and moderate system requirements, it stands out as an exhilarating option. So strap on those running shoes or hop on your bike, and get ready for a gaming experience that will have you sweating it out as you fight for survival in a brutal battlefield. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: PUBG: BATTLEGROUNDS - By Taylor Owen Dorsett

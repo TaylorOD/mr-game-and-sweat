@@ -46,7 +46,3 @@ When it comes to treadmill and bike compatibility, "Security Breach" makes an in
 ### Overall Score: 2 out of 3
 
 In summary, if you're looking to balance exercise with immersive horror gaming, "Security Breach" has its merits; just be ready to adapt your workout as the thrills unfold. Happy exercising!
-
----
-
-Mr. Game and Sweat Reviews: Five Nights at Freddy's: Security Breach - By Taylor Owen Dorsett

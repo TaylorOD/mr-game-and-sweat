@@ -46,7 +46,3 @@ In conclusion, Sekiro: Shadows Die Twice - GOTY Edition offers a breathtaking ex
 ### Overall Score: 2 out of 3
 
 If you’re an avid gamer, don’t let the challenges deter you—embrace the grind of both your cardio and the game as you weave through the beautiful yet perilous landscape of the Sengoku period!
-
----
-
-Mr. Game and Sweat Reviews: Sekiro: Shadows Die Twice - GOTY Edition - By Taylor Owen Dorsett

@@ -46,7 +46,3 @@ Starfield gives players a massive galaxy to explore in a way that’s compelling
 ### Overall Score: 2 out of 3
 
 In conclusion, Starfield is a worthy addition to the exercise-friendly gaming landscape, encouraging players to stay active while they explore the stars. So strap on those runners and get ready to run through the cosmos!
-
----
-
-Mr. Game and Sweat Reviews: Starfield - By Taylor Owen Dorsett

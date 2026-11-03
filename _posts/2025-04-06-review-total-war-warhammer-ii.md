@@ -49,7 +49,3 @@ Total War: WARHAMMER II offers a captivating strategy experience filled with all
 ### Overall Score: 2 out of 3
 
 In summary, if you’re looking to dive into a grand strategy experience that you can intermittently enjoy while staying on a treadmill or bike, Total War: WARHAMMER II can be a solid choice. Just be prepared to occasionally lose track of your workout as you get immersed in the captivating world of Warhammer!
-
----
-
-Mr. Game and Sweat Reviews: Total War: WARHAMMER II - By Taylor Owen Dorsett

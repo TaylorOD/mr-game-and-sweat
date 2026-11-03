@@ -43,7 +43,3 @@ CS:GO is relatively light on computer resources, making it accessible for a wide
 Counter-Strike: Global Offensive can definitely enhance your workout sessions, offering an engaging, fast-paced experience that keeps your adrenaline pumping. However, its demanding gameplay might prove challenging to fully enjoy while multitasking on a treadmill or bike. Still, with its low computer requirements, CS:GO remains a strong contender for gamers looking to combine video gaming with exercise. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Counter-Strike: Global Offensive - By Taylor Owen Dorsett

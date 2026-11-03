@@ -44,7 +44,3 @@ In terms of computer specifications, "DAVE THE DIVER" is relatively light, makin
 All in all, "DAVE THE DIVER" manages to blend engaging gameplay with compatibility for exercise enthusiasts perfectly. It consistently keeps you invested in its whimsical world while allowing for a smooth integration of fitness and fun. With no prolonged cut scenes, a straightforward control scheme, and minimal performance demands, it's an excellent choice for those looking to spice up their training regimen. Dive into this colorful adventure and discover that video games and exercise can indeed make a splash together!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DAVE THE DIVER - By Taylor Owen Dorsett

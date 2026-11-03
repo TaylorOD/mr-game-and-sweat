@@ -43,7 +43,3 @@ Robocraft isn't too demanding, and it can run on mid-range to low-end computers 
 Robocraft provides a solid balance of engaging gameplay, compatibility for treadmill and bike setups, and reasonable computer requirements. There’s a constant flow of action that keeps you engaged without overwhelming your exercise routine, making it an excellent choice for those who want to combine fitness with gameplay. Whether you're building a flying fortress or a rugged ground tank, you can enjoy the thrill of creation and competition while still achieving your fitness goals.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Robocraft - By Taylor Owen Dorsett

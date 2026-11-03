@@ -43,7 +43,3 @@ In terms of performance, U.C.N is fairly light on system resources. It doesn’t
 Ultimate Custom Night is an impressive addition to the franchise that successfully combines an engaging gameplay loop with the potential for a unique exercise experience. Despite its slightly demanding reaction requirements on a treadmill or bike, the overall compatibility with fitness activities shines through. If you’re looking to survive the night while keeping your heart rate up, U.C.N is an excellent choice that will keep you on your toes—literally!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ultimate Custom Night - By Taylor Owen Dorsett

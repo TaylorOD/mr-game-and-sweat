@@ -44,7 +44,3 @@ This game does not skimp on its technical demands. Running Microsoft Flight Simu
 Microsoft Flight Simulator (2020) 40th Anniversary Edition creates an exhilarating flying experience that can augment workout sessions on a treadmill or bike, albeit with a few distractions. Its breathtaking visuals and innovative gameplay keep you engaged, while its compatibility with controllers allows for decent exercise integration. However, it’s important to be aware of the computer demands and occasional slow segments which could impact your dual-tasking efficiency. For fitness-minded gamers who can balance their focus, it’s a splendid venture into the skies.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Microsoft Flight Simulator (2020) 40th Anniversary Edition - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ In terms of computer requirements, BattleBit Remastered is surprisingly light. T
 All in all, BattleBit Remastered offers a captivating and energetic gameplay experience that fits seamlessly into your routine, whether you’re running on a treadmill or biking. The combination of engaging action and simple mechanics allows for an effective distraction, making your workout feel less like a chore and more like an adventure. Pair this exhilarating gameplay with its compatibility with various fitness equipment, and you have a winner on your hands.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: BattleBit Remastered - By Taylor Owen Dorsett

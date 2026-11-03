@@ -44,7 +44,3 @@ In terms of computer demands, INSIDE is relatively light. Its minimalist art sty
 INSIDE offers a masterclass in atmosphere and engagement that translates well to a fitness-friendly gaming experience. With its immersive gameplay mechanics, treadmill and bike compatibility, and reasonable computer requirements, it stands out as a prime choice for those seeking to combine exercise with compelling narrative play. For gamers looking to stay active, INSIDE proves that a little bit of thrill and mystery can go hand-in-hand with a good sweat. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: INSIDE - By Taylor Owen Dorsett

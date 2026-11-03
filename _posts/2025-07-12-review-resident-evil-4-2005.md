@@ -44,7 +44,3 @@ Originally released in 2005, Resident Evil 4 is surprisingly light on hardware r
 Resident Evil 4 is a brilliant balance of action and strategy that translates well to an engaging workout experience. With engaging gameplay that avoids long interruptions, a controller setup that's apt for exercise, and minimal computer requirements, it's a fantastic choice for gamers looking to combine their love for gaming with fitness. While it may not be perfect for high-intensity intervals due to a few slower sections, it undoubtedly makes for an exhilarating experience while you sweat it out.
 
 ### Overall Score: 2.4 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil 4 (2005) - By Taylor Owen Dorsett

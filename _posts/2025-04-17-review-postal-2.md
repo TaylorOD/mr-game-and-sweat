@@ -42,7 +42,3 @@ POSTAL 2 is relatively forgiving on system requirements, and it can run comforta
 POSTAL 2 offers an entertaining adventure filled with bizarre humor and chaotic gameplay, making it a fun choice for those looking to engage while exercising. The compatibility with a treadmill or bike doesn't distract too much from the workout, but you might find some moments a bit more challenging than others. With its low computer requirements, it caters to a broad audience, allowing even casual gamers to enjoy some mayhem while burning calories. Just remember to keep your pace steady when the action heats up!
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: POSTAL 2 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ As for the technical requirements, "Dragon's Dogma 2" does boast impressive grap
 Overall, "Dragon's Dogma 2" is a thrilling entry that combines engaging gameplay with solid treadmill and bike compatibility. Its action-packed nature makes it a perfect companion for exercise routines. Although it may require a decent computer, the experience is well worth it for gamers looking to maintain their fitness levels.
 
 ### Overall Score: (3+3+2)/3 = 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dragon's Dogma 2 - By Taylor Owen Dorsett

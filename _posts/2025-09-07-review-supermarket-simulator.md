@@ -44,7 +44,3 @@ Regarding computer requirements, Supermarket Simulator is fairly forgiving. It r
 Supermarket Simulator is a delightful addition to the realm of fitness-friendly video games. It successfully blends an engaging gaming experience with the ability to keep users distracted during their workouts. With its controller compatibility and manageable computer specs, it stands as an excellent option for those looking to mix gaming with cardiovascular exercise. While slightly hindered by a few minor gameplay sections, the overall experience is satisfying, fun, and perfect for exercise enthusiasts. 
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Supermarket Simulator - By Taylor Owen Dorsett

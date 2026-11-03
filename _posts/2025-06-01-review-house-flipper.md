@@ -44,7 +44,3 @@ In terms of computer requirements, **House Flipper** is not particularly demandi
 Overall, **House Flipper** stands out as a fun, creative game that fits seamlessly into an exercise routine. Its engaging gameplay keeps you motivated without detracting from your workout, and its compatibility with standard controllers allows you to enjoy the renovation experience while sweating it out on the treadmill or bike. With an accessible computer requirement, it also opens the door for more players to jump into house-flipping fun. If you're looking for a way to game and stay fit, **House Flipper** is certainly worth considering.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: House Flipper - By Taylor Owen Dorsett

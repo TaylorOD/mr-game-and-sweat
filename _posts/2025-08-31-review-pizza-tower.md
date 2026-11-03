@@ -50,7 +50,3 @@ The fun, fast-paced action comes at a relatively low system cost, which means yo
 Pizza Tower is undoubtedly a fantastic choice for anyone looking to enhance their fitness routine while diving into a colorfully chaotic platformer. Its engaging gameplay keeps you interested, the compatibility with exercise equipment is great, and it runs smoothly on most systems without issue. Just be prepared for some quick movements and an elevated heart rate as you race against the clock!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Pizza Tower - By Taylor Owen Dorsett

@@ -45,7 +45,3 @@ The minimum asks for a Core i5 or Ryzen 5 processor, 12 GB of memory, and a GTX 
 Nightreign has engaging action and full controller support, but the demanding combat makes it hard to play safely at a fast workout pace. Save it for a bike ride or a slower treadmill session where you can focus on those boss fights.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ELDEN RING NIGHTREIGN - By Taylor Owen Dorsett

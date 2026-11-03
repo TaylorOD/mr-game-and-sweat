@@ -44,7 +44,3 @@ One of the standout features of "Hogwarts Legacy" is its controller compatibilit
 In summation, "Hogwarts Legacy" offers a flavorful experience that intertwines perfectly with exercise. With engaging gameplay that keeps you on your toes (literally), a user-friendly interface for treadmill or biking enthusiasts, and respectable hardware demands, it checks a lot of boxes for both gamers and fitness buffs. While there are minor lapses into slow gameplay during cutscenes, it doesn't overshadow the overall experience. I wholeheartedly recommend giving it a try for your next workout session!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hogwarts Legacy - By Taylor Owen Dorsett

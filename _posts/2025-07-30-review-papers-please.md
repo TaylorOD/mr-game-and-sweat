@@ -41,7 +41,3 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030
 "Papers, Please" is an engaging title that provides a unique blend of moral decision-making and gameplay that can effectively keep you distracted while working out on a treadmill or bike. The game’s compatibility with controllers makes it easy to play without interfering with your routine, and its low system requirements make it accessible for virtually any setup. With its immersive gameplay and compelling narrative, it is an excellent choice for those looking to integrate gaming into their exercise sessions.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Papers, Please - By Taylor Owen Dorsett

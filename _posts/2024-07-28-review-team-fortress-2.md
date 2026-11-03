@@ -47,7 +47,3 @@ However, keep in mind that certain classes, like the Sniper, demand a stillness 
 In conclusion, "Team Fortress 2" is a fantastic option for gamers looking to get their fitness on while enjoying a lively multiplayer experience. Its engaging gameplay keeps you occupied, the game adapts well to physical activities, and it’s not demanding on your computer. However, some quick movements may pose a challenge depending on your chosen classes. If you can balance your gameplay with your workout, you'll find it to be a highly enjoyable way to stay active.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Team Fortress 2 - By Taylor Owen Dorsett

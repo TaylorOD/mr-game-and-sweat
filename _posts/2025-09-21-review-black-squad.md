@@ -43,7 +43,3 @@ In terms of computer requirements, Black Squad is quite forgiving. It doesn’t 
 In conclusion, Black Squad stands out as an engaging and accessible choice for gamers looking to incorporate exercise into their routine. Its fast-paced gameplay keeps you glued to the screen, while its relatively manageable control requirements mean you can still focus on your fitness regimen. If you’re seeking a game that makes the treadmill or biking experience more enjoyable, Black Squad may just prove to be the perfect companion.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Black Squad - By Taylor Owen Dorsett

@@ -49,7 +49,3 @@ This variance in requirements means that those choosing to run this on less powe
 In conclusion, "Assassin's Creed Origins" provides a captivating blend of storytelling and dynamic gameplay, making it a solid choice for those who want to merge gaming with a fitness routine. While there are occasional slowdowns and some cutscenes that might disrupt your flow, the overall experience manages to remain engaging. With strong controller compatibility and a focus on exploration, you can manage a solid workout while embarking on epic quests through ancient Egypt.
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assassin's Creed Origins - By Taylor Owen Dorsett

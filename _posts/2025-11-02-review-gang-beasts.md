@@ -42,7 +42,3 @@ Gang Beasts is not particularly demanding in terms of computer requirements. It 
 In conclusion, Gang Beasts offers a hilariously engaging experience that pairs well with exercise. Its fast-paced gameplay holds your attention, while its low requirements and minimal need for quick reflexes make it an excellent choice for those looking to enjoy gaming while breaking a sweat. Whether you’re running on the treadmill or pedaling on a bike, this game is a quirky companion for your fitness routine.  
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Gang Beasts - By Taylor Owen Dorsett

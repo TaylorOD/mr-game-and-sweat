@@ -41,7 +41,3 @@ Bloons TD 6 isn’t demanding on system resources, making it accessible to a wid
 Overall, Bloons TD 6 is a fantastic choice for gamers looking to integrate their love of gaming with their fitness routine. Its engaging gameplay invites you to play while on a treadmill or stationary bike, and it has excellent compatibility with different control schemes. The game’s low system requirements mean you won't have any technical barriers, allowing you to focus on both your fitness goals and your gaming achievements.  
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Bloons TD 6 - By Taylor Owen Dorsett

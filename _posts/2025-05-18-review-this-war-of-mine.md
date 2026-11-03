@@ -43,7 +43,3 @@ This War of Mine isn't particularly demanding and can run on modest hardware con
 In conclusion, This War of Mine offers a compelling survival experience that works well alongside your exercise routine. Designed for gamers who seek an emotional journey rather than frantic action, it provides the perfect balance for playing while running or biking. The engaging gameplay, compatibility with physical activities, and relaxed system requirements make it an ideal choice for exercising gamers. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: This War of Mine - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ For those curious about "Lethal Company's" technical demands, it is relatively m
 In conclusion, "Lethal Company" serves up a thrilling combination of cooperative horror and engaging gameplay that sets itself apart as an interactive workout companion. Quick reflexes might occasionally disrupt your rhythm, but the excitement it brings makes it an exhilarating addition to your exercise routine. If you’re looking for a way to spice up your treadmill or biking sessions while enjoying a horror adventure, this game is well worth a try.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Lethal Company - By Taylor Owen Dorsett
