@@ -3,6 +3,9 @@ topmenu:
   - title: Home
     url: ''
 
+  - title: All Reviews
+    url: 'reviews/'
+
   - title: About
     url: 'about/'
 
@@ -18,6 +21,9 @@ topmenu:
 footermenu:
   - title: Home
     url: ''
+
+  - title: All Reviews
+    url: 'reviews/'
 
   - title: Want us to review your game?
     url: 'https://store.steampowered.com/curator/45035411/'
