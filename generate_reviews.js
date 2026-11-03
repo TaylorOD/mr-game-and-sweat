@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { Anthropic } = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
 const logSafeError = require('./lib/safe_error_log');
@@ -11,7 +12,7 @@ const {
 } = require('./lib/review_utils');
 require('dotenv').config();
 
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const anthropic = new Anthropic(); // Reads ANTHROPIC_API_KEY
 const IGDB_CLIENT_ID = process.env.IGDB_CLIENT_ID;
 const IGDB_CLIENT_SECRET = process.env.IGDB_CLIENT_SECRET;
 const STEAM_API_URL = 'https://steamspy.com/api.php?request=all';
@@ -220,29 +221,23 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
   `;
 
 	try {
-		const response = await axios.post(
-			'https://api.openai.com/v1/chat/completions',
-			{
-				model: 'gpt-4o-mini',
-				messages: [
-					{
-						role: 'system',
-						content:
-							'You are a great writer who has played many many video games and loves exercising',
-					},
-					{ role: 'user', content: prompt },
-				],
-				max_tokens: 1250,
-			},
-			{
-				headers: {
-					Authorization: `Bearer ${OPENAI_API_KEY}`,
-					'Content-Type': 'application/json',
-				},
-			}
-		);
+		const response = await anthropic.messages.create({
+			model: 'claude-haiku-5-5',
+			system:
+				'You are a great writer who has played many many video games and loves exercising',
+			messages: [{ role: 'user', content: prompt }],
+			output_config: { effort: 'medium' },
+			max_tokens: 16000, // Thinking counts toward this too
+		});
+		if (response.stop_reason !== 'end_turn') {
+			throw new Error('Review did not finish');
+		}
 
-		const body = stripOverallScore(response.data.choices[0].message.content);
+		const text = response.content
+			.filter((block) => block.type === 'text')
+			.map((block) => block.text)
+			.join('');
+		const body = stripOverallScore(text);
 		const scores = extractCategoryScores(body);
 		if (scores.length !== 3) {
 			throw new Error('Review did not have three category scores');

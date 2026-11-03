@@ -50,6 +50,10 @@ assert.deepStrictEqual(
   [['Error generating review content']]
 );
 assert.deepStrictEqual(
+  loggedArguments('Error generating review content', { status: 429, message: secret }),
+  [['Error generating review content (HTTP 429)']]
+);
+assert.deepStrictEqual(
   loggedArguments('Unhandled error', { response: { status: 999 } }),
   [['Unhandled error']]
 );

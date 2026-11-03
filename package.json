@@ -1,7 +1,7 @@
 {
   "name": "generate-reviews",
   "version": "1.0.0",
-  "description": "Generate game reviews using OpenAI",
+  "description": "Generate game reviews using Claude",
   "main": "generate_reviews.js",
   "scripts": {
     "start": "node generate_reviews.js"
