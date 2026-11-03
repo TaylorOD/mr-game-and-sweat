@@ -168,46 +168,6 @@ td {
 	flex-shrink: 0;
 }
 
-/* Best of pages */
-.best-list {
-	padding: 0;
-	list-style-position: inside;
-}
-.best-list li {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 1rem;
-	padding: 1.25rem 0;
-	border-bottom: 1px solid var(--line);
-}
-.best-list-image img {
-	display: block;
-	width: 200px;
-	max-width: 100%;
-}
-.best-list li > div {
-	flex: 1 1 240px;
-}
-
-/* Best of pages */
-.best-list {
-	counter-reset: rank;
-	list-style: none;
-}
-.best-list li {
-	counter-increment: rank;
-}
-.best-list h2::before {
-	content: counter(rank) ". ";
-}
-.best-list a.best-list-image {
-	align-self: flex-start;
-	border: 0;
-	box-shadow: none;
-	background: none;
-	text-decoration: none;
-}
-
 /* Header */
 body {
 	padding-top: 92px;
@@ -745,5 +705,93 @@ body {
 	}
 	.review-filter-more .review-filter-check {
 		grid-column: 1 / -1;
+	}
+}
+
+/* Best of pages */
+.best-list {
+	counter-reset: rank;
+	padding: 0;
+	list-style: none;
+}
+.best-list li {
+	display: grid;
+	grid-template-columns: 56px 200px 1fr;
+	align-items: start;
+	gap: 1rem;
+	padding: 1.25rem 0;
+	border-bottom: 1px solid var(--line);
+	counter-increment: rank;
+}
+.best-list li::before {
+	content: counter(rank);
+	color: var(--muted);
+	font-family: var(--font-heading);
+	font-size: 2.75rem;
+	font-weight: 700;
+	line-height: 1;
+	text-align: center;
+}
+.best-list li:nth-child(-n + 3)::before {
+	color: var(--accent);
+}
+.best-list-image img {
+	display: block;
+	width: 100%;
+	border-radius: 8px;
+}
+.article-post .best-list a {
+	color: #fff;
+	text-decoration: none;
+}
+.article-post .best-list a:hover {
+	color: var(--accent);
+}
+.article-post .best-list h2 {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 0.75rem;
+	margin: 0 0 0.4rem;
+	font-size: 1.4rem;
+}
+.best-list h2 .score-badge {
+	flex-shrink: 0;
+	font-size: 1rem;
+}
+.best-list-facts {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem;
+	margin-bottom: 0.5rem;
+}
+.best-list-blurb {
+	margin: 0;
+	color: var(--muted);
+	font-size: 0.92rem;
+	line-height: 1.55;
+}
+.article-post .browse-chips a {
+	color: var(--text-soft);
+	text-decoration: none;
+}
+.article-post .browse-chips a:hover {
+	color: var(--accent);
+}
+@media only screen and (max-width: 767px) {
+	.best-list li {
+		grid-template-columns: 44px 1fr;
+	}
+	.best-list li::before {
+		font-size: 2.25rem;
+	}
+	.best-list-text {
+		grid-column: 1 / -1;
+	}
+	.article-post .browse-chips {
+		flex-wrap: wrap;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
 	}
 }

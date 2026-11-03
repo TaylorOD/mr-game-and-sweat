@@ -11,6 +11,4 @@ These are our top rated games to play while you run or ride. Want more? [Browse 
 
 ## More lists
 
-<ul>
-{% for list in site.data.best_lists %}<li><a href="{{ site.baseurl }}/{{ list.url }}">{{ list.title }}</a></li>
-{% endfor %}</ul>
+<nav class="browse-chips" aria-label="More lists">{% for list in site.data.best_lists %}<a href="{{ site.baseurl }}/{{ list.url }}" title="{{ list.title }}">{{ list.label }}</a>{% endfor %}</nav>
