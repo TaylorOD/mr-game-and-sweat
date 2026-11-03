@@ -9,7 +9,7 @@ post_class: post-template
 ================================================== -->
 
 	{% if page.image %}
-	{% capture art %}{% if page.image contains '://' %}{{ page.image }}{% elsif page.image contains 'assets/images/guides/' %}{{ site.baseurl }}/{{ page.image | split: '.' | pop | join: '.' }}-480.webp{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endcapture %}
+	{% capture art %}{% if page.image contains '://' %}{{ page.image }}{% elsif page.image contains 'assets/images/guides/' or page.image contains 'assets/images/reviews/' %}{{ site.baseurl }}/{{ page.image | split: '.' | pop | join: '.' }}-480.webp{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endcapture %}
 	<div class="post-banner" style="--art: url('{{ art | strip }}')">
 		{% include image.html src=page.image alt=page.title class="featured-image" sizes="(min-width: 600px) 560px, 100vw" priority=true %}
 	</div>

@@ -1,0 +1,24 @@
+---
+layout: default
+title: Great Games You Shouldn't Play While You Exercise
+seo_title: Great Games, Bad Workouts | Mr. Game and Sweat
+permalink: "/great-games-bad-workouts/"
+description: Great video games that need a mouse and keyboard, careful thinking or lots of reading, so save them for your desk and not your treadmill or exercise bike.
+---
+
+<h1 class="mb-3">Great Games, Bad Workouts</h1>
+<p class="lead mb-4">These are great games. Just dont play them on a treadmill. They need a mouse and keyboard, a lot of thinking or a lot of reading. Our scores are about workouts, not how good a game is, so play these at your desk.</p>
+
+{% assign desk_games = site.posts | where_exp: "p", "p.categories contains 'desk'" %}
+{% if desk_games.size > 0 %}
+<section class="row">
+	{% for post in desk_games %}
+	{% assign first_row = false %}{% if forloop.index <= 3 %}{% assign first_row = true %}{% endif %}
+	<div class="col-md-4 mb-5">
+		{% include postbox.html eager=first_row %}
+	</div>
+	{% endfor %}
+</section>
+{% else %}
+<p>The first ones are on the way. <a class="accent-link" href="{{ site.baseurl }}/best-of/">Here's what to play on the treadmill</a> until then.</p>
+{% endif %}
