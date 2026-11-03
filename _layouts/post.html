@@ -8,37 +8,25 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
+	{% if page.image %}
+	{% capture art %}{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endcapture %}
+	<div class="post-banner" style="--art: url('{{ art | strip }}')">
+		<img class="featured-image" src="{{ art | strip }}" alt="{{ page.title | escape }}">
+	</div>
+	{% endif %}
+
 	<div class="row">
-		
 
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
-        
+		<!-- Post -->
+		{% assign author = site.authors[page.author] %}
+
 		<div class="col-lg-8 mx-auto">
-            <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title | escape }}">{% endif %}
-			<!-- End Featured Image -->
-			<div class="mainheading">             
-                
-                <!-- Post Categories -->
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <!-- End Categories -->
-                
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
+			<div class="mainheading">
+				<h1 class="posttitle">{{ page.title }}</h1>
+				<p class="post-meta">
+					<span><time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.added %}, added {{ page.added | date: "%b %Y" }}{% endif %}</span>{% for genre in page.genres limit: 3 %}<span class="post-genre">{{ genre }}</span>{% endfor %}
+				</p>
 			</div>
-
-			
 
 			{% include score_box.html %}
 			{% include review_schema.html %}
@@ -49,20 +37,6 @@ post_class: post-template
                 <div class="clearfix"></div>
 			</div>
 
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.added %}
-                (added {{ page.added | date: "%b %Y" }})
-                {% elsif page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
-            
-			
-            
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
@@ -81,19 +55,16 @@ post_class: post-template
             {% include related_reviews.html %}
             
             
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
-					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-						<span class="author-description">{{ author.description }}</span>						
-					</div>
-				</div>				
-                {% endif %}
-            
+			<!-- Author Box -->
+			{% if page.author %}
+			<div class="post-author">
+				<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+				<div>
+					<strong>{{ author.display_name }}</strong>
+					<span class="author-description">{{ author.description }}</span>
+				</div>
+			</div>
+			{% endif %}
 
 		</div>
 		<!-- End Post -->
