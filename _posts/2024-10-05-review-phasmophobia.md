@@ -17,6 +17,7 @@ genres: ["Action", "Indie", "Early Access"]
 pause_friendly: "No"
 session_length: Short
 best_for: Both
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg
 ---
 
 “Phasmophobia” is a co-op survival horror game that has taken the gaming world by storm with its unique blend of ghost hunting and immersive gameplay. As you and your friends set out to investigate haunted locations, you rely on teamwork and communication to uncover various spirits haunting the premises. But how does this spine-tingling experience fare on your treadmill or bike? Let’s take a closer look!

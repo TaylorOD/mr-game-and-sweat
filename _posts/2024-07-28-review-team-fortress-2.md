@@ -16,6 +16,7 @@ genres: ["Action", "Free To Play"]
 pause_friendly: "No"
 session_length: Short
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg
 ---
 
 Valve's "Team Fortress 2" is an iconic team-based multiplayer shooter that has captured the hearts of gamers since its release in 2007. With its vibrant art style and cartoonish characters, it provides an exhilarating experience packed with competitive gameplay. But how well does it mesh with a workout routine on a treadmill or bike? Let’s break it down.

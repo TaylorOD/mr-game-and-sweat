@@ -16,6 +16,7 @@ genres: ["Action", "Strategy", "Free To Play"]
 pause_friendly: "No"
 session_length: Medium
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg
 ---
 
 **Game Review: Dota 2**

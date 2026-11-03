@@ -16,6 +16,7 @@ genres: ["Casual", "Indie", "Animation & Modeling", "Design & Illustration", "Ph
 pause_friendly: "Yes"
 session_length: Long
 best_for: Both
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg
 ---
 
 "Wallpaper Engine" is a unique and innovative application that allows users to create and customize dynamic wallpapers with animated visuals and audio. While not a traditional game, its interactive aspects can be quite captivating, leading to interesting potential for those looking to add some life to their workout environment. Let’s dive into how this app holds up for users keen on exercising while maintaining visual stimulus.

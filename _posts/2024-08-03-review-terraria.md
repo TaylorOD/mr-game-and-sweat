@@ -17,6 +17,7 @@ genres: ["Action", "Adventure", "Indie", "RPG"]
 pause_friendly: "Sometimes"
 session_length: Long
 best_for: Both
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg
 ---
 
 **Terraria** is a sandbox adventure game that takes inspiration from 2D pixel art and offers endless possibilities for creativity and exploration. With its vibrant world, engaging mechanics, and countless crafting options, it's a game that can keep you hooked for hours. But as we assess whether it’s suitable for those who like to get their sweat on while gaming, let’s break down the experience.

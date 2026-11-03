@@ -17,6 +17,7 @@ genres: ["Action"]
 pause_friendly: "No"
 session_length: Short
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg
 ---
 
 Dead by Daylight has gained a dedicated following since its release, known for its horror-themed gameplay where players take on the roles of either a killer or survivors trying to escape. As avid gamers and fitness enthusiasts, we’re here to see if this multiplayer experience holds up for those of you who enjoy running on a treadmill or biking while gaming.

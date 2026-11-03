@@ -6,7 +6,6 @@ comments: false
 disqus: false
 date:   2024-12-25T00:09:52.721Z
 categories: [ review, game ]
-image: null
 excerpt: "Ahoy, fellow adventurers and fitness enthusiasts!"
 score_gameplay: 2
 score_treadmill: 2
@@ -15,6 +14,10 @@ score_overall: 2
 pause_friendly: "No"
 session_length: Long
 best_for: Bike
+steam_appid: 1172620
+controller: None
+genres: ["Action", "Adventure"]
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg
 ---
 
 Ahoy, fellow adventurers and fitness enthusiasts! "Sea of Thieves: 2024 Edition" has set sail with some exciting updates that's bound to have you hoisting a pirate flag while raising your heart rate. This multiplayer pirate adventure allows players to explore vast seas, conquer rival crews, and seek treasure, all while you aim to get some exercise in. Let’s dive into the nitty-gritty!

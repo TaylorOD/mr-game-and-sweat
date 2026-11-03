@@ -1,8 +1,9 @@
 {% assign exclude = include.exclude %}
 {% assign candidates = site.posts | where_exp: "p", "p.score_treadmill >= 2" | where_exp: "p", "p.best_for != exclude" | sort: "score_overall" | reverse %}
 {% assign shown = 0 %}
+{% assign score_levels = "3,2" | split: "," %}
 <ol class="best-list">
-	{% for score in "3,2" | split: "," %}
+	{% for score in score_levels %}
 	{% for p in candidates %}
 	{% assign treadmill = p.score_treadmill | append: "" %}
 	{% if treadmill == score and shown < 25 %}

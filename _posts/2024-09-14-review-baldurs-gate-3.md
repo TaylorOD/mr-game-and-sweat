@@ -17,6 +17,7 @@ genres: ["Adventure", "RPG", "Strategy"]
 pause_friendly: "Yes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg
 ---
 
 Baldur's Gate 3 is a masterful blend of traditional RPG elements and modern gameplay mechanics, setting a high bar for storytelling and character interactions in the gaming landscape. However, for those of us who want to stay active—whether on a treadmill or bike—it's essential to consider how it fits into an exercise routine.

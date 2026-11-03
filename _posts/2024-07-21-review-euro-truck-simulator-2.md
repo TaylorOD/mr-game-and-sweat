@@ -16,6 +16,7 @@ genres: ["Indie", "Simulation"]
 pause_friendly: "Yes"
 session_length: Long
 best_for: Both
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg
 ---
 
 Euro Truck Simulator 2 (ETS2) is a unique entry into the simulation genre, where players take on the role of a truck driver navigating the expansive roads of Europe. With an emphasis on realism, this game has become a beloved option for those who enjoy leisurely driving and managing logistics. But how does it fare in an exercise-centric environment?

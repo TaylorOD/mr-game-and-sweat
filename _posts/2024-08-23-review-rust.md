@@ -16,6 +16,7 @@ genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"]
 pause_friendly: "No"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg
 ---
 
 Rust, the multiplayer survival game by Facepunch Studios, has carved its niche in the gaming world with its intense player-versus-player interactions and harsh survival mechanisms. But how does this brutal, post-apocalyptic experience fare for those looking to break a sweat while gaming? Let’s dive in!

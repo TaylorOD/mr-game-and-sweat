@@ -16,6 +16,7 @@ genres: ["Action", "Adventure", "Indie", "Simulation"]
 pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg
 ---
 
 **The Forest** is a visually stunning survival horror game that immerses players in a dense, foreboding wilderness. Designed for those who relish both the thrill of virtual adventures and the commitment to an active lifestyle, this game fosters a unique blend of survival instinct and immersion. But is it compatible with your treadmill or bike exercise routine? Let’s dive in.

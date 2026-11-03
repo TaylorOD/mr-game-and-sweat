@@ -16,6 +16,7 @@ genres: ["RPG"]
 pause_friendly: "Yes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg
 ---
 
 The Witcher 3: Wild Hunt is a sprawling open-world RPG that takes players on an epic journey alongside Geralt of Rivia, a monster hunter, as he searches for his missing adopted daughter. With breathtaking graphics, an intricate story, and a rich world to explore, it’s no surprise that this title is often heralded as one of the greatest games of all time. But with a focus on exercise-friendly gaming, let’s see how it stacks up for those burning calories on treadmills or bikes.

@@ -3,6 +3,12 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
+/* Keep the menu on one line */
+.navbar .nav-link,
+.navbar .text-muted.small {
+	white-space: nowrap;
+}
+
 /* Cards */
 .card-image-link {
 	display: block;

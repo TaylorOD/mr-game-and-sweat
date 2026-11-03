@@ -17,6 +17,7 @@ genres: ["Action"]
 pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg
 ---
 
 Left 4 Dead 2 is a cooperative first-person shooter that pits you and your friends against hordes of relentless zombies. It’s a game designed to keep you on the edge of your seat, and the adrenaline rush can be a perfect companion to your exercise routine. Whether you’re sprinting on a treadmill or pedaling furiously on a bike, this game will keep your heart rate up—and that’s exactly what we’re looking for!

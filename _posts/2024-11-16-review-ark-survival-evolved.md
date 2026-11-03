@@ -17,6 +17,7 @@ genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"]
 pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg
 ---
 
 ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats. As you navigate this massive open-world environment, it becomes essential to balance your exploration and survival with your exercise routine. Here’s how it holds up for fitness gamers.

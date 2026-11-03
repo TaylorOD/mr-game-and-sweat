@@ -16,6 +16,7 @@ genres: ["Action", "Adventure", "Racing"]
 pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg
 ---
 
 Grand Theft Auto V (GTA V) is a sprawling open-world action-adventure game that delivers a blend of storytelling, exploration, and adrenaline-pumping chaos. For those who enjoy exercise while gaming, let's see how this title measures up on both the treadmill and cyclist's journey.

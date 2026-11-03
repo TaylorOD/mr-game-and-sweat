@@ -17,6 +17,7 @@ genres: ["Action", "Free To Play"]
 pause_friendly: "No"
 session_length: Short
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1c7b1ea3405a69c54429e2aa3dc31f3cbbeaa456/header_alt_assets_28.jpg
 ---
 
 Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem. With its blend of intense gameplay and operator-based mechanics, it presents an exciting challenge not just for your gaming skills, but also for those looking to stay active on a treadmill or bike.

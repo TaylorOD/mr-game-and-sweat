@@ -17,6 +17,7 @@ genres: ["Action", "Adventure", "Free To Play"]
 pause_friendly: "No"
 session_length: Short
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg
 ---
 
 Apex Legends, developed by Respawn Entertainment, has surged in popularity since its release, blending fast-paced battle royale gameplay with a cast of unique characters. But how does it fair when you want to enjoy this exhilarating title while also staying active on a treadmill or bike? Let’s break it down.

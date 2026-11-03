@@ -16,6 +16,7 @@ genres: ["Action", "Adventure"]
 pause_friendly: "Yes"
 session_length: Long
 best_for: Bike
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg
 ---
 
 Red Dead Redemption 2 is an epic narrative and breathtaking open-world adventure that captivates players but poses a challenge for those wanting to maintain their exercise routine. Let’s dive into how well this game integrates with your treadmill or bike workouts!
