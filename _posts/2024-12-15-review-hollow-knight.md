@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hollow Knight"
+title:  "Hollow Knight"
 author: taylor
 comments: false
 disqus: false

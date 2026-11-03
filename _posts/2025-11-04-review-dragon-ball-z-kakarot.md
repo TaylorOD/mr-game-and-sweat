@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL Z: KAKAROT"
+title:  "DRAGON BALL Z: KAKAROT"
 author: taylor
 comments: false
 disqus: false

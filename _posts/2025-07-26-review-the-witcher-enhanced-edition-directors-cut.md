@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Witcher: Enhanced Edition Director's Cut"
+title:  "The Witcher: Enhanced Edition Director's Cut"
 author: taylor
 comments: false
 disqus: false

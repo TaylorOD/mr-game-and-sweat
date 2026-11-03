@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DayZ"
+title:  "DayZ"
 author: taylor
 comments: false
 disqus: false

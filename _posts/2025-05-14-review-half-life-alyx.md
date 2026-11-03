@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Half-Life: Alyx"
+title:  "Half-Life: Alyx"
 author: taylor
 comments: false
 disqus: false

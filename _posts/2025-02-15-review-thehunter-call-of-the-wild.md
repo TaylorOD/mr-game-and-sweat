@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: theHunter: Call of the Wild"
+title:  "theHunter: Call of the Wild"
 author: taylor
 comments: false
 disqus: false

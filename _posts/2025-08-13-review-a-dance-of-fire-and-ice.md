@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: A Dance of Fire and Ice"
+title:  "A Dance of Fire and Ice"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Katana ZERO"
+title:  "Katana ZERO"
 author: taylor
 comments: false
 disqus: false

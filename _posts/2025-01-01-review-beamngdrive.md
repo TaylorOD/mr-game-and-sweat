@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: BeamNG.drive"
+title:  "BeamNG.drive"
 author: taylor
 comments: false
 disqus: false

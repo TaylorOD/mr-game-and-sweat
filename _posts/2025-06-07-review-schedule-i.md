@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Schedule I"
+title:  "Schedule I"
 author: taylor
 comments: false
 disqus: false

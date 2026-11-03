@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hitman: Absolution"
+title:  "Hitman: Absolution"
 author: taylor
 comments: false
 disqus: false

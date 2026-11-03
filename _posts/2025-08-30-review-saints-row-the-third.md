@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Saints Row: The Third"
+title:  "Saints Row: The Third"
 author: taylor
 comments: false
 disqus: false

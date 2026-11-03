@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Age of Empires II: Definitive Edition"
+title:  "Age of Empires II: Definitive Edition"
 author: taylor
 comments: false
 disqus: false

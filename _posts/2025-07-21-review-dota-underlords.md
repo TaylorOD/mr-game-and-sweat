@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dota Underlords"
+title:  "Dota Underlords"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Call of Duty: Black Ops III"
+title:  "Call of Duty: Black Ops III"
 author: taylor
 comments: false
 disqus: false

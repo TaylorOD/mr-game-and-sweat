@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Disco Elysium - The Final Cut"
+title:  "Disco Elysium - The Final Cut"
 author: taylor
 comments: false
 disqus: false

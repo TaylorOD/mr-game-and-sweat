@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Batman: Arkham Knight"
+title:  "Batman: Arkham Knight"
 author: taylor
 comments: false
 disqus: false

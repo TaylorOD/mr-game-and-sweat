@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Crusader Kings III"
+title:  "Crusader Kings III"
 author: taylor
 comments: false
 disqus: false

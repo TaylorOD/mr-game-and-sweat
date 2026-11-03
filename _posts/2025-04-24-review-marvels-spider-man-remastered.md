@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Marvel’s Spider-Man Remastered"
+title:  "Marvel’s Spider-Man Remastered"
 author: taylor
 comments: false
 disqus: false

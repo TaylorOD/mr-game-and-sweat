@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Battlerite"
+title:  "Battlerite"
 author: taylor
 comments: false
 disqus: false

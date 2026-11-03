@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Slime Rancher"
+title:  "Slime Rancher"
 author: taylor
 comments: false
 disqus: false

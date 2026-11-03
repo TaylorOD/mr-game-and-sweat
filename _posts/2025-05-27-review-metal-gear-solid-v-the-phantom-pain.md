@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: METAL GEAR SOLID V: THE PHANTOM PAIN"
+title:  "METAL GEAR SOLID V: THE PHANTOM PAIN"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Risk of Rain 2"
+title:  "Risk of Rain 2"
 author: taylor
 categories: [ review, action, roguelike, multiplayer ]
 comments: false

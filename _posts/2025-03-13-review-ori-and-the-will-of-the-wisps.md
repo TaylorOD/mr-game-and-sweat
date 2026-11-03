@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ori and the Will of the Wisps"
+title:  "Ori and the Will of the Wisps"
 author: taylor
 comments: false
 disqus: false

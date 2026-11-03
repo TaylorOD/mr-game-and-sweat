@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Beat Saber"
+title:  "Beat Saber"
 author: taylor
 comments: false
 disqus: false

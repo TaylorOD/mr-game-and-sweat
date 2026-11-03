@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Skul: The Hero Slayer"
+title:  "Skul: The Hero Slayer"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: People Playground"
+title:  "People Playground"
 author: taylor
 comments: false
 disqus: false

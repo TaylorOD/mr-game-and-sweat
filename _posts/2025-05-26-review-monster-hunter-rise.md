@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: MONSTER HUNTER RISE"
+title:  "MONSTER HUNTER RISE"
 author: taylor
 comments: false
 disqus: false

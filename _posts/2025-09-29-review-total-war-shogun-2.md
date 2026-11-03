@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Total War: SHOGUN 2"
+title:  "Total War: SHOGUN 2"
 author: taylor
 comments: false
 disqus: false

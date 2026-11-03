@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sons Of The Forest"
+title:  "Sons Of The Forest"
 author: taylor
 comments: false
 disqus: false

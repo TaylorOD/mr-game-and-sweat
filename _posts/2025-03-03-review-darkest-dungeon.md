@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Darkest Dungeon"
+title:  "Darkest Dungeon"
 author: taylor
 comments: false
 disqus: false

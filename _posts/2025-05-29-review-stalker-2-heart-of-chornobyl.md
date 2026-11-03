@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+title:  "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
 author: taylor
 comments: false
 disqus: false

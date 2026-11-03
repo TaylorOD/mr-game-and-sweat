@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Friday the 13th: The Game"
+title:  "Friday the 13th: The Game"
 author: taylor
 comments: false
 disqus: false

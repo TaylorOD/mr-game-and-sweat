@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rising Storm 2: Vietnam"
+title:  "Rising Storm 2: Vietnam"
 author: taylor
 comments: false
 disqus: false

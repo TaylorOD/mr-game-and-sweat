@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Goat Simulator"
+title:  "Goat Simulator"
 author: taylor
 comments: false
 disqus: false

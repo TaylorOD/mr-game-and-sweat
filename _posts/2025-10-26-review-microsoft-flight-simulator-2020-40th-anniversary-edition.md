@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+title:  "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
 author: taylor
 comments: false
 disqus: false

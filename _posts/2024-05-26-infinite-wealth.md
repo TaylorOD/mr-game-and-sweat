@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth"
+title:  "Like a Dragon Infinite Wealth"
 author: taylor
 categories: [ review, rpg ]
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cobalt Core"
+title:  "Cobalt Core"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false

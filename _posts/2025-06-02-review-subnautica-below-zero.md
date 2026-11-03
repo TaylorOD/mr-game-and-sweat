@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Subnautica: Below Zero"
+title:  "Subnautica: Below Zero"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cult of the Lamb"
+title:  "Cult of the Lamb"
 author: taylor
 comments: false
 disqus: false

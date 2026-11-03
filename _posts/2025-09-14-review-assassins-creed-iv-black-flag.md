@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assassin’s Creed IV Black Flag"
+title:  "Assassin’s Creed IV Black Flag"
 author: taylor
 comments: false
 disqus: false

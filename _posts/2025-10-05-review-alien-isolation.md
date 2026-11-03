@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Alien: Isolation"
+title:  "Alien: Isolation"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ghostrunner"
+title:  "Ghostrunner"
 author: taylor
 comments: false
 disqus: false

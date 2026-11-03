@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: R.E.P.O."
+title:  "R.E.P.O."
 author: taylor
 comments: false
 disqus: false

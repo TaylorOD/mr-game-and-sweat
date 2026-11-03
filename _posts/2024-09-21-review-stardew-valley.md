@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Stardew Valley"
+title:  "Stardew Valley"
 author: taylor
 comments: false
 disqus: false

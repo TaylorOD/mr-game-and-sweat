@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim"
+title:  "The Elder Scrolls V: Skyrim"
 author: taylor
 comments: false
 disqus: false

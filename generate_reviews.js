@@ -256,7 +256,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 
 		return `---
 layout: post
-title:  ${JSON.stringify(`Mr. Game and Sweat Reviews: ${game.name}`)}
+title:  ${JSON.stringify(game.name)}
 author: taylor
 comments: false
 disqus: false

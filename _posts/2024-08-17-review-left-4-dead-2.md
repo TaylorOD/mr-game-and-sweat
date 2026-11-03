@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Left 4 Dead 2"
+title:  "Left 4 Dead 2"
 author: taylor
 comments: false
 disqus: false

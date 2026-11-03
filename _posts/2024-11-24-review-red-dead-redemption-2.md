@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Red Dead Redemption 2"
+title:  "Red Dead Redemption 2"
 author: taylor
 comments: false
 disqus: false

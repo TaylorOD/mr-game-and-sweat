@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Valheim"
+title:  "Valheim"
 author: taylor
 comments: false
 disqus: false

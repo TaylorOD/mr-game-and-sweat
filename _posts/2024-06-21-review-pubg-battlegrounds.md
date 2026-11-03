@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PUBG: BATTLEGROUNDS"
+title:  "PUBG: BATTLEGROUNDS"
 author: taylor
 comments: false
 disqus: false

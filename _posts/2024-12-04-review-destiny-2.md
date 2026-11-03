@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Destiny 2"
+title:  "Destiny 2"
 author: taylor
 comments: false
 disqus: false

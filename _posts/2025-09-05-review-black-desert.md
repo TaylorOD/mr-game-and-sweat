@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Black Desert"
+title:  "Black Desert"
 author: taylor
 comments: false
 disqus: false

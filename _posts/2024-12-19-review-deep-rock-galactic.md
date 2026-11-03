@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Deep Rock Galactic"
+title:  "Deep Rock Galactic"
 author: taylor
 comments: false
 disqus: false

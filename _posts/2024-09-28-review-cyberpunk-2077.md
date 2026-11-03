@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cyberpunk 2077"
+title:  "Cyberpunk 2077"
 author: taylor
 comments: false
 disqus: false

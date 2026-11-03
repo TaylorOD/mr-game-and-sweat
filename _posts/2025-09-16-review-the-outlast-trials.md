@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Outlast Trials"
+title:  "The Outlast Trials"
 author: taylor
 comments: false
 disqus: false

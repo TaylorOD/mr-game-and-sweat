@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: BattleBit Remastered"
+title:  "BattleBit Remastered"
 author: taylor
 comments: false
 disqus: false

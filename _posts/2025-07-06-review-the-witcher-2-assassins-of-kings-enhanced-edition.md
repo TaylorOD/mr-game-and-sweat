@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Witcher 2: Assassins of Kings Enhanced Edition"
+title:  "The Witcher 2: Assassins of Kings Enhanced Edition"
 author: taylor
 comments: false
 disqus: false

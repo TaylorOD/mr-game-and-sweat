@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Celeste"
+title:  "Celeste"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assetto Corsa"
+title:  "Assetto Corsa"
 author: taylor
 comments: false
 disqus: false

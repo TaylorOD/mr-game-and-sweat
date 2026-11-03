@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL: Sparking! ZERO"
+title:  "DRAGON BALL: Sparking! ZERO"
 author: taylor
 comments: false
 disqus: false

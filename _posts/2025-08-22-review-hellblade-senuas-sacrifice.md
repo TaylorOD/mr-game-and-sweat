@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hellblade: Senua's Sacrifice"
+title:  "Hellblade: Senua's Sacrifice"
 author: taylor
 comments: false
 disqus: false

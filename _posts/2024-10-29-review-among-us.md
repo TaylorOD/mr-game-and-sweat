@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Among Us"
+title:  "Among Us"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Resident Evil 3"
+title:  "Resident Evil 3"
 author: taylor
 comments: false
 disqus: false

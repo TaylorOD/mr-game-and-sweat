@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: XCOM: Enemy Unknown"
+title:  "XCOM: Enemy Unknown"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Overcooked! 2"
+title:  "Overcooked! 2"
 author: taylor
 comments: false
 disqus: false

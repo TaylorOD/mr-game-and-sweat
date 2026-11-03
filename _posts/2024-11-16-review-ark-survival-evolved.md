@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ARK: Survival Evolved"
+title:  "ARK: Survival Evolved"
 author: taylor
 comments: false
 disqus: false

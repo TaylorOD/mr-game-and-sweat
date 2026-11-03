@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Blade and Sorcery"
+title:  "Blade and Sorcery"
 author: taylor
 comments: false
 disqus: false

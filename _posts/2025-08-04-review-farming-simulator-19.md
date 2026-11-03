@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Farming Simulator 19"
+title:  "Farming Simulator 19"
 author: taylor
 comments: false
 disqus: false

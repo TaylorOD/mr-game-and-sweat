@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rocket League"
+title:  "Rocket League"
 author: taylor
 comments: false
 disqus: false

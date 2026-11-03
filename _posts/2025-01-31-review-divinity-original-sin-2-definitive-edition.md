@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Divinity: Original Sin 2 - Definitive Edition"
+title:  "Divinity: Original Sin 2 - Definitive Edition"
 author: taylor
 comments: false
 disqus: false

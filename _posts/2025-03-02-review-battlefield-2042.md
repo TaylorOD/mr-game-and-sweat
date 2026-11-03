@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Battlefield 2042"
+title:  "Battlefield 2042"
 author: taylor
 comments: false
 disqus: false

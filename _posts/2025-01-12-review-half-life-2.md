@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Half-Life 2"
+title:  "Half-Life 2"
 author: taylor
 comments: false
 disqus: false

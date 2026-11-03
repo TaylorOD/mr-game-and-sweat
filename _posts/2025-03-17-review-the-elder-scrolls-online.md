@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Elder Scrolls Online"
+title:  "The Elder Scrolls Online"
 author: taylor
 comments: false
 disqus: false

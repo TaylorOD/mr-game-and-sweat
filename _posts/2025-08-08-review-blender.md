@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Blender"
+title:  "Blender"
 author: taylor
 comments: false
 disqus: false

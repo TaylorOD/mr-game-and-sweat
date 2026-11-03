@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: MiSide"
+title:  "MiSide"
 author: taylor
 comments: false
 disqus: false

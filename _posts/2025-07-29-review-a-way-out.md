@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: A Way Out"
+title:  "A Way Out"
 author: taylor
 comments: false
 disqus: false

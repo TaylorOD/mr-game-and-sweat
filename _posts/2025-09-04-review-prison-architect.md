@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Prison Architect"
+title:  "Prison Architect"
 author: taylor
 comments: false
 disqus: false

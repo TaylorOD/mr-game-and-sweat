@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Age of Empires IV: Anniversary Edition"
+title:  "Age of Empires IV: Anniversary Edition"
 author: taylor
 comments: false
 disqus: false

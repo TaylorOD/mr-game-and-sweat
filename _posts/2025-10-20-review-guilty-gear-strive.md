@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: GUILTY GEAR -STRIVE-"
+title:  "GUILTY GEAR -STRIVE-"
 author: taylor
 comments: false
 disqus: false

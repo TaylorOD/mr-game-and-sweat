@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: World of Warships"
+title:  "World of Warships"
 author: taylor
 comments: false
 disqus: false

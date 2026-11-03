@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: World of Tanks Blitz"
+title:  "World of Tanks Blitz"
 author: taylor
 comments: false
 disqus: false

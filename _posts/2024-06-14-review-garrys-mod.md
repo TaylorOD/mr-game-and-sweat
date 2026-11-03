@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Garry's Mod"
+title:  "Garry's Mod"
 author: taylor
 comments: false
 disqus: false

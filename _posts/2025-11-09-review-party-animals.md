@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Party Animals"
+title:  "Party Animals"
 author: taylor
 comments: false
 disqus: false

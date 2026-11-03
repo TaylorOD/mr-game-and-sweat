@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Henry Stickmin Collection"
+title:  "The Henry Stickmin Collection"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Persona 5 Royal"
+title:  "Persona 5 Royal"
 author: taylor
 comments: false
 disqus: false

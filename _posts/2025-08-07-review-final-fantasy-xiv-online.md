@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: FINAL FANTASY XIV Online"
+title:  "FINAL FANTASY XIV Online"
 author: taylor
 comments: false
 disqus: false

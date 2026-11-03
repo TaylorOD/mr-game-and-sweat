@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tabletop Simulator"
+title:  "Tabletop Simulator"
 author: taylor
 comments: false
 disqus: false

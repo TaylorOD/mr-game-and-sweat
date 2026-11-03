@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: POSTAL 2"
+title:  "POSTAL 2"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dead Cells"
+title:  "Dead Cells"
 author: jonas
 categories: [ review, roguelike, metroidvania ]
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: God of War"
+title:  "God of War"
 author: taylor
 comments: false
 disqus: false

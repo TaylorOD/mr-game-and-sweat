@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: STAR WARS: The Old Republic"
+title:  "STAR WARS: The Old Republic"
 author: taylor
 comments: false
 disqus: false

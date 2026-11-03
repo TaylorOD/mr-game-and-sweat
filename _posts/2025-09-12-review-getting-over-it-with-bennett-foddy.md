@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Getting Over It with Bennett Foddy"
+title:  "Getting Over It with Bennett Foddy"
 author: taylor
 comments: false
 disqus: false

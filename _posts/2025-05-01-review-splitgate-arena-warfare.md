@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Splitgate: Arena Warfare"
+title:  "Splitgate: Arena Warfare"
 author: taylor
 comments: false
 disqus: false

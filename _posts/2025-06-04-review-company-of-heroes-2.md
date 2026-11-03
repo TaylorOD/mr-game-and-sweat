@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Company of Heroes 2"
+title:  "Company of Heroes 2"
 author: taylor
 comments: false
 disqus: false

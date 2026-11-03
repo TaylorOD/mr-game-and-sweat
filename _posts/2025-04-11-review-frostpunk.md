@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Frostpunk"
+title:  "Frostpunk"
 author: taylor
 comments: false
 disqus: false

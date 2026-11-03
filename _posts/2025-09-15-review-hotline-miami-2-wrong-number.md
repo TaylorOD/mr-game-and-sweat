@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hotline Miami 2: Wrong Number"
+title:  "Hotline Miami 2: Wrong Number"
 author: taylor
 comments: false
 disqus: false

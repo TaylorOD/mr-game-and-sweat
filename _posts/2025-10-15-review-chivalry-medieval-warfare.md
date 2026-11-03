@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Chivalry: Medieval Warfare"
+title:  "Chivalry: Medieval Warfare"
 author: taylor
 comments: false
 disqus: false

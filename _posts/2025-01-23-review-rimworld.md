@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: RimWorld"
+title:  "RimWorld"
 author: taylor
 comments: false
 disqus: false

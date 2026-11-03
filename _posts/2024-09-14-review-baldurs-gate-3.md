@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Baldur's Gate 3"
+title:  "Baldur's Gate 3"
 author: taylor
 comments: false
 disqus: false

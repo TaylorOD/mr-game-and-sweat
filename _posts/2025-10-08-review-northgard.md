@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Northgard"
+title:  "Northgard"
 author: taylor
 comments: false
 disqus: false

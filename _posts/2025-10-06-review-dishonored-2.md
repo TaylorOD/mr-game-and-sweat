@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dishonored 2"
+title:  "Dishonored 2"
 author: taylor
 comments: false
 disqus: false

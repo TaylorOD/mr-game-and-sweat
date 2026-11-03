@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dota 2"
+title:  "Dota 2"
 author: taylor
 comments: false
 disqus: false

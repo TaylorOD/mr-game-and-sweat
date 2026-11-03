@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Balatro"
+title:  "Balatro"
 author: taylor
 comments: false
 disqus: false

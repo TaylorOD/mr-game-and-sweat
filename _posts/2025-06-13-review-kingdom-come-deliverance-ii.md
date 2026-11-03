@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kingdom Come: Deliverance II"
+title:  "Kingdom Come: Deliverance II"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Gang Beasts"
+title:  "Gang Beasts"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Witcher 3: Wild Hunt"
+title:  "The Witcher 3: Wild Hunt"
 author: taylor
 comments: false
 disqus: false

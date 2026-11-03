@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: A Plague Tale: Innocence"
+title:  "A Plague Tale: Innocence"
 author: taylor
 comments: false
 disqus: false

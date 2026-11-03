@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Plants vs. Zombies GOTY Edition"
+title:  "Plants vs. Zombies GOTY Edition"
 author: taylor
 comments: false
 disqus: false

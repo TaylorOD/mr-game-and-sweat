@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dying Light 2 Stay Human: Reloaded Edition"
+title:  "Dying Light 2 Stay Human: Reloaded Edition"
 author: taylor
 comments: false
 disqus: false

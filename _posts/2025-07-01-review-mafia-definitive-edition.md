@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mafia: Definitive Edition"
+title:  "Mafia: Definitive Edition"
 author: taylor
 comments: false
 disqus: false

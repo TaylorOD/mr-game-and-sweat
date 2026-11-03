@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: WEBFISHING"
+title:  "WEBFISHING"
 author: taylor
 comments: false
 disqus: false

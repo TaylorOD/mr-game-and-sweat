@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Inscryption"
+title:  "Inscryption"
 author: taylor
 comments: false
 disqus: false

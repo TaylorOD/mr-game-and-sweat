@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Human Fall Flat"
+title:  "Human Fall Flat"
 author: taylor
 comments: false
 disqus: false

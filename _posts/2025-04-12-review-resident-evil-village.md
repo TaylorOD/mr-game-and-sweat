@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Resident Evil Village"
+title:  "Resident Evil Village"
 author: taylor
 comments: false
 disqus: false

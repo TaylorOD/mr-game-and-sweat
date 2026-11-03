@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Slay the Spire"
+title:  "Slay the Spire"
 author: taylor
 categories: [ review, card-game, roguelike, indie ]
 comments: false

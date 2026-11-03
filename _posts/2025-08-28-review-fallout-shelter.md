@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout Shelter"
+title:  "Fallout Shelter"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cookie Clicker"
+title:  "Cookie Clicker"
 author: taylor
 comments: false
 disqus: false

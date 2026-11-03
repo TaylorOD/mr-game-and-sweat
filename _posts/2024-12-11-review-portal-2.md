@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Portal 2"
+title:  "Portal 2"
 author: taylor
 comments: false
 disqus: false

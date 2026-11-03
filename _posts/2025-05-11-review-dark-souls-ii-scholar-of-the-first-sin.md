@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DARK SOULS II: Scholar of the First Sin"
+title:  "DARK SOULS II: Scholar of the First Sin"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Monster Hunter: World"
+title:  "Monster Hunter: World"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Escape the Backrooms"
+title:  "Escape the Backrooms"
 author: taylor
 comments: false
 disqus: false

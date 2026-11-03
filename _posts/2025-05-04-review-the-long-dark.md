@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Long Dark"
+title:  "The Long Dark"
 author: taylor
 comments: false
 disqus: false

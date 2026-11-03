@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Helltaker"
+title:  "Helltaker"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: GRIS"
+title:  "GRIS"
 author: taylor
 comments: false
 disqus: false

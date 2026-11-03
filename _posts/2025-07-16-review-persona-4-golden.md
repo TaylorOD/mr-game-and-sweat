@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Persona 4 Golden"
+title:  "Persona 4 Golden"
 author: taylor
 comments: false
 disqus: false

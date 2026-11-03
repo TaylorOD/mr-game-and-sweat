@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Arma 3"
+title:  "Arma 3"
 author: taylor
 comments: false
 disqus: false

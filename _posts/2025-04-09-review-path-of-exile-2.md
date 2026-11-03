@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Path of Exile 2"
+title:  "Path of Exile 2"
 author: taylor
 comments: false
 disqus: false

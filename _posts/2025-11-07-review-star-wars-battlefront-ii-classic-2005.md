@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: STAR WARS Battlefront II (Classic, 2005)"
+title:  "STAR WARS Battlefront II (Classic, 2005)"
 author: taylor
 comments: false
 disqus: false

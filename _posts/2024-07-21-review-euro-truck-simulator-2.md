@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Euro Truck Simulator 2"
+title:  "Euro Truck Simulator 2"
 author: taylor
 comments: false
 disqus: false

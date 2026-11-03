@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Heroes & Generals"
+title:  "Heroes & Generals"
 author: taylor
 comments: false
 disqus: false

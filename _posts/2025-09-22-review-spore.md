@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: SPORE"
+title:  "SPORE"
 author: taylor
 comments: false
 disqus: false

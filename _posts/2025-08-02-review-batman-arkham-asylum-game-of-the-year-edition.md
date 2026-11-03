@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Batman: Arkham Asylum Game of the Year Edition"
+title:  "Batman: Arkham Asylum Game of the Year Edition"
 author: taylor
 comments: false
 disqus: false

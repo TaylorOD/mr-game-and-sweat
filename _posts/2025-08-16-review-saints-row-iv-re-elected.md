@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Saints Row IV: Re-Elected"
+title:  "Saints Row IV: Re-Elected"
 author: taylor
 comments: false
 disqus: false

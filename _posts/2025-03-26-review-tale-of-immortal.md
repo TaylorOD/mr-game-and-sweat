@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: 鬼谷八荒 Tale of Immortal"
+title:  "鬼谷八荒 Tale of Immortal"
 author: taylor
 comments: false
 disqus: false

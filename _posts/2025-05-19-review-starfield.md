@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Starfield"
+title:  "Starfield"
 author: taylor
 comments: false
 disqus: false

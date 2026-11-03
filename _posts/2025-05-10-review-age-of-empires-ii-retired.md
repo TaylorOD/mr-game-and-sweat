@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Age of Empires II (Retired)"
+title:  "Age of Empires II (Retired)"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Crew 2"
+title:  "The Crew 2"
 author: taylor
 comments: false
 disqus: false

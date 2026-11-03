@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: FTL: Faster Than Light"
+title:  "FTL: Faster Than Light"
 author: taylor
 comments: false
 disqus: false

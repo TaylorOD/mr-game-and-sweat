@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mount & Blade II: Bannerlord"
+title:  "Mount & Blade II: Bannerlord"
 author: taylor
 comments: false
 disqus: false

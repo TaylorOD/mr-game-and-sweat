@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grim Dawn"
+title:  "Grim Dawn"
 author: taylor
 comments: false
 disqus: false

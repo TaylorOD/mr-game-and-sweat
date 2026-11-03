@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Horizon Zero Dawn Complete Edition"
+title:  "Horizon Zero Dawn Complete Edition"
 author: taylor
 comments: false
 disqus: false

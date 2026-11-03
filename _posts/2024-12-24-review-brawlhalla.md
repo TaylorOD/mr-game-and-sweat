@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Brawlhalla"
+title:  "Brawlhalla"
 author: taylor
 comments: false
 disqus: false

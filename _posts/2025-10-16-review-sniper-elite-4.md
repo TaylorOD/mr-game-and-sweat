@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sniper Elite 4"
+title:  "Sniper Elite 4"
 author: taylor
 comments: false
 disqus: false

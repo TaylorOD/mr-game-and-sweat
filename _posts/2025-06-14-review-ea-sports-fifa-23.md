@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: EA SPORTS FIFA 23"
+title:  "EA SPORTS FIFA 23"
 author: taylor
 comments: false
 disqus: false

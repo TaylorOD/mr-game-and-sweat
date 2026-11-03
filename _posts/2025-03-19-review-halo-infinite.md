@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Halo Infinite"
+title:  "Halo Infinite"
 author: taylor
 comments: false
 disqus: false

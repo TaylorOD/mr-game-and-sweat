@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Totally Accurate Battlegrounds"
+title:  "Totally Accurate Battlegrounds"
 author: taylor
 comments: false
 disqus: false

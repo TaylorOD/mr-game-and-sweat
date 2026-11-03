@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Borderlands 3"
+title:  "Borderlands 3"
 author: taylor
 comments: false
 disqus: false
