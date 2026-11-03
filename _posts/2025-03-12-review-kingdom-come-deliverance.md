@@ -47,4 +47,4 @@ Kingdom Come: Deliverance successfully immerses players in a stunning historical
 
 ---
 
-Mr. Game and Sweat Reviews: Kingdom Come: Deliverance - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Kingdom Come: Deliverance - By Taylor Owen Dorsett

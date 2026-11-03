@@ -47,4 +47,4 @@ Overall, "Monster Hunter Rise" offers a compelling mix of engaging gameplay that
 
 ---
 
-Mr. Game and Sweat Reviews: MONSTER HUNTER RISE - By Taylor Dorsett
+Mr. Game and Sweat Reviews: MONSTER HUNTER RISE - By Taylor Owen Dorsett

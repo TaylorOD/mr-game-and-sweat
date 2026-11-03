@@ -47,4 +47,4 @@ In summary, Insurgency delivers a gripping experience that successfully combines
 
 ---
 
-Mr. Game and Sweat Reviews: Insurgency - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Insurgency - By Taylor Owen Dorsett

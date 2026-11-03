@@ -46,4 +46,4 @@ Barotrauma offers an exhilarating cooperative gameplay experience that is beauti
 
 ---
 
-Mr. Game and Sweat Reviews: Barotrauma - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Barotrauma - By Taylor Owen Dorsett

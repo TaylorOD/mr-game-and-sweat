@@ -50,4 +50,4 @@ STAR WARS Battlefront II is a dynamic and engaging option for gamers looking to 
 
 ---
 
-Mr. Game and Sweat Reviews: STAR WARS Battlefront II - By Taylor Dorsett
+Mr. Game and Sweat Reviews: STAR WARS Battlefront II - By Taylor Owen Dorsett

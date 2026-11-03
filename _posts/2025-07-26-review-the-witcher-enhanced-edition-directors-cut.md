@@ -48,4 +48,4 @@ The Witcher: Enhanced Edition Director's Cut is an engaging title that offers a 
 
 ---
 
-Mr. Game and Sweat Reviews: The Witcher: Enhanced Edition Director's Cut - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Witcher: Enhanced Edition Director's Cut - By Taylor Owen Dorsett

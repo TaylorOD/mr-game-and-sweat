@@ -46,4 +46,4 @@ Trove stands out as an engaging and accessible game that fits perfectly into a f
 
 ---
 
-Mr. Game and Sweat Reviews: Trove - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Trove - By Taylor Owen Dorsett

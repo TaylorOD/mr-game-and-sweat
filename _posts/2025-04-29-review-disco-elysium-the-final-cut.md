@@ -53,4 +53,4 @@ If you're looking for a narrative-driven game to enjoy while exercising, Disco E
 
 ---
 
-Mr. Game and Sweat Reviews: Disco Elysium - The Final Cut - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Disco Elysium - The Final Cut - By Taylor Owen Dorsett

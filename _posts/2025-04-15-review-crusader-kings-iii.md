@@ -46,4 +46,4 @@ Crusader Kings III deftly balance the line between engaging gameplay and workout
 
 ---
 
-Mr. Game and Sweat Reviews: Crusader Kings III - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Crusader Kings III - By Taylor Owen Dorsett

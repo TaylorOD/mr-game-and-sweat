@@ -47,4 +47,4 @@ Overall, Portal 2 is an exceptional choice for gamers who want to engage their m
 
 ---
 
-Mr. Game and Sweat Reviews: Portal 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Portal 2 - By Taylor Owen Dorsett

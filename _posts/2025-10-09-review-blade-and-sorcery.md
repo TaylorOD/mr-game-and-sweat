@@ -52,4 +52,4 @@ If you're looking for a game that pushes your limits—not only in the virtual b
 
 ---
 
-Mr. Game and Sweat Reviews: Blade and Sorcery - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Blade and Sorcery - By Taylor Owen Dorsett

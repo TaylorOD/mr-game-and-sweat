@@ -51,4 +51,4 @@ In summary, “DEVOUR” is a captivating blend of horror, teamwork, and frantic
 
 ---
 
-Mr. Game and Sweat Reviews: DEVOUR - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DEVOUR - By Taylor Owen Dorsett

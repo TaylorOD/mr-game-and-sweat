@@ -49,4 +49,4 @@ In summary, if you’re looking for a game to dive into while you exercise, and 
 
 ---
 
-Mr. Game and Sweat Reviews: Black Myth: Wukong - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Black Myth: Wukong - By Taylor Owen Dorsett

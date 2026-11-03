@@ -47,4 +47,4 @@ In conclusion, Fallout Shelter is a solid choice for those looking to combine th
 
 ---
 
-Mr. Game and Sweat Reviews: Fallout Shelter - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fallout Shelter - By Taylor Owen Dorsett

@@ -52,4 +52,4 @@ In conclusion, "Assassin's Creed Origins" provides a captivating blend of storyt
 
 ---
 
-Mr. Game and Sweat Reviews: Assassin's Creed Origins - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Assassin's Creed Origins - By Taylor Owen Dorsett

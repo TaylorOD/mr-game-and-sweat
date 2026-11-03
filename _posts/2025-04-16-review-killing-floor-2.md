@@ -47,4 +47,4 @@ Killing Floor 2 is a visceral and enthralling experience that caters well to tho
 
 ---
 
-Mr. Game and Sweat Reviews: Killing Floor 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Killing Floor 2 - By Taylor Owen Dorsett

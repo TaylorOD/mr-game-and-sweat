@@ -47,4 +47,4 @@ Overall, Palworld successfully combines colorful gameplay with engaging mechanic
 
 ---
 
-Mr. Game and Sweat Reviews: Palworld - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Palworld - By Taylor Owen Dorsett

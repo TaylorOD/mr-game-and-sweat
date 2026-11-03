@@ -49,4 +49,4 @@ In conclusion, if you’re in the market for an action-packed game that keeps yo
 
 ---
 
-Mr. Game and Sweat Reviews: Marvel’s Spider-Man Remastered - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Marvel’s Spider-Man Remastered - By Taylor Owen Dorsett

@@ -49,4 +49,4 @@ In summary, Sniper Elite 4 is a solid title for gamers who enjoy a mix of strate
 
 ---
 
-Mr. Game and Sweat Reviews: Sniper Elite 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sniper Elite 4 - By Taylor Owen Dorsett

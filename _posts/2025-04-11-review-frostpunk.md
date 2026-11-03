@@ -48,4 +48,4 @@ Frostpunk offers an engaging and thought-provoking experience that can be enjoye
 
 ---
 
-Mr. Game and Sweat Reviews: Frostpunk - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Frostpunk - By Taylor Owen Dorsett

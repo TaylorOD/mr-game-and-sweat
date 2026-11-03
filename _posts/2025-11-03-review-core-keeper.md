@@ -53,4 +53,4 @@ Whether you're building your underground empire or exploring the depths of the c
 
 ---
 
-Mr. Game and Sweat Reviews: Core Keeper - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Core Keeper - By Taylor Owen Dorsett

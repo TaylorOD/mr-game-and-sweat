@@ -50,4 +50,4 @@ Kerbal Space Program is a fantastic title that seamlessly balances engaging game
 
 ---
 
-Mr. Game and Sweat Reviews: Kerbal Space Program - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Kerbal Space Program - By Taylor Owen Dorsett

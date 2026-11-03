@@ -50,4 +50,4 @@ AdVenture Capitalist is a delightful and light-hearted way to engage with gaming
 
 ---
 
-Mr. Game and Sweat Reviews: AdVenture Capitalist - By Taylor Dorsett
+Mr. Game and Sweat Reviews: AdVenture Capitalist - By Taylor Owen Dorsett

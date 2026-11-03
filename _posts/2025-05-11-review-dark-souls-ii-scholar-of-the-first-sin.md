@@ -49,4 +49,4 @@ In conclusion, if you’re looking for an engaging video game experience that wo
 
 ---
 
-Mr. Game and Sweat Reviews: DARK SOULS II: Scholar of the First Sin - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DARK SOULS II: Scholar of the First Sin - By Taylor Owen Dorsett

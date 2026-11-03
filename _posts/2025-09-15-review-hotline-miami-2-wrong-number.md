@@ -47,4 +47,4 @@ In conclusion, *Hotline Miami 2: Wrong Number* offers a captivating experience f
 
 ---
 
-Mr. Game and Sweat Reviews: Hotline Miami 2: Wrong Number - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hotline Miami 2: Wrong Number - By Taylor Owen Dorsett

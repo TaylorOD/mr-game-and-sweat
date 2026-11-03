@@ -48,4 +48,4 @@ Overall, "The Planet Crafter" provides an engaging gaming experience that perfec
 
 ---
 
-Mr. Game and Sweat Reviews: The Planet Crafter - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Planet Crafter - By Taylor Owen Dorsett

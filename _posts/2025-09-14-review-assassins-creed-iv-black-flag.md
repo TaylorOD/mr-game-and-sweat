@@ -46,4 +46,4 @@ Being a game released in 2013, "Assassin’s Creed IV: Black Flag" does have mod
 
 ---
 
-Mr. Game and Sweat Reviews: Assassin’s Creed IV Black Flag - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Assassin’s Creed IV Black Flag - By Taylor Owen Dorsett

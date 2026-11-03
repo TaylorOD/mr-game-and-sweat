@@ -50,4 +50,4 @@ Albion Online successfully marries an engaging MMORPG experience with a relative
 
 ---
 
-Mr. Game and Sweat Reviews: Albion Online - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Albion Online - By Taylor Owen Dorsett

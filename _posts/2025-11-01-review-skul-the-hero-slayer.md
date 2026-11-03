@@ -47,4 +47,4 @@ In conclusion, "Skul: The Hero Slayer" is an absolute gem for gamers who want an
 
 ---
 
-Mr. Game and Sweat Reviews: Skul: The Hero Slayer - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Skul: The Hero Slayer - By Taylor Owen Dorsett

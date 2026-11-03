@@ -46,4 +46,4 @@ In conclusion, Mount & Blade: Warband stands out as a fantastic choice for gamer
 
 ---
 
-Mr. Game and Sweat Reviews: Mount & Blade: Warband - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mount & Blade: Warband - By Taylor Owen Dorsett

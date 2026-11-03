@@ -47,4 +47,4 @@ In summary, "Little Nightmares" is a phenomenal choice for gamers who are lookin
 
 ---
 
-Mr. Game and Sweat Reviews: Little Nightmares - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Little Nightmares - By Taylor Owen Dorsett

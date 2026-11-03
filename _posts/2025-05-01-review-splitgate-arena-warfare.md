@@ -47,4 +47,4 @@ Splitgate: Arena Warfare provides an exhilarating experience that encourages phy
 
 ---
 
-Mr. Game and Sweat Reviews: Splitgate: Arena Warfare - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Splitgate: Arena Warfare - By Taylor Owen Dorsett

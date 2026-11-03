@@ -46,4 +46,4 @@ Overall, "People Playground" is a creative, whimsical sandbox experience that en
 
 ---
 
-Mr. Game and Sweat Reviews: People Playground - By Taylor Dorsett
+Mr. Game and Sweat Reviews: People Playground - By Taylor Owen Dorsett

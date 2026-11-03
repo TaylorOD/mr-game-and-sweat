@@ -47,4 +47,4 @@ In summary, "Warhammer 40,000: Space Marine 2" is a captivating sequel that succ
 
 ---
 
-Mr. Game and Sweat Reviews: Warhammer 40,000: Space Marine 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Warhammer 40,000: Space Marine 2 - By Taylor Owen Dorsett

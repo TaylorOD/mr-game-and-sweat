@@ -46,4 +46,4 @@ Overall, "Dragon's Dogma 2" is a thrilling entry that combines engaging gameplay
 
 ---
 
-Mr. Game and Sweat Reviews: Dragon's Dogma 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dragon's Dogma 2 - By Taylor Owen Dorsett

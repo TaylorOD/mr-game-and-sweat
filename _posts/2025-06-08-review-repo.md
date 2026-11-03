@@ -51,4 +51,4 @@ In sum, R.E.P.O. is a stellar addition to the repertoire of fitness-friendly vid
 
 ---
 
-Mr. Game and Sweat Reviews: R.E.P.O. - By Taylor Dorsett
+Mr. Game and Sweat Reviews: R.E.P.O. - By Taylor Owen Dorsett

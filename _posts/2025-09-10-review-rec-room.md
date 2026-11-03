@@ -47,4 +47,4 @@ Rec Room is a fantastic option for fitness-minded gamers looking to combine thei
 
 ---
 
-Mr. Game and Sweat Reviews: Rec Room - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Rec Room - By Taylor Owen Dorsett

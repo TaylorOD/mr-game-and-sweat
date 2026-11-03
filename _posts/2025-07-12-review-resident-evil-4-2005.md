@@ -47,4 +47,4 @@ Resident Evil 4 is a brilliant balance of action and strategy that translates we
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil 4 (2005) - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil 4 (2005) - By Taylor Owen Dorsett

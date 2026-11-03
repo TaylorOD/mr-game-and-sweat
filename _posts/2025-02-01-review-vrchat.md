@@ -47,4 +47,4 @@ In conclusion, VRChat offers a unique blend of social interaction and exploratio
 
 ---
 
-Mr. Game and Sweat Reviews: VRChat - By Taylor Dorsett
+Mr. Game and Sweat Reviews: VRChat - By Taylor Owen Dorsett

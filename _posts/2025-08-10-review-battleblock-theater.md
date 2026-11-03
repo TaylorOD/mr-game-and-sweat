@@ -47,4 +47,4 @@ In conclusion, BattleBlock Theater is an engaging platformer that excels at prov
 
 ---
 
-Mr. Game and Sweat Reviews: BattleBlock Theater - By Taylor Dorsett
+Mr. Game and Sweat Reviews: BattleBlock Theater - By Taylor Owen Dorsett

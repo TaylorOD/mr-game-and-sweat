@@ -46,4 +46,4 @@ In conclusion, HELLDIVERS 2 is a fun, fast-paced shooter that serves well as an 
 
 ---
 
-Mr. Game and Sweat Reviews: HELLDIVERS 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: HELLDIVERS 2 - By Taylor Owen Dorsett

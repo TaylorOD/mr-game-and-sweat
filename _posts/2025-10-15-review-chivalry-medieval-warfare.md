@@ -47,4 +47,4 @@ Chivalry: Medieval Warfare delivers heart-pounding action that effectively keeps
 
 ---
 
-Mr. Game and Sweat Reviews: Chivalry: Medieval Warfare - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Chivalry: Medieval Warfare - By Taylor Owen Dorsett

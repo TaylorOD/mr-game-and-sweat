@@ -51,4 +51,4 @@ The need for strategic movement means you won’t be rapidly flipping or respond
 
 ---
 
-Mr. Game and Sweat Reviews: Alien: Isolation - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Alien: Isolation - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ The technical demands of “Half-Life: Alyx” are notably high. To fully enjoy 
 
 ---
 
-Mr. Game and Sweat Reviews: Half-Life: Alyx - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Half-Life: Alyx - By Taylor Owen Dorsett

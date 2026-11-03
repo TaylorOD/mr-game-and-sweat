@@ -46,4 +46,4 @@ In conclusion, Total War: THREE KINGDOMS offers an engaging experience with a hi
 
 ---
 
-Mr. Game and Sweat Reviews: Total War: THREE KINGDOMS - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Total War: THREE KINGDOMS - By Taylor Owen Dorsett

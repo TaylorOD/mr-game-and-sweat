@@ -46,4 +46,4 @@ NieR:Automata is a phenomenal game that captivates with its storytelling and gam
 
 ---
 
-Mr. Game and Sweat Reviews: NieR:Automata - By Taylor Dorsett
+Mr. Game and Sweat Reviews: NieR:Automata - By Taylor Owen Dorsett

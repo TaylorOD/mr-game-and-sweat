@@ -49,4 +49,4 @@ Outer Wilds truly offers a unique and engaging experience for those looking to i
 
 ---
 
-Mr. Game and Sweat Reviews: Outer Wilds - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Outer Wilds - By Taylor Owen Dorsett

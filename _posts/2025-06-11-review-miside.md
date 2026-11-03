@@ -46,4 +46,4 @@ Overall, MiSide successfully delivers an engaging gameplay experience that enhan
 
 ---
 
-Mr. Game and Sweat Reviews: MiSide - By Taylor Dorsett
+Mr. Game and Sweat Reviews: MiSide - By Taylor Owen Dorsett

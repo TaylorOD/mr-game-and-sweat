@@ -51,4 +51,4 @@ Overall, Metro 2033 Redux presents a thrilling narrative and compelling gameplay
 
 ---
 
-Mr. Game and Sweat Reviews: Metro 2033 Redux - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Metro 2033 Redux - By Taylor Owen Dorsett

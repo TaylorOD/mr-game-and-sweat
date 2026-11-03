@@ -46,4 +46,4 @@ All in all, Total War: WARHAMMER III provides a compelling mix of strategy and f
 
 ---
 
-Mr. Game and Sweat Reviews: Total War: WARHAMMER III - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Total War: WARHAMMER III - By Taylor Owen Dorsett

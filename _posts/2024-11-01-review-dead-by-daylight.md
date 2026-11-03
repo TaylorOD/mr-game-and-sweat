@@ -47,4 +47,4 @@ Dead by Daylight combines gripping horror gameplay with the quick decisions nece
 
 ---
 
-Mr. Game and Sweat Reviews: Dead by Daylight - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dead by Daylight - By Taylor Owen Dorsett

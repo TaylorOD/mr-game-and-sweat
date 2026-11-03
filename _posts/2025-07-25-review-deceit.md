@@ -46,4 +46,4 @@ Deceit is not overly demanding, making it accessible for many users. The game re
 
 ---
 
-Mr. Game and Sweat Reviews: Deceit - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Deceit - By Taylor Owen Dorsett

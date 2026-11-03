@@ -54,4 +54,4 @@ In summary, if you're looking for a game that lets you exercise while keeping yo
 
 ---
 
-Mr. Game and Sweat Reviews: Oxygen Not Included - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Oxygen Not Included - By Taylor Owen Dorsett

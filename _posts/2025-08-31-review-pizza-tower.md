@@ -53,4 +53,4 @@ Pizza Tower is undoubtedly a fantastic choice for anyone looking to enhance thei
 
 ---
 
-Mr. Game and Sweat Reviews: Pizza Tower - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Pizza Tower - By Taylor Owen Dorsett

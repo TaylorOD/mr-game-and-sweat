@@ -46,4 +46,4 @@ In conclusion, "Company of Heroes 2" delivers a compelling blend of strategy and
 
 ---
 
-Mr. Game and Sweat Reviews: Company of Heroes 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Company of Heroes 2 - By Taylor Owen Dorsett

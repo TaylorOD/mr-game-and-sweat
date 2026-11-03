@@ -46,4 +46,4 @@ Overall, Stick Fight: The Game is an excellent choice for those looking to combi
 
 ---
 
-Mr. Game and Sweat Reviews: Stick Fight: The Game - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Stick Fight: The Game - By Taylor Owen Dorsett

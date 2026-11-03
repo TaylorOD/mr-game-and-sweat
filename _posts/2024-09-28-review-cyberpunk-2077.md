@@ -47,4 +47,4 @@ The game features full controller compatibility, which is a significant bonus fo
 
 ---
 
-Mr. Game and Sweat Reviews: Cyberpunk 2077 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cyberpunk 2077 - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Assassin's Creed Unity offers a fantastic blend of rich storytelling and engagin
 
 ---
 
-Mr. Game and Sweat Reviews: Assassin's Creed Unity - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Assassin's Creed Unity - By Taylor Owen Dorsett

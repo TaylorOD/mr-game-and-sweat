@@ -51,4 +51,4 @@ In conclusion, "GRIS" offers a unique and immersive experience, marrying breath-
 
 ---
 
-Mr. Game and Sweat Reviews: GRIS - By Taylor Dorsett
+Mr. Game and Sweat Reviews: GRIS - By Taylor Owen Dorsett

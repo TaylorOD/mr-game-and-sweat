@@ -50,4 +50,4 @@ While "Watch_Dogs 2" isn’t the most graphically demanding game out there, it n
 
 ---
 
-Mr. Game and Sweat Reviews: Watch_Dogs 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Watch_Dogs 2 - By Taylor Owen Dorsett

@@ -50,4 +50,4 @@ In conclusion, Age of Empires II remains a fantastic option for those looking to
 
 ---
 
-Mr. Game and Sweat Reviews: Age of Empires II (Retired) - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Age of Empires II (Retired) - By Taylor Owen Dorsett

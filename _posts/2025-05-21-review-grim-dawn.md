@@ -47,4 +47,4 @@ Grim Dawn effectively combines an engaging gameplay loop with solid treadmill an
 
 ---
 
-Mr. Game and Sweat Reviews: Grim Dawn - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grim Dawn - By Taylor Owen Dorsett

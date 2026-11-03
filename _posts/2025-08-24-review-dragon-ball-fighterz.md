@@ -47,4 +47,4 @@ In conclusion, "Dragon Ball FighterZ" brilliantly merges the high-octane action 
 
 ---
 
-Mr. Game and Sweat Reviews: DRAGON BALL FighterZ - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DRAGON BALL FighterZ - By Taylor Owen Dorsett

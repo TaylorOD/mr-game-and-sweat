@@ -47,4 +47,4 @@ The requirements for "Metro: Last Light Redux" are moderate compared to more gra
 
 ---
 
-Mr. Game and Sweat Reviews: Metro: Last Light Redux - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Metro: Last Light Redux - By Taylor Owen Dorsett

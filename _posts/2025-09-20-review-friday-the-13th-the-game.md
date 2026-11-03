@@ -49,4 +49,4 @@ Whether you want to escape Jason on foot or from a stationary bike, this game is
 
 ---
 
-Mr. Game and Sweat Reviews: Friday the 13th: The Game - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Friday the 13th: The Game - By Taylor Owen Dorsett

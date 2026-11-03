@@ -47,4 +47,4 @@ In conclusion, **OMORI** is an engaging title that balances storytelling and gam
 
 ---
 
-Mr. Game and Sweat Reviews: OMORI - By Taylor Dorsett
+Mr. Game and Sweat Reviews: OMORI - By Taylor Owen Dorsett

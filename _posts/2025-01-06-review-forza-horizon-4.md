@@ -47,4 +47,4 @@ Forza Horizon 4 manages to strike an impressive balance between exhilarating gam
 
 ---
 
-Mr. Game and Sweat Reviews: Forza Horizon 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Forza Horizon 4 - By Taylor Owen Dorsett

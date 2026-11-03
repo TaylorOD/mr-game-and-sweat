@@ -45,4 +45,4 @@ Hellblade: Senua's Sacrifice is a powerful narrative-driven experience that enga
 
 ---
 
-Mr. Game and Sweat Reviews: Hellblade: Senua's Sacrifice - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hellblade: Senua's Sacrifice - By Taylor Owen Dorsett

@@ -44,4 +44,4 @@ In summary, A Dance of Fire and Ice successfully blends rhythmic gameplay with a
 
 ---
 
-Mr. Game and Sweat Reviews: A Dance of Fire and Ice - By Taylor Dorsett
+Mr. Game and Sweat Reviews: A Dance of Fire and Ice - By Taylor Owen Dorsett

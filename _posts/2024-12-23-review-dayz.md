@@ -52,4 +52,4 @@ So, gear up, strap in, and brava! Get ready to experience survival of the fittes
 
 ---
 
-Mr. Game and Sweat Reviews: DayZ - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DayZ - By Taylor Owen Dorsett

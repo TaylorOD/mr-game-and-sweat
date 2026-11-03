@@ -48,4 +48,4 @@ BeamNG.drive may not be the quintessential exercise game, but it offers a unique
 
 ---
 
-Mr. Game and Sweat Reviews: BeamNG.drive - By Taylor Dorsett
+Mr. Game and Sweat Reviews: BeamNG.drive - By Taylor Owen Dorsett

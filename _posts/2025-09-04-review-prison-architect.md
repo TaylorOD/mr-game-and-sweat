@@ -46,4 +46,4 @@ In terms of computer requirements, "Prison Architect" is not overly demanding. I
 
 ---
 
-Mr. Game and Sweat Reviews: Prison Architect - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Prison Architect - By Taylor Owen Dorsett

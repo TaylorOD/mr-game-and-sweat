@@ -47,4 +47,4 @@ Overall, Apex Legends offers an adrenaline-fueled experience that keeps you enga
 
 ---
 
-Mr. Game and Sweat Reviews: Apex Legends - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Apex Legends - By Taylor Owen Dorsett

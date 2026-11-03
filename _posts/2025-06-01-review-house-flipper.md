@@ -47,4 +47,4 @@ Overall, **House Flipper** stands out as a fun, creative game that fits seamless
 
 ---
 
-Mr. Game and Sweat Reviews: House Flipper - By Taylor Dorsett
+Mr. Game and Sweat Reviews: House Flipper - By Taylor Owen Dorsett

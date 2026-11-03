@@ -51,4 +51,4 @@ Overall, Persona 4 Golden offers a unique mix of compelling storytelling and eng
 
 ---
 
-Mr. Game and Sweat Reviews: Persona 4 Golden - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Persona 4 Golden - By Taylor Owen Dorsett

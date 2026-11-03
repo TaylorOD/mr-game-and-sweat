@@ -46,4 +46,4 @@ In conclusion, Grand Theft Auto V strikes an impressive balance between full-thr
 
 ---
 
-Mr. Game and Sweat Reviews: Grand Theft Auto V - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grand Theft Auto V - By Taylor Owen Dorsett

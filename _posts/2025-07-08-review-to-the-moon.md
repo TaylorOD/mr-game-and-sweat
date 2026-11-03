@@ -47,4 +47,4 @@ To the Moon offers a heartwarming narrative that's well-suited for more leisurel
 
 ---
 
-Mr. Game and Sweat Reviews: To the Moon - By Taylor Dorsett
+Mr. Game and Sweat Reviews: To the Moon - By Taylor Owen Dorsett

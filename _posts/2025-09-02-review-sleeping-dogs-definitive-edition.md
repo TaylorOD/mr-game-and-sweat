@@ -51,4 +51,4 @@ Sleeping Dogs: Definitive Edition stands out as a compelling choice for active g
 
 ---
 
-Mr. Game and Sweat Reviews: Sleeping Dogs: Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sleeping Dogs: Definitive Edition - By Taylor Owen Dorsett

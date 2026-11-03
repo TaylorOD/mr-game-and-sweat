@@ -44,4 +44,4 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030
 
 ---
 
-Mr. Game and Sweat Reviews: Papers, Please - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Papers, Please - By Taylor Owen Dorsett

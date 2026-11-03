@@ -48,4 +48,4 @@ Overall, Black Mesa is a fantastic remake that marries nostalgia with modern gam
 
 ---
 
-Mr. Game and Sweat Reviews: Black Mesa - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Black Mesa - By Taylor Owen Dorsett

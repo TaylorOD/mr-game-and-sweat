@@ -46,4 +46,4 @@ In conclusion, Fallout: New Vegas serves as an excellent companion for both your
 
 ---
 
-Mr. Game and Sweat Reviews: Fallout: New Vegas - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fallout: New Vegas - By Taylor Owen Dorsett

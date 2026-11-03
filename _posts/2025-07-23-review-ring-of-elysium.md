@@ -46,4 +46,4 @@ As for computer requirements, "Ring of Elysium" is relatively forgiving. It does
 
 ---
 
-Mr. Game and Sweat Reviews: Ring of Elysium - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ring of Elysium - By Taylor Owen Dorsett

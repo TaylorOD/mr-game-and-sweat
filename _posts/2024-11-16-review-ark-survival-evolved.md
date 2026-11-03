@@ -49,4 +49,4 @@ ARK: Survival Evolved offers an engaging survival experience with plenty of room
 
 ---
 
-Mr. Game and Sweat Reviews: ARK: Survival Evolved - By Taylor Dorsett
+Mr. Game and Sweat Reviews: ARK: Survival Evolved - By Taylor Owen Dorsett

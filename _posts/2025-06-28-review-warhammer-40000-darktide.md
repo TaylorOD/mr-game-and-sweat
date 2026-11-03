@@ -46,4 +46,4 @@ This game requires a decent rig to ensure smooth performance. Recommended specif
 
 ---
 
-Mr. Game and Sweat Reviews: Warhammer 40,000: Darktide - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Warhammer 40,000: Darktide - By Taylor Owen Dorsett

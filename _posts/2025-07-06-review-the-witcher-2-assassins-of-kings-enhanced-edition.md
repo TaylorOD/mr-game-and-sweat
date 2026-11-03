@@ -46,4 +46,4 @@ The Witcher 2: Assassins of Kings Enhanced Edition is a compelling choice for an
 
 ---
 
-Mr. Game and Sweat Reviews: The Witcher 2: Assassins of Kings Enhanced Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Witcher 2: Assassins of Kings Enhanced Edition - By Taylor Owen Dorsett

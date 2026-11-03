@@ -46,4 +46,4 @@ Heroes & Generals is a thrilling blend of gameplay that fits well within the rea
 
 ---
 
-Mr. Game and Sweat Reviews: Heroes & Generals - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Heroes & Generals - By Taylor Owen Dorsett

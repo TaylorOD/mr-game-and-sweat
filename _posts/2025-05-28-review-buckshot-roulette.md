@@ -44,4 +44,4 @@ Overall, "Buckshot Roulette" excels in providing an energetic gaming experience 
 
 ---
 
-Mr. Game and Sweat Reviews: Buckshot Roulette - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Buckshot Roulette - By Taylor Owen Dorsett

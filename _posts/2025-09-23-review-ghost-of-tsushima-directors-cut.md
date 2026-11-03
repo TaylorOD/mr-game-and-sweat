@@ -47,4 +47,4 @@ Ghost of Tsushima DIRECTOR'S CUT delivers an enriching experience that captivate
 
 ---
 
-Mr. Game and Sweat Reviews: Ghost of Tsushima DIRECTOR'S CUT - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ghost of Tsushima DIRECTOR'S CUT - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ In conclusion, Path of Exile is an excellent game for those looking to enjoy a r
 
 ---
 
-Mr. Game and Sweat Reviews: Path of Exile - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Path of Exile - By Taylor Owen Dorsett

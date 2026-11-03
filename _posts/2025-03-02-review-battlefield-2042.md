@@ -51,4 +51,4 @@ In conclusion, Battlefield 2042 delivers a thrilling experience that aligns well
 
 ---
 
-Mr. Game and Sweat Reviews: Battlefield 2042 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Battlefield 2042 - By Taylor Owen Dorsett

@@ -49,4 +49,4 @@ If you're looking for a game that juggles frantic kitchen antics with a good dos
 
 ---
 
-Mr. Game and Sweat Reviews: Overcooked! 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Overcooked! 2 - By Taylor Owen Dorsett

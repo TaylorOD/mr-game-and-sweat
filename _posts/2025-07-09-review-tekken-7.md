@@ -47,4 +47,4 @@ TEKKEN 7 delivers an engaging fighting experience with quick-paced action that c
 
 ---
 
-Mr. Game and Sweat Reviews: TEKKEN 7 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: TEKKEN 7 - By Taylor Owen Dorsett

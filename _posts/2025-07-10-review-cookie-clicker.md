@@ -46,4 +46,4 @@ In conclusion, Cookie Clicker is an excellent choice for those looking to mix ga
 
 ---
 
-Mr. Game and Sweat Reviews: Cookie Clicker - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cookie Clicker - By Taylor Owen Dorsett

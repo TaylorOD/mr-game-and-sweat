@@ -47,4 +47,4 @@ Firewatch is an excellent choice for gamers who want an immersive narrative expe
 
 ---
 
-Mr. Game and Sweat Reviews: Firewatch - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Firewatch - By Taylor Owen Dorsett

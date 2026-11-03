@@ -47,4 +47,4 @@ Overall, Stardew Valley is an excellent choice for gamers who want to maintain a
 
 ---
 
-Mr. Game and Sweat Reviews: Stardew Valley - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Stardew Valley - By Taylor Owen Dorsett

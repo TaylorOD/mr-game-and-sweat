@@ -45,4 +45,4 @@ On the technical side, "Split Fiction" boasts reasonable system requirements tha
 
 ---
 
-Mr. Game and Sweat Reviews: Split Fiction - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Split Fiction - By Taylor Owen Dorsett

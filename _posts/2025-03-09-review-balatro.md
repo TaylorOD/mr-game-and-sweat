@@ -47,4 +47,4 @@ Balatro stands out as an excellent choice for gamers looking to stay active whil
 
 ---
 
-Mr. Game and Sweat Reviews: Balatro - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Balatro - By Taylor Owen Dorsett

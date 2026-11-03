@@ -46,4 +46,4 @@ Overall, Kenshi offers a unique, engaging experience that can be enjoyed while e
 
 ---
 
-Mr. Game and Sweat Reviews: Kenshi - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Kenshi - By Taylor Owen Dorsett

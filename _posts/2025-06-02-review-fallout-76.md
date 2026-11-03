@@ -54,4 +54,4 @@ Overall, if you enjoy a good RPG and want to combine it with your workout, Fallo
 
 ---
 
-Mr. Game and Sweat Reviews: Fallout 76 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fallout 76 - By Taylor Owen Dorsett

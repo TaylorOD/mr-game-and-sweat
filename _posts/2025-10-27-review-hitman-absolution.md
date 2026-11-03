@@ -46,4 +46,4 @@ In conclusion, Hitman: Absolution thrives in its blend of engaging gameplay and 
 
 ---
 
-Mr. Game and Sweat Reviews: Hitman: Absolution - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hitman: Absolution - By Taylor Owen Dorsett

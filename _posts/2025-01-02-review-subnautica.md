@@ -51,4 +51,4 @@ If you're looking for a game that enhances your workout experience, definitely g
 
 ---
 
-Mr. Game and Sweat Reviews: Subnautica - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Subnautica - By Taylor Owen Dorsett

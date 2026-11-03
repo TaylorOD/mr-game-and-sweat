@@ -46,4 +46,4 @@ XCOM 2 is a captivating tactical experience that provides a great balance of str
 
 ---
 
-Mr. Game and Sweat Reviews: XCOM 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: XCOM 2 - By Taylor Owen Dorsett

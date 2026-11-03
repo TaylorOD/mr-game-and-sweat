@@ -47,4 +47,4 @@ In summary, EA SPORTS FC 24 provides an exhilarating gameplay experience that ke
 
 ---
 
-Mr. Game and Sweat Reviews: EA SPORTS FC 24 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: EA SPORTS FC 24 - By Taylor Owen Dorsett

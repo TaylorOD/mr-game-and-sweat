@@ -44,4 +44,4 @@ The Elder Scrolls V: Skyrim provides an excellent blend of engrossing gameplay a
 
 ---
 
-Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim - By Taylor Owen Dorsett

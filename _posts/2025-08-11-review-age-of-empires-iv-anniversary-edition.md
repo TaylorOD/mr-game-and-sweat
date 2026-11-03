@@ -55,4 +55,4 @@ Overall, whether you’re biding your time on a treadmill or cycling away, it pr
 
 ---
 
-Mr. Game and Sweat Reviews: Age of Empires IV: Anniversary Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Age of Empires IV: Anniversary Edition - By Taylor Owen Dorsett

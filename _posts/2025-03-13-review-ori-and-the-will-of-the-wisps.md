@@ -47,4 +47,4 @@ In conclusion, "Ori and the Will of the Wisps" is an enchanting experience fille
 
 ---
 
-Mr. Game and Sweat Reviews: Ori and the Will of the Wisps - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ori and the Will of the Wisps - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ SWTOR is relatively easy to run on a variety of computer setups, making it acces
 
 ---
 
-Mr. Game and Sweat Reviews: STAR WARS: The Old Republic - By Taylor Dorsett
+Mr. Game and Sweat Reviews: STAR WARS: The Old Republic - By Taylor Owen Dorsett

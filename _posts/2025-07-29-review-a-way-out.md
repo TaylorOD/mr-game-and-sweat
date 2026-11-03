@@ -47,4 +47,4 @@ In conclusion, A Way Out provides an engaging and immersive experience perfect f
 
 ---
 
-Mr. Game and Sweat Reviews: A Way Out - By Taylor Dorsett
+Mr. Game and Sweat Reviews: A Way Out - By Taylor Owen Dorsett

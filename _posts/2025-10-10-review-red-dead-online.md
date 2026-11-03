@@ -46,4 +46,4 @@ Red Dead Online offers a compelling experience for players looking to embrace th
 
 ---
 
-Mr. Game and Sweat Reviews: Red Dead Online - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Red Dead Online - By Taylor Owen Dorsett

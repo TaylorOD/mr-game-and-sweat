@@ -53,4 +53,4 @@ Hunt: Showdown 1896 offers an immersive, adrenaline-pumping experience that mana
 
 ---
 
-Mr. Game and Sweat Reviews: Hunt: Showdown 1896 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hunt: Showdown 1896 - By Taylor Owen Dorsett

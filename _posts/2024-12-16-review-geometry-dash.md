@@ -46,4 +46,4 @@ In conclusion, **Geometry Dash** is a fantastic choice for gamers looking to add
 
 ---
 
-Mr. Game and Sweat Reviews: Geometry Dash - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Geometry Dash - By Taylor Owen Dorsett

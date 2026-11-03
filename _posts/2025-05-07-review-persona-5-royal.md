@@ -47,4 +47,4 @@ In summary, *Persona 5 Royal* delivers an engaging mix of storytelling and gamep
 
 ---
 
-Mr. Game and Sweat Reviews: Persona 5 Royal - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Persona 5 Royal - By Taylor Owen Dorsett

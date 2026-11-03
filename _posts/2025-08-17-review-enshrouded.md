@@ -51,4 +51,4 @@ In summary, Enshrouded is a delightful addition to any workout-friendly gaming l
 
 ---
 
-Mr. Game and Sweat Reviews: Enshrouded - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Enshrouded - By Taylor Owen Dorsett

@@ -54,4 +54,4 @@ Overall, CS:S stands as an enjoyable option for gamers who want to incorporate f
 
 ---
 
-Mr. Game and Sweat Reviews: Counter-Strike: Source - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Counter-Strike: Source - By Taylor Owen Dorsett

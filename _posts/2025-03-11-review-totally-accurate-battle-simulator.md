@@ -46,4 +46,4 @@ Totally Accurate Battle Simulator is an enjoyable, light-hearted title that perf
 
 ---
 
-Mr. Game and Sweat Reviews: Totally Accurate Battle Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Totally Accurate Battle Simulator - By Taylor Owen Dorsett

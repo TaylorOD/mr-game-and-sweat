@@ -46,4 +46,4 @@ In conclusion, **PUBG: BATTLEGROUNDS** is an outstanding choice for gamers looki
 
 ---
 
-Mr. Game and Sweat Reviews: PUBG: BATTLEGROUNDS - By Taylor Dorsett
+Mr. Game and Sweat Reviews: PUBG: BATTLEGROUNDS - By Taylor Owen Dorsett

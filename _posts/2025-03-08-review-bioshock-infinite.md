@@ -47,4 +47,4 @@ BioShock Infinite is a stunningly beautiful game with a rich narrative that can 
 
 ---
 
-Mr. Game and Sweat Reviews: BioShock Infinite - By Taylor Dorsett
+Mr. Game and Sweat Reviews: BioShock Infinite - By Taylor Owen Dorsett

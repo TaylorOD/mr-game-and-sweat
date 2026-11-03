@@ -49,4 +49,4 @@ In conclusion, Tale of Immortal is an engaging game steeped in rich story and ex
 
 ---
 
-Mr. Game and Sweat Reviews: 鬼谷八荒 Tale of Immortal - By Taylor Dorsett
+Mr. Game and Sweat Reviews: 鬼谷八荒 Tale of Immortal - By Taylor Owen Dorsett

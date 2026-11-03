@@ -46,4 +46,4 @@ As a result, we give "Like a Dragon Infinite Wealth" an overall score of 2.35 ou
 
 ---
 
-Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth - By Taylor Owen Dorsett

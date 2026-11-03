@@ -46,4 +46,4 @@ Beat Saber elegantly combines exercise with music and rhythm in a way that keeps
 
 ---
 
-Mr. Game and Sweat Reviews: Beat Saber - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Beat Saber - By Taylor Owen Dorsett

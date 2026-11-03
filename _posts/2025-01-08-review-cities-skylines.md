@@ -46,4 +46,4 @@ Cities: Skylines excels at providing an immersive city-building experience that 
 
 ---
 
-Mr. Game and Sweat Reviews: Cities: Skylines - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cities: Skylines - By Taylor Owen Dorsett

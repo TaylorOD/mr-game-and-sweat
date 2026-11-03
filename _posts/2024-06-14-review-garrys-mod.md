@@ -48,4 +48,4 @@ For those looking to add a touch of creativity and laughter to their exercising 
 
 ---
 
-Mr. Game and Sweat Reviews: Garry's Mod - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Garry's Mod - By Taylor Owen Dorsett

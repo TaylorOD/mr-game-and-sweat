@@ -46,4 +46,4 @@ In summary, Stumble Guys offers an engaging and entertaining experience that's p
 
 ---
 
-Mr. Game and Sweat Reviews: Stumble Guys - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Stumble Guys - By Taylor Owen Dorsett

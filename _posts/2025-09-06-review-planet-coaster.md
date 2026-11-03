@@ -50,4 +50,4 @@ On the technical side, "Planet Coaster" is relatively demanding compared to simp
 
 ---
 
-Mr. Game and Sweat Reviews: Planet Coaster - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Planet Coaster - By Taylor Owen Dorsett

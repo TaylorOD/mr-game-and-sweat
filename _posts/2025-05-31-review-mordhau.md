@@ -44,4 +44,4 @@ MORDHAU offers an exhilarating gameplay experience that seamlessly fits the acti
 
 ---
 
-Mr. Game and Sweat Reviews: MORDHAU - By Taylor Dorsett
+Mr. Game and Sweat Reviews: MORDHAU - By Taylor Owen Dorsett

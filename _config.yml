@@ -6,7 +6,7 @@ url: 'https://mrgameandsweat.com'
 permalink: '/:title/'
 logo: 'assets/images/logos/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: The Mr. Game and Sweat Team
+author: Taylor Owen Dorsett
 paginate: 30
 disqus: false
 locale: en_us
@@ -26,8 +26,8 @@ ganalytics: G-KKMVFQ1QE2
 # Authors
 authors:
   taylor:
-    name: Taylor
-    display_name: Taylor
+    name: Taylor Owen Dorsett
+    display_name: Taylor Owen Dorsett
     avatar: 'assets/images/authors/taylor.png'
     email: mrgameandsweat@gmail.com
     web:

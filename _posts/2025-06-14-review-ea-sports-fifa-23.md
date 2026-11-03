@@ -47,4 +47,4 @@ Overall, “EA SPORTS FIFA 23” provides an exciting soccer simulation that can
 
 ---
 
-Mr. Game and Sweat Reviews: EA SPORTS FIFA 23 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: EA SPORTS FIFA 23 - By Taylor Owen Dorsett

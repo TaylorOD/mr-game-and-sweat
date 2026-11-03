@@ -54,4 +54,4 @@ Overall, **Project Zomboid** is a gem for fitness-oriented gamers who hunger for
 
 ---
 
-Mr. Game and Sweat Reviews: Project Zomboid - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Project Zomboid - By Taylor Owen Dorsett

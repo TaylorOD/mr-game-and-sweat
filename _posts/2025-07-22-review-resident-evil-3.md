@@ -47,4 +47,4 @@ In summary, Resident Evil 3 offers an engaging and intense gameplay experience t
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil 3 - By Taylor Owen Dorsett

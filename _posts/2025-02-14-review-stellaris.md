@@ -46,4 +46,4 @@ In conclusion, Stellaris proves to be an engaging yet relaxing cosmic strategy g
 
 ---
 
-Mr. Game and Sweat Reviews: Stellaris - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Stellaris - By Taylor Owen Dorsett

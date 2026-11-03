@@ -47,4 +47,4 @@ In summary, Left 4 Dead 2 is an exhilarating game that combines intense co-op ga
 
 ---
 
-Mr. Game and Sweat Reviews: Left 4 Dead 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Left 4 Dead 2 - By Taylor Owen Dorsett

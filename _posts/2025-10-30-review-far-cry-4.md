@@ -50,4 +50,4 @@ Far Cry 4 successfully immerses players in a sprawling, open world filled with t
 
 ---
 
-Mr. Game and Sweat Reviews: Far Cry 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Far Cry 4 - By Taylor Owen Dorsett

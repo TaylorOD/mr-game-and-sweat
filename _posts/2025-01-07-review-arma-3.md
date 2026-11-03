@@ -46,4 +46,4 @@ In conclusion, Arma 3 can provide a dynamic and highly engaging gaming experienc
 
 ---
 
-Mr. Game and Sweat Reviews: Arma 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Arma 3 - By Taylor Owen Dorsett

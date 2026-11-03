@@ -46,4 +46,4 @@ In conclusion, Mafia II (Classic) provides a gripping experience that can entert
 
 ---
 
-Mr. Game and Sweat Reviews: Mafia II (Classic) - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mafia II (Classic) - By Taylor Owen Dorsett

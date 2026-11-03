@@ -52,4 +52,4 @@ Whether you're exploring the cosmos or honing your gym routine, Starbound is a s
 
 ---
 
-Mr. Game and Sweat Reviews: Starbound - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Starbound - By Taylor Owen Dorsett

@@ -45,4 +45,4 @@ If you're looking for a game that enhances your workout experience rather than d
 
 ---
 
-Mr. Game and Sweat Reviews: Don't Starve Together - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Don't Starve Together - By Taylor Owen Dorsett

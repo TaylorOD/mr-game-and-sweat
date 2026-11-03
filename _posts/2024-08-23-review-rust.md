@@ -46,4 +46,4 @@ Rust offers an exciting and highly immersive experience that pairs well with you
 
 ---
 
-Mr. Game and Sweat Reviews: Rust - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Rust - By Taylor Owen Dorsett

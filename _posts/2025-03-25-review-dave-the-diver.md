@@ -47,4 +47,4 @@ All in all, "DAVE THE DIVER" manages to blend engaging gameplay with compatibili
 
 ---
 
-Mr. Game and Sweat Reviews: DAVE THE DIVER - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DAVE THE DIVER - By Taylor Owen Dorsett

@@ -45,4 +45,4 @@ Overall, “Rise of the Tomb Raider” proves to be an excellent choice for both
 
 ---
 
-Mr. Game and Sweat Reviews: Rise of the Tomb Raider - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Rise of the Tomb Raider - By Taylor Owen Dorsett

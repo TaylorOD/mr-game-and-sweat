@@ -51,4 +51,4 @@ Days Gone offers an engaging gaming experience that keeps your heart rate up wit
 
 ---
 
-Mr. Game and Sweat Reviews: Days Gone - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Days Gone - By Taylor Owen Dorsett

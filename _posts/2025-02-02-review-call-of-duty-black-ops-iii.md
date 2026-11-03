@@ -47,4 +47,4 @@ In summary, Call of Duty: Black Ops III not only delivers an intense and engagin
 
 ---
 
-Mr. Game and Sweat Reviews: Call of Duty: Black Ops III - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Call of Duty: Black Ops III - By Taylor Owen Dorsett

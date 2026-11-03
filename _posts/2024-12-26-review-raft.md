@@ -46,4 +46,4 @@ In conclusion, "Raft" provides an excellent gaming experience that seamlessly bl
 
 ---
 
-Mr. Game and Sweat Reviews: Raft - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Raft - By Taylor Owen Dorsett

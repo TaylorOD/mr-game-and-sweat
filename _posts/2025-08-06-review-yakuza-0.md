@@ -47,4 +47,4 @@ Yakuza 0 presents an engaging mix of crime drama and engaging gameplay, but the 
 
 ---
 
-Mr. Game and Sweat Reviews: Yakuza 0 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Yakuza 0 - By Taylor Owen Dorsett

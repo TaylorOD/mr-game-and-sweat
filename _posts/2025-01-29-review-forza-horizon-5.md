@@ -47,4 +47,4 @@ Forza Horizon 5 presents an infectiously fun racing experience that complements 
 
 ---
 
-Mr. Game and Sweat Reviews: Forza Horizon 5 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Forza Horizon 5 - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Hell Let Loose offers a thrilling and immersive experience that captivates playe
 
 ---
 
-Mr. Game and Sweat Reviews: Hell Let Loose - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hell Let Loose - By Taylor Owen Dorsett

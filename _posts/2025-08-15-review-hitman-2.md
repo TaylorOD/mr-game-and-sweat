@@ -53,4 +53,4 @@ If you're looking for a way to blend your workout with a thrilling assassination
 
 ---
 
-Mr. Game and Sweat Reviews: HITMAN 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: HITMAN 2 - By Taylor Owen Dorsett

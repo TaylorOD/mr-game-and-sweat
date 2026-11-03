@@ -46,4 +46,4 @@ Noita delivers a delightful roguelike experience filled with magic and mayhem, p
 
 ---
 
-Mr. Game and Sweat Reviews: Noita - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Noita - By Taylor Owen Dorsett

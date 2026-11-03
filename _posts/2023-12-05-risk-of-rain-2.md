@@ -46,4 +46,4 @@ Overall, we give "Risk of Rain 2" a score of 2.67 out of 3. It excels in gamepla
 
 ---
 
-Mr. Game and Sweat Reviews: Risk of Rain 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Risk of Rain 2 - By Taylor Owen Dorsett

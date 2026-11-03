@@ -47,4 +47,4 @@ Borderlands 2 is an outstanding choice for fitness gamers. Its engaging gameplay
 
 ---
 
-Mr. Game and Sweat Reviews: Borderlands 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Borderlands 2 - By Taylor Owen Dorsett

@@ -48,4 +48,4 @@ In sum, Brawlhalla is a fantastic game to consider for anyone looking to combine
 
 ---
 
-Mr. Game and Sweat Reviews: Brawlhalla - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Brawlhalla - By Taylor Owen Dorsett

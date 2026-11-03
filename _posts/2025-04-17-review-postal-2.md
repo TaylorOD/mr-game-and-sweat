@@ -45,4 +45,4 @@ POSTAL 2 offers an entertaining adventure filled with bizarre humor and chaotic 
 
 ---
 
-Mr. Game and Sweat Reviews: POSTAL 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: POSTAL 2 - By Taylor Owen Dorsett

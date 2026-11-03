@@ -47,4 +47,4 @@ On the technical side of things, *Kingdom Come: Deliverance II* holds onto its p
 
 ---
 
-Mr. Game and Sweat Reviews: Kingdom Come: Deliverance II - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Kingdom Come: Deliverance II - By Taylor Owen Dorsett

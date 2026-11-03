@@ -46,4 +46,4 @@ In summary, "Batman: Arkham Asylum Game of the Year Edition" lives up to its hyp
 
 ---
 
-Mr. Game and Sweat Reviews: Batman: Arkham Asylum Game of the Year Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Batman: Arkham Asylum Game of the Year Edition - By Taylor Owen Dorsett

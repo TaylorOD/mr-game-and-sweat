@@ -44,4 +44,4 @@ In conclusion, Plants vs. Zombies GOTY Edition is a fantastic choice for gamers 
 
 ---
 
-Mr. Game and Sweat Reviews: Plants vs. Zombies GOTY Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Plants vs. Zombies GOTY Edition - By Taylor Owen Dorsett

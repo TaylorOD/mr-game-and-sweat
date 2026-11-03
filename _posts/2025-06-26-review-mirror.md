@@ -48,4 +48,4 @@ In conclusion, "Mirror" offers a compelling blend of engaging mechanics, compati
 
 ---
 
-Mr. Game and Sweat Reviews: Mirror - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mirror - By Taylor Owen Dorsett

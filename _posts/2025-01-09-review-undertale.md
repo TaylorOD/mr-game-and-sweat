@@ -46,4 +46,4 @@ Undertale is an engaging and charming indie RPG that offers a rich experience an
 
 ---
 
-Mr. Game and Sweat Reviews: Undertale - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Undertale - By Taylor Owen Dorsett

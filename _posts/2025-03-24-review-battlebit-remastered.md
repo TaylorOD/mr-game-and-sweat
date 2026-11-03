@@ -46,4 +46,4 @@ All in all, BattleBit Remastered offers a captivating and energetic gameplay exp
 
 ---
 
-Mr. Game and Sweat Reviews: BattleBit Remastered - By Taylor Dorsett
+Mr. Game and Sweat Reviews: BattleBit Remastered - By Taylor Owen Dorsett

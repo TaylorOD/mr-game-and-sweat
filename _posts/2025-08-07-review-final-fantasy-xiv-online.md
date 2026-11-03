@@ -46,4 +46,4 @@ In conclusion, FINAL FANTASY XIV Online marries a richly woven narrative and eng
 
 ---
 
-Mr. Game and Sweat Reviews: FINAL FANTASY XIV Online - By Taylor Dorsett
+Mr. Game and Sweat Reviews: FINAL FANTASY XIV Online - By Taylor Owen Dorsett

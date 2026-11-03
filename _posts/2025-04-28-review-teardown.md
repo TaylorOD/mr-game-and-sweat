@@ -47,4 +47,4 @@ In the end, Teardown offers an exhilarating blend of creativity and destruction,
 
 ---
 
-Mr. Game and Sweat Reviews: Teardown - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Teardown - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ War Thunder is an engaging game that seamlessly combines history and strategy wi
 
 ---
 
-Mr. Game and Sweat Reviews: War Thunder - By Taylor Dorsett
+Mr. Game and Sweat Reviews: War Thunder - By Taylor Owen Dorsett

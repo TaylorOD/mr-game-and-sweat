@@ -50,4 +50,4 @@ In conclusion, Totally Accurate Battlegrounds ups the ante on engaging and zany 
 
 ---
 
-Mr. Game and Sweat Reviews: Totally Accurate Battlegrounds - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Totally Accurate Battlegrounds - By Taylor Owen Dorsett

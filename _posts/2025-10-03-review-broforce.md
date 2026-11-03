@@ -49,4 +49,4 @@ If you’re looking for a game to break the monotony of your exercise routine, B
 
 ---
 
-Mr. Game and Sweat Reviews: Broforce - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Broforce - By Taylor Owen Dorsett

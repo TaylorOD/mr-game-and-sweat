@@ -52,4 +52,4 @@ Perfect for gamers who appreciate deep strategy while also maintaining a healthy
 
 ---
 
-Mr. Game and Sweat Reviews: Europa Universalis IV - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Europa Universalis IV - By Taylor Owen Dorsett

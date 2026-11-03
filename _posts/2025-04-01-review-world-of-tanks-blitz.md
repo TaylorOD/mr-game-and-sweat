@@ -46,4 +46,4 @@ Overall, World of Tanks Blitz is perfectly tailored for players looking to combi
 
 ---
 
-Mr. Game and Sweat Reviews: World of Tanks Blitz - By Taylor Dorsett
+Mr. Game and Sweat Reviews: World of Tanks Blitz - By Taylor Owen Dorsett

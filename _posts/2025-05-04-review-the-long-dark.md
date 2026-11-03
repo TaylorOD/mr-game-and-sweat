@@ -47,4 +47,4 @@ The Long Dark stands out for its engaging survival mechanics, making it a fantas
 
 ---
 
-Mr. Game and Sweat Reviews: The Long Dark - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Long Dark - By Taylor Owen Dorsett

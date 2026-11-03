@@ -46,4 +46,4 @@ Inscryption captivates with its eerie charm and strategic depth, while still off
 
 ---
 
-Mr. Game and Sweat Reviews: Inscryption - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Inscryption - By Taylor Owen Dorsett

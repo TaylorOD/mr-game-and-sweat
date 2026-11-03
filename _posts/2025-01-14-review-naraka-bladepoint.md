@@ -46,4 +46,4 @@ NARAKA: BLADEPOINT delivers an action-packed experience that merges the exciteme
 
 ---
 
-Mr. Game and Sweat Reviews: NARAKA: BLADEPOINT - By Taylor Dorsett
+Mr. Game and Sweat Reviews: NARAKA: BLADEPOINT - By Taylor Owen Dorsett

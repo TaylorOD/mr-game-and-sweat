@@ -47,4 +47,4 @@ In conclusion, "Spec Ops: The Line" offers a compelling and thought-provoking na
 
 ---
 
-Mr. Game and Sweat Reviews: Spec Ops: The Line - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Spec Ops: The Line - By Taylor Owen Dorsett

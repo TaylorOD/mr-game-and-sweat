@@ -44,4 +44,4 @@ Overall, Green Hell is an engaging survival experience with mechanics that can k
 
 ---
 
-Mr. Game and Sweat Reviews: Green Hell - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Green Hell - By Taylor Owen Dorsett

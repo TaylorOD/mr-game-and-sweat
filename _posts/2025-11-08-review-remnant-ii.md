@@ -45,4 +45,4 @@ REMNANT II is a good action RPG, but its precise combat makes it a tough pick fo
 
 ---
 
-Mr. Game and Sweat Reviews: REMNANT II - By Taylor Dorsett
+Mr. Game and Sweat Reviews: REMNANT II - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ In summary, SCUM offers an engaging experience that successfully integrates surv
 
 ---
 
-Mr. Game and Sweat Reviews: SCUM - By Taylor Dorsett
+Mr. Game and Sweat Reviews: SCUM - By Taylor Owen Dorsett

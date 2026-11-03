@@ -44,4 +44,4 @@ Sid Meier’s Civilization VI impresses with its engaging gameplay and compatibi
 
 ---
 
-Mr. Game and Sweat Reviews: Sid Meier’s Civilization VI - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sid Meier’s Civilization VI - By Taylor Owen Dorsett

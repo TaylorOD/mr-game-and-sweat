@@ -47,4 +47,4 @@ Overall, Among Us offers a uniquely enjoyable experience that’s perfectly suit
 
 ---
 
-Mr. Game and Sweat Reviews: Among Us - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Among Us - By Taylor Owen Dorsett

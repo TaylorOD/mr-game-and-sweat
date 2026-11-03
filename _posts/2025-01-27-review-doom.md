@@ -46,4 +46,4 @@ In summary, DOOM provides a thrilling gaming experience that's perfect for worko
 
 ---
 
-Mr. Game and Sweat Reviews: DOOM - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DOOM - By Taylor Owen Dorsett

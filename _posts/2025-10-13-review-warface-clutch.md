@@ -50,4 +50,4 @@ Overall, "Warface: Clutch" is an exciting option for those who want to combine f
 
 ---
 
-Mr. Game and Sweat Reviews: Warface: Clutch - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Warface: Clutch - By Taylor Owen Dorsett

@@ -45,4 +45,4 @@ Last Epoch offers a satisfying blend of engaging gameplay and compatibility with
 
 ---
 
-Mr. Game and Sweat Reviews: Last Epoch - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Last Epoch - By Taylor Owen Dorsett

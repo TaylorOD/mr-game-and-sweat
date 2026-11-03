@@ -53,4 +53,4 @@ Farming Simulator 19 presents a captivating farming experience that balances wel
 
 ---
 
-Mr. Game and Sweat Reviews: Farming Simulator 19 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Farming Simulator 19 - By Taylor Owen Dorsett

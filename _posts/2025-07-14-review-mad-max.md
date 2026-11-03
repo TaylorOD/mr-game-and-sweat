@@ -47,4 +47,4 @@ Overall, Mad Max excels in delivering an engaging experience that balances thril
 
 ---
 
-Mr. Game and Sweat Reviews: Mad Max - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mad Max - By Taylor Owen Dorsett

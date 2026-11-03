@@ -46,4 +46,4 @@ In conclusion, This War of Mine offers a compelling survival experience that wor
 
 ---
 
-Mr. Game and Sweat Reviews: This War of Mine - By Taylor Dorsett
+Mr. Game and Sweat Reviews: This War of Mine - By Taylor Owen Dorsett

@@ -45,4 +45,4 @@ PowerWash Simulator makes a relaxed workout companion if you enjoy slow, repetit
 
 ---
 
-Mr. Game and Sweat Reviews: PowerWash Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: PowerWash Simulator - By Taylor Owen Dorsett

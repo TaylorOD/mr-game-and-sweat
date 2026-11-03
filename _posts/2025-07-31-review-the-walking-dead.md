@@ -47,4 +47,4 @@ While "The Walking Dead" provides an engaging and immersive experience featuring
 
 ---
 
-Mr. Game and Sweat Reviews: The Walking Dead - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Walking Dead - By Taylor Owen Dorsett

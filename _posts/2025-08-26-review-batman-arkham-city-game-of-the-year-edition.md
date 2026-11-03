@@ -50,4 +50,4 @@ In conclusion, Batman: Arkham City - Game of the Year Edition is an exemplary ch
 
 ---
 
-Mr. Game and Sweat Reviews: Batman: Arkham City - Game of the Year Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Batman: Arkham City - Game of the Year Edition - By Taylor Owen Dorsett

@@ -49,4 +49,4 @@ So, strap on those headphones, get ready to unleash your inner Z fighter, and en
 
 ---
 
-Mr. Game and Sweat Reviews: DRAGON BALL: Sparking! ZERO - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DRAGON BALL: Sparking! ZERO - By Taylor Owen Dorsett

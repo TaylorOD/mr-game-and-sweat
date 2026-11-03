@@ -50,4 +50,4 @@ In terms of computer requirements, "Satisfactory" does demand a decent system to
 
 ---
 
-Mr. Game and Sweat Reviews: Satisfactory - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Satisfactory - By Taylor Owen Dorsett
