@@ -34,9 +34,15 @@ footermenu:
   - title: Guides
     url: 'guides/'
 
+  - title: Every Game A to Z
+    url: 'all-games/'
+
   - title: Want us to review your game?
     url: 'https://store.steampowered.com/curator/45035411/'
     external: true
 
   - title: Contact Us
     url: 'contact/'
+
+  - title: Privacy Policy
+    url: 'privacy-policy/'

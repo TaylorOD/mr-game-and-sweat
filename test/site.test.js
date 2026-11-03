@@ -129,6 +129,12 @@ for (const review of reviews) {
   if (!resolves(review.url, 'reviews.json')) report('reviews.json', `broken link ${review.url}`);
 }
 
+// Every review should be one click from a page linked in the footer
+const allGames = fs.readFileSync(path.join(siteDir, 'all-games', 'index.html'), 'utf8');
+for (const review of reviews) {
+  if (!allGames.includes(`href="${review.url}"`)) report('all-games', `is missing ${review.title}`);
+}
+
 // Best of lists shouldnt ever be empty
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');

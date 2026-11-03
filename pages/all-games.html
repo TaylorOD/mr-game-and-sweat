@@ -1,0 +1,17 @@
+---
+layout: default
+title: Every Game We've Reviewed, A to Z
+permalink: "/all-games/"
+description: Every game Mr. Game and Sweat has reviewed for playing on a treadmill or exercise bike, listed A to Z with its score.
+---
+
+<h1 class="mb-3">Every Game We've Reviewed</h1>
+<p class="lead mb-4">All of them, A to Z. Want to narrow it down? <a class="accent-link" href="{{ site.baseurl }}/reviews/">Search and filter here</a>.</p>
+
+{% assign games = site.posts | where_exp: "p", "p.score_overall" | sort_natural: "title" %}
+<ul class="all-games">
+	{% for p in games %}<li><a href="{{ p.url | absolute_url }}">{{ p.title }}</a>{% include score_badge.html score=p.score_overall %}</li>
+	{% endfor %}
+</ul>
+
+<p class="mt-4 text-muted">Looking for setup help? See <a class="accent-link" href="{{ site.baseurl }}/guides/">the guides</a> or <a class="accent-link" href="{{ site.baseurl }}/categories/">browse by category</a>.</p>
