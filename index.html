@@ -30,7 +30,7 @@ background: '/img/bg-index.jpg'
 <!-- Browse
 ================================================== -->
 <nav class="browse-chips" aria-label="Browse by type">
-  {% for list in site.data.best_lists %}<a href="{{ site.baseurl }}/{{ list.url }}">{{ list.label }}</a>{% endfor %}
+  {% for list in site.data.best_lists limit: 10 %}<a href="{{ site.baseurl }}/{{ list.url }}">{{ list.label }}</a>{% endfor %}
 </nav>
 
 <!-- Top rated
