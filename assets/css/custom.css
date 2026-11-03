@@ -989,6 +989,7 @@ a.post-genre:hover {
 	font-weight: 500;
 	text-align: left;
 }
+.compare-table thead td,
 .compare-table thead th {
 	border-bottom: 0;
 	vertical-align: top;
