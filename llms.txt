@@ -1,0 +1,29 @@
+---
+layout: null
+sitemap: false
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> Reviews of video games you can play while running on a treadmill or riding an exercise bike. Every game gets scored out of 3 on gameplay, treadmill and bike fit, and computer requirements, plus whether it's pause friendly and how long a session runs.
+
+## Start here
+
+- [All reviews, with search and filters]({{ '/reviews/' | absolute_url }})
+- [Best games to play on a treadmill or exercise bike]({{ '/best-of/' | absolute_url }})
+- [Guides]({{ '/guides/' | absolute_url }})
+- [Every game A to Z]({{ '/all-games/' | absolute_url }})
+- [All reviews as JSON]({{ '/reviews.json' | absolute_url }})
+
+## Best of lists
+
+{% for list in site.data.best_lists %}- [{{ list.title }}]({{ list.url | absolute_url }})
+{% endfor %}
+## Guides
+
+{% assign guides = site.categories.guide | sort: "date" %}{% for post in guides %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.excerpt | strip_html | strip_newlines | truncatewords: 20 }}
+{% endfor %}
+## Reviews
+
+{% assign reviews = site.posts | where_exp: "p", "p.score_overall" | sort_natural: "title" %}{% for post in reviews %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.score_overall }} out of 3
+{% endfor %}
