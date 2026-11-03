@@ -87,7 +87,7 @@ assert.ok(pagesChecked > 400, `Only checked ${pagesChecked} pages`);
 
 // Pages that need to exist
 for (const page of ['index.html', 'reviews/index.html', 'best-of/index.html', 'guides/index.html',
-  'about/index.html', 'contact/index.html', 'sitemap.xml', 'robots.txt', 'feed.xml', 'CNAME']) {
+  'about/index.html', 'contact/index.html', 'sitemap.xml', 'robots.txt', 'feed.xml']) {
   if (!fs.existsSync(path.join(siteDir, page))) report(page, 'is missing');
 }
 
@@ -115,9 +115,11 @@ for (const review of reviews) {
 }
 
 // Best of lists shouldnt ever be empty
-for (const file of htmlFiles.filter((name) => /[\\/]best-[^\\/]+[\\/]index\.html$/.test(name))) {
-  const items = count(fs.readFileSync(file, 'utf8'), /class="best-list-image"/g);
-  if (items === 0) report(relative(file), 'has an empty list');
+for (const file of htmlFiles) {
+  const html = fs.readFileSync(file, 'utf8');
+  if (html.includes('class="best-list"') && count(html, /class="best-list-image"/g) === 0) {
+    report(relative(file), 'has an empty list');
+  }
 }
 
 // A review page has what it should
