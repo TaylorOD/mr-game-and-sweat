@@ -45,7 +45,7 @@
 		box.appendChild(imageLink);
 
 		var heading = document.createElement('h2');
-		heading.className = 'card-title h4 serif-font';
+		heading.className = 'card-title h4';
 		var link = document.createElement('a');
 		link.href = review.url;
 		link.textContent = review.title;
