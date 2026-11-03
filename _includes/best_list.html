@@ -2,9 +2,13 @@
 {% assign filter_pause = include.pause %}
 {% assign filter_session = include.session %}
 {% assign filter_genre = include.genre %}
+{% assign filter_controller = include.controller %}
+{% assign filter_computer = include.computer %}
 {% if filter_pause %}{% assign candidates = candidates | where_exp: "p", "p.pause_friendly == filter_pause" %}{% endif %}
 {% if filter_session %}{% assign candidates = candidates | where_exp: "p", "p.session_length == filter_session" %}{% endif %}
 {% if filter_genre %}{% assign candidates = candidates | where_exp: "p", "p.genres contains filter_genre" %}{% endif %}
+{% if filter_controller %}{% assign candidates = candidates | where_exp: "p", "p.controller == filter_controller" %}{% endif %}
+{% if filter_computer %}{% assign candidates = candidates | where_exp: "p", "p.score_computer == filter_computer" %}{% endif %}
 {% assign candidates = candidates | sort: "score_overall" | reverse %}
 {% assign shown = 0 %}
 {% assign score_levels = "3,2" | split: "," %}
