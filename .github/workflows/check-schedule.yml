@@ -21,7 +21,7 @@ jobs:
           MAX_AGE_DAYS: 4
         run: |
           TITLE="Review schedule has stopped"
-          LAST=$(gh api "repos/$GH_REPO/actions/workflows/generate-reviews.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // empty')
+          LAST=$(gh api "repos/$GH_REPO/actions/workflows/publish-reviews.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // empty')
           LAST_SECONDS=$(date -d "${LAST:-1970-01-01}" +%s)
           AGE_DAYS=$(( ($(date +%s) - LAST_SECONDS) / 86400 ))
           OPEN=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number // empty')
