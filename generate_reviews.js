@@ -177,25 +177,25 @@ async function generateReviewContent(game, reviewDate, addedDate) {
 
   Always include these sections in your review, using these exact headings:
 
-  # Gameplay
+  ## Gameplay
 
   {Insert details about the gameplay. Is it engaging? Does it distract you from running? Great. Are there a lot of slow sections or long cut scenes? That is bad.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
-  # Treadmill and Bike Compatibility
+  ## Treadmill and Bike Compatibility
 
   {Insert details about how well the game works with a treadmill or bike. Does it have controller compatibility? That is good. Does it require a lot of quick movements or twitch gameplay? That is bad.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
-  # Computer Requirements
+  ## Computer Requirements
 
   {Insert details about how demanding the game is on a computer}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
-  # Conclusion and Score
+  ## Conclusion and Score
 
   {Insert conclusion here. Do not write an overall score, we add that ourselves.}
   `;

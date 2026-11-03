@@ -21,22 +21,22 @@ session_length: Short
 
 Battlerite keeps you busy with quick arena fights, but its sharp aiming and reaction demands make it a rough fit for treadmill or bike play. You can keep moving through a match, but a missed dodge can cost your team.
 
-# Gameplay
+## Gameplay
 
 Battlerite mixes a top down shooter with a fast paced fighting game, so matches are full of movement, attacks, and quick decisions. There is little downtime to pull you away from the action, which makes it a strong workout distraction.  
 ### Category Score: 3 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 The live team battles demand precise aiming, quick dodges, and fast reactions. That is hard to manage while your footing or hands are moving, and you cannot pause a match when you need to settle in.  
 ### Category Score: 1 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 The minimum specs call for a dual core processor at 2.8 GHz, 4 GB of RAM, and Intel HD 3000 graphics. That integrated graphics requirement makes Battlerite a good fit for older or basic computers.  
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Battlerite delivers quick, active matches and should run on modest hardware. Its focus on competitive reactions makes it a poor workout companion unless you can play while keeping your hands steady.
 

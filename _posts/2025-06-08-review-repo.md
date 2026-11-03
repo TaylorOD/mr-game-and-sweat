@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324166
 
 “R.E.P.O.” is an ingenious blend of action, strategy, and storytelling that places players in a dystopian world where technology meets survival. Designed to keep your adrenaline pumping, this game presents an innovative opportunity for gamers who want to stay fit while indulging in deep gameplay. Let’s dive into the nitty-gritty of what makes R.E.P.O. both entertaining and conducive to your fitness regime.
 
-# Gameplay
+## Gameplay
 
 R.E.P.O. offers a captivating gameplay experience that seamlessly connects moments of intense action with strategic elements. As you navigate through procedurally generated levels, you are constantly faced with choices that impact both the story and your survival. The pacing manages to strike a fine balance, with just enough challenge to keep your heart racing while you run on the treadmill. There are minimal slow sections, and cut scenes are brief and engaging, ensuring you're always moving forward in both the game and your workout.
 
@@ -29,7 +29,7 @@ While there are moments of respite that allow you to catch your breath, they are
 
 ### Category Score: 3 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 R.E.P.O. excels in its compatibility with both treadmills and bikes through its adaptable control scheme. The game supports compatible bike and treadmill controllers, allowing you to move seamlessly as you engage with the game. The combat and exploration mechanics are forgiving enough to accommodate a range of fitness levels—requiring moderate agility while avoiding hyperactive precision movements that could disrupt your exercise session. 
 
@@ -37,13 +37,13 @@ The combination of controller support and smooth gameplay mechanics allows playe
 
 ### Category Score: 3 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 On the technical side, R.E.P.O. runs relatively smoothly on most machines without hefty requirements that could strain your equipment or budget. It’s optimized for a wide range of systems, with modest requirements that ensure even older computers can still offer an enjoyable experience. The visuals are stunning but not unnecessarily taxing, allowing players to enjoy the aesthetics without missing a beat in their fitness routine.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 In sum, R.E.P.O. is a stellar addition to the repertoire of fitness-friendly video games that can keep your heart racing on a treadmill or bike while providing a compelling narrative and exciting gameplay. Its engaging mechanics, excellent compatibility with exercise equipment, and reasonable computer requirements make it a top contender for gamers looking to enhance their workouts. If you’re seeking a game that not only entertains but also encourages movement, R.E.P.O. might be the perfect companion on your fitness journey.
 

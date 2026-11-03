@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/111300
 
 Persona 4 Golden, an enhanced version of the original Persona 4, brilliantly combines classic RPG elements with a captivating narrative that keeps players engaged. Shirking the conventional, it offers a blend of life simulation and dungeon crawling that you can immerse yourself in while exercising. But how does it fare for those wishing to keep their cardio up on a treadmill or bike? Let’s dive in!
 
-# Gameplay
+## Gameplay
 
 The gameplay in Persona 4 Golden is multifaceted and engaging. Players navigate the small rural town of Inaba, balancing everyday life with battling shadows in the mysterious TV world. The social simulation aspect requires you to build relationships, attend school, and manage daily activities while simultaneously exploring dungeons. 
 
@@ -29,7 +29,7 @@ The story unfolds beautifully with a strong focus on character development. What
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Persona 4 Golden is relatively well-suited for use during exercise. The game supports a controller setup, making it easy to navigate through actions without much need for quick reflexes, which is essential for maintaining your stride on a treadmill or bike. 
 
@@ -37,13 +37,13 @@ Most of the combat is turn-based, allowing you to take your time to make decisio
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 To run Persona 4 Golden smoothly, you won’t need a particularly powerful setup. With modest system requirements, it can effectively run on lower-end devices, making it accessible to a broad audience. It’s not graphically demanding, which means it won’t overwhelm your system (or your energy levels while working out) while you’re trying to multitask.
 
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Overall, Persona 4 Golden offers a unique mix of compelling storytelling and engaging mechanics that can hold your attention during cardio workouts. While it may not be perfect due to distracting cutscenes and some slower moments, its turn-based gameplay accommodates players trying to stay active. With low system requirements, it also welcomes gamers who might not have the latest hardware. Whether you're running, biking, or enjoying a leisurely workout, Persona 4 Golden provides a solid gaming experience.
 
