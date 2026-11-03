@@ -511,6 +511,15 @@ body {
 .score-box-facts strong {
 	color: #fff;
 }
+.score-box-facts a {
+	color: #fff;
+	text-decoration: underline;
+	text-decoration-color: var(--muted);
+	text-underline-offset: 3px;
+}
+.score-box-facts a:hover {
+	color: var(--accent);
+}
 .score-box-steam {
 	grid-column: 1 / -1;
 }
@@ -590,6 +599,11 @@ body {
 	background: var(--surface-2);
 	color: var(--text-soft);
 	font-size: 0.8rem;
+}
+a.post-genre:hover {
+	background: var(--line);
+	color: #fff;
+	text-decoration: none;
 }
 .post-meta > span:first-child {
 	margin-right: 0.4rem;
