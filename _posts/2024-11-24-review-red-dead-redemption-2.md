@@ -7,6 +7,15 @@ disqus: false
 date:   2024-11-24T04:29:19.291Z
 categories: [ review, game ]
 excerpt: "Red Dead Redemption 2 is an epic narrative and breathtaking open-world adventure that captivates players but poses a challenge for those wanting to maintain their exercise routine."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2
+score_overall: 1.83
+steam_appid: 1174180
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg
 ---
 
 Red Dead Redemption 2 is an epic narrative and breathtaking open-world adventure that captivates players but poses a challenge for those wanting to maintain their exercise routine. Let’s dive into how well this game integrates with your treadmill or bike workouts!

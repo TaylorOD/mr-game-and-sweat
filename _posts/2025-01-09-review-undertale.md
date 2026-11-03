@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-09T00:11:03.040Z
 categories: [ review, game ]
-image: null
 excerpt: "Undertale, created by Toby Fox, is a unique RPG that defies the conventional mechanics of traditional games while delivering a compelling narrative and memorable characters."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 391540
+genres: ["Indie", "RPG"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg
 ---
 
 Undertale, created by Toby Fox, is a unique RPG that defies the conventional mechanics of traditional games while delivering a compelling narrative and memorable characters. As a fitness-focused gamer, I’ll delve into its mechanics and see how it fares as a companion for your treadmill runs and bike rides.

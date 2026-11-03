@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-23T00:09:57.874Z
 categories: [ review, game ]
-image: null
 excerpt: "God of War is a fantastic entry in the action-adventure genre that has been captivating gamers since its debut."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 1593500
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg
 ---
 
 "God of War" is a fantastic entry in the action-adventure genre that has been captivating gamers since its debut. While it offers an incredible narrative and engaging combat, we’re here to determine how well it pairs with your exercise routine, especially for those utilizing treadmills or bikes during gameplay. Let’s delve into its various aspects!

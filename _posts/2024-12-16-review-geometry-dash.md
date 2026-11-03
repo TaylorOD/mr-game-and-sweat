@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-16T00:11:18.674Z
 categories: [ review, game ]
-image: null
 excerpt: "If you’re looking for a thrilling way to keep your heart rate up while you exercise, Geometry Dash is an exhilarating choice."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 322170
+genres: ["Action", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg
 ---
 
 If you’re looking for a thrilling way to keep your heart rate up while you exercise, **Geometry Dash** is an exhilarating choice. This rhythm-based platformer has you jumping, flying, and flipping your way through levels set to catchy music, making it not only engaging but also addictive enough to distract you from your workout!

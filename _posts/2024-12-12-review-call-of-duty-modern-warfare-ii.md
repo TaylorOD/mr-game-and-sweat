@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-12T00:11:23.774Z
 categories: [ review, game ]
-image: null
 excerpt: "Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1938090
+controller: full
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg
 ---
 
 Call of Duty: Modern Warfare II brings players back to the intense world of tactical combat, and it does so with a level of polish and engagement that might just make you forget you're burning calories while gaming. Whether you're on the treadmill or biking, this title is designed to keep your adrenaline pumping. 

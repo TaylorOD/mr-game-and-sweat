@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-18T00:11:37.957Z
 categories: [ review, game ]
-image: null
 excerpt: "As a thrilling addition to the Borderlands franchise, Borderlands 3 offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 397540
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg
 ---
 
 As a thrilling addition to the Borderlands franchise, "Borderlands 3" offers a unique blend of chaotic gunplay, humor, and loot-driven gameplay. While it captures the essence of its predecessors, it also provides an opportunity to engage with your fitness routine without sacrificing fun. Let's dive into the specifics to see how well it aligns with an active gaming lifestyle.

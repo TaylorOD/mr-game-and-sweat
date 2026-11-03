@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-30T00:13:45.721Z
 categories: [ review, game ]
-image: null
 excerpt: "Papers, Please offers an engaging experience that immerses players in the role of an immigration officer in the fictional dystopian nation of Arstotzka."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.5
+steam_appid: 239030
+genres: ["Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg
 ---
 
 # Gameplay

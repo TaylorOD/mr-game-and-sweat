@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-11T00:11:04.086Z
 categories: [ review, game ]
-image: null
 excerpt: "DARK SOULS II: Scholar of the First Sin beckons players into a grim world filled with challenge and intrigue."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 335300
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg
 ---
 
 DARK SOULS II: Scholar of the First Sin beckons players into a grim world filled with challenge and intrigue. For those who enjoy combining video gaming with exercise, let's dive into how this game holds up when you’re sweating it out on the treadmill or bike.

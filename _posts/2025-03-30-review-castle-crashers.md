@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-30T00:10:42.088Z
 categories: [ review, game ]
-image: null
 excerpt: "Castle Crashers takes players on a whimsical journey through a colorful medieval world packed with frantic combat and amusing antics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 204360
+controller: full
+genres: ["Action", "Adventure", "Casual", "Indie", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg
 ---
 
 Castle Crashers takes players on a whimsical journey through a colorful medieval world packed with frantic combat and amusing antics. As you run, bike, or engage in a good sweat session, let’s dive into why this game can be a fantastic addition to your workout playlist.

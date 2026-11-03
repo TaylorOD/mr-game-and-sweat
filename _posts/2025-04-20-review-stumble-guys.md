@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-20T00:10:19.865Z
 categories: [ review, game ]
-image: null
 excerpt: "Stumble Guys is a vibrant and zany multiplayer party game that thrusts players into chaotic obstacle courses, reminiscent of the popular genre made famous by shows like Wipeout."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.5
+steam_appid: 1677740
+genres: ["Action", "Casual", "Indie", "Massively Multiplayer", "Racing", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/header.jpg
 ---
 
 Stumble Guys is a vibrant and zany multiplayer party game that thrusts players into chaotic obstacle courses, reminiscent of the popular genre made famous by shows like "Wipeout." With its colorful graphics and lighthearted gameplay, it's a game designed to entertain, but how well does it fit into an exercise routine when you're on a treadmill or biking? Let’s dive into the details.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-13T00:11:56.062Z
 categories: [ review, game ]
-image: null
 excerpt: "A Dance of Fire and Ice presents a captivating rhythmic gameplay experience that draws players in with its simplistic yet engaging mechanics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 977950
+genres: ["Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/header.jpg
 ---
 
 # Gameplay

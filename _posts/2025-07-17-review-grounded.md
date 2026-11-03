@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-17T00:12:26.889Z
 categories: [ review, game ]
-image: null
 excerpt: "Grounded is an innovative survival adventure game developed by Obsidian Entertainment, where players find themselves shrunk down to the size of an ant in a suburban backyard."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 962130
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg
 ---
 
 Grounded is an innovative survival adventure game developed by Obsidian Entertainment, where players find themselves shrunk down to the size of an ant in a suburban backyard. As you navigate this miniaturized world, you confront insects, gather resources, and build your own base to survive. It’s a captivating premise that offers a seamless blend of crafting, exploration, and survival mechanics.

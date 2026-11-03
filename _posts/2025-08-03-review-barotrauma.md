@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-03T00:14:29.088Z
 categories: [ review, game ]
-image: null
 excerpt: "Barotrauma is a unique co-op survival simulator that takes you deep into the icy depths of Jupiter's moon, Europa."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 602960
+genres: ["Action", "Indie", "Simulation", "Strategy"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg
 ---
 
 Barotrauma is a unique co-op survival simulator that takes you deep into the icy depths of Jupiter's moon, Europa. Players take on the roles of crew members aboard a submarine, braving the harsh alien ocean as they manage resources, fend off monstrous creatures, and complete various missions. This game’s blend of teamwork, strategy, and high-stakes action makes it a captivating experience for everyone, especially those on the treadmill or bike.

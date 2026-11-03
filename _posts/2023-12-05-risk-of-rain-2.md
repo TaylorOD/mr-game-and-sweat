@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/risk-of-rain-2.jpg
 excerpt: "Risk of Rain 2 offers an incredibly engaging experience with its dynamic and fast-paced gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.65
+steam_appid: 632360
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Medium
 ---
 
 # Gameplay

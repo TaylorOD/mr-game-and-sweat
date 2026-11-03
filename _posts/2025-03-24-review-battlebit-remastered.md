@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-24T00:10:45.107Z
 categories: [ review, game ]
-image: null
 excerpt: "BattleBit Remastered is a unique entry in the online shooter genre, with its blocky art style and retro graphics reminiscent of classic games while incorporating modern gameplay mechanics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 671860
+genres: ["Action", "Massively Multiplayer", "Early Access"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg
 ---
 
 BattleBit Remastered is a unique entry in the online shooter genre, with its blocky art style and retro graphics reminiscent of classic games while incorporating modern gameplay mechanics. This game has captured the attention of many gamers, and for those seeking to exercise while playing, it brings some interesting dynamics to the table.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-02T00:11:23.928Z
 categories: [ review, game ]
-image: null
 excerpt: "Assetto Corsa is often regarded as a quintessential racing simulator that brings the thrill of high-speed driving directly to your screen."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 244210
+genres: ["Indie", "Racing", "Simulation", "Sports"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg
 ---
 
 Assetto Corsa is often regarded as a quintessential racing simulator that brings the thrill of high-speed driving directly to your screen. But how does it fare as a game to play while working up a sweat on a treadmill or bike? Let’s break it down.

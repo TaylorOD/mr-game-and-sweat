@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-01T00:14:09.392Z
 categories: [ review, game ]
-image: null
 excerpt: "Ravenfield is a single-player first-person shooter (FPS) that smoothly blends simplicity and fun, and with its focus on chaotic, action-packed gameplay, it delivers an engaging experience that pairs well with exercise routines."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 636480
+genres: ["Action", "Indie", "Early Access"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/header.jpg
 ---
 
 Ravenfield is a single-player first-person shooter (FPS) that smoothly blends simplicity and fun, and with its focus on chaotic, action-packed gameplay, it delivers an engaging experience that pairs well with exercise routines. Let's dive into the details!

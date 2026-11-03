@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-24T00:13:06.347Z
 categories: [ review, game ]
-image: null
 excerpt: "Trove, the blocky MMORPG developed by Trion Worlds, invites players into a vibrant voxel world filled with adventure, crafting, and exploration."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 304050
+genres: ["Action", "Adventure", "Casual", "Massively Multiplayer", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/8aef81520b394d978a55c7d43c0445237a4cd1a3/header.jpg
 ---
 
 Trove, the blocky MMORPG developed by Trion Worlds, invites players into a vibrant voxel world filled with adventure, crafting, and exploration. It’s a realm where you can build, combat, and tackle dungeons to your heart's content. But how does this game fare for those looking to stay active on a treadmill or bike? Let’s dive in.

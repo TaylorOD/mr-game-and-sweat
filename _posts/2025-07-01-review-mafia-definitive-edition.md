@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-01T00:13:41.094Z
 categories: [ review, game ]
-image: null
 excerpt: "As a dedicated gamer and fitness enthusiast, finding the balance between staying active while indulging in the digital worlds we love can be tricky."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1030840
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg
 ---
 
 As a dedicated gamer and fitness enthusiast, finding the balance between staying active while indulging in the digital worlds we love can be tricky. Enter "Mafia: Definitive Edition," a reimagining of the classic 2002 title that invites players back into the gritty underworld of organized crime. But does it lend itself well to an exercise routine on a treadmill or bike? 

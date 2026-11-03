@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-17T00:11:27.688Z
 categories: [ review, game ]
-image: null
 excerpt: "The Elder Scrolls Online (ESO) has successfully carved out its niche in the sprawling landscape of MMORPGs."
+score_gameplay: 2.5
+score_treadmill: 2.8
+score_computer: 2.5
+score_overall: 2.6
+steam_appid: 306130
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/786e3fad22ed71dd78ad2f2ae7e41daa62ba2904/header.jpg
 ---
 
 The Elder Scrolls Online (ESO) has successfully carved out its niche in the sprawling landscape of MMORPGs. As an avid gamer and fitness enthusiast, I took on the challenge of balancing this richly immersive world with my treadmill and biking workouts. Here's how ESO fared in a fitness-friendly gaming experience.

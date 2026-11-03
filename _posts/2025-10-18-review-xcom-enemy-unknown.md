@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-18T00:11:58.160Z
 categories: [ review, game ]
-image: null
 excerpt: "XCOM: Enemy Unknown is a brilliant blend of strategy and tactical gameplay, and it adapts surprisingly well to an exercise-focused gaming experience."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 200510
+controller: full
+genres: ["Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg
 ---
 
 XCOM: Enemy Unknown is a brilliant blend of strategy and tactical gameplay, and it adapts surprisingly well to an exercise-focused gaming experience. Set in a world where humanity faces an alien threat, players assume control of an elite military organization tasked with defending Earth. With a deep emphasis on strategy, character customization, and resource management, this game packs a significant punch, even as you sweat it out on a treadmill or bike.

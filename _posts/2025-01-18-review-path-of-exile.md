@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-18T00:10:14.917Z
 categories: [ review, game ]
-image: null
 excerpt: "Path of Exile (PoE) is not just another action RPG; it's a treasure trove of complexity and depth that will keep you hooked for hours."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.7
+steam_appid: 238960
+controller: full
+genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/177c953b362c5a6221f9c15d340a0b1e2b8bfab8/header.jpg
 ---
 
 Path of Exile (PoE) is not just another action RPG; it's a treasure trove of complexity and depth that will keep you hooked for hours. But how does it fare when you're getting your heart rate up on a treadmill or bike? Let’s dive in!

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-01T00:11:14.337Z
 categories: [ review, game ]
-image: null
 excerpt: "Far Cry 5 takes players to the expansive open world of Hope County, Montana, serving up a thrilling blend of exploration, combat, and narrative depth."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 552520
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg
 ---
 
 Far Cry 5 takes players to the expansive open world of Hope County, Montana, serving up a thrilling blend of exploration, combat, and narrative depth. But how does it fare for those looking to exercise while gaming? Let’s dive into the details!

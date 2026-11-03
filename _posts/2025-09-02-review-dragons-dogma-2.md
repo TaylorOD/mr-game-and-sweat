@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-02T00:13:02.680Z
 categories: [ review, game ]
-image: null
 excerpt: "Capcom's highly anticipated sequel, Dragon's Dogma 2, once again immerses players in a sprawling fantasy world filled with impressive lore, engaging combat, and a diverse set of quests."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 2054970
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg
 ---
 
 Capcom's highly anticipated sequel, "Dragon's Dogma 2," once again immerses players in a sprawling fantasy world filled with impressive lore, engaging combat, and a diverse set of quests. But how does it hold up when you’re trying to get your cardio in on a treadmill or bike? Let's dig in.

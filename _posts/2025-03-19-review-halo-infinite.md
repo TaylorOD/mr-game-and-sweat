@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-19T00:10:57.136Z
 categories: [ review, game ]
-image: null
 excerpt: "Halo Infinite offers players an expansive, engaging experience that encourages exploration and combat without bogging you down with excessive cutscenes."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1240440
+controller: full
+genres: ["Action", "Free To Play"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg
 ---
 
 # Gameplay

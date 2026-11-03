@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-17T00:11:45.913Z
 categories: [ review, game ]
-image: null
 excerpt: "LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 48000
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg
 ---
 
 LIMBO is a masterpiece in the realm of indie games, renowned for its atmospheric storytelling and intriguing puzzles. Perfectly suited for gamers who wish to stay active while indulging in a rich, immersive experience, this game provides a compelling combination of gameplay and ambiance that can complement your treadmill or biking sessions nicely.

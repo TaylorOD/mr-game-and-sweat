@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-03T00:14:06.110Z
 categories: [ review, game ]
-image: null
 excerpt: "CarX Drift Racing Online is a high-octane racing game that invites players to dive deep into the world of drift racing."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 635260
+genres: ["Action", "Casual", "Massively Multiplayer", "Racing", "Simulation", "Sports"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635260/7f8fd0c0df1572fa14c9505abe70e2a599cae8e7/header.jpg
 ---
 
 CarX Drift Racing Online is a high-octane racing game that invites players to dive deep into the world of drift racing. With a focus on realistic physics mechanics and customization options, this title caters to both casual players and hardcore racing enthusiasts. But can it keep you entertained while you maintain an exercise regimen on a treadmill or bike? Let’s break it down.

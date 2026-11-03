@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-08T00:10:13.833Z
 categories: [ review, game ]
-image: null
 excerpt: "Resident Evil 2, remade in 2019 from the beloved classic, delivers an exhilarating blend of survival horror and action that keeps players engaged and on the edge of their seats."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 883710
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg
 ---
 
 Resident Evil 2, remade in 2019 from the beloved classic, delivers an exhilarating blend of survival horror and action that keeps players engaged and on the edge of their seats. A perfect match for those looking to stay active while enjoying an intensive video game experience, let’s break it down to see how it stacks up in various categories.

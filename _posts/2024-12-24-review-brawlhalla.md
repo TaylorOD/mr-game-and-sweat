@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-24T00:11:15.649Z
 categories: [ review, game ]
-image: null
 excerpt: "Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 291550
+genres: ["Action", "Indie", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg
 ---
 
 Brawlhalla is a free-to-play platform fighting game that invites players to step into the shoes of various legends, each with unique abilities and weapons. Released by Blue Mammoth Games, it has rapidly gained popularity as an accessible yet competitive title. With its fast-paced gameplay, Brawlhalla provides an engaging experience while you work up a sweat on a treadmill or bike. 

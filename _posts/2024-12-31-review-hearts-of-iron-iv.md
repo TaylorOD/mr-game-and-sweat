@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-31T00:09:46.499Z
 categories: [ review, game ]
-image: null
 excerpt: "Hearts of Iron IV is a grand strategy game that immerses players in the tumultuous global conflicts of World War II."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 394360
+genres: ["Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg
 ---
 
 Hearts of Iron IV is a grand strategy game that immerses players in the tumultuous global conflicts of World War II. As you take command of a nation, you’ll manage everything from political alliances and military strategies to resource distribution and technological advancements. This review will assess how playable the game is while you’re on the move, focusing on its engagement, treadmill compatibility, and computer requirements.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-13T00:13:34.316Z
 categories: [ review, game ]
-image: null
 excerpt: "Totally Accurate Battlegrounds (TABG) is a wacky battle royale game that infuses humor with chaotic gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 823130
+genres: ["Action", "Indie", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823130/header.jpg
 ---
 
 Totally Accurate Battlegrounds (TABG) is a wacky battle royale game that infuses humor with chaotic gameplay. Set in a sandbox environment where ragdoll physics reign supreme, TABG invites players to engage in frantic survival battles against others, often leading to hilariously unexpected outcomes. But how does it stack up for those of us looking to exercise while playing? Let’s dive right in.

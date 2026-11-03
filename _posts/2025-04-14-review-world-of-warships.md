@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-14T00:35:20.898Z
 categories: [ review, game ]
-image: null
 excerpt: "Set sail for naval battlegrounds with World of Warships, a team-based multiplayer game that lets you command some of the most formidable ships from the early 20th century."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 552990
+genres: ["Action", "Massively Multiplayer", "Simulation", "Strategy", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/ff8da69a5590d72671ff9444932ca1def1947dec/header_alt_assets_17.jpg
 ---
 
 Set sail for naval battlegrounds with "World of Warships," a team-based multiplayer game that lets you command some of the most formidable ships from the early 20th century. While many gamers seek an immersive experience that complements an active lifestyle, is this game the perfect match for exercise while on a treadmill or bike?

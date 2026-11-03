@@ -7,6 +7,15 @@ disqus: false
 date:   2024-08-23T04:31:35.686Z
 categories: [ review, game ]
 excerpt: "Rust, the multiplayer survival game by Facepunch Studios, has carved its niche in the gaming world with its intense player-versus-player interactions and harsh survival mechanisms."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 252490
+genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg
 ---
 
 Rust, the multiplayer survival game by Facepunch Studios, has carved its niche in the gaming world with its intense player-versus-player interactions and harsh survival mechanisms. But how does this brutal, post-apocalyptic experience fare for those looking to break a sweat while gaming? Let’s dive in!

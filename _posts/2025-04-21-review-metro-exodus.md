@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-21T00:10:25.506Z
 categories: [ review, game ]
-image: null
 excerpt: "When the post-apocalyptic landscapes of Metro Exodus unfolded before me, I found myself immersed in a hauntingly beautiful world that demanded my focus, even as my feet pounded the treadmill."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 412020
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg
 ---
 
 When the post-apocalyptic landscapes of "Metro Exodus" unfolded before me, I found myself immersed in a hauntingly beautiful world that demanded my focus, even as my feet pounded the treadmill. With its synthesis of survival horror and open-world exploration, this game provides an engaging experience that can push your limits—especially when combined with a good workout.

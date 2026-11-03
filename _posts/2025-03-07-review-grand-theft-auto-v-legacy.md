@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-07T00:10:19.689Z
 categories: [ review, game ]
-image: null
 excerpt: "Grand Theft Auto V Legacy presents players with an expansive open world filled with dynamic missions, quirky characters, and endless opportunities for mayhem."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 271590
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg
 ---
 
 # Gameplay

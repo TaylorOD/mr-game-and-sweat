@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-22T00:10:51.945Z
 categories: [ review, game ]
-image: null
 excerpt: "7 Days to Die is a unique blend of survival horror, crafting, and open-world exploration."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 251570
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg
 ---
 
 7 Days to Die is a unique blend of survival horror, crafting, and open-world exploration. Set in a post-apocalyptic world teeming with zombies, players must scavenge for resources, build shelters, and fend off hordes of the undead. But how does it hold up when you're exercising on a treadmill or bike? Let's dive into the specifics!

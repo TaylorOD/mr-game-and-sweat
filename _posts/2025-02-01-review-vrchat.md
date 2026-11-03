@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-01T00:10:36.253Z
 categories: [ review, game ]
-image: null
 excerpt: "VRChat is an innovative social platform that harnesses the power of virtual reality to create a unique user experience."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 438100
+controller: full
+genres: ["Adventure", "Casual", "Massively Multiplayer", "Simulation", "Sports", "Free To Play", "Early Access"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg
 ---
 
 VRChat is an innovative social platform that harnesses the power of virtual reality to create a unique user experience. While it’s not a traditional game in the sense of a scripted narrative or structured gameplay, its open-world environment fosters social interaction, creativity, and community engagement. As a platform that encourages users to explore, create, and share their own experiences with others, VRChat is a compelling option for those looking to enhance their physical activity through gaming.

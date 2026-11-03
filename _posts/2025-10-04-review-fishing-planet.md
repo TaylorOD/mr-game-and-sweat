@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-04T00:10:21.319Z
 categories: [ review, game ]
-image: null
 excerpt: "Fishing Planet might just be the perfect blend of tranquility and excitement, offering players an opportunity to escape into serene water settings while reeling in catches."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 380600
+controller: full
+genres: ["Massively Multiplayer", "Simulation", "Sports", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380600/fdd30a0c9cc1da191a196ffbd1bcb7925d51ed16/header_alt_assets_17.jpg
 ---
 
 Fishing Planet might just be the perfect blend of tranquility and excitement, offering players an opportunity to escape into serene water settings while reeling in catches. It’s a unique fishing simulator that challenges your skills and patience, but how does it hold up for those of us who like to combine our gaming with some treadmill or biking exercise? Let’s dive in.

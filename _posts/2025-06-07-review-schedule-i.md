@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-07T00:11:26.587Z
 categories: [ review, game ]
-image: null
 excerpt: "In the world of exercise and gaming, Schedule I is a unique title that cleverly blends engaging gameplay with your workout routine."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 3164500
+controller: full
+genres: ["Action", "Indie", "Simulation", "Strategy", "Early Access"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg
 ---
 
 In the world of exercise and gaming, "Schedule I" is a unique title that cleverly blends engaging gameplay with your workout routine. Let’s dive into what makes this game a noteworthy contender for fitness enthusiasts who love to keep moving.

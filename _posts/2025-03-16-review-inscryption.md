@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-16T00:11:15.952Z
 categories: [ review, game ]
-image: null
 excerpt: "Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 1092790
+genres: ["Adventure", "Indie", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg
 ---
 
 Inscryption is a unique blend of deck-building roguelike and psychological horror, designed to keep players on their toes. However, how well does it fare for those of us who are simultaneously trying to get our exercise in on a treadmill or bike? Let’s break it down.

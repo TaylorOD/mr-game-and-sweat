@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-06T00:09:57.965Z
 categories: [ review, game ]
-image: null
 excerpt: "Forza Horizon 4 takes players on an exhilarating open-world racing adventure through the picturesque landscapes of Britain."
+score_gameplay: 3
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.5
+steam_appid: 1293830
+controller: full
+genres: ["Racing"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg
 ---
 
 Forza Horizon 4 takes players on an exhilarating open-world racing adventure through the picturesque landscapes of Britain. With its rich environments and diverse weather system, it sets a high bar for racing games. But how well does it cater to those who want to combine their gaming with a solid workout on a treadmill or bike? Let’s dive in.

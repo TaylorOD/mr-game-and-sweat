@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-15T00:10:29.848Z
 categories: [ review, game ]
-image: null
 excerpt: "theHunter: Call of the Wild immerses players in breathtaking landscapes while simulating the art of hunting."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 518790
+controller: full
+genres: ["Adventure", "Simulation", "Sports"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg
 ---
 
 theHunter: Call of the Wild immerses players in breathtaking landscapes while simulating the art of hunting. As an advocate for integrating exercise with gaming, I explored how well this title complements a workout routine on treadmills and bikes. Here's my breakdown:

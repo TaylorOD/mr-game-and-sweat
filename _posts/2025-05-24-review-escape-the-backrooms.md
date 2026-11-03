@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-24T00:11:41.930Z
 categories: [ review, game ]
-image: null
 excerpt: "If you're an exercise enthusiast who enjoys immersive gaming during your workouts, Escape the Backrooms offers a unique experience that could keep your heart rate up while you navigate its eerie environments."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.5
+steam_appid: 1943950
+genres: ["Action", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/8feac86b42210aea2b466a130238dde80992b4f9/header_alt_assets_4.jpg
 ---
 
 If you're an exercise enthusiast who enjoys immersive gaming during your workouts, "Escape the Backrooms" offers a unique experience that could keep your heart rate up while you navigate its eerie environments. This game capitalizes on the atmospheric horror genre, blending exploration with puzzle-solving and an ominous ambiance that may just keep you on your toes—literally!

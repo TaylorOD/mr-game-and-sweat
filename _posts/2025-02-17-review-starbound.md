@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-17T00:11:08.967Z
 categories: [ review, game ]
-image: null
 excerpt: "Starbound is an indie exploration and sandbox game that invites players to traverse procedurally generated worlds across the cosmos."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.3
+steam_appid: 211820
+genres: ["Action", "Adventure", "Casual", "Indie", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211820/3ec8855d056d8695de0256594f893a9e3cb826e3/header.jpg
 ---
 
 Starbound is an indie exploration and sandbox game that invites players to traverse procedurally generated worlds across the cosmos. Created by Chucklefish, this pixel-art-styled adventure captivates the imagination and encourages creativity in a universe filled with alien societies, treasures, and the constant thrill of discovery. But how well does it hold up when paired with your treadmill or bike? Let’s delve into the details.

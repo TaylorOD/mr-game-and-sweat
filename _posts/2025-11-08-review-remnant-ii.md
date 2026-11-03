@@ -6,10 +6,19 @@ comments: false
 disqus: false
 date:   2025-11-08T00:12:00.000Z
 categories: [ review, game ]
-image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "In REMNANT II, you’ll find yourself deeply immersed in a world teeming with relentless action and adrenaline-pumping encounters—elements that can actually help keep your heart rate up while you exercise."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 1
+score_overall: 2
+steam_appid: 1282100
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg
 ---
 
 In "REMNANT II," you’ll find yourself deeply immersed in a world teeming with relentless action and adrenaline-pumping encounters—elements that can actually help keep your heart rate up while you exercise. The game’s fast-paced nature and co-op mechanics can hold your attention, making it easier to forget you're on the treadmill or bike.

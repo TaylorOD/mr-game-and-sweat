@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-16T00:12:12.596Z
 categories: [ review, game ]
-image: null
 excerpt: "Soundpad is an intriguing musical experience that allows players to interact with the game through sound."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 629520
+genres: ["Audio Production", "Utilities"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/ab89598a7a660ab510473c72e3cf64886c85421c/header.jpg
 ---
 
 **Game Review: Soundpad**

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-19T00:12:01.169Z
 categories: [ review, game ]
-image: null
 excerpt: "Middle-earth: Shadow of Mordor takes players on an exhilarating journey through Tolkien's universe, infused with a dynamic combat system and a captivating narrative."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 241930
+controller: full
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg
 ---
 
 Middle-earth: Shadow of Mordor takes players on an exhilarating journey through Tolkien's universe, infused with a dynamic combat system and a captivating narrative. If you're an avid gamer looking to keep your fitness routine alive while immersed in this action-packed adventure, let's dive into how this game performs under the unique lens of treadmill and biking gameplay.

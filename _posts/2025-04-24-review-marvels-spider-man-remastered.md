@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-24T00:11:37.103Z
 categories: [ review, game ]
-image: null
 excerpt: "Marvel’s Spider-Man Remastered swings onto your computer screen, offering players an exhilarating blend of superhero action and storytelling."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1817070
+controller: full
+genres: ["Action", "Adventure", "Casual"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg
 ---
 
 Marvel’s Spider-Man Remastered swings onto your computer screen, offering players an exhilarating blend of superhero action and storytelling. But how does it fare when you’re trying to keep that heart rate up while running or biking? Let’s break it down.

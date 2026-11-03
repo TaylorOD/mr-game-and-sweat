@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-08T00:11:35.376Z
 categories: [ review, game ]
-image: null
 excerpt: "Northgard is a real-time strategy game that transports players to the Viking Age, where you lead a clan of Vikings as they explore, settle, and expand their territory on a mysterious new continent."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 466560
+genres: ["Adventure", "Indie", "Simulation", "Strategy"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/7989bec670ec7ada9a19803e89c29cc0fb6aa5d5/header_alt_assets_19.jpg
 ---
 
 Northgard is a real-time strategy game that transports players to the Viking Age, where you lead a clan of Vikings as they explore, settle, and expand their territory on a mysterious new continent. The strategic depth and engaging mechanics make it captivating to play, but how does it measure up for those of us looking to keep our fitness levels high while running or biking? Let’s dive into the review.

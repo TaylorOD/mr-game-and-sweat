@@ -6,8 +6,15 @@ comments: false
 disqus: false
 date:   2025-10-28T00:11:13.217Z
 categories: [ review, game ]
-image: null
 excerpt: "Eternal Return is an innovative fusion of survival and battle royale elements set in a visually captivating world."
+score_gameplay: 2.5
+score_treadmill: 2.0
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 1049590
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049590/72918ebacd0d4f8537969dc8b976ceb98f681cab/header.jpg
 ---
 
 Eternal Return is an innovative fusion of survival and battle royale elements set in a visually captivating world. Combining strategic gameplay with engaging character abilities, it pushes players to adapt and outsmart their opponents—a thrilling experience that could keep your heart pumping both in the game and while you exercise. Let's dive into the specifics of how this game fares for those looking to keep fit while having fun.

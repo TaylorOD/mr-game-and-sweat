@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-01T00:14:17.014Z
 categories: [ review, game ]
-image: null
 excerpt: "Last Epoch presents an engaging action RPG experience, reminiscent of the classics while cleverly merging modern mechanics."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 899770
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/3640a35d7cb9775cde6d9bfe23f1b1d8bab6fe17/header_alt_assets_2.jpg
 ---
 
 # Gameplay

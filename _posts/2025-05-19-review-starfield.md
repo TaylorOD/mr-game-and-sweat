@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-19T00:11:59.029Z
 categories: [ review, game ]
-image: null
 excerpt: "Bethesda has delivered yet another expansive universe for players to explore in Starfield, and the question on the minds of gamers looking to squeeze in some cardio is whether this space-faring adventure will keep you engaged while you work"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1716740
+controller: full
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg
 ---
 
 Bethesda has delivered yet another expansive universe for players to explore in Starfield, and the question on the minds of gamers looking to squeeze in some cardio is whether this space-faring adventure will keep you engaged while you work out. Let’s dive into how Starfield fares in our exercise-friendly review.

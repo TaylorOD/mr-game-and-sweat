@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-17T00:10:03.084Z
 categories: [ review, game ]
-image: null
 excerpt: "Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 22380
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg
 ---
 
 Fallout: New Vegas is a celebrated addition to the post-apocalyptic RPG genre, offering a world rich in detail, engaging quests, and an immersive narrative. But how does it hold up when you’re trying to squeeze in a workout on the treadmill or bike? Let’s break it down.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-26T00:12:12.740Z
 categories: [ review, game ]
-image: null
 excerpt: "Batman: Arkham City - Game of the Year Edition is a beloved classic that takes the vibrant world of Gotham City and spins it into an engaging playground for fans of the Dark Knight."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 200260
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg
 ---
 
 Batman: Arkham City - Game of the Year Edition is a beloved classic that takes the vibrant world of Gotham City and spins it into an engaging playground for fans of the Dark Knight. But the real question is, can it keep you entertained while you run on a treadmill or bike? Let's delve into the details.

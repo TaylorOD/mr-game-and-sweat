@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-22T00:12:06.492Z
 categories: [ review, game ]
-image: null
 excerpt: "SPORE is a unique blend of simulation, creativity, and adventure that allows players to experiment with evolution and civilization-building on an intergalactic scale."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 17390
+genres: ["Action", "Adventure", "Casual", "RPG", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/header.jpg
 ---
 
 SPORE is a unique blend of simulation, creativity, and adventure that allows players to experiment with evolution and civilization-building on an intergalactic scale. Developed by Maxis and released by Electronic Arts, this title offers a sprawling experience that spans various gameplay mechanics from cellular evolution to civilization management. But how does it hold up for those looking to stay active on the treadmill or bike while playing? Let’s dive in.

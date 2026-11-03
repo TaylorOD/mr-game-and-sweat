@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-03T00:11:01.549Z
 categories: [ review, game ]
-image: null
 excerpt: "Cuphead is a visually stunning run-and-gun indie game that takes inspiration from the classic 1930s animation style."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 268910
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg
 ---
 
 Cuphead is a visually stunning run-and-gun indie game that takes inspiration from the classic 1930s animation style. But does it hold up as an engaging experience for those looking to combine a workout with some gaming?

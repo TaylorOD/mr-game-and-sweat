@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-10T00:10:50.240Z
 categories: [ review, game ]
-image: null
 excerpt: "Age of Empires II is a classic real-time strategy game that has stood the test of time, even with its retired status."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 221380
+genres: ["Strategy"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/header.jpg
 ---
 
 Age of Empires II is a classic real-time strategy game that has stood the test of time, even with its retired status. With its blend of resource management, empire building, and tactical combat, it has captivated gamers since its original release in 1999. But how does it stack up for those looking to stay active while gaming on a treadmill or bike?

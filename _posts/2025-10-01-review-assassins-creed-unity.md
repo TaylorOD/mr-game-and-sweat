@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-01T00:12:46.590Z
 categories: [ review, game ]
-image: null
 excerpt: "Assassin's Creed Unity may just be the perfect ally for those looking to maintain their exercise routine while submerged in a rich, immersive world."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 289650
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg
 ---
 
 Assassin's Creed Unity may just be the perfect ally for those looking to maintain their exercise routine while submerged in a rich, immersive world. Set during the tumultuous French Revolution, it presents a sprawling Paris filled with culture, architecture, and intrigue. But how does it hold up for those looking to run or bike while playing? Let’s dive into the details.

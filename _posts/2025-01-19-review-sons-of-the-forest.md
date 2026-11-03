@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-19T00:10:38.238Z
 categories: [ review, game ]
-image: null
 excerpt: "Sons Of The Forest takes survival horror to a gripping new level, pulling players into a hauntingly immersive world filled with danger and discovery."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1326470
+controller: full
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg
 ---
 
 "Sons Of The Forest" takes survival horror to a gripping new level, pulling players into a hauntingly immersive world filled with danger and discovery. As you navigate through its vibrant yet unsettling landscape, there's plenty to challenge and engage you. But how does it fare for those of us who like to combine gaming with cardio workouts? Let’s dive into the details.

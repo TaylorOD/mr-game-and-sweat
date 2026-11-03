@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-26T00:11:24.481Z
 categories: [ review, game ]
-image: null
 excerpt: "Microsoft Flight Simulator (2020) has taken the gaming world by storm, and with its 40th Anniversary Edition, it promises even more breathtaking adventures in the skies."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 1.5
+score_overall: 2
+steam_appid: 1250410
+controller: full
+genres: ["Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg
 ---
 
 Microsoft Flight Simulator (2020) has taken the gaming world by storm, and with its 40th Anniversary Edition, it promises even more breathtaking adventures in the skies. For those looking to combine gaming with fitness routines like running on a treadmill or biking, let’s see how well it fits into your workout regime.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-22T00:10:19.905Z
 categories: [ review, game ]
-image: null
 excerpt: "Ahoy, mateys!"
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1172620
+genres: ["Action", "Adventure"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg
 ---
 
 Ahoy, mateys! Set sail on an ocean of adventure and exercise with “Sea of Thieves: 2025 Edition.” This beloved pirate simulator has returned, fully equipped with shiny new features and enhancements that make it a worthwhile addition to your gaming repertoire, especially for those looking to get a good workout while they plunder the high seas.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-09T00:10:55.369Z
 categories: [ review, game ]
-image: null
 excerpt: "As a game that combines the thrill of parkour with the horror of a zombie apocalypse, Dying Light not only captivates players with its dynamic gameplay but can also fit seamlessly into an exercise-focused gaming experience."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 239140
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg
 ---
 
 As a game that combines the thrill of parkour with the horror of a zombie apocalypse, **Dying Light** not only captivates players with its dynamic gameplay but can also fit seamlessly into an exercise-focused gaming experience. Let’s break down how this game fares for those looking to get a workout in while enjoying their time in Harran's undead-infested streets.

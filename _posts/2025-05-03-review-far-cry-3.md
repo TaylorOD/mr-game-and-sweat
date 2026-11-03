@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-03T00:12:40.998Z
 categories: [ review, game ]
-image: null
 excerpt: "Far Cry 3 is a thrilling open-world first-person shooter that plunges you into the heart of a dangerous tropical paradise, allowing for an exhilarating gaming experience that can mesh surprisingly well with your workout routine."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 220240
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg
 ---
 
 Far Cry 3 is a thrilling open-world first-person shooter that plunges you into the heart of a dangerous tropical paradise, allowing for an exhilarating gaming experience that can mesh surprisingly well with your workout routine. But does it keep your heart rate up as you run or bike? Let's dive into the specifics of how this game performs in the realms of gameplay, treadmill and bike compatibility, and computer requirements.

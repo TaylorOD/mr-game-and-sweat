@@ -7,6 +7,15 @@ disqus: false
 date:   2024-10-21T04:51:22.035Z
 categories: [ review, game ]
 excerpt: "In a world filled with strategic multiplayer shooters, HELLDIVERS 2 bursts back onto the scene, blending frantic gameplay with a humorous take on intergalactic warfare."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 553850
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg
 ---
 
 In a world filled with strategic multiplayer shooters, HELLDIVERS 2 bursts back onto the scene, blending frantic gameplay with a humorous take on intergalactic warfare. This sequel to the original game invites players to don their powered armor, take up their weapons, and dive headfirst into chaotic missions that test both your shooter skills and strategic coordination. But as we focus on exercising while gaming, let's see how well HELLDIVERS 2 fits within that framework.

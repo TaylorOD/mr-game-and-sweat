@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-27T00:11:34.944Z
 categories: [ review, game ]
-image: null
 excerpt: "Prepare to navigate the grim yet captivating world of Little Nightmares, a puzzle-platformer that combines an eerie atmosphere with a haunting storyline."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 424840
+controller: full
+genres: ["Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg
 ---
 
 Prepare to navigate the grim yet captivating world of "Little Nightmares," a puzzle-platformer that combines an eerie atmosphere with a haunting storyline. As you guide a small character named Six through this twisted dreamscape, it’s important to consider how well the game integrates into your workout routine, whether you’re running on a treadmill or biking away.

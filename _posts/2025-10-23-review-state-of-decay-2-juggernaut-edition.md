@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-23T00:12:04.804Z
 categories: [ review, game ]
-image: null
 excerpt: "State of Decay 2: Juggernaut Edition fortifies the zombie survival genre, merging resource management with heart-pounding action."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 495420
+controller: full
+genres: ["Action", "RPG", "Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg
 ---
 
 State of Decay 2: Juggernaut Edition fortifies the zombie survival genre, merging resource management with heart-pounding action. As players build their communities and fend off the undead, the game's immersive experience offers both thrills and engagement, making it an intriguing choice for those looking to spice up their treadmill or biking sessions.

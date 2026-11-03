@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-27T00:10:25.786Z
 categories: [ review, game ]
-image: null
 excerpt: "When it comes to gaming, few titles embody the essence of an open world like Grand Theft Auto IV: Complete Edition."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 12210
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg
 ---
 
 When it comes to gaming, few titles embody the essence of an open world like "Grand Theft Auto IV: Complete Edition." A staple in the gaming industry, this installment brings the gritty streets of Liberty City into your living room. But how does it fare as a companion to your treadmill runs or bike rides? Let's dig in!

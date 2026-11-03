@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-27T00:09:42.886Z
 categories: [ review, game ]
-image: null
 excerpt: "DOOM, the iconic first-person shooter developed by id Software, redefined the gaming experience with its adrenaline-pumping action and visceral gameplay."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 379720
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg
 ---
 
 DOOM, the iconic first-person shooter developed by id Software, redefined the gaming experience with its adrenaline-pumping action and visceral gameplay. As we dive into this review, we’ll evaluate how well it pairs with exercising on a treadmill or bike, helping you to keep fit while unleashing your inner demon slayer.

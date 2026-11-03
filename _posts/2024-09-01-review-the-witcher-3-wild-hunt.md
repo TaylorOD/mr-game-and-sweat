@@ -7,6 +7,15 @@ disqus: false
 date:   2024-09-01T04:45:49.150Z
 categories: [ review, game ]
 excerpt: "The Witcher 3: Wild Hunt is a sprawling open-world RPG that takes players on an epic journey alongside Geralt of Rivia, a monster hunter, as he searches for his missing adopted daughter."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 292030
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg
 ---
 
 The Witcher 3: Wild Hunt is a sprawling open-world RPG that takes players on an epic journey alongside Geralt of Rivia, a monster hunter, as he searches for his missing adopted daughter. With breathtaking graphics, an intricate story, and a rich world to explore, it’s no surprise that this title is often heralded as one of the greatest games of all time. But with a focus on exercise-friendly gaming, let’s see how it stacks up for those burning calories on treadmills or bikes.

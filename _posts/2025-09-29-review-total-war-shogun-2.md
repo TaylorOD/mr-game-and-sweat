@@ -6,8 +6,15 @@ comments: false
 disqus: false
 date:   2025-09-29T00:12:15.039Z
 categories: [ review, game ]
-image: null
 excerpt: "Total War: SHOGUN 2 transports players into the captivating world of feudal Japan, offering an epic blend of grand strategy and real-time tactics."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 34330
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34330/header.jpg
 ---
 
 Total War: SHOGUN 2 transports players into the captivating world of feudal Japan, offering an epic blend of grand strategy and real-time tactics. As a fan of both video games and fitness, I found it essential to analyze how this game fits into a workout while keeping you entertained and engaged.

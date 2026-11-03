@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-24T00:10:19.964Z
 categories: [ review, game ]
-image: null
 excerpt: "In the vast, uncharted territories of Aeternum, Amazon Games has crafted an MMO that blends exploration, survival, and role-playing elements."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 1063730
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063730/bd98bbdc4fdf388d07afa6ec8d781cb863bccfb0/header.jpg
 ---
 
 In the vast, uncharted territories of Aeternum, Amazon Games has crafted an MMO that blends exploration, survival, and role-playing elements. But as a gamer who enjoys staying active, the question remains: Is "New World: Aeternum" a worthy companion on your treadmill or bike? Let’s dive in.
