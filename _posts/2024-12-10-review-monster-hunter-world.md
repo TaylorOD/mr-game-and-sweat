@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-10T00:11:02.508Z
 categories: [ review, game ]
-image: null
 excerpt: "Monster Hunter: World is a powerful entry in the iconic series by Capcom that invites players into a lush, open-world setting where they take on colossal monsters."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 582010
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg
 ---
 
 Monster Hunter: World is a powerful entry in the iconic series by Capcom that invites players into a lush, open-world setting where they take on colossal monsters. Like many enthusiasts, I found it a captivating mix of adventure and strategy. But as a fitness lover who seeks to maximize workouts on the treadmill or bike while gaming, I had to assess how well it fits into that niche.

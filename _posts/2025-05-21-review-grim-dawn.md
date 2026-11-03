@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-21T00:12:24.374Z
 categories: [ review, game ]
-image: null
 excerpt: "Grim Dawn is an action RPG that has been captivating players since its release in 2016."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 219990
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg
 ---
 
 Grim Dawn is an action RPG that has been captivating players since its release in 2016. Set in a dark, post-apocalyptic world, this game invites you to embark on a grim journey filled with monsters, lore, and loot. But how does it hold up for those looking to burn calories on a treadmill or bike? Let’s break it down!

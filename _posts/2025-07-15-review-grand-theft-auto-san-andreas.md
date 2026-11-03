@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-15T00:13:52.795Z
 categories: [ review, game ]
-image: null
 excerpt: "Grand Theft Auto: San Andreas, originally released in 2004, is a classic open-world action-adventure game that has remained beloved by gamers for its rich storytelling, vast world, and engaging gameplay."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 12120
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg
 ---
 
 Grand Theft Auto: San Andreas, originally released in 2004, is a classic open-world action-adventure game that has remained beloved by gamers for its rich storytelling, vast world, and engaging gameplay. As a game that can be enjoyed while exercising—whether on a treadmill or a bike—let’s dive into how it performs in this unique context.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-23T00:11:04.447Z
 categories: [ review, game ]
-image: null
 excerpt: "In the world of gaming, few titles capture the intensity of survival quite like DayZ."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 221100
+genres: ["Action", "Adventure", "Massively Multiplayer"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg
 ---
 
 In the world of gaming, few titles capture the intensity of survival quite like "DayZ." This gripping multiplayer experience plunges players into a harsh post-apocalyptic landscape filled with zombies and other players vying for survival. But for those interested in keeping fit, the question remains—does DayZ provide enough engaging gameplay to distract you while you run on a treadmill or bike? Let’s dig into the details.

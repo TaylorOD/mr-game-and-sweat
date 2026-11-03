@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-08-12T00:14:05.269Z
 categories: [ review, game ]
-image: null
 excerpt: "Green Hell offers a gripping survival experience set in the Amazon rainforest, where players take on the role of a stranded anthropologist."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 815370
+genres: ["Action", "Adventure", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg
 ---
 
 # Gameplay

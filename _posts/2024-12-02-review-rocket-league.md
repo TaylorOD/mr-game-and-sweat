@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2024-12-02T00:12:48.175Z
 categories: [ review, game ]
-image: null
 excerpt: "Rocket League is a high-octane blend of soccer and vehicular mayhem that has taken the gaming world by storm."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 252950
+genres: ["Action", "Indie", "Racing", "Sports"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/3abd9ab079c8896a4762dbe34a853d89b7f704df/header_alt_assets_17.jpg
 ---
 
 Rocket League is a high-octane blend of soccer and vehicular mayhem that has taken the gaming world by storm. This game thrives on excitement and competitive energy, making it uniquely engaging for players who want to exercise while having a blast. Let's delve into the details to see how it stands up to a treadmill or bike workout.

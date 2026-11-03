@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-15T00:11:15.249Z
 categories: [ review, game ]
-image: null
 excerpt: "Halo: The Master Chief Collection (MCC) stands as a monumental tribute to the revered Halo franchise, bringing together classic titles that shaped the landscape of first-person shooters."
+score_gameplay: 2.5
+score_treadmill: 2.7
+score_computer: 2.5
+score_overall: 2.57
+steam_appid: 976730
+controller: full
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg
 ---
 
 Halo: The Master Chief Collection (MCC) stands as a monumental tribute to the revered Halo franchise, bringing together classic titles that shaped the landscape of first-person shooters. For gamers looking to combine an engaging gameplay experience while running on a treadmill or biking, this collection has its strengths and weaknesses.

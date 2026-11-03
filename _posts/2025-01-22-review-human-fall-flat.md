@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-01-22T00:09:59.886Z
 categories: [ review, game ]
-image: null
 excerpt: "Human: Fall Flat is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 477160
+controller: full
+genres: ["Adventure", "Casual", "Indie", "Simulation"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg
 ---
 
 "Human: Fall Flat" is a delightful physics-based puzzle platformer that invites players to embark on whimsical adventures while controlling a wobbly human avatar named Bob. The charm lies in its unique mechanics and engaging narrative, but how does it fare for those wanting to get their exercise in while gaming? Let's dive in!

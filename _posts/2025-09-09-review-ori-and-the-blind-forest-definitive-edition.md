@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-09T00:11:59.130Z
 categories: [ review, game ]
-image: null
 excerpt: "Ori and the Blind Forest: Definitive Edition invites players into a gorgeous, hand-painted world that brims with life and emotion."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 261570
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261570/header.jpg
 ---
 
 Ori and the Blind Forest: Definitive Edition invites players into a gorgeous, hand-painted world that brims with life and emotion. With its captivating story, exquisite visuals, and sublime music, the game stands as a masterpiece of storytelling in the platforming genre. For gamers looking to blend their love for exercise with a gaming experience, let's delve into how well Ori suits your workout sessions on the treadmill or bike.

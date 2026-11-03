@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-12T00:12:03.189Z
 categories: [ review, game ]
-image: null
 excerpt: "Clair Obscur: Expedition 33 is an intriguing title that combines atmospheric storytelling with engaging gameplay, ideal for those looking to enjoy their gaming while keeping active."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1903340
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg
 ---
 
 "Clair Obscur: Expedition 33" is an intriguing title that combines atmospheric storytelling with engaging gameplay, ideal for those looking to enjoy their gaming while keeping active. Set in a mysterious world of light and shadow, players embark on an expedition filled with puzzles and exploration. However, the real question is, does it work as a backdrop for your treadmill runs or bike rides? Let’s break it down.

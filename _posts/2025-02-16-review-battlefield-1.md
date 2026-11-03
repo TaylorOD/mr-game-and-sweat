@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-16T00:10:58.501Z
 categories: [ review, game ]
-image: null
 excerpt: "Battlefield 1 takes players on an immersive journey back to World War I, showcasing the chaotic and visceral nature of warfare through its stunning graphics and gameplay mechanics."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1238840
+controller: full
+genres: ["Action", "Massively Multiplayer"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg
 ---
 
 Battlefield 1 takes players on an immersive journey back to World War I, showcasing the chaotic and visceral nature of warfare through its stunning graphics and gameplay mechanics. As a game designed to engage players not just in combat but in history, it presents an intriguing option for those who want to incorporate video gaming into their workout routines.

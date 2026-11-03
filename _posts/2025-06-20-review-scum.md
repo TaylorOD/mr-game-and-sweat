@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-20T00:12:13.198Z
 categories: [ review, game ]
-image: null
 excerpt: "SCUM is a multiplayer survival game set in a vast open world where players must balance survival elements with deep character customization."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 1.5
+score_overall: 2.0
+steam_appid: 513710
+genres: ["Action", "Adventure", "Indie", "Massively Multiplayer"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/513710/a33eb72f52841f591b296f78e46824d7aabb2c87/header.jpg
 ---
 
 SCUM is a multiplayer survival game set in a vast open world where players must balance survival elements with deep character customization. It throws you into a ruthless environment where you need to outsmart, outlast, and outplay both the elements and other players. 

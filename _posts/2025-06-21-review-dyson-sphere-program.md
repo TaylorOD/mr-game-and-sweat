@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-21T00:12:27.711Z
 categories: [ review, game ]
-image: null
 excerpt: "Dyson Sphere Program offers a captivating mix of base-building and resource management set in a vibrant sci-fi universe."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1366540
+genres: ["Indie", "Simulation", "Strategy", "Early Access"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg
 ---
 
 Dyson Sphere Program offers a captivating mix of base-building and resource management set in a vibrant sci-fi universe. Your objective: harness the power of the stars to build a colossal Dyson Sphere, an enormous energy-collecting structure surrounding a star. The game stands out with its beautifully designed planets and engaging automation mechanics, making it a rewarding experience for players who enjoy immersive strategy games.

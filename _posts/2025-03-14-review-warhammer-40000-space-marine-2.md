@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-14T00:10:54.985Z
 categories: [ review, game ]
-image: null
 excerpt: "Prepare yourself for a gripping excursion into the grim darkness of the distant future with Warhammer 40,000: Space Marine 2."
+score_gameplay: 2.5
+score_treadmill: 2.8
+score_computer: 2.2
+score_overall: 2.5
+steam_appid: 2183900
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg
 ---
 
 Prepare yourself for a gripping excursion into the grim darkness of the distant future with "Warhammer 40,000: Space Marine 2." As a sequel to the beloved original, this title not only immerses players in its lore but does so with mechanics that lend themselves surprisingly well to those who prefer to combine their gaming with physical activity. 

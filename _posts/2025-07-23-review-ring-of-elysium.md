@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-23T00:12:56.911Z
 categories: [ review, game ]
-image: null
 excerpt: "Ring of Elysium is a battle royale game that invites players to traverse a visually stunning, dynamic environment, complete with extreme weather changes and a focus on survival."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 755790
+genres: ["Action", "Free To Play", "Massively Multiplayer"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755790/header.jpg
 ---
 
 "Ring of Elysium" is a battle royale game that invites players to traverse a visually stunning, dynamic environment, complete with extreme weather changes and a focus on survival. As a game that encourages movement, it’s an intriguing choice for those who want to combine their cardio workouts with immersive gaming. Let’s dive into the different aspects of this title, especially from the perspective of those looking to exercise while engaging with the game.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-16T00:11:25.188Z
 categories: [ review, game ]
-image: null
 excerpt: "In the ever-expanding universe of action-adventure games, Saints Row IV: Re-Elected stands out with its larger-than-life story and outrageous gameplay."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 206420
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/header.jpg
 ---
 
 In the ever-expanding universe of action-adventure games, "Saints Row IV: Re-Elected" stands out with its larger-than-life story and outrageous gameplay. It’s an over-the-top experience that invites players to take on an alien invasion—while you’re set inside a virtual world. As someone who enjoys combining exercise with gaming, let’s dive into how well it aligns with keeping those calories burning while indulging in some wild, chaotic fun.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-14T00:13:42.522Z
 categories: [ review, game ]
-image: null
 excerpt: "Mad Max plunges players into a post-apocalyptic wasteland, where vehicular combat reigns supreme, and survival is a daily struggle."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.2
+steam_appid: 234140
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg
 ---
 
 Mad Max plunges players into a post-apocalyptic wasteland, where vehicular combat reigns supreme, and survival is a daily struggle. As you embody the iconic character Max, you navigate a beautifully desolate world filled with raider camps, treacherous landscapes, and the tantalizing prospect of car customization. But how does this action-adventure game hold up for those of us looking to combine gaming with exercising on a treadmill or bike? Let’s dive in!

@@ -7,6 +7,15 @@ disqus: false
 date:   2024-06-07T04:40:29.659Z
 categories: [ review, game ]
 excerpt: "Counter-Strike: Global Offensive (CS:GO) has long been a staple in competitive gaming, offering thrilling gameplay that keeps players on the edge of their seats."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 3
+score_overall: 2
+steam_appid: 730
+genres: ["Action", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg
 ---
 
 Counter-Strike: Global Offensive (CS:GO) has long been a staple in competitive gaming, offering thrilling gameplay that keeps players on the edge of their seats. As fitness enthusiasts look to merge their love for exercise with gaming, we take a closer look at how this classic title holds up while you run on a treadmill or bike.

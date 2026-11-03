@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-28T00:10:24.229Z
 categories: [ review, game ]
-image: null
 excerpt: "NieR:Automata is an action RPG that offers a deeply engaging narrative set in a post-apocalyptic world, entwined with thought-provoking themes, immersive gameplay, and beautiful visuals."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2
+score_overall: 1.83
+steam_appid: 524220
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg
 ---
 
 NieR:Automata is an action RPG that offers a deeply engaging narrative set in a post-apocalyptic world, entwined with thought-provoking themes, immersive gameplay, and beautiful visuals. As a fitness enthusiast and avid gamer, I was curious to see how this title could fit into a treadmill or biking routine. Here’s the breakdown.

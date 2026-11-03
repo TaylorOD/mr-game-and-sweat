@@ -7,6 +7,16 @@ disqus: false
 date:   2024-11-08T04:29:07.544Z
 categories: [ review, game ]
 excerpt: "PAYDAY 2 is a cooperative first-person shooter that puts you in the shoes of a criminal mastermind, teaming up with friends to pull off intricate heists."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 218620
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg
 ---
 
 PAYDAY 2 is a cooperative first-person shooter that puts you in the shoes of a criminal mastermind, teaming up with friends to pull off intricate heists. With a blend of strategy, gunplay, and plenty of adrenaline, this game can serve as a thrilling distraction while you sweat it out on the treadmill or bike.

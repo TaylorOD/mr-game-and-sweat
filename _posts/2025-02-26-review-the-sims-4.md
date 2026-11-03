@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-26T00:10:18.972Z
 categories: [ review, game ]
-image: null
 excerpt: "The Sims franchise has long been a staple in the world of life simulation games, and The Sims 4 continues that legacy with new features and an unparalleled level of customization."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.7
+steam_appid: 1222670
+genres: ["Adventure", "Casual", "Simulation", "Free To Play"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg
 ---
 
 The Sims franchise has long been a staple in the world of life simulation games, and "The Sims 4" continues that legacy with new features and an unparalleled level of customization. This review will explore how well the game holds up while exercising on a treadmill or biking, so players can optimize their fitness goals without skipping a beat on their gaming experience.

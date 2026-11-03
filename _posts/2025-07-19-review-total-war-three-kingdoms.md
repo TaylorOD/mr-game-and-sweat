@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-19T00:12:13.954Z
 categories: [ review, game ]
-image: null
 excerpt: "Total War: THREE KINGDOMS offers an engaging blend of real-time strategy and turn-based gameplay wrapped in a rich historical context."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 779340
+genres: ["Action", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg
 ---
 
 Total War: THREE KINGDOMS offers an engaging blend of real-time strategy and turn-based gameplay wrapped in a rich historical context. Players dive into the tumultuous eras of ancient China, where they can command vast armies, develop intricate strategies, and engage in detailed diplomacy with various factions. 

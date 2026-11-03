@@ -7,6 +7,16 @@ disqus: false
 date:   2024-11-16T20:21:24.867Z
 categories: [ review, game ]
 excerpt: "ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 346110
+controller: full
+genres: ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg
 ---
 
 ARK: Survival Evolved thrusts players into a prehistoric world teeming with dinosaurs and other threats. As you navigate this massive open-world environment, it becomes essential to balance your exploration and survival with your exercise routine. Here’s how it holds up for fitness gamers.

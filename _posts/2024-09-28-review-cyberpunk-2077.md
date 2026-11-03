@@ -7,6 +7,16 @@ disqus: false
 date:   2024-09-28T04:58:41.071Z
 categories: [ review, game ]
 excerpt: "Despite its rocky launch, Cyberpunk 2077 has evolved into a rich, engaging experience set in a sprawling open world that embodies the essence of a dystopian future."
+score_gameplay: 2
+score_treadmill: 1.5
+score_computer: 2
+score_overall: 1.83
+steam_appid: 1091500
+controller: full
+genres: ["RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg
 ---
 
 Despite its rocky launch, "Cyberpunk 2077" has evolved into a rich, engaging experience set in a sprawling open world that embodies the essence of a dystopian future. As a game that combines role-playing elements with extensive customization and storytelling, it is crucial to see how well it performs when combined with exercises like running or biking.

@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-06-28T00:11:12.029Z
 categories: [ review, game ]
-image: null
 excerpt: "Warhammer 40,000: Darktide thrusts players into the grimdark universe of Warhammer, where cooperative gameplay reigns supreme amidst waves of chaotic enemies."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1361210
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/6f8919b0183f24d271650c6dca958fb91edd5849/header_alt_assets_20.jpg
 ---
 
 *As someone who thrives on the adrenaline rush of both intense gaming and rigorous exercise, I was eager to see how "Warhammer 40,000: Darktide" would accommodate my dual passions of fitness and gaming.*

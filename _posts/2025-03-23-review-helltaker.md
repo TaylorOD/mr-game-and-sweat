@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-23T00:10:33.922Z
 categories: [ review, game ]
-image: null
 excerpt: "Helltaker is a unique puzzle indie game that has gained a considerable following thanks to its charming graphics, witty dialogue, and engaging mechanics."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 1289310
+genres: ["Adventure", "Free To Play", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/header.jpg
 ---
 
 Helltaker is a unique puzzle indie game that has gained a considerable following thanks to its charming graphics, witty dialogue, and engaging mechanics. While it may not be the most conventional choice for those looking to exercise while gaming, let’s break down how it stands up in various aspects for our active audience.

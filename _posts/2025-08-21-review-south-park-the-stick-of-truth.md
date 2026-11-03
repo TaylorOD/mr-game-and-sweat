@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-21T00:12:00.406Z
 categories: [ review, game ]
-image: null
 excerpt: "South Park: The Stick of Truth delivers a hilarious and outlandishly captivating experience that will keep fans of both the franchise and RPGs entertained."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 213670
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg
 ---
 
 "South Park: The Stick of Truth" delivers a hilarious and outlandishly captivating experience that will keep fans of both the franchise and RPGs entertained. It's a game that’s particularly suited to those looking to combine cardio workouts on a treadmill or stationary bike with a bit of irreverent humor and strategic gameplay.

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-05T00:10:45.361Z
 categories: [ review, game ]
-image: null
 excerpt: "DARK SOULS: REMASTERED reintroduces players to the unforgiving yet spectacular world of Lordran, where every step can mean life or death."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 570940
+controller: full
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg
 ---
 
 "DARK SOULS: REMASTERED" reintroduces players to the unforgiving yet spectacular world of Lordran, where every step can mean life or death. For gamers looking to keep their heart rates elevated while conquering treacherous landscapes, the engagement factor of this title is particularly noteworthy. 

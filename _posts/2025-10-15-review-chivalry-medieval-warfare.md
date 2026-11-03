@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-15T00:12:09.322Z
 categories: [ review, game ]
-image: null
 excerpt: "Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 219640
+controller: full
+genres: ["Action", "Indie"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/header.jpg
 ---
 
 Chivalry: Medieval Warfare plunges players into a brutal and chaotic medieval battlefield where skill, strategy, and a good sword arm can turn the tide of war. Whether you’re hacking through waves of enemy soldiers or defending your castle from siege, the game promises an action-packed experience. But how does it hold up for those looking to get a bit of exercise while gaming? Let's break down the details.

@@ -6,10 +6,18 @@ comments: false
 disqus: false
 date:   2025-11-11T00:12:00.000Z
 categories: [ review, game ]
-image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
 excerpt: "The Henry Stickmin Collection offers a light-hearted choose-your-own-path adventure that lends itself to a casual gaming experience."
+score_gameplay: 2
+score_treadmill: 1
+score_computer: 3
+score_overall: 2
+steam_appid: 1089980
+genres: ["Adventure", "Casual", "Indie"]
+pause_friendly: "Yes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/header.jpg
 ---
 
 The Henry Stickmin Collection offers a light-hearted choose-your-own-path adventure that lends itself to a casual gaming experience. However, the game's reliance on decision-making and humor may detract from intense workout sessions since it requires a bit more focus than more active titles. 

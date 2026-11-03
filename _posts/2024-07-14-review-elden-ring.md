@@ -7,6 +7,16 @@ disqus: false
 date:   2024-07-14T04:44:50.510Z
 categories: [ review, game ]
 excerpt: "From the minds behind the Dark Souls series, ELDEN RING is a colossal open-world action RPG that has left a mark on the gaming landscape for its vastness and intricacy."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1245620
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg
 ---
 
 From the minds behind the Dark Souls series, ELDEN RING is a colossal open-world action RPG that has left a mark on the gaming landscape for its vastness and intricacy. However, for those looking to combine gaming with exercise on a treadmill or bike, the compatibility factor is essential. Let’s dive into the gameplay, treadmill and bike compatibility, and computer requirements to see how well it fits into an exercise routine.

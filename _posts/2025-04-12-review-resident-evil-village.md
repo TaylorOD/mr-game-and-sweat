@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-04-12T00:10:46.794Z
 categories: [ review, game ]
-image: null
 excerpt: "Resident Evil Village is the eighth installment in the acclaimed survival horror franchise developed by Capcom."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.17
+steam_appid: 1196590
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg
 ---
 
 Resident Evil Village is the eighth installment in the acclaimed survival horror franchise developed by Capcom. It elegantly blends action, exploration, and horror elements, giving players a chilling yet thrilling experience. Whether you're navigating the dense forests or dark castles, one question emerges for those looking to maintain their fitness routine while gaming: how does it perform when you're sweating it out on a treadmill or bike? Let’s dive in.

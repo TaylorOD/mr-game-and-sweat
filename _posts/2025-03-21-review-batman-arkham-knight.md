@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-21T00:11:17.445Z
 categories: [ review, game ]
-image: null
 excerpt: "Step into the shadows of Gotham City with the final installment of the acclaimed Arkham series, Batman: Arkham Knight."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 208650
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg
 ---
 
 Step into the shadows of Gotham City with the final installment of the acclaimed Arkham series, "Batman: Arkham Knight." Combining an immersive narrative with thrilling gameplay, this title is sure to catch the attention of any superhero fan, but how well does it mesh with your treadmill or bike workout? Let’s take a closer look.

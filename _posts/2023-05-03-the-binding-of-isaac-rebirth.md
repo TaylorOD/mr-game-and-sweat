@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/the-binding-of-isaac-rebirth.jpg
 excerpt: "The Binding of Isaac: Rebirth is an enthralling game that keeps players on their toes with its fast-paced action and unpredictable roguelike elements."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.65
+steam_appid: 250900
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
 ---
 
 # Gameplay

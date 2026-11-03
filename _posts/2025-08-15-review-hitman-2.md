@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-08-15T00:12:18.775Z
 categories: [ review, game ]
-image: null
 excerpt: "Developed by IO Interactive, HITMAN 2 brings players back into the shoes of Agent 47, a legendary assassin with a penchant for stealth and creativity in killing."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 863550
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/863550/header.jpg
 ---
 
 Developed by IO Interactive, HITMAN 2 brings players back into the shoes of Agent 47, a legendary assassin with a penchant for stealth and creativity in killing. As a game designed around quiet maneuvering and intricate planning to take out targets, the real question is: can you lace up your sneakers or hop on a bike while pursuing a high-stakes contract? Let's dive into the details.

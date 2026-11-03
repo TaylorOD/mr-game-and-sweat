@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/slay-the-spire.jpg
 excerpt: "Slay the Spire offers a uniquely addictive gameplay experience. The blend of deck-building and roguelike mechanics creates a fresh and engaging challenge every time you play."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 646570
+controller: full
+genres: ["Indie", "Strategy"]
+pause_friendly: "Yes"
+session_length: Medium
 ---
 
 # Gameplay

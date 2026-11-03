@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-21T00:12:31.983Z
 categories: [ review, game ]
-image: null
 excerpt: "Dota Underlords is a strategic auto-battler that brings the rich world of Dota 2 to a new arena of gameplay."
+score_gameplay: 3
+score_treadmill: 2.5
+score_computer: 2.5
+score_overall: 2.67
+steam_appid: 1046930
+genres: ["Casual", "Strategy", "Free To Play"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046930/header.jpg
 ---
 
 Dota Underlords is a strategic auto-battler that brings the rich world of Dota 2 to a new arena of gameplay. The objective is to build an unstoppable team of heroes and outsmart opponents in an engaging turn-based battle. What sets Underlords apart is its ability to cause excitement through strategic planning while also allowing players to step away briefly while their champions do the fighting, making it a great game for players who want to exercise while gaming.

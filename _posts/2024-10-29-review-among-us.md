@@ -7,6 +7,16 @@ disqus: false
 date:   2024-10-29T20:20:35.894Z
 categories: [ review, game ]
 excerpt: "Among Us has taken the gaming world by storm, combining social deduction with lighthearted gameplay that invites mystery and trust issues."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 945360
+controller: full
+genres: ["Casual"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg
 ---
 
 Among Us has taken the gaming world by storm, combining social deduction with lighthearted gameplay that invites mystery and trust issues. Whether you’re alone or in a party setting with friends, the game provides an engaging experience that is adaptable to a variety of gameplay styles. But how does it hold up for those of us trying to keep fit while indulging in video gaming? Let's dive deeper into the different aspects of the game!

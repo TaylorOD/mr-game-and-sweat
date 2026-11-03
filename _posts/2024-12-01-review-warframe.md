@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-01T00:12:36.285Z
 categories: [ review, game ]
-image: null
 excerpt: "Warframe is an exhilarating free-to-play action RPG that has garnered a massive following since its initial release in 2013."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 230410
+controller: full
+genres: ["Action", "RPG", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg
 ---
 
 Warframe is an exhilarating free-to-play action RPG that has garnered a massive following since its initial release in 2013. Set in a sprawling sci-fi universe teeming with enemies, lore, and upgrade paths, it’s a game that rewards both quick reflexes and lasting commitment. As we delve into its gameplay mechanics, how it complements running or biking, and its computer requirements, let’s find out if this title can effectively keep you moving on your treadmill or bike!

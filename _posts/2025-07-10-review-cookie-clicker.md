@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-07-10T00:12:08.308Z
 categories: [ review, game ]
-image: null
 excerpt: "Cookie Clicker is an incremental game that thrives on a simple yet addictive premise: you click on a cookie to earn more cookies, which you then use to purchase upgrades that automatically generate even more cookies."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 1454400
+genres: ["Casual", "Indie", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg
 ---
 
 # Gameplay

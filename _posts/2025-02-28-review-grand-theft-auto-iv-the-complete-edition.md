@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-28T00:10:11.691Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay of GTA IV is deeply immersive and filled with engaging missions, side quests, and interactions that encourage exploration."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 12210
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg
 ---
 
 **Introduction**  

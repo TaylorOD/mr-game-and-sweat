@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-05-30T00:11:57.448Z
 categories: [ review, game ]
-image: null
 excerpt: "MultiVersus, the crossover fighting game from Player First Games, invites players into a vibrant world where beloved characters from various franchises collide in an all-out brawl."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 1818750
+controller: full
+genres: ["Action", "Free To Play"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818750/header.jpg
 ---
 
 MultiVersus, the crossover fighting game from Player First Games, invites players into a vibrant world where beloved characters from various franchises collide in an all-out brawl. With its fun visuals and diverse lineup, it's a game that promises adventure and competition. But how does it fare for those looking to combine their gaming and fitness routines? Let’s break it down.

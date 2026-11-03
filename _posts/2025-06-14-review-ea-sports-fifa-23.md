@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-14T00:12:06.523Z
 categories: [ review, game ]
-image: null
 excerpt: "As a fitness enthusiast and avid gamer, I’ve been on the lookout for games that allow me to combine my love for exercise with engaging gameplay."
+score_gameplay: 2
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1811260
+controller: full
+genres: ["Simulation", "Sports"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg
 ---
 
 As a fitness enthusiast and avid gamer, I’ve been on the lookout for games that allow me to combine my love for exercise with engaging gameplay. “EA SPORTS FIFA 23” rose to the occasion, bringing a vibrant soccer experience right into my living room. How well does it hold up when paired with treadmill running or biking? Let's explore.

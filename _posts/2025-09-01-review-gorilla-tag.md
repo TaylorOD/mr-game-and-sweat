@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-01T00:13:27.741Z
 categories: [ review, game ]
-image: null
 excerpt: "The core of *Gorilla Tag* revolves around players donning VR headsets and embodying gorillas, using their arms to swing and propel themselves through lush environments."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1533390
+genres: ["Action", "Casual"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/fdd97735dfb6643a898070be587c4a057f2b978f/header.jpg
 ---
 
 **Gorilla Tag** is an exhilarating VR experience that turns the age-old game of tag into a frenetic, full-body workout. With its unique controls, engaging gameplay, and playful environment, it's a perfect choice for fitness enthusiasts looking for a fun way to break a sweat while immersed in the virtual world.

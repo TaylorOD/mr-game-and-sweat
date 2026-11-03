@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-23T00:10:09.247Z
 categories: [ review, game ]
-image: null
 excerpt: "RimWorld, developed by Ludeon Studios, is an indie colony simulation game that combines elements of strategy, resource management, and storytelling."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 294100
+genres: ["Indie", "Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg
 ---
 
 "RimWorld," developed by Ludeon Studios, is an indie colony simulation game that combines elements of strategy, resource management, and storytelling. It places you in a randomly generated world where you oversee a group of strandees trying to build a thriving colony on the edge of space. As you juggle the individual needs and potential meltdowns of your colonists, the game continually presents unexpected challenges, making it an engaging experience. 

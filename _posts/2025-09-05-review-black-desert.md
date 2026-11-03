@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-05T00:10:33.664Z
 categories: [ review, game ]
-image: null
 excerpt: "Black Desert is a visually stunning MMORPG that blends intense action with intricate character customization and an expansive world to explore."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 1
+score_overall: 1.67
+steam_appid: 582660
+genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Strategy"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/3c4172635738d9e5901e340b28136745fd9e491a/header_alt_assets_27.jpg
 ---
 
 Black Desert is a visually stunning MMORPG that blends intense action with intricate character customization and an expansive world to explore. However, does it manage to keep your heart rate up while you’re on your treadmill or bike? Let’s break it down.

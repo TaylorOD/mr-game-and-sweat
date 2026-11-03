@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-30T00:10:28.376Z
 categories: [ review, game ]
-image: null
 excerpt: "DOOM Eternal, the highly acclaimed sequel to 2016's DOOM, is a relentless, adrenaline-pumping FPS that not only challenges your gaming prowess but also provides a fantastic backdrop for your exercise routine."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 782330
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg
 ---
 
 DOOM Eternal, the highly acclaimed sequel to 2016's DOOM, is a relentless, adrenaline-pumping FPS that not only challenges your gaming prowess but also provides a fantastic backdrop for your exercise routine. As we dive into various facets of the game, particularly how it integrates with treadmill or biking workouts, let’s see how well it holds up!

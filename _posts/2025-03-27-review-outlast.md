@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-03-27T00:11:10.887Z
 categories: [ review, game ]
-image: null
 excerpt: "Outlast, developed by Red Barrels, plunges players into a chilling world of survival horror, where the stakes are high and the only option is to run—quite literally!"
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 238320
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg
 ---
 
 Outlast, developed by Red Barrels, plunges players into a chilling world of survival horror, where the stakes are high and the only option is to run—quite literally! But how does this spine-tingling game hold up for gamers who want to stay active on a treadmill or bike? Let’s break it down.

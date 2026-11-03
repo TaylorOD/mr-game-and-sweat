@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-05-05T00:12:39.486Z
 categories: [ review, game ]
-image: null
 excerpt: "V Rising is an innovative survival action RPG that places you in the shoes of a vampire awakening from centuries of slumber."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1604030
+genres: ["Action", "Adventure", "Massively Multiplayer"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg
 ---
 
 V Rising is an innovative survival action RPG that places you in the shoes of a vampire awakening from centuries of slumber. In the gothic land of Vardoran, you must gather resources, build your castle, and fend off enemies while striving to reclaim your powers and confront rival vampires. It's a captivating premise that combines exploration, crafting, and combat with a solid multiplayer option. 

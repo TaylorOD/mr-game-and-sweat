@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-11-02T00:13:22.165Z
 categories: [ review, game ]
-image: null
 excerpt: "As one of the darker titles in the Batman franchise, Batman: Arkham Origins takes players on a gritty journey through Gotham City, where players assume the role of a younger Bruce Wayne, grappling with the complexities of becoming the Dark "
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.3
+steam_appid: 209000
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/header.jpg
 ---
 
 As one of the darker titles in the Batman franchise, "Batman: Arkham Origins" takes players on a gritty journey through Gotham City, where players assume the role of a younger Bruce Wayne, grappling with the complexities of becoming the Dark Knight. But how does it fare for those who enjoy both gaming and fitness by running or biking? Let's dive into the details.

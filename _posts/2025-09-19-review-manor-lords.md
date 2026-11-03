@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-19T00:10:47.943Z
 categories: [ review, game ]
-image: null
 excerpt: "Manor Lords, developed by Slavic Magic, is a unique blend of city-building, strategy, and medieval simulation that immerses players in the art of managing a growing settlement."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.5
+steam_appid: 1363080
+genres: ["Simulation", "Strategy", "Early Access"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg
 ---
 
 "Manor Lords," developed by Slavic Magic, is a unique blend of city-building, strategy, and medieval simulation that immerses players in the art of managing a growing settlement. As a gamer who enjoys exercising while maintaining an engaging gameplay experience, let's dive into the specifics of how this game performs in tandem with physical activity.

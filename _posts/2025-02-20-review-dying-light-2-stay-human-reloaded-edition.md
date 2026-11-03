@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-02-20T00:10:20.905Z
 categories: [ review, game ]
-image: null
 excerpt: "As gamers, we often search for that sweet spot where exercise and entertainment converge."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 534380
+controller: full
+genres: ["Action", "Adventure", "RPG"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg
 ---
 
 As gamers, we often search for that sweet spot where exercise and entertainment converge. "Dying Light 2 Stay Human: Reloaded Edition" promises a thrilling parkour-inspired zombie survival experience, but does it seamlessly blend with your treadmill or bike workout? Let’s find out.

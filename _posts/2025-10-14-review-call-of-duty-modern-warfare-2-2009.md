@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-10-14T00:12:00.468Z
 categories: [ review, game ]
-image: null
 excerpt: "When diving into the electrifying world of Call of Duty: Modern Warfare 2, players are met with high-octane gameplay dynamics that elevate the thrill of virtual warfare, but how does it fare when you're trying to maintain your treadmill spr"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 10190
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg
 ---
 
 When diving into the electrifying world of "Call of Duty: Modern Warfare 2," players are met with high-octane gameplay dynamics that elevate the thrill of virtual warfare, but how does it fare when you're trying to maintain your treadmill sprint or bike pedal? Let’s break down the details.

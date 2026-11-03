@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-23T00:13:06.378Z
 categories: [ review, game ]
-image: null
 excerpt: "Outer Wilds presents players with a captivating blend of exploration, puzzle-solving, and narrative—a balance that keeps you engaged while you run on your treadmill or bike."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 753640
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg
 ---
 
 # Gameplay

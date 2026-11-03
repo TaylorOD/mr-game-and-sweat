@@ -7,6 +7,15 @@ comments: false
 disqus: false
 image: assets/images/review-images/dead-cells.jpg
 excerpt: "Dead Cells offers a highly engaging gameplay experience. The game is filled with fast-paced action, requiring quick reflexes and strategic decision-making."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 588650
+controller: full
+genres: ["Action", "Adventure", "Indie"]
+pause_friendly: "Yes"
+session_length: Medium
 ---
 
 # Gameplay

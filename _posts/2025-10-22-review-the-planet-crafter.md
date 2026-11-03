@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-22T00:11:55.822Z
 categories: [ review, game ]
-image: null
 excerpt: "The Planet Crafter offers a seamless balance between exploration, crafting, and terraforming."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1284190
+controller: full
+genres: ["Adventure"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg
 ---
 
 **Introduction:**  

@@ -7,6 +7,15 @@ disqus: false
 date:   2024-07-21T04:45:39.949Z
 categories: [ review, game ]
 excerpt: "Euro Truck Simulator 2 (ETS2) is a unique entry into the simulation genre, where players take on the role of a truck driver navigating the expansive roads of Europe."
+score_gameplay: 2.5
+score_treadmill: 3
+score_computer: 2.5
+score_overall: 2.67
+steam_appid: 227300
+genres: ["Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg
 ---
 
 Euro Truck Simulator 2 (ETS2) is a unique entry into the simulation genre, where players take on the role of a truck driver navigating the expansive roads of Europe. With an emphasis on realism, this game has become a beloved option for those who enjoy leisurely driving and managing logistics. But how does it fare in an exercise-centric environment?

@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-11-03T00:13:36.260Z
 categories: [ review, game ]
-image: null
 excerpt: "Core Keeper is an innovative indie game that takes players deep underground into an expansive cavern filled with mystery and adventure."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 1621690
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
+pause_friendly: "Sometimes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg
 ---
 
 Core Keeper is an innovative indie game that takes players deep underground into an expansive cavern filled with mystery and adventure. It's an intriguing blend of exploration, crafting, and survival, all set within a charming pixel-art world. Most importantly, it's a game that can easily accompany you during your exercise routine, whether you're on a treadmill or cycling.

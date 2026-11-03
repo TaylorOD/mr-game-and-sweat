@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-02T00:10:47.663Z
 categories: [ review, game ]
-image: null
 excerpt: "Counter-Strike: Source (CS:S) stands as one of the quintessential multiplayer first-person shooters, combining strategic gameplay with fast-paced action."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 240
+genres: ["Action"]
+pause_friendly: "No"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg
 ---
 
 Counter-Strike: Source (CS:S) stands as one of the quintessential multiplayer first-person shooters, combining strategic gameplay with fast-paced action. The game has a dedicated following, and today we're focusing on how well it fits into the workout routines of active gamers looking to stay in shape while enjoying their favorite pastime.

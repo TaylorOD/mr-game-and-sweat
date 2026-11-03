@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-12T00:12:36.280Z
 categories: [ review, game ]
-image: null
 excerpt: "Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective."
+score_gameplay: 2.5
+score_treadmill: 2.7
+score_computer: 3
+score_overall: 2.4
+steam_appid: 254700
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg
 ---
 
 Resident Evil 4 (2005) is a landmark entry in the survival horror genre that masterfully transitions from static camera angles to an over-the-shoulder perspective. This leap in gameplay design captivates players, making it a timeless classic that can also be a surprisingly effective companion during exercise sessions on a treadmill or bike. 

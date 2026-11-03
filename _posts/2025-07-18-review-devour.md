@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-18T00:12:38.687Z
 categories: [ review, game ]
-image: null
 excerpt: "In the realm of cooperative horror gaming, “DEVOUR” stands out as an exhilarating experience that not only tests your nerve but also can combine surprisingly well with your at-home workout routines."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.3
+steam_appid: 1274570
+controller: full
+genres: ["Indie"]
+pause_friendly: "No"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/bb90f9fa36e4c35a5f28cdc38cf75b3eb5c39032/header.jpg
 ---
 
 In the realm of cooperative horror gaming, “DEVOUR” stands out as an exhilarating experience that not only tests your nerve but also can combine surprisingly well with your at-home workout routines. Developed by Tread Lightly, this game brings together frantic gameplay and high-stakes survival mechanics, all wrapped in an unequivocally haunting atmosphere.

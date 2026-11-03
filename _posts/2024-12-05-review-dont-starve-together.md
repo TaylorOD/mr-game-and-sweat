@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-05T00:10:58.162Z
 categories: [ review, game ]
-image: null
 excerpt: "Don't Starve Together masterfully combines elements of survival, strategy, and crafting."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 3
+score_overall: 3
+steam_appid: 322330
+controller: full
+genres: ["Action", "Adventure", "Indie", "RPG", "Simulation", "Strategy"]
+pause_friendly: "No"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/050ea9c51a4e96f707309d33b7cdd38e0a6cbfff/header_alt_assets_51.jpg
 ---
 
 # Gameplay

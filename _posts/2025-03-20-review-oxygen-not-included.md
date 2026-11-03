@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-03-20T00:11:04.519Z
 categories: [ review, game ]
-image: null
 excerpt: "As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 457140
+genres: ["Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg
 ---
 
 As an avid gamer and fitness enthusiast, I’m constantly on the lookout for games that not only feed my gaming appetite but also keep the treadmill or bike session engaging. "Oxygen Not Included" has captured my attention with its unique blend of resource management and simulation, making it a perfect candidate for an exercise session. Here’s my detailed review of how well it works in this context.

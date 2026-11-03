@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-07-02T00:13:57.627Z
 categories: [ review, game ]
-image: null
 excerpt: "Split Fiction delivers a thrilling narrative-driven experience that keeps players engaged from start to finish."
+score_gameplay: 3
+score_treadmill: 3
+score_computer: 2
+score_overall: 2.67
+steam_appid: 2001120
+controller: full
+genres: ["Action", "Adventure"]
+pause_friendly: "Sometimes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg
 ---
 
 # Gameplay

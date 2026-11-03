@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-05T00:10:32.423Z
 categories: [ review, game ]
-image: null
 excerpt: "When it comes to blending the thrill of survival horror with engaging gameplay, few titles can compete with Alien: Isolation."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 214490
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg
 ---
 
 When it comes to blending the thrill of survival horror with engaging gameplay, few titles can compete with "Alien: Isolation." Set against the chilling backdrop of the iconic Alien film franchise, this game challenges players with stealth, resource management, and atmospheric immersion. However, for those looking to combine gaming with exercise, is it a viable option while running on a treadmill or biking? Let’s dive in.

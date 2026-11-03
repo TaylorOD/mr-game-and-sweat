@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-01-05T00:09:51.869Z
 categories: [ review, game ]
-image: null
 excerpt: "People Playground is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation."
+score_gameplay: 2.5
+score_treadmill: 2.5
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1118200
+genres: ["Action", "Casual", "Indie", "Simulation"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/header.jpg
 ---
 
 "People Playground" is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation. This game is perfect for fans of physics-based mechanics and absurdity, but how does it hold up for those of us preferring to exercise while we play? Let’s break it down.

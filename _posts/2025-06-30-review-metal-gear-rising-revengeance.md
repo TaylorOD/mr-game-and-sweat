@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-06-30T00:11:31.697Z
 categories: [ review, game ]
-image: null
 excerpt: "METAL GEAR RISING: REVENGEANCE is a heart-pounding experience that immerses players in fast-paced, adrenaline-fueled action."
+score_gameplay: 2.5
+score_treadmill: 2
+score_computer: 2.5
+score_overall: 2.33
+steam_appid: 235460
+controller: full
+genres: ["Action"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235460/header.jpg
 ---
 
 # Gameplay

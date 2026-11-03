@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-09-13T00:09:57.358Z
 categories: [ review, game ]
-image: null
 excerpt: "EA SPORTS FC 24 marks a significant evolution in the beloved soccer simulation genre, and it's crucial to determine how well it integrates into an exercise-friendly gaming environment."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 2195250
+controller: full
+genres: ["Simulation", "Sports"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195250/header.jpg
 ---
 
 EA SPORTS FC 24 marks a significant evolution in the beloved soccer simulation genre, and it's crucial to determine how well it integrates into an exercise-friendly gaming environment. For those looking to get their sweat on while still engaging with the game, this review will break down the experience.

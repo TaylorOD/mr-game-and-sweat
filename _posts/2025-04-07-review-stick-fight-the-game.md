@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-04-07T00:11:03.207Z
 categories: [ review, game ]
-image: null
 excerpt: "Stick Fight: The Game is a delightful brawler that pits players in frenetic, colorful, stick-figure combat."
+score_gameplay: 3
+score_treadmill: 2.5
+score_computer: 2.5
+score_overall: 2.67
+steam_appid: 674940
+genres: ["Action", "Casual", "Indie"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg
 ---
 
 Stick Fight: The Game is a delightful brawler that pits players in frenetic, colorful, stick-figure combat. At first glance, you might not assume that this game is a great fit for your treadmill or bike workout sessions. But let's dive in to see if it gets your heart racing in more ways than one!

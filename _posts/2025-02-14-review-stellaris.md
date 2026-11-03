@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-02-14T00:10:20.069Z
 categories: [ review, game ]
-image: null
 excerpt: "As a blend of grand strategy and empire management, Stellaris has carved out a niche in the gaming world that offers an expansive universe for exploration and conquest."
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.33
+steam_appid: 281990
+genres: ["Simulation", "Strategy"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg
 ---
 
 As a blend of grand strategy and empire management, Stellaris has carved out a niche in the gaming world that offers an expansive universe for exploration and conquest. But how does it fare for those of us who like to keep active, running or biking while we unravel the cosmos’ many mysteries? Let’s dive in.

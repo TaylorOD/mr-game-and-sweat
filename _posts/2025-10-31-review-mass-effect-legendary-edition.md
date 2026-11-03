@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2025-10-31T00:11:33.567Z
 categories: [ review, game ]
-image: null
 excerpt: "The beloved Mass Effect trilogy has been reimagined in the stunning Legendary Edition, offering players a chance to experience Commander Shepard's epic journey through the galaxy with enhanced graphics and gameplay improvements."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 2
+score_overall: 2.33
+steam_appid: 1328670
+controller: full
+genres: ["Action", "RPG"]
+pause_friendly: "Yes"
+session_length: Long
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg
 ---
 
 The beloved Mass Effect trilogy has been reimagined in the stunning Legendary Edition, offering players a chance to experience Commander Shepard's epic journey through the galaxy with enhanced graphics and gameplay improvements. But how does this classic RPG stack up for those who want to maintain their exercise regimen while gaming? Let’s dive into the details.

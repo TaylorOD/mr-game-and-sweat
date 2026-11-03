@@ -6,8 +6,17 @@ comments: false
 disqus: false
 date:   2024-12-19T00:10:38.121Z
 categories: [ review, game ]
-image: null
 excerpt: "The gameplay in Deep Rock Galactic thrives on its fast-paced cooperative missions that never seem to have a dull moment."
+score_gameplay: 3
+score_treadmill: 2
+score_computer: 3
+score_overall: 2.67
+steam_appid: 548430
+controller: full
+genres: ["Action"]
+pause_friendly: "Sometimes"
+session_length: Short
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/bc070678ce5c33e86ff818b3e9a51479b53f52f5/header_alt_assets_30.jpg
 ---
 
 **Deep Rock Galactic**, a cooperative first-person shooter developed by Ghost Ship Games, invites players to step into the rugged boots of a space dwarf on a mission to mine precious resources and engage in some gun-slinging action against alien hordes. On the surface, it tantalizes with its unique mix of humor, teamwork, and exploration. As someone who prioritizes fitness while gaming, I took a closer look at how this title performs in terms of gameplay engagement, exercise compatibility, and technical demands.

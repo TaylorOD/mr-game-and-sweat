@@ -6,8 +6,16 @@ comments: false
 disqus: false
 date:   2025-09-14T00:10:08.825Z
 categories: [ review, game ]
-image: null
 excerpt: "Ahoy, gamers and fitness enthusiasts!"
+score_gameplay: 2
+score_treadmill: 2
+score_computer: 2
+score_overall: 2
+steam_appid: 242050
+genres: ["Action", "Adventure"]
+pause_friendly: "Yes"
+session_length: Medium
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg
 ---
 
 Ahoy, gamers and fitness enthusiasts! If you're looking for an exhilarating experience that combines historical intrigue with high seas adventure, look no further than "Assassin’s Creed IV: Black Flag." This title is not only a staple for fans of the series but also presents an interesting opportunity for those who want to stay active while diving into the world of piracy and betrayal.
