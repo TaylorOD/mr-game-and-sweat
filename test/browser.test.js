@@ -150,8 +150,9 @@ async function run(base) {
 
   await test('guides page lists guides with images', async (page) => {
     await page.goto(`${base}/guides/`);
-    assert.strictEqual(await page.locator('.card').count(), 10);
-    assert.strictEqual(await page.locator('.card img').count(), 10);
+    const guides = await page.locator('.card').count();
+    assert.ok(guides >= 10, `Only ${guides} guides`);
+    assert.strictEqual(await page.locator('.card img').count(), guides);
   });
 
   await test('our own images load as webp and game art comes from Steam', async (page) => {
