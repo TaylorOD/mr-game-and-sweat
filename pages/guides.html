@@ -1,0 +1,19 @@
+---
+layout: default
+title: Guides
+seo_title: Guides to Gaming While You Exercise | Mr. Game and Sweat
+permalink: "/guides/"
+description: Guides to setting up your treadmill or exercise bike, staying safe and getting started with gaming while you work out.
+---
+
+<h1 class="mb-3">Guides</h1>
+<p class="lead mb-4">How to set up, stay safe and get started with gaming while you exercise.</p>
+
+{% assign guides = site.categories.guide | sort: "date" %}
+<section class="row">
+	{% for post in guides %}
+	<div class="col-md-4 mb-5">
+		{% include postbox.html %}
+	</div>
+	{% endfor %}
+</section>
