@@ -499,6 +499,7 @@ body {
 	line-height: 1.25;
 }
 .score-out-of {
+	margin-top: 0.3rem;
 	color: var(--muted);
 	font-size: 0.8rem;
 }

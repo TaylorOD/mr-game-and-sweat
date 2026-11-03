@@ -3,8 +3,8 @@
 <aside class="score-box">
 	<div class="score-box-main">
 		<span class="score-number score-{{ box_tier }}">{{ box_score | round: 1 }}</span>
-		<span class="score-word">{{ box_word }}</span>
 		<span class="score-out-of">out of 3</span>
+		<span class="score-word">{{ box_word }}</span>
 	</div>
 	<ul class="score-box-list">
 		{% include score_row.html label="Gameplay" score=page.score_gameplay %}
