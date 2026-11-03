@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "ELDEN RING NIGHTREIGN’s brisk expeditions and frequent boss fights can make a workout fly by, but its precise dodges and punishing combat are a poor match for running at a pace where balance matters."
 ---
 
 ELDEN RING NIGHTREIGN’s brisk expeditions and frequent boss fights can make a workout fly by, but its precise dodges and punishing combat are a poor match for running at a pace where balance matters. It’s more practical on a stationary bike, where intense bursts of attention are less likely to throw off your footing.

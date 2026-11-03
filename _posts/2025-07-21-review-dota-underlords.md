@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-21T00:12:31.983Z
 categories: [ review, game ]
 image: null
+excerpt: "Dota Underlords is a strategic auto-battler that brings the rich world of Dota 2 to a new arena of gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Dota Underlords,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Dota Underlords
 
 Dota Underlords is a strategic auto-battler that brings the rich world of Dota 2 to a new arena of gameplay. The objective is to build an unstoppable team of heroes and outsmart opponents in an engaging turn-based battle. What sets Underlords apart is its ability to cause excitement through strategic planning while also allowing players to step away briefly while their champions do the fighting, making it a great game for players who want to exercise while gaming.
 

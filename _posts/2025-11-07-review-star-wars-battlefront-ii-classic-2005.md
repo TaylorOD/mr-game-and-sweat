@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "STAR WARS Battlefront II (Classic, 2005) offers an enthralling immersion into the Star Wars universe, but its suitability for exercise varies."
 ---
 
 STAR WARS Battlefront II (Classic, 2005) offers an enthralling immersion into the Star Wars universe, but its suitability for exercise varies. While the action-packed engagements can distract you from the grind of cardio, the lack of controller support may impede your ability to maintain peak performance on a treadmill or bike.

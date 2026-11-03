@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-21T00:10:31.281Z
 categories: [ review, game ]
 image: null
+excerpt: "Detroit: Become Human is a visually stunning narrative-driven adventure game that immerses players in a futuristic world where androids grapple with their existence and strive for independence."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Detroit: Become Human,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Detroit: Become Human
 
 Detroit: Become Human is a visually stunning narrative-driven adventure game that immerses players in a futuristic world where androids grapple with their existence and strive for independence. As a title that combines storytelling with player choices, it's fascinating; but how does it fare when you’re trying to stay active on a treadmill or bike?
 

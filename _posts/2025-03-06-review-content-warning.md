@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-06T00:10:31.742Z
 categories: [ review, game ]
 image: null
+excerpt: "Content Warning is a unique indie title that challenges players to navigate an interactive narrative filled with various content warnings."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Content Warning,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Content Warning
 
 Content Warning is a unique indie title that challenges players to navigate an interactive narrative filled with various content warnings. The game dives deep into themes of mental health, personal trauma, and social issues while offering a distinctive gameplay experience. As a fan of both exercising and video games, I was curious to see how this game would integrate with treadmill and biking sessions.
 

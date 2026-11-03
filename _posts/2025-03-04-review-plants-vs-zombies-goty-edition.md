@@ -7,11 +7,8 @@ disqus: false
 date:   2025-03-04T00:10:17.755Z
 categories: [ review, game ]
 image: null
+excerpt: "Plants vs. Zombies GOTY Edition is a delightful tower defense game that manages to captivate players with its charming art style and innovative mechanics."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Plants vs. Zombies GOTY Edition,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

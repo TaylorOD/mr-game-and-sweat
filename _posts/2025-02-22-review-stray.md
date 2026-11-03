@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-22T00:09:47.954Z
 categories: [ review, game ]
 image: null
+excerpt: "Stray, developed by BlueTwelve Studio, invites players into the captivating world of a stray cat navigating a dystopian city filled with mysteries, robots, and a lush art style."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Stray,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Stray Game Review
 
 Stray, developed by BlueTwelve Studio, invites players into the captivating world of a stray cat navigating a dystopian city filled with mysteries, robots, and a lush art style. As someone who enjoys exercising while gaming, I found myself eagerly diving into this unique experience. 
 

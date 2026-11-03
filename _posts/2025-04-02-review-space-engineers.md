@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-02T00:11:33.118Z
 categories: [ review, game ]
 image: null
+excerpt: "Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Space Engineers,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Space Engineers Review
 
 Space Engineers offers players a sandbox experience centered around creativity, engineering, and survival in space. As you build and maintain your space stations, ships, and planetary bases, the game allows for a wealth of exploration and engineering possibilities. 
 

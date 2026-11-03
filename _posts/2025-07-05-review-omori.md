@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-05T00:11:59.232Z
 categories: [ review, game ]
 image: null
+excerpt: "The gameplay in OMORI is rich and multi-layered. The game offers a turn-based combat system that, while strategic, is not overly demanding or fast-paced."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "OMORI,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# OMORI Game Review
 
 **OMORI** is a unique entry in the indie RPG genre that combines charming visuals and a haunting narrative to explore themes of mental health and friendship. It tantalizes players with its intricate storytelling and vibrant yet melancholic art style. For gamers who love incorporating physical activity into their play sessions, especially on a treadmill or bike, this review will help you gauge how engaging OMORI can be for your workout experience.
 

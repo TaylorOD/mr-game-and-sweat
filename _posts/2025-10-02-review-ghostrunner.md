@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-02T00:13:00.074Z
 categories: [ review, game ]
 image: null
+excerpt: "Set in a neon-soaked, cyberpunk dystopia, Ghostrunner delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ghostrunner,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ghostrunner Game Review
 
 Set in a neon-soaked, cyberpunk dystopia, "Ghostrunner" delivers an electrifying blend of parkour-style movement and high-paced combat that’s as satisfying as it is challenging. As you slice your way through a megastructure at breakneck speed, the game demands not just skill but also engages you mentally, making it an excellent pick for users who wish to stay invigorated while exercising.
 

@@ -7,13 +7,8 @@ disqus: false
 date:   2025-07-20T00:12:22.005Z
 categories: [ review, game ]
 image: null
+excerpt: "Noita is a unique roguelike platformer known for its highly interactive pixel-based physics and complex spellcasting system."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Noita,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: Noita
 
 Noita is a unique roguelike platformer known for its highly interactive pixel-based physics and complex spellcasting system. As a player in this enchanting underground world, you take on the role of a wizard exploring procedurally generated levels filled with enemies, environmental hazards, and, most importantly, physics-enhanced explosions and magic.
 

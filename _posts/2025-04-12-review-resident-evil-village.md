@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-12T00:10:46.794Z
 categories: [ review, game ]
 image: null
+excerpt: "Resident Evil Village is the eighth installment in the acclaimed survival horror franchise developed by Capcom."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Resident Evil Village,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Resident Evil Village Review
 
 Resident Evil Village is the eighth installment in the acclaimed survival horror franchise developed by Capcom. It elegantly blends action, exploration, and horror elements, giving players a chilling yet thrilling experience. Whether you're navigating the dense forests or dark castles, one question emerges for those looking to maintain their fitness routine while gaming: how does it perform when you're sweating it out on a treadmill or bike? Let’s dive in.
 

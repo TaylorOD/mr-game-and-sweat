@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-25T00:11:16.024Z
 categories: [ review, game ]
 image: null
+excerpt: "Mafia II, a classic in the world of storytelling and crime drama, whisks players back to 1950s America where they can immerse themselves in a gripping narrative of loyalty, betrayal, and a little bit of organized crime."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Mafia II (Classic),". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Mafia II (Classic) Review
 
 Mafia II, a classic in the world of storytelling and crime drama, whisks players back to 1950s America where they can immerse themselves in a gripping narrative of loyalty, betrayal, and a little bit of organized crime. But how does it hold up when you’re trying to exercise on a treadmill or bike? Let’s break it down.
 

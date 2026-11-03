@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-11T00:11:50.111Z
 categories: [ review, game ]
 image: null
+excerpt: "Ultimate Custom Night (U.C.N) is the latest installment in the Five Nights at Freddy's franchise, delivering a unique sandbox experience where you can customize your own night at Freddy’s pizzeria."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ultimate Custom Night,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ultimate Custom Night Review
 
 Ultimate Custom Night (U.C.N) is the latest installment in the Five Nights at Freddy's franchise, delivering a unique sandbox experience where you can customize your own night at Freddy’s pizzeria. As an enthusiast of both video games and fitness, I've tested this game on a treadmill to see how well it fits into an active gaming lifestyle.
 

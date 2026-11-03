@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-08T00:10:51.681Z
 categories: [ review, game ]
 image: null
+excerpt: "Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Cities: Skylines,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Cities: Skylines - A Perfect Blend of Urban Planning and Cardio
 
 Cities: Skylines is a city-building simulation game that allows players to create and manage their own city from the ground up. The engaging gameplay offers a blend of creativity and strategy, which can be both captivating and addicting—exactly what one might want to immerse themselves in while getting a workout on a treadmill or bike.
 

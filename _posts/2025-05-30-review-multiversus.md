@@ -7,13 +7,8 @@ disqus: false
 date:   2025-05-30T00:11:57.448Z
 categories: [ review, game ]
 image: null
+excerpt: "MultiVersus, the crossover fighting game from Player First Games, invites players into a vibrant world where beloved characters from various franchises collide in an all-out brawl."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "MultiVersus,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# MultiVersus Review
 
 MultiVersus, the crossover fighting game from Player First Games, invites players into a vibrant world where beloved characters from various franchises collide in an all-out brawl. With its fun visuals and diverse lineup, it's a game that promises adventure and competition. But how does it fare for those looking to combine their gaming and fitness routines? Let’s break it down.
 

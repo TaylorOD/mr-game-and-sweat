@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-12T00:09:31.606Z
 categories: [ review, game ]
 image: null
+excerpt: "Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Kingdom Come: Deliverance,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Kingdom Come: Deliverance - Game Review
 
 Kingdom Come: Deliverance is an intensive role-playing game (RPG) set in the 15th century Kingdom of Bohemia. It’s known for its historical authenticity and deep immersive experience, but how well does it fare for those looking to combine their cardio workouts with gameplay? Let's dive into our review based on key categories.
 

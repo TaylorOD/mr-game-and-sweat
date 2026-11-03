@@ -6,9 +6,8 @@ categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/risk-of-rain.jpg
+excerpt: "Risk of Rain delivers a captivating experience with its unique blend of action and roguelike elements."
 ---
-
-Welcome back to Mr. Game and Sweat! I'm Taylor, your guide to merging the excitement of gaming with fitness. Today, we’re taking a nostalgic dive into the indie classic "Risk of Rain." This game is known for its intense action and challenging gameplay. Let’s see how it holds up in our categories: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

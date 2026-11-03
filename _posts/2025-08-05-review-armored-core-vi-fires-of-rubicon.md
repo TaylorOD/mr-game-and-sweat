@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-05T00:13:55.737Z
 categories: [ review, game ]
 image: null
+excerpt: "Armored Core VI: Fires of Rubicon marks a triumphant return to the mech combat genre, aiming to engage players with high-octane action and deep mechanical customization."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "ARMORED CORE VI FIRES OF RUBICON,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Game Review: ARMORED CORE VI FIRES OF RUBICON
 
 Armored Core VI: Fires of Rubicon marks a triumphant return to the mech combat genre, aiming to engage players with high-octane action and deep mechanical customization. But how does it stack up for those of us who like to break a sweat while gaming?
 

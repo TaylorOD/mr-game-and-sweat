@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-09T00:10:40.961Z
 categories: [ review, game ]
 image: null
+excerpt: "Balatro is a unique blend of roguelike mechanics and deck-building strategies combined with a hefty dose of charm and whimsy."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Balatro,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Balatro Review
 
 Balatro is a unique blend of roguelike mechanics and deck-building strategies combined with a hefty dose of charm and whimsy. As players delve into its vibrant, card-based world, it's essential to assess how well it pairs with your fitness routine, especially for those looking to elevate their treadmill or biking sessions.
 

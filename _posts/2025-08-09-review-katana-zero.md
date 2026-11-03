@@ -7,13 +7,8 @@ disqus: false
 date:   2025-08-09T00:13:19.864Z
 categories: [ review, game ]
 image: null
+excerpt: "As a lover of both exercise and video games, Katana ZERO offers a unique blend of action and storytelling that surprisingly accommodates an active gaming experience."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Katana ZERO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Katana ZERO: A High-Octane Experience on the Move
 
 As a lover of both exercise and video games, Katana ZERO offers a unique blend of action and storytelling that surprisingly accommodates an active gaming experience. Set in a neo-noir world, this game pushes you to engage both your mind and body in an exhilarating combat-driven narrative that melds beautifully with treadmill or biking workouts. Let’s delve into how this game performs across various categories.
 

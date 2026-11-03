@@ -7,13 +7,8 @@ disqus: false
 date:   2025-11-02T00:13:22.165Z
 categories: [ review, game ]
 image: null
+excerpt: "As one of the darker titles in the Batman franchise, Batman: Arkham Origins takes players on a gritty journey through Gotham City, where players assume the role of a younger Bruce Wayne, grappling with the complexities of becoming the Dark "
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Batman: Arkham Origins,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Batman: Arkham Origins - Game Review
 
 As one of the darker titles in the Batman franchise, "Batman: Arkham Origins" takes players on a gritty journey through Gotham City, where players assume the role of a younger Bruce Wayne, grappling with the complexities of becoming the Dark Knight. But how does it fare for those who enjoy both gaming and fitness by running or biking? Let's dive into the details.
 

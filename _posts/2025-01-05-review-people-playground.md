@@ -7,13 +7,8 @@ disqus: false
 date:   2025-01-05T00:09:51.869Z
 categories: [ review, game ]
 image: null
+excerpt: "People Playground is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "People Playground,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# People Playground Game Review
 
 "People Playground" is an intriguing sandbox game that invites players to unleash their creativity in a playground of chaos and experimentation. This game is perfect for fans of physics-based mechanics and absurdity, but how does it hold up for those of us preferring to exercise while we play? Let’s break it down.
 

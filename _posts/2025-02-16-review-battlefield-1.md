@@ -7,13 +7,8 @@ disqus: false
 date:   2025-02-16T00:10:58.501Z
 categories: [ review, game ]
 image: null
+excerpt: "Battlefield 1 takes players on an immersive journey back to World War I, showcasing the chaotic and visceral nature of warfare through its stunning graphics and gameplay mechanics."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Battlefield 1,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## Game Review: Battlefield 1
 
 Battlefield 1 takes players on an immersive journey back to World War I, showcasing the chaotic and visceral nature of warfare through its stunning graphics and gameplay mechanics. As a game designed to engage players not just in combat but in history, it presents an intriguing option for those who want to incorporate video gaming into their workout routines.
 

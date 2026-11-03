@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-01T00:11:26.159Z
 categories: [ review, game ]
 image: null
+excerpt: "The gameplay in ASTRONEER is highly engaging and encourages players to lose themselves in its beautifully crafted worlds without heavy distractions."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "ASTRONEER,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# ASTRONEER Review
 
 **ASTRONEER** invites players into a charmingly cubic universe where exploration, base building, and resource gathering create a delightful sandbox experience. Featuring bright visuals and an intuitive crafting system, this game does an admirable job of motivating players to build, explore, and survive in an alien environment.
 

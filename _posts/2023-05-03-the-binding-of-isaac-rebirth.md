@@ -6,9 +6,8 @@ categories: [ review, action, roguelike, indie ]
 comments: false
 disqus: false
 image: assets/images/review-images/the-binding-of-isaac-rebirth.jpg
+excerpt: "The Binding of Isaac: Rebirth is an enthralling game that keeps players on their toes with its fast-paced action and unpredictable roguelike elements."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Binding of Isaac: Rebirth," a game known for its dark humor and challenging gameplay. Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
 
 # Gameplay
 

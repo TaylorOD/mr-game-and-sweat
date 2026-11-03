@@ -7,13 +7,8 @@ disqus: false
 date:   2025-04-20T00:10:19.865Z
 categories: [ review, game ]
 image: null
+excerpt: "Stumble Guys is a vibrant and zany multiplayer party game that thrusts players into chaotic obstacle courses, reminiscent of the popular genre made famous by shows like Wipeout."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Stumble Guys,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Stumble Guys Review
 
 Stumble Guys is a vibrant and zany multiplayer party game that thrusts players into chaotic obstacle courses, reminiscent of the popular genre made famous by shows like "Wipeout." With its colorful graphics and lighthearted gameplay, it's a game designed to entertain, but how well does it fit into an exercise routine when you're on a treadmill or biking? Let’s dive into the details.
 

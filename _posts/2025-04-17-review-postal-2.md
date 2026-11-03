@@ -7,11 +7,8 @@ disqus: false
 date:   2025-04-17T00:11:13.071Z
 categories: [ review, game ]
 image: null
+excerpt: "POSTAL 2 is an unorthodox first-person shooter that revels in its chaotic, sandbox-style gameplay."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "POSTAL 2,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
 
 # Gameplay
 

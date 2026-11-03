@@ -7,13 +7,8 @@ disqus: false
 date:   2025-06-27T00:12:10.189Z
 categories: [ review, game ]
 image: null
+excerpt: "GRIS, developed by Nomada Studio, is an indie platformer that transcends the traditional gaming experience through its enchanting art style and evocative soundtrack."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "GRIS,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# GRIS Game Review
 
 "GRIS," developed by Nomada Studio, is an indie platformer that transcends the traditional gaming experience through its enchanting art style and evocative soundtrack. However, when it comes to exercising while gaming, there are several aspects to consider regarding gameplay, compatibility with workout equipment, and computer requirements.
 

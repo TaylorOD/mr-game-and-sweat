@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-17T00:11:27.688Z
 categories: [ review, game ]
 image: null
+excerpt: "The Elder Scrolls Online (ESO) has successfully carved out its niche in the sprawling landscape of MMORPGs."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "The Elder Scrolls Online,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-## The Elder Scrolls Online: A Journey Through Tamriel on Treadmills and Bikes
 
 The Elder Scrolls Online (ESO) has successfully carved out its niche in the sprawling landscape of MMORPGs. As an avid gamer and fitness enthusiast, I took on the challenge of balancing this richly immersive world with my treadmill and biking workouts. Here's how ESO fared in a fitness-friendly gaming experience.
 

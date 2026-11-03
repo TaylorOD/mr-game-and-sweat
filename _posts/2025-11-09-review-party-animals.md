@@ -9,6 +9,7 @@ categories: [ review, game ]
 image: null
 added: 2026-11-03
 last_modified_at: 2026-11-03
+excerpt: "Party Animals provides a lighthearted and chaotic experience that can serve as a fun distraction while you’re exercising."
 ---
 
 Party Animals provides a lighthearted and chaotic experience that can serve as a fun distraction while you’re exercising. The game's emphasis on playful combat with adorable animals makes it an entertaining way to divert your attention from the workout itself—just don’t expect to break a sweat from the gameplay alone.

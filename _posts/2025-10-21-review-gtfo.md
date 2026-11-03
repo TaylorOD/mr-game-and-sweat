@@ -7,13 +7,8 @@ disqus: false
 date:   2025-10-21T00:12:33.745Z
 categories: [ review, game ]
 image: null
+excerpt: "GTFO is a cooperative first-person shooter that plunges players into a nightmarish underground facility, teeming with grotesque creatures and thick atmosphere."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "GTFO,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# GTFO Game Review
 
 GTFO is a cooperative first-person shooter that plunges players into a nightmarish underground facility, teeming with grotesque creatures and thick atmosphere. The game is famous for its intense, strategic gameplay and emphasis on teamwork. But does it fit well into an exercise routine on a treadmill or bike? Let's break it down!
 

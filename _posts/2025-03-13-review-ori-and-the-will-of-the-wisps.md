@@ -7,13 +7,8 @@ disqus: false
 date:   2025-03-13T00:10:46.197Z
 categories: [ review, game ]
 image: null
+excerpt: "Ori and the Will of the Wisps is the beautifully crafted sequel to the critically acclaimed Ori and the Blind Forest."
 ---
-
-Welcome back to Mr. Game and Sweat! Today, we’re tackling "Ori and the Will of the Wisps,". Let's break it down according to our key criteria: gameplay engagement, treadmill and bike compatibility, and computer requirements.
-
-# Gameplay
-
-# Ori and the Will of the Wisps Review
 
 "Ori and the Will of the Wisps" is the beautifully crafted sequel to the critically acclaimed "Ori and the Blind Forest." With its engaging world, emotional storytelling, and fluid gameplay, it’s a title that invites you to explore its depths. But how does it fare for those of us who are combining our gaming experience with, say, a treadmill or stationary bike workout? Let's dive in.
 
