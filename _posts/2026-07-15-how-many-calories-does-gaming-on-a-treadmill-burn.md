@@ -8,10 +8,10 @@ date:   2026-07-15T15:00:00Z
 categories: [ guide ]
 added: 2026-11-03
 last_modified_at: 2026-11-03
-excerpt: "A 155 pound person walking at 3 mph burns about 245 calories an hour. Gaming doesnt change the math much. What matters is your speed, your weight and how long you keep going."
+excerpt: "A 155 pound person walking at 3 mph burns about 266 calories an hour. Gaming doesnt change the math much. What matters is your speed, your weight and how long you keep going."
 ---
 
-A 155 pound person walking at 3 mph burns about 245 calories an hour. Gaming doesnt change the math much. What matters is your speed, your weight and how long you keep going.
+A 155 pound person walking at 3 mph burns about 266 calories an hour. Gaming doesnt change the math much. What matters is your speed, your weight and how long you keep going.
 
 These are estimates. Real numbers vary from person to person, so treat them as a rough guide.
 
@@ -19,20 +19,20 @@ These are estimates. Real numbers vary from person to person, so treat them as a
 
 | Activity | 155 lb person | 200 lb person |
 |---|---|---|
-| Walking, 2 mph | 196 | 254 |
-| Walking, 3 mph | 245 | 317 |
-| Walking, 3.5 mph | 301 | 390 |
-| Running, 5 mph | 581 | 753 |
+| Walking, 2 mph | 210 | 272 |
+| Walking, 3 mph | 266 | 345 |
+| Walking, 3.5 mph | 336 | 435 |
+| Running, 5 mph | 595 | 771 |
 
 ## How we got these
 
-They use MET values from the [Compendium of Physical Activities](https://pacompendium.com/), a standard reference for how hard activities are. A MET is a measure of effort. Sitting quietly is about 1, and walking at 3 mph is about 3.5.
+They use MET values from the [Compendium of Physical Activities](https://pacompendium.com/), a standard reference for how hard activities are. We used its treadmill values for walking and its running value for 5 mph. A MET is a measure of effort. Sitting quietly is about 1, and walking on a treadmill at 3 mph is about 3.8.
 
 A simple way to estimate it is:
 
 **Calories per hour = MET x your weight in kilograms**
 
-To get kilograms, divide your weight in pounds by 2.2. So a 155 pound person is about 70 kg, and 3.5 x 70 is 245.
+To get kilograms, divide your weight in pounds by 2.2. So a 155 pound person is about 70 kg, and 3.8 x 70 is 266.
 
 These numbers include the calories your body would burn anyway. Sitting and gaming would burn around 70 to 90 calories an hour for that same person, so the extra you get from walking is smaller than the total looks.
 
