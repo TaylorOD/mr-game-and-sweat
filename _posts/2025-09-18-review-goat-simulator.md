@@ -47,4 +47,4 @@ In summary, Goat Simulator offers delightful gameplay that serves as an engaging
 
 ---
 
-Mr. Game and Sweat Reviews: Goat Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Goat Simulator - By Taylor Owen Dorsett

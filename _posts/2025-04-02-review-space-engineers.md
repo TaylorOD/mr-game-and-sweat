@@ -46,4 +46,4 @@ Overall, Space Engineers is an engaging title that successfully combines creativ
 
 ---
 
-Mr. Game and Sweat Reviews: Space Engineers - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Space Engineers - By Taylor Owen Dorsett

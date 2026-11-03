@@ -47,4 +47,4 @@ In conclusion, MultiVersus offers an exciting combination of character-driven ga
 
 ---
 
-Mr. Game and Sweat Reviews: MultiVersus - By Taylor Dorsett
+Mr. Game and Sweat Reviews: MultiVersus - By Taylor Owen Dorsett

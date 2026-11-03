@@ -55,4 +55,4 @@ If you're seeking a game that makes you jump, run, and keep fit all at once, loo
 
 ---
 
-Mr. Game and Sweat Reviews: Dying Light - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dying Light - By Taylor Owen Dorsett

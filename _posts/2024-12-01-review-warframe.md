@@ -47,4 +47,4 @@ Warframe strikes an admirable balance between an engaging experience and compati
 
 ---
 
-Mr. Game and Sweat Reviews: Warframe - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Warframe - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ In conclusion, DOOM Eternal offers a high-octane gaming experience that's intens
 
 ---
 
-Mr. Game and Sweat Reviews: DOOM Eternal - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DOOM Eternal - By Taylor Owen Dorsett

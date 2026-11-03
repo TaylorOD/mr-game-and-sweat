@@ -41,4 +41,4 @@ Battlefront II has a strong mix of battlefield action and a campaign centered on
 
 ---
 
-Mr. Game and Sweat Reviews: STAR WARS Battlefront II (Classic, 2005) - By Taylor Dorsett
+Mr. Game and Sweat Reviews: STAR WARS Battlefront II (Classic, 2005) - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Overall, Golf With Your Friends is a stellar addition to any active gaming routi
 
 ---
 
-Mr. Game and Sweat Reviews: Golf With Your Friends - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Golf With Your Friends - By Taylor Owen Dorsett

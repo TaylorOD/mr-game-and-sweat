@@ -50,4 +50,4 @@ Scrap Mechanic offers an engaging experience that does well with treadmill and b
 
 ---
 
-Mr. Game and Sweat Reviews: Scrap Mechanic - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Scrap Mechanic - By Taylor Owen Dorsett

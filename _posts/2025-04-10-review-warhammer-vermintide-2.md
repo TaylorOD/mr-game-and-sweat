@@ -47,4 +47,4 @@ On the technical front, "Vermintide 2" demands a moderate level of hardware spec
 
 ---
 
-Mr. Game and Sweat Reviews: Warhammer: Vermintide 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Warhammer: Vermintide 2 - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ In conclusion, Celeste is an ideal game for those who want to keep their heart r
 
 ---
 
-Mr. Game and Sweat Reviews: Celeste - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Celeste - By Taylor Owen Dorsett

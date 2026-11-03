@@ -47,4 +47,4 @@ GUILTY GEAR -STRIVE- strikes a commendable balance between competitive gameplay 
 
 ---
 
-Mr. Game and Sweat Reviews: GUILTY GEAR -STRIVE- - By Taylor Dorsett
+Mr. Game and Sweat Reviews: GUILTY GEAR -STRIVE- - By Taylor Owen Dorsett

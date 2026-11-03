@@ -47,4 +47,4 @@ Grounded successfully captures the essence of survival and adventure in a unique
 
 ---
 
-Mr. Game and Sweat Reviews: Grounded - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grounded - By Taylor Owen Dorsett

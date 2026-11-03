@@ -47,4 +47,4 @@ In conclusion, Stray offers a unique and immersive gaming experience that is wel
 
 ---
 
-Mr. Game and Sweat Reviews: Stray - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Stray - By Taylor Owen Dorsett

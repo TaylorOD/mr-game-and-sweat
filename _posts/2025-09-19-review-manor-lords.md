@@ -46,4 +46,4 @@ In terms of computer requirements, "Manor Lords" is fairly demanding but managea
 
 ---
 
-Mr. Game and Sweat Reviews: Manor Lords - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Manor Lords - By Taylor Owen Dorsett

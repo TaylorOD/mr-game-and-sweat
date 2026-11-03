@@ -47,4 +47,4 @@ Supermarket Simulator is a delightful addition to the realm of fitness-friendly 
 
 ---
 
-Mr. Game and Sweat Reviews: Supermarket Simulator - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Supermarket Simulator - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ The Witcher 3: Wild Hunt is a monumental RPG that offers an engaging story and c
 
 ---
 
-Mr. Game and Sweat Reviews: The Witcher 3: Wild Hunt - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Witcher 3: Wild Hunt - By Taylor Owen Dorsett

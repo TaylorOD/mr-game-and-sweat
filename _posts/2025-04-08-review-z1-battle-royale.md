@@ -46,4 +46,4 @@ In conclusion, Z1 Battle Royale offers a thrilling experience that keeps you on 
 
 ---
 
-Mr. Game and Sweat Reviews: Z1 Battle Royale - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Z1 Battle Royale - By Taylor Owen Dorsett

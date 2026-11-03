@@ -47,4 +47,4 @@ In conclusion, “Shadow of the Tomb Raider: Definitive Edition” is an engagin
 
 ---
 
-Mr. Game and Sweat Reviews: Shadow of the Tomb Raider: Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Shadow of the Tomb Raider: Definitive Edition - By Taylor Owen Dorsett

@@ -45,4 +45,4 @@ In summary, Halo Infinite seamlessly blends engaging gameplay and a fitness-frie
 
 ---
 
-Mr. Game and Sweat Reviews: Halo Infinite - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Halo Infinite - By Taylor Owen Dorsett

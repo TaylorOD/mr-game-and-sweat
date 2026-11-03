@@ -46,4 +46,4 @@ Overall, Content Warning is a thought-provoking game that successfully intertwin
 
 ---
 
-Mr. Game and Sweat Reviews: Content Warning - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Content Warning - By Taylor Owen Dorsett

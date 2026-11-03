@@ -46,4 +46,4 @@ On the technical side, *Getting Over It* is not overly demanding. The game can r
 
 ---
 
-Mr. Game and Sweat Reviews: Getting Over It with Bennett Foddy - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Getting Over It with Bennett Foddy - By Taylor Owen Dorsett

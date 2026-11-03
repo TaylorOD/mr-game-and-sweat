@@ -52,4 +52,4 @@ Skyrim Special Edition is an engaging RPG that presents a harmonious blend of ex
 
 ---
 
-Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim Special Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim Special Edition - By Taylor Owen Dorsett

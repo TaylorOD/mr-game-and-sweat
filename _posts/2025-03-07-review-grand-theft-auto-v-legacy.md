@@ -47,4 +47,4 @@ Grand Theft Auto V Legacy succeeds in providing an entertaining gaming experienc
 
 ---
 
-Mr. Game and Sweat Reviews: Grand Theft Auto V Legacy - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Grand Theft Auto V Legacy - By Taylor Owen Dorsett

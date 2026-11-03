@@ -49,4 +49,4 @@ Paladins is an enjoyable title that can keep you entertained while you work up a
 
 ---
 
-Mr. Game and Sweat Reviews: Paladins - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Paladins - By Taylor Owen Dorsett

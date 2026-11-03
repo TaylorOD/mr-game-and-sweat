@@ -47,4 +47,4 @@ In conclusion, Subnautica: Below Zero provides an exceptional balance of engagin
 
 ---
 
-Mr. Game and Sweat Reviews: Subnautica: Below Zero - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Subnautica: Below Zero - By Taylor Owen Dorsett

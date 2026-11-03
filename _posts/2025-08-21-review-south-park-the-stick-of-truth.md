@@ -47,4 +47,4 @@ On the technical side, "The Stick of Truth" is relatively light on system requir
 
 ---
 
-Mr. Game and Sweat Reviews: South Park: The Stick of Truth - By Taylor Dorsett
+Mr. Game and Sweat Reviews: South Park: The Stick of Truth - By Taylor Owen Dorsett

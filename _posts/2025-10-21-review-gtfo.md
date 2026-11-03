@@ -46,4 +46,4 @@ In conclusion, GTFO offers an immersive gameplay experience that keeps players e
 
 ---
 
-Mr. Game and Sweat Reviews: GTFO - By Taylor Dorsett
+Mr. Game and Sweat Reviews: GTFO - By Taylor Owen Dorsett

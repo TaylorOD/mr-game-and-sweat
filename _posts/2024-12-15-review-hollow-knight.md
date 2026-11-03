@@ -47,4 +47,4 @@ In conclusion, Hollow Knight is an excellent choice for gamers who enjoy combini
 
 ---
 
-Mr. Game and Sweat Reviews: Hollow Knight - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hollow Knight - By Taylor Owen Dorsett

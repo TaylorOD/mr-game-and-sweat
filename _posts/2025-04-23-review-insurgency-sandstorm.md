@@ -47,4 +47,4 @@ Insurgency: Sandstorm effectively combines intense tactical gameplay with engagi
 
 ---
 
-Mr. Game and Sweat Reviews: Insurgency: Sandstorm - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Insurgency: Sandstorm - By Taylor Owen Dorsett

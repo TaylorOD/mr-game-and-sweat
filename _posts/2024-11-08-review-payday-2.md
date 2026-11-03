@@ -47,4 +47,4 @@ In conclusion, PAYDAY 2 is an action-packed, cooperative experience that success
 
 ---
 
-Mr. Game and Sweat Reviews: PAYDAY 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: PAYDAY 2 - By Taylor Owen Dorsett

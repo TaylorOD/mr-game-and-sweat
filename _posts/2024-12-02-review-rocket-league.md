@@ -52,4 +52,4 @@ In summary, Rocket League makes for an exciting way to break a sweat while indul
 
 ---
 
-Mr. Game and Sweat Reviews: Rocket League - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Rocket League - By Taylor Owen Dorsett

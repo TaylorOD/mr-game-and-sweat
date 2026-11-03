@@ -46,4 +46,4 @@ Supermarket Together offers an engaging, fun, and energetic gaming experience th
 
 ---
 
-Mr. Game and Sweat Reviews: Supermarket Together - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Supermarket Together - By Taylor Owen Dorsett

@@ -55,4 +55,4 @@ Whether you’re a seasoned hunter or a newcomer to the franchise, pick up Monst
 
 ---
 
-Mr. Game and Sweat Reviews: Monster Hunter Wilds - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Monster Hunter Wilds - By Taylor Owen Dorsett

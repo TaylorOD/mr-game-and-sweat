@@ -46,4 +46,4 @@ Overall, Northgard delivers an engaging strategic experience that fits seamlessl
 
 ---
 
-Mr. Game and Sweat Reviews: Northgard - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Northgard - By Taylor Owen Dorsett

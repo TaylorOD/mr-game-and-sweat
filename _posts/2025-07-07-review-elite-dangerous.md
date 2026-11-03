@@ -46,4 +46,4 @@ In conclusion, Elite Dangerous effectively combines the exploration of a vast un
 
 ---
 
-Mr. Game and Sweat Reviews: Elite Dangerous - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Elite Dangerous - By Taylor Owen Dorsett

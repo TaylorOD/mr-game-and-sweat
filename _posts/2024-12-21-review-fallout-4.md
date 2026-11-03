@@ -49,4 +49,4 @@ If you can find the right balance, Fallout 4 can provide both a thrilling escape
 
 ---
 
-Mr. Game and Sweat Reviews: Fallout 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fallout 4 - By Taylor Owen Dorsett

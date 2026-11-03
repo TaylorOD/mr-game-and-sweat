@@ -49,4 +49,4 @@ In the end, if you’re a Batman enthusiast who enjoys the thrill of exercise, j
 
 ---
 
-Mr. Game and Sweat Reviews: Batman: Arkham Knight - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Batman: Arkham Knight - By Taylor Owen Dorsett

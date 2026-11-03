@@ -46,4 +46,4 @@ In conclusion, RimWorld stands out as a fantastic choice for those who want to m
 
 ---
 
-Mr. Game and Sweat Reviews: RimWorld - By Taylor Dorsett
+Mr. Game and Sweat Reviews: RimWorld - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ Baldur's Gate 3 is a stunning title that excels in storytelling, deep character 
 
 ---
 
-Mr. Game and Sweat Reviews: Baldur's Gate 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Baldur's Gate 3 - By Taylor Owen Dorsett

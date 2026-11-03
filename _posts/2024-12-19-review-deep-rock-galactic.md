@@ -51,4 +51,4 @@ Deep Rock Galactic delivers exhilarating, cooperative gameplay with minimal disr
 
 ---
 
-Mr. Game and Sweat Reviews: Deep Rock Galactic - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Deep Rock Galactic - By Taylor Owen Dorsett

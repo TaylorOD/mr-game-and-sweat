@@ -46,4 +46,4 @@ Total War: ROME II - Emperor Edition is a strategic tour de force that provides 
 
 ---
 
-Mr. Game and Sweat Reviews: Total War: ROME II - Emperor Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Total War: ROME II - Emperor Edition - By Taylor Owen Dorsett

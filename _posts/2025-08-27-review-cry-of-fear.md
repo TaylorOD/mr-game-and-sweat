@@ -46,4 +46,4 @@ As a fairly older title, "Cry of Fear" isn’t particularly demanding on compute
 
 ---
 
-Mr. Game and Sweat Reviews: Cry of Fear - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Cry of Fear - By Taylor Owen Dorsett

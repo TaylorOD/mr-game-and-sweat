@@ -47,4 +47,4 @@ In conclusion, The Outlast Trials not only captivates with its immersive horror 
 
 ---
 
-Mr. Game and Sweat Reviews: The Outlast Trials - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Outlast Trials - By Taylor Owen Dorsett

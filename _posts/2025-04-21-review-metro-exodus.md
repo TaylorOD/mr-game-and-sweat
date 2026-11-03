@@ -47,4 +47,4 @@ In terms of computer demands, "Metro Exodus" is moderately demanding. For optima
 
 ---
 
-Mr. Game and Sweat Reviews: Metro Exodus - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Metro Exodus - By Taylor Owen Dorsett

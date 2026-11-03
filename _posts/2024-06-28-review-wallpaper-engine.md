@@ -46,4 +46,4 @@ In conclusion, "Wallpaper Engine" presents a unique solution for those looking t
 
 ---
 
-Mr. Game and Sweat Reviews: Wallpaper Engine - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Wallpaper Engine - By Taylor Owen Dorsett

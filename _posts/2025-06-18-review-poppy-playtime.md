@@ -48,4 +48,4 @@ If you’re seeking a spooky gaming experience that can keep you entertained whi
 
 ---
 
-Mr. Game and Sweat Reviews: Poppy Playtime - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Poppy Playtime - By Taylor Owen Dorsett

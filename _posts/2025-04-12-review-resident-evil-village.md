@@ -51,4 +51,4 @@ In conclusion, Resident Evil Village offers a captivating and engaging experienc
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil Village - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil Village - By Taylor Owen Dorsett

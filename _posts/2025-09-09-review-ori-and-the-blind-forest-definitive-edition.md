@@ -47,4 +47,4 @@ Ori and the Blind Forest: Definitive Edition strikes an exceptional balance betw
 
 ---
 
-Mr. Game and Sweat Reviews: Ori and the Blind Forest: Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ori and the Blind Forest: Definitive Edition - By Taylor Owen Dorsett

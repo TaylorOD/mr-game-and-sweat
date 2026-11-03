@@ -52,4 +52,4 @@ Overall, Armored Core VI: Fires of Rubicon is a thrilling addition to the series
 
 ---
 
-Mr. Game and Sweat Reviews: ARMORED CORE VI FIRES OF RUBICON - By Taylor Dorsett
+Mr. Game and Sweat Reviews: ARMORED CORE VI FIRES OF RUBICON - By Taylor Owen Dorsett

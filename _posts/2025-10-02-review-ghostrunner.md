@@ -46,4 +46,4 @@ In conclusion, Ghostrunner delivers a heart-pounding, engaging experience that i
 
 ---
 
-Mr. Game and Sweat Reviews: Ghostrunner - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Ghostrunner - By Taylor Owen Dorsett

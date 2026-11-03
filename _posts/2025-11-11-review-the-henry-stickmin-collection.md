@@ -44,4 +44,4 @@ The Henry Stickmin Collection is a funny, low demand game with lots of branching
 
 ---
 
-Mr. Game and Sweat Reviews: The Henry Stickmin Collection - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Henry Stickmin Collection - By Taylor Owen Dorsett

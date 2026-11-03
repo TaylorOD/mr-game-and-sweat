@@ -46,4 +46,4 @@ Overall, Squad is a compelling choice for gamers looking to enjoy a tactical sho
 
 ---
 
-Mr. Game and Sweat Reviews: Squad - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Squad - By Taylor Owen Dorsett

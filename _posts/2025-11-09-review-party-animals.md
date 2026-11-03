@@ -48,4 +48,4 @@ Party Animals is a good pick for a lively bike session if you are fine with givi
 
 ---
 
-Mr. Game and Sweat Reviews: Party Animals - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Party Animals - By Taylor Owen Dorsett

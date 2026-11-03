@@ -47,4 +47,4 @@ Microsoft Flight Simulator (2020) 40th Anniversary Edition creates an exhilarati
 
 ---
 
-Mr. Game and Sweat Reviews: Microsoft Flight Simulator (2020) 40th Anniversary Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Microsoft Flight Simulator (2020) 40th Anniversary Edition - By Taylor Owen Dorsett

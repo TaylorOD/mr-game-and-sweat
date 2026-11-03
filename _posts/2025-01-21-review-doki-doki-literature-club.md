@@ -46,4 +46,4 @@ Doki Doki Literature Club! excels at marrying storytelling with choice, ushering
 
 ---
 
-Mr. Game and Sweat Reviews: Doki Doki Literature Club! - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Doki Doki Literature Club! - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ CarX Drift Racing Online is a thrilling entry into the world of racing games, su
 
 ---
 
-Mr. Game and Sweat Reviews: CarX Drift Racing Online - By Taylor Dorsett
+Mr. Game and Sweat Reviews: CarX Drift Racing Online - By Taylor Owen Dorsett

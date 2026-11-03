@@ -48,4 +48,4 @@ In summary, if you’re looking to enjoy a rich gaming experience while still ke
 
 ---
 
-Mr. Game and Sweat Reviews: Lost Ark - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Lost Ark - By Taylor Owen Dorsett

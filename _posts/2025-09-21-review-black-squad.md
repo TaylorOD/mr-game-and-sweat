@@ -46,4 +46,4 @@ In conclusion, Black Squad stands out as an engaging and accessible choice for g
 
 ---
 
-Mr. Game and Sweat Reviews: Black Squad - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Black Squad - By Taylor Owen Dorsett

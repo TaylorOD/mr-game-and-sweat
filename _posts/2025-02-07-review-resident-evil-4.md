@@ -47,4 +47,4 @@ In summary, Resident Evil 4 provides a thrilling experience with strong gameplay
 
 ---
 
-Mr. Game and Sweat Reviews: Resident Evil 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Resident Evil 4 - By Taylor Owen Dorsett

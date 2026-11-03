@@ -47,4 +47,4 @@ Halo: The Master Chief Collection is an exciting option for gamers looking to el
 
 ---
 
-Mr. Game and Sweat Reviews: Halo: The Master Chief Collection - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Halo: The Master Chief Collection - By Taylor Owen Dorsett

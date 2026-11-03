@@ -46,4 +46,4 @@ Darkest Dungeon is a phenomenal game for those looking to blend strategic gaming
 
 ---
 
-Mr. Game and Sweat Reviews: Darkest Dungeon - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Darkest Dungeon - By Taylor Owen Dorsett

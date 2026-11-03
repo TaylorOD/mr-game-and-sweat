@@ -47,4 +47,4 @@ In conclusion, Battlefield 1 successfully combines historical storytelling with 
 
 ---
 
-Mr. Game and Sweat Reviews: Battlefield 1 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Battlefield 1 - By Taylor Owen Dorsett

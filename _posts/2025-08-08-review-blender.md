@@ -46,4 +46,4 @@ Overall, Blender provides a unique experience that can be enjoyed during a worko
 
 ---
 
-Mr. Game and Sweat Reviews: Blender - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Blender - By Taylor Owen Dorsett

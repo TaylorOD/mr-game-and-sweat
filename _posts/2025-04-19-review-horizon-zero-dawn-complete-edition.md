@@ -51,4 +51,4 @@ Horizon Zero Dawn Complete Edition is a striking game that offers an exhilaratin
 
 ---
 
-Mr. Game and Sweat Reviews: Horizon Zero Dawn Complete Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Horizon Zero Dawn Complete Edition - By Taylor Owen Dorsett

@@ -47,4 +47,4 @@ In conclusion, “Phasmophobia” offers an engaging blend of horror and collabo
 
 ---
 
-Mr. Game and Sweat Reviews: Phasmophobia - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Phasmophobia - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ In conclusion, SPORE offers a dynamic and engaging experience that can work well
 
 ---
 
-Mr. Game and Sweat Reviews: SPORE - By Taylor Dorsett
+Mr. Game and Sweat Reviews: SPORE - By Taylor Owen Dorsett

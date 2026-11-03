@@ -47,4 +47,4 @@ Battlefield 4 beautifully combines thrilling, engaging gameplay with the potenti
 
 ---
 
-Mr. Game and Sweat Reviews: Battlefield 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Battlefield 4 - By Taylor Owen Dorsett

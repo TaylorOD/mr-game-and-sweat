@@ -46,4 +46,4 @@ In conclusion, *Dishonored* serves up a rich and immersive experience that offer
 
 ---
 
-Mr. Game and Sweat Reviews: Dishonored - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dishonored - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ The requirements for "Modern Warfare 2" are fairly approachable for a classic ti
 
 ---
 
-Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare 2 (2009) - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Call of Duty: Modern Warfare 2 (2009) - By Taylor Owen Dorsett

@@ -53,4 +53,4 @@ With an overall score of 2 out of 3, Borderlands 3 is an excellent choice for ga
 
 ---
 
-Mr. Game and Sweat Reviews: Borderlands 3 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Borderlands 3 - By Taylor Owen Dorsett

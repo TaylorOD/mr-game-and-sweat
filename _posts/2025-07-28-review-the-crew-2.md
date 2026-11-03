@@ -50,4 +50,4 @@ In conclusion, *The Crew 2* offers a vibrant, fast-paced gaming experience that 
 
 ---
 
-Mr. Game and Sweat Reviews: The Crew 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Crew 2 - By Taylor Owen Dorsett

@@ -52,4 +52,4 @@ In summary, if you’re looking to dive into a grand strategy experience that yo
 
 ---
 
-Mr. Game and Sweat Reviews: Total War: WARHAMMER II - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Total War: WARHAMMER II - By Taylor Owen Dorsett

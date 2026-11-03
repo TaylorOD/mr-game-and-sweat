@@ -44,4 +44,4 @@ Overall, Bloons TD 6 is a fantastic choice for gamers looking to integrate their
 
 ---
 
-Mr. Game and Sweat Reviews: Bloons TD 6 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Bloons TD 6 - By Taylor Owen Dorsett

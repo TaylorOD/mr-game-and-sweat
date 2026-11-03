@@ -45,4 +45,4 @@ Total War: SHOGUN 2 is a fantastic game that serves as an excellent strategy exp
 
 ---
 
-Mr. Game and Sweat Reviews: Total War: SHOGUN 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Total War: SHOGUN 2 - By Taylor Owen Dorsett

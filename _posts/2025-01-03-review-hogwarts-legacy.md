@@ -47,4 +47,4 @@ In summation, "Hogwarts Legacy" offers a flavorful experience that intertwines p
 
 ---
 
-Mr. Game and Sweat Reviews: Hogwarts Legacy - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Hogwarts Legacy - By Taylor Owen Dorsett

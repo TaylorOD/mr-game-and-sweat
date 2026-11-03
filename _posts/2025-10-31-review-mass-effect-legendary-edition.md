@@ -47,4 +47,4 @@ Mass Effect Legendary Edition is an outstanding experience that seamlessly combi
 
 ---
 
-Mr. Game and Sweat Reviews: Mass Effect Legendary Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Mass Effect Legendary Edition - By Taylor Owen Dorsett

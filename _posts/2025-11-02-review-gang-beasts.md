@@ -45,4 +45,4 @@ In conclusion, Gang Beasts offers a hilariously engaging experience that pairs w
 
 ---
 
-Mr. Game and Sweat Reviews: Gang Beasts - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Gang Beasts - By Taylor Owen Dorsett

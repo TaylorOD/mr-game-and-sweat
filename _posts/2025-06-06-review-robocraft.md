@@ -46,4 +46,4 @@ Robocraft provides a solid balance of engaging gameplay, compatibility for tread
 
 ---
 
-Mr. Game and Sweat Reviews: Robocraft - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Robocraft - By Taylor Owen Dorsett

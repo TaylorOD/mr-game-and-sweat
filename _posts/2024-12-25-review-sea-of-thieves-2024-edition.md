@@ -52,4 +52,4 @@ So, if you’re ready to embrace the pirate life while staying fit, hoist your s
 
 ---
 
-Mr. Game and Sweat Reviews: Sea of Thieves: 2024 Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Sea of Thieves: 2024 Edition - By Taylor Owen Dorsett

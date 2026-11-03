@@ -47,4 +47,4 @@ Overall, "Path of Exile 2" is a triumphant return to the franchise, delivering a
 
 ---
 
-Mr. Game and Sweat Reviews: Path of Exile 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Path of Exile 2 - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Monster Hunter: World is an excellent choice for gamers who want to meld their l
 
 ---
 
-Mr. Game and Sweat Reviews: Monster Hunter: World - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Monster Hunter: World - By Taylor Owen Dorsett

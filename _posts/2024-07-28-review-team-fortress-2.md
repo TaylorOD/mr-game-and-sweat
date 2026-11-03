@@ -50,4 +50,4 @@ In conclusion, "Team Fortress 2" is a fantastic option for gamers looking to get
 
 ---
 
-Mr. Game and Sweat Reviews: Team Fortress 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Team Fortress 2 - By Taylor Owen Dorsett

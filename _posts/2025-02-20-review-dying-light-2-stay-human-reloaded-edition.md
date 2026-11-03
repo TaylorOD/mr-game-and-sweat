@@ -47,4 +47,4 @@ When it comes to playing "Dying Light 2" on a treadmill or bike, the game’s dy
 
 ---
 
-Mr. Game and Sweat Reviews: Dying Light 2 Stay Human: Reloaded Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Dying Light 2 Stay Human: Reloaded Edition - By Taylor Owen Dorsett

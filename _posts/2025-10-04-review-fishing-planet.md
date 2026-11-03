@@ -51,4 +51,4 @@ In conclusion, Fishing Planet offers an enjoyable fishing experience with engagi
 
 ---
 
-Mr. Game and Sweat Reviews: Fishing Planet - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Fishing Planet - By Taylor Owen Dorsett

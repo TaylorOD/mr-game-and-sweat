@@ -51,4 +51,4 @@ In summary, "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4" shines with its engaging 
 
 ---
 
-Mr. Game and Sweat Reviews: NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - By Taylor Owen Dorsett

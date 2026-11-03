@@ -47,4 +47,4 @@ Outlast delivers a haunting and immersive horror experience that can keep your h
 
 ---
 
-Mr. Game and Sweat Reviews: Outlast - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Outlast - By Taylor Owen Dorsett

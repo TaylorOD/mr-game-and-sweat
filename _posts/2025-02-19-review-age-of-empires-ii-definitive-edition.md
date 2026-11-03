@@ -50,4 +50,4 @@ Age of Empires II: Definitive Edition is a worthy addition to any gamer's librar
 
 ---
 
-Mr. Game and Sweat Reviews: Age of Empires II: Definitive Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Age of Empires II: Definitive Edition - By Taylor Owen Dorsett

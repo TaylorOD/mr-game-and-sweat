@@ -48,4 +48,4 @@ Set your course for an engaging battle on the seas, and let "World of Warships" 
 
 ---
 
-Mr. Game and Sweat Reviews: World of Warships - By Taylor Dorsett
+Mr. Game and Sweat Reviews: World of Warships - By Taylor Owen Dorsett

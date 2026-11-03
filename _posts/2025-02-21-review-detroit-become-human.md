@@ -47,4 +47,4 @@ Detroit: Become Human is a masterpiece in narrative design that offers a compell
 
 ---
 
-Mr. Game and Sweat Reviews: Detroit: Become Human - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Detroit: Become Human - By Taylor Owen Dorsett

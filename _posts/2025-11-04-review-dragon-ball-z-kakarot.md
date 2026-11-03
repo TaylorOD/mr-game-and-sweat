@@ -45,4 +45,4 @@ KAKAROT gives you lively fights and a lot of Dragon Ball Z story, with downtime 
 
 ---
 
-Mr. Game and Sweat Reviews: DRAGON BALL Z: KAKAROT - By Taylor Dorsett
+Mr. Game and Sweat Reviews: DRAGON BALL Z: KAKAROT - By Taylor Owen Dorsett

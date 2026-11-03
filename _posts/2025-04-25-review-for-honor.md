@@ -47,4 +47,4 @@ In summary, FOR HONOR offers engaging gameplay that can definitely elevate your 
 
 ---
 
-Mr. Game and Sweat Reviews: FOR HONOR - By Taylor Dorsett
+Mr. Game and Sweat Reviews: FOR HONOR - By Taylor Owen Dorsett

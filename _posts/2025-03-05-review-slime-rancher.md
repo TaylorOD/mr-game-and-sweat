@@ -45,4 +45,4 @@ In conclusion, "Slime Rancher" is an enjoyable and visually stunning game that s
 
 ---
 
-Mr. Game and Sweat Reviews: Slime Rancher - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Slime Rancher - By Taylor Owen Dorsett

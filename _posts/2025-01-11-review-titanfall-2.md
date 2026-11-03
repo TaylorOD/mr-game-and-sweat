@@ -45,4 +45,4 @@ Titanfall 2 stands out as an exhilarating choice for those looking to integrate 
 
 ---
 
-Mr. Game and Sweat Reviews: Titanfall 2 - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Titanfall 2 - By Taylor Owen Dorsett

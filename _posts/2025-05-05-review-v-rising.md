@@ -46,4 +46,4 @@ In conclusion, V Rising excels at providing an engaging gaming experience that s
 
 ---
 
-Mr. Game and Sweat Reviews: V Rising - By Taylor Dorsett
+Mr. Game and Sweat Reviews: V Rising - By Taylor Owen Dorsett

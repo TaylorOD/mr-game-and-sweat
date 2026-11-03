@@ -47,4 +47,4 @@ As for the technical demands, "Jedi: Fallen Order" requires a solid rig to run o
 
 ---
 
-Mr. Game and Sweat Reviews: STAR WARS Jedi: Fallen Order - By Taylor Dorsett
+Mr. Game and Sweat Reviews: STAR WARS Jedi: Fallen Order - By Taylor Owen Dorsett

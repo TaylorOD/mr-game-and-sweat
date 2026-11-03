@@ -47,4 +47,4 @@ State of Decay 2: Juggernaut Edition successfully blends survival mechanics with
 
 ---
 
-Mr. Game and Sweat Reviews: State of Decay 2: Juggernaut Edition - By Taylor Dorsett
+Mr. Game and Sweat Reviews: State of Decay 2: Juggernaut Edition - By Taylor Owen Dorsett

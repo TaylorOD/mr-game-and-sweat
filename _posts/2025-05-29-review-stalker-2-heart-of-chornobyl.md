@@ -46,4 +46,4 @@ On the tech side of things, "S.T.A.L.K.E.R. 2" does come with some hefty system 
 
 ---
 
-Mr. Game and Sweat Reviews: S.T.A.L.K.E.R. 2: Heart of Chornobyl - By Taylor Dorsett
+Mr. Game and Sweat Reviews: S.T.A.L.K.E.R. 2: Heart of Chornobyl - By Taylor Owen Dorsett

@@ -46,4 +46,4 @@ Counter-Strike: Global Offensive can definitely enhance your workout sessions, o
 
 ---
 
-Mr. Game and Sweat Reviews: Counter-Strike: Global Offensive - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Counter-Strike: Global Offensive - By Taylor Owen Dorsett

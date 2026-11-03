@@ -46,4 +46,4 @@ In summary, **The Forest** excels at providing an engaging survival experience t
 
 ---
 
-Mr. Game and Sweat Reviews: The Forest - By Taylor Dorsett
+Mr. Game and Sweat Reviews: The Forest - By Taylor Owen Dorsett

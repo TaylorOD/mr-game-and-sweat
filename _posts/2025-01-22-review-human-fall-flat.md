@@ -47,4 +47,4 @@ The computer requirements for "Human: Fall Flat" are relatively modest, meaning 
 
 ---
 
-Mr. Game and Sweat Reviews: Human Fall Flat - By Taylor Dorsett
+Mr. Game and Sweat Reviews: Human Fall Flat - By Taylor Owen Dorsett
