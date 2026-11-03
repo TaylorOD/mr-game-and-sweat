@@ -43,7 +43,3 @@ Helltaker is not demanding on system resources, which is a plus for those using 
 Helltaker is a delightful puzzle game that offers a fresh approach to the genre. Its engaging yet straightforward gameplay works well for exercising gamers, keeping the mind stimulated without detracting from your physical activity. While it could be even better with slightly less demanding scenarios, the combination of compelling puzzles and minimal system requirements makes it a solid option. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Helltaker - By Taylor Owen Dorsett

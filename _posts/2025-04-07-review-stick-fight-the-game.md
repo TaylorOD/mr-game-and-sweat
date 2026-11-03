@@ -43,7 +43,3 @@ Stick Fight: The Game has modest computer requirements, making it accessible to 
 Overall, Stick Fight: The Game is an excellent choice for those looking to combine gaming with their cardio routine. The fast-paced action keeps your focus sharp, and the laughs you share with friends might take your mind off the fact that you’re working up a sweat. While the quick reflex requirements may present a slight obstacle, the overall experience is satisfying and fun. You're likely to find yourself playing round after round, burning those calories while mastering your stick-fighting skills!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Stick Fight: The Game - By Taylor Owen Dorsett

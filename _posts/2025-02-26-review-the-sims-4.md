@@ -43,7 +43,3 @@ While "The Sims 4" can be graphically demanding, it isn't excessively so, making
 In conclusion, "The Sims 4" offers a deeply immersive experience that works exceptionally well with exercising on a treadmill or bike. Its engaging gameplay allows for creativity and strategy without demanding your full attention, ensuring that you can keep your workout pace steady. With controller compatibility and manageable computer requirements, it stands out as a prime choice for those wanting to blend gaming with fitness. 
 
 ### Overall Score: 2.7 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Sims 4 - By Taylor Owen Dorsett

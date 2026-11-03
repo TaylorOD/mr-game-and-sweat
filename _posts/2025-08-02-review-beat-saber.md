@@ -43,7 +43,3 @@ Beat Saber requires a VR headset, and the system requirements are relatively mod
 Beat Saber elegantly combines exercise with music and rhythm in a way that keeps you engaged and moving. Despite a couple of compatibility limitations with standard cardio equipment, the game's dynamic gameplay overshadow its shortcomings. It's an excellent choice for those looking to switch up their workout routine and infuse some fun into their fitness regime. So grab those controllers, turn up the music, and get ready to slice your way to a healthier you!
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Beat Saber - By Taylor Owen Dorsett

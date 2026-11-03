@@ -43,7 +43,3 @@ When it comes to compatibility with a treadmill or bike, **The Forest** offers a
 In summary, **The Forest** excels at providing an engaging survival experience that can complement your running or biking workout. The gameplay keeps your heart racing, while the compatibility with exercise equipment ensures a smoother experience. Although there's room for improvement regarding the accessibility of quick movements, it stands as a commendable choice for those seeking to exercise while gaming. So lace up your sneakers or hop on your bike, and dive into this thrilling wilderness adventure!
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Forest - By Taylor Owen Dorsett

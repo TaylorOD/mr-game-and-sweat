@@ -43,7 +43,3 @@ In terms of computer requirements, Golf With Your Friends isn't demanding. The g
 Overall, Golf With Your Friends is a stellar addition to any active gaming routine. With engaging gameplay that invites laughter and friendly competition, it’s perfectly suited for those who wish to combine fun and fitness. Its solid treadmill and bike compatibility make it easy to integrate into your workout, and while the computer requirements are unrestrictive, there’s room for improvement in terms of performance optimization for more ambitious systems. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Golf With Your Friends - By Taylor Owen Dorsett

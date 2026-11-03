@@ -41,7 +41,3 @@ Plants vs. Zombies GOTY Edition is not particularly demanding in terms of comput
 In conclusion, Plants vs. Zombies GOTY Edition is a fantastic choice for gamers looking to combine their workout routines with engaging gameplay. With fast-paced, strategy-heavy fun that keeps you mentally invested, compatibility for exercise setups, and low computer requirements, it’s a game that perfectly fits into a fitness-oriented lifestyle. Whether you’re running or biking, this game offers that light-hearted distraction that will keep you coming back for more.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Plants vs. Zombies GOTY Edition - By Taylor Owen Dorsett

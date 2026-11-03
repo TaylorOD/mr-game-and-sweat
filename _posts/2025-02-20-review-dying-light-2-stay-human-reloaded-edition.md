@@ -44,7 +44,3 @@ When it comes to playing "Dying Light 2" on a treadmill or bike, the game’s dy
 "Dying Light 2 Stay Human: Reloaded Edition" offers an engaging gameplay experience that pairs well with your treadmill or bike sessions. Its parkour mechanics not only enhance the fun factor but also help maintain your exercise flow without too many interruptions. While the computer requirements are somewhat high, the reward is a visually stunning world that will keep you invested during your workouts. If you’re looking for a game that can keep your heart rate up and your feet moving, this edition is undoubtedly worth a try.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dying Light 2 Stay Human: Reloaded Edition - By Taylor Owen Dorsett

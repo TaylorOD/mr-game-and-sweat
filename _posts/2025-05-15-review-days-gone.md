@@ -48,7 +48,3 @@ Days Gone is moderately demanding in terms of computer requirements. For optimal
 Days Gone offers an engaging gaming experience that keeps your heart rate up with its blend of exploration and survival action—making it relatively compatible for exercising on a treadmill or bike. While slower sections and cutscenes may disrupt the flow from time to time, the intuitive controls and manageable pace make it a solid choice for gamers looking to stay active. With moderate hardware requirements, you won't need to break the bank to fully enjoy the game. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Days Gone - By Taylor Owen Dorsett

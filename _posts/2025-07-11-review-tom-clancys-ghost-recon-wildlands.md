@@ -43,7 +43,3 @@ Regarding computer requirements, Wildlands is fairly demanding, necessitating a 
 Tom Clancy's Ghost Recon Wildlands delivers an engaging and strategically rich experience for gamers and can be tailored to accommodate workouts effectively. While you might need to adjust your pacing according to the game's action, you can nonetheless enjoy the tactical depth while sweating it out. With decent compatibility on treadmills or bikes, and robust gameplay, Wildlands is a suitable choice for gamers who want to combine fitness with fun. Just make sure your computer can handle the action!
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Tom Clancy's Ghost Recon Wildlands - By Taylor Owen Dorsett

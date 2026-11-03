@@ -44,7 +44,3 @@ Warframe is relatively lightweight compared to many modern AAA titles, making it
 Warframe strikes an admirable balance between an engaging experience and compatibility with treadmill or bike workouts. The intense gameplay keeps you active and focused while avoiding the pitfalls of slow sections or arduous cutscenes. The game's efficiency on various systems means that it caters to a wide range of players. For those looking to combine their fitness routines with immersive gaming, Warframe is a commendable choice.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Warframe - By Taylor Owen Dorsett

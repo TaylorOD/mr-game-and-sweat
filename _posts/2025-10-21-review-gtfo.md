@@ -43,7 +43,3 @@ GTFO is demanding on your computer due to its atmospheric graphics and immersive
 In conclusion, GTFO offers an immersive gameplay experience that keeps players engaged without distracting from an exercise session. Its compatibility with treadmills and bikes is commendable, although the hardware demands might pose a hurdle for some casual gamers. Overall, it successfully combines adrenaline-pumping gameplay with a capacity for steady exercise. If you're looking for a game that can enhance your workout, GTFO might just do the trick.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: GTFO - By Taylor Owen Dorsett

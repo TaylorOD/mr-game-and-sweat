@@ -50,7 +50,3 @@ Players with high-end systems will find they can enjoy enhanced graphics, which 
 Farming Simulator 19 presents a captivating farming experience that balances well with an active lifestyle. Its engaging gameplay provides an enthralling distraction while exercising, and its compatibility with controllers makes it easy to integrate into your routine. While there are some slow elements, they mainly contribute to the farming simulation's charm rather than detract from the overall experience. The computer requirements are manageable, but players should be aware of potential performance hiccups based on their hardware.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Farming Simulator 19 - By Taylor Owen Dorsett

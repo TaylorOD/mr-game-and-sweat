@@ -44,7 +44,3 @@ ULTRAKILL isn’t particularly unforgiving when it comes to computer requirement
 In conclusion, ULTRAKILL successfully blends intense combat, stylish movement, and an engaging pace that makes it an excellent choice for gamers looking to exercise simultaneously. With its superb gameplay and moderate hardware requirements, it's a strong pick for those who want to keep active while they enjoy blasting through waves of enemies. The only downside could be the demanding nature of its combat mechanics, which may require you to focus heavily and detract from your exercise rhythm. 
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ULTRAKILL - By Taylor Owen Dorsett

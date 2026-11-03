@@ -43,7 +43,3 @@ When it comes to compatibility with exercise equipment, "People Playground" shin
 Overall, "People Playground" is a creative, whimsical sandbox experience that encourages gameplay at your own pace. Its balance of engaging mechanics, compatibility with exercise routines, and light computer requirements makes it an excellent choice for those looking to remain active while immersed in gaming. Although it has a few slower sections and demands on computer hardware could be less forgiving, its strengths largely outweigh the minor inconveniences.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: People Playground - By Taylor Owen Dorsett

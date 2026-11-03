@@ -43,7 +43,3 @@ In terms of computer requirements, "Prison Architect" is not overly demanding. I
 "Prison Architect" is an engaging simulation game that seamlessly fits into an active lifestyle. Its captivating gameplay, easy compatibility with exercise equipment, and reasonable computer requirements make it an excellent choice for those who want to keep moving while enjoying a thought-provoking game. If you’re looking for a way to spice up your workouts, this game proves to be a fantastic option that couples well with your exercise routine.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Prison Architect - By Taylor Owen Dorsett

@@ -48,7 +48,3 @@ Resident Evil Village is a visually stunning game, and thus comes with a set of 
 In conclusion, Resident Evil Village offers a captivating and engaging experience. While there are moments that could sidetrack your workout focus, its immersive gameplay and engaging mechanics provide enough interaction to keep your time on a treadmill or bike exhilarating. With manageable compatibility on exercise machines and reasonable computer requirements, it serves as a solid option for fitness enthusiasts who also enjoy a dash of horror.
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil Village - By Taylor Owen Dorsett

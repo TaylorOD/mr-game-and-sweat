@@ -44,7 +44,3 @@ Teardown’s graphics may be lightweight, yet the physics calculations that unde
 In the end, Teardown offers an exhilarating blend of creativity and destruction, perfectly suited for players looking to maintain an active lifestyle without compromising on gaming fun. Its engaging gameplay and successful treadmill and bike compatibility ensure you stay both entertained and in shape. However, keep an eye on your PC specs to prevent any hiccups. Overall, it gets high marks for its innovative approach and fun factor, making it an excellent choice for an active gaming session. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Teardown - By Taylor Owen Dorsett

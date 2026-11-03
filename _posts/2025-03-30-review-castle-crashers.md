@@ -44,7 +44,3 @@ Castle Crashers isn't particularly demanding in terms of computer specifications
 Castle Crashers is a fantastic game that merges engaging gameplay with excellent treadmill and bike compatibility, all while being easy on your computer hardware. Whether you’re battling in the arena or leveling up your characters, this title will keep you entertained and motivated throughout your workouts. Plus, the vibrant visuals and humorous approach give it an extra fun factor that makes exercising feel less like a chore and more like an adventure.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Castle Crashers - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ As an online shooter with demanding graphics, PlanetSide 2 does have relatively 
 PlanetSide 2 provides an enthralling mix of adrenaline-fueled gameplay and accessibility, making it a superb choice for exercise while gaming. The fast-paced action keeps you engaged, allowing you to maintain focus on your workout, and the compatibility with fitness devices ensures you won't miss a beat in either endeavor. Just keep in mind your PC’s specs for best performance. Overall, this game is a solid choice for anyone looking to elevate their fitness routine through immersive gameplay.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: PlanetSide 2 - By Taylor Owen Dorsett

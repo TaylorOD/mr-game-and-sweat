@@ -44,7 +44,3 @@ Splitgate is relatively accessible when it comes to computer requirements. It do
 Splitgate: Arena Warfare provides an exhilarating experience that encourages physical engagement and keeps your heart racing, making it an excellent choice for those looking to integrate gaming with exercise. Its fast-paced gameplay, while a challenge on a treadmill or bike, ensures that your workout is anything but boring. Computer accessibility further enhances its appeal, allowing a broader range of players to dive into the action.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Splitgate: Arena Warfare - By Taylor Owen Dorsett

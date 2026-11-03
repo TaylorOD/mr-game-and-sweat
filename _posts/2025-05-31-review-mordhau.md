@@ -41,7 +41,3 @@ MORDHAU isn't overly demanding in terms of performance, but you do want a modera
 MORDHAU offers an exhilarating gameplay experience that seamlessly fits the active lifestyle of exercising while gaming. Its engaging combat, strong controller compatibility, and reasonable computer requirements make it a solid choice for gamers who want to hit that cardio goal without sacrificing their gaming passion. While there are minor challenges in managing quick movements on a treadmill or bike, the overall engagement more than compensates. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: MORDHAU - By Taylor Owen Dorsett

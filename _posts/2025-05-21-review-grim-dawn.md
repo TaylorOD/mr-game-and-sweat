@@ -44,7 +44,3 @@ Grim Dawn is relatively forgiving in terms of computer requirements. While it bo
 Grim Dawn effectively combines an engaging gameplay loop with solid treadmill and bike compatibility. While the game demands some resources from your computer, it’s accessible enough that most players will not face significant barriers. In balancing the thrilling combat with control options, it succeeds as a workout companion without losing sight of its RPG roots. Grab your gear, gear up in the game, and get ready for a workout like no other. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Grim Dawn - By Taylor Owen Dorsett

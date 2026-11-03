@@ -47,7 +47,3 @@ Arkham City is not overly demanding on systems, which is a good thing for those 
 In conclusion, Batman: Arkham City - Game of the Year Edition is an exemplary choice for gamers looking to stay active. With its engaging gameplay that captures attention without interrupting your workout and solid compatibility with exercise setups, it stands out as an excellent option. The computer requirements are modest, making it accessible to many. If you're searching for a thrilling way to enhance your fitness routine, look no further than this iconic title.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Batman: Arkham City - Game of the Year Edition - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ On the technical front, "Vermintide 2" demands a moderate level of hardware spec
 "Warhammer: Vermintide 2" combines fun, active gameplay with a cooperative experience that keeps players engaged. Its fast-paced action allows for a great workout on a treadmill or bike, even if there are a few moments of rapid manipulation that can cause slight distractions. Coupled with its moderate system requirements, this game is a solid choice for gamers looking to exercise. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Warhammer: Vermintide 2 - By Taylor Owen Dorsett

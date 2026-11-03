@@ -44,7 +44,3 @@ On the technical side, Subnautica: Below Zero has manageable system requirements
 In conclusion, Subnautica: Below Zero provides an exceptional balance of engaging gameplay and compatibility with exercise routines, making it a perfect choice for those looking to stay active while playing video games. The game keeps you absorbed with its exploration and environmental storytelling without dragging your workout down with monotonous pacing or arduous cut scenes. The combination of decent system requirements and controller support further solidifies its place as an exercise-friendly title. For gamers and fitness enthusiasts alike, Subnautica: Below Zero is a thrilling ride beneath the waves that can easily accommodate a heart-pumping workout!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Subnautica: Below Zero - By Taylor Owen Dorsett

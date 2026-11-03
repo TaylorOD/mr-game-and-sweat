@@ -51,7 +51,3 @@ Counter-Strike: Source delivers a compelling gaming experience that harmonizes w
 Overall, CS:S stands as an enjoyable option for gamers who want to incorporate fitness into their lives without sacrificing their passion for gaming.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Counter-Strike: Source - By Taylor Owen Dorsett

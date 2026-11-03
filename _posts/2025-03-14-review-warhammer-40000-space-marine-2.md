@@ -44,7 +44,3 @@ The graphics engine in "Warhammer 40,000: Space Marine 2" is undoubtedly cutting
 In summary, "Warhammer 40,000: Space Marine 2" is a captivating sequel that successfully balances action with the ability to keep your body engaged while gaming. With a few minor foibles in pacing and hardware requirements, it stands as a must-try for anyone looking to integrate exercise with gaming. Whether you're mowing down hordes of enemies or delving into the rich Warhammer lore, this game compels you to keep moving, making it a fantastic option for treadmill and bike enthusiasts alike.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Warhammer 40,000: Space Marine 2 - By Taylor Owen Dorsett

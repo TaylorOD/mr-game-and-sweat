@@ -43,7 +43,3 @@ SWTOR is relatively easy to run on a variety of computer setups, making it acces
 "STAR WARS: The Old Republic" offers an engaging gameplay experience laden with opportunities for exploration and character interaction, suitable for combining with fitness activities. While the slower moments might pose a distraction, the game's overall accessibility and relaxed gameplay style make it a decent companion for your gym sessions. With solid compatibility for exercise equipment and approachable computer requirements, it's a worthwhile choice for gamers looking to sweat it out while enjoying the Star Wars saga.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: STAR WARS: The Old Republic - By Taylor Owen Dorsett

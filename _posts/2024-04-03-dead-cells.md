@@ -43,7 +43,3 @@ Playing "Dead Cells" while running on a treadmill or riding an exercise bike can
 As a result, we give "Dead Cells" an overall score of 3 out of 3. It excels in providing a unique and challenging experience and is a great choice for those looking to integrate gaming into their exercise routine.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dead Cells - By Jonas

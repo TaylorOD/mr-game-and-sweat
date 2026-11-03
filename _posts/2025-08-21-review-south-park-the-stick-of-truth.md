@@ -44,7 +44,3 @@ On the technical side, "The Stick of Truth" is relatively light on system requir
 "South Park: The Stick of Truth" makes for a wonderful blend of humor, engaging RPG mechanics, and a light-hearted approach to serious topics, all while fitting comfortably within the realm of exercise gaming. Its engaging narrative and accessible gameplay ensure you'll stay entertained and perhaps even laugh out loud while getting your heart rate up. While a few slower segments and some button-mashing moments exist, on the whole, it works remarkably well with treadmill and biking workouts. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: South Park: The Stick of Truth - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ NARAKA: BLADEPOINT has moderate system requirements that should be manageable fo
 NARAKA: BLADEPOINT delivers an action-packed experience that merges the excitement of melee combat with the intensity of battle royale, making it a strong contender for those looking to stay active while gaming. While minor slow moments might occasionally break your pace, they are not frequent enough to cause significant disruption. Whether you're shredding through opponents on your treadmill or bike, you'll find ample opportunities to stay engaged and physically active. Overall, the game manages to accommodate fitness pursuits admirably while captivating players with its intricate combat systems.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: NARAKA: BLADEPOINT - By Taylor Owen Dorsett

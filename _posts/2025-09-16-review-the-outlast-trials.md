@@ -44,7 +44,3 @@ While Outlast Trials is an engaging title, it demands a reasonable amount of pro
 In conclusion, The Outlast Trials not only captivates with its immersive horror experience but also tends to keep you moving with its engaging gameplay—perfect for those treadmill and bike workouts. So whether you're dodging threats or running for your life, your heart will be racing in more ways than one. Just watch out; the immersion might have you forgetting the fact that you're exercising, but in the best possible way. 
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Outlast Trials - By Taylor Owen Dorsett

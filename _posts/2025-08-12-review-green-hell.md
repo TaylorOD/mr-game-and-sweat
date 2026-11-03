@@ -41,7 +41,3 @@ Green Hell is relatively demanding, requiring a solid mid-range PC to run smooth
 Overall, Green Hell is an engaging survival experience with mechanics that can keep you invested and energized, ideal for a workout when the treadmill or bike can support a more steady pace. While not without its slower moments and mouse-and-keyboard precision requirements, it remains a compelling choice as long as you're mindful of your pace. Balancing survival tactics with your exercise routine, it’s likely you’ll find yourself sufficiently challenged both in-game and in your physical activity.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Green Hell - By Taylor Owen Dorsett

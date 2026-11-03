@@ -44,7 +44,3 @@ In terms of computer requirements, Devil May Cry 5 is reasonably demanding but n
 In summary, "Devil May Cry 5" offers fast-paced, exciting gameplay that complements exercise very well. Its adaptability to workout scenarios on treadmills or bikes is a significant highlight, and while it does have some minor cutscenes, they aren't a deal-breaker. As for computer performance, it’s manageable, making it a realistic option for many gamers. Despite a few minor bumps, this game encourages players to push themselves—not only in the game but also during their workouts.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Devil May Cry 5 - By Taylor Owen Dorsett

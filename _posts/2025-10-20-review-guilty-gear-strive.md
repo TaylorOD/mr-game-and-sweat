@@ -44,7 +44,3 @@ GUILTY GEAR -STRIVE- boasts impressive graphics and animation showcases, but thi
 GUILTY GEAR -STRIVE- strikes a commendable balance between competitive gameplay and the need for an engaging exercise routine. With its fast-paced action and minimal downtime, this game is an excellent choice for gamers looking to stay active while enjoying a thrilling combat experience. Though it does have some demands on hardware and may require a bit of finesse when using exercise equipment, the overall excitement makes it worthy of your time. Just make sure to master those quick movements to keep you both gaming and sweating!
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: GUILTY GEAR -STRIVE- - By Taylor Owen Dorsett

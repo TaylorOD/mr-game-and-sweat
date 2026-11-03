@@ -43,7 +43,3 @@ Playing "Risk of Rain 2" while running on a treadmill or riding an exercise bike
 Overall, we give "Risk of Rain 2" a score of 2.67 out of 3. It excels in gameplay and accessibility but poses a significant challenge for those trying to combine it with their fitness routine.
 
 ### Overall Score: 2.65 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Risk of Rain 2 - By Taylor Owen Dorsett

@@ -47,7 +47,3 @@ The game's requirements are fairly moderate, making it accessible to many gamers
 Scrap Mechanic offers an engaging experience that does well with treadmill and bike gameplay due to its accessible mechanics and controller support. While it requires a bit of concentration, the creative freedom and lack of slow-paced downtime can help you power through your workout. If you’re looking for a game that allows you to unleash your inner engineer while breaking a sweat, Scrap Mechanic might just be the right pick.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Scrap Mechanic - By Taylor Owen Dorsett

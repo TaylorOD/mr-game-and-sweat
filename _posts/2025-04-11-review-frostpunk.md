@@ -45,7 +45,3 @@ Frostpunk isn’t overly demanding in terms of hardware. To run the game effecti
 Frostpunk offers an engaging and thought-provoking experience that can be enjoyed during a workout, thanks to its controller compatibility and less frantic gameplay. While some slower segments might temporarily distract from your exercise routine, the overall balance of strategy and resource management keeps the immersion high. If you’re looking for a unique blend of physical activity and strategic gaming, Frostpunk is worth your time.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Frostpunk - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ BioShock Infinite is not overly demanding by modern standards, but it does requi
 BioShock Infinite is a stunningly beautiful game with a rich narrative that can somewhat clash with an intense workout routine. While the gameplay mechanics offer enough engagement to keep you occupied, those slow-paced sections might occasionally distract you from your physical activity. Overall, it’s a solid choice for casual exercise while gaming, particularly if you’re using a treadmill or bike and can manage the cutscenes. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: BioShock Infinite - By Taylor Owen Dorsett

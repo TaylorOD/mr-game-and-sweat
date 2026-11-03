@@ -44,7 +44,3 @@ Baldur's Gate 3 boasts impressive graphics and deep world-building, so it does d
 Baldur's Gate 3 is a stunning title that excels in storytelling, deep character interactions, and immersive gameplay. However, it does have its drawbacks when it comes to maintaining focus during a workout, particularly with its propensity for lengthy cutscenes and strategic pauses. If you're willing to engage in a slightly less intense workout, this game can certainly be enjoyed from the comfort of your treadmill or bike. Its impressive aesthetics deserve to be savored while strategic elements interact well with exercise, but be prepared for some slower moments.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Baldur's Gate 3 - By Taylor Owen Dorsett

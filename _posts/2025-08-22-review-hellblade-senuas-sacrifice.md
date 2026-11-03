@@ -42,7 +42,3 @@ This game doesn't require an astronomical amount of power to run, making it acce
 Hellblade: Senua's Sacrifice is a powerful narrative-driven experience that engages players on a deeper level, perfect for those looking to combine their love for fitness with gaming. While the slower sections and cutscenes may interrupt the flow of a high-energy workout, its engaging gameplay, solid compatibility with exercise routines, and manageable computer requirements make it a worthwhile endeavor. If you’re drawn to psychological exploration and rich storytelling while breaking a sweat, this title could just be the perfect companion to your cardio sessions.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hellblade: Senua's Sacrifice - By Taylor Owen Dorsett

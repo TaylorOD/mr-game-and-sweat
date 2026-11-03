@@ -49,7 +49,3 @@ Europa Universalis IV presents a unique opportunity to immerse oneself in detail
 ### Overall Score: 2 out of 3
 
 Perfect for gamers who appreciate deep strategy while also maintaining a healthy lifestyle, EU4 is a solid choice, so dust off your gaming rig and find that perfect cardio pace!
-
----
-
-Mr. Game and Sweat Reviews: Europa Universalis IV - By Taylor Owen Dorsett

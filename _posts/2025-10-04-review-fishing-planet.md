@@ -48,7 +48,3 @@ Fishing Planet is not overly demanding on computer resources. It can run on a mi
 In conclusion, Fishing Planet offers an enjoyable fishing experience with engaging gameplay that can be comfortably played while exercising. It might not keep adrenaline junkies on the edge of their treadmills, but it's perfect for a more relaxed workout session. While there are moments of slow pacing that can distract you from your exercise goals, the overall connectivity and low demands on hardware make it a worthwhile addition to your fitness gaming collection. Cast your lines, set your treadmill speed, and enjoy fishing from the comfort of your home gym!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Fishing Planet - By Taylor Owen Dorsett

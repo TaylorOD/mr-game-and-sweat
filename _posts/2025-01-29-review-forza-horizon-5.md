@@ -44,7 +44,3 @@ On the technical side, Forza Horizon 5 is quite demanding, requiring a robust ga
 Forza Horizon 5 presents an infectiously fun racing experience that complements an active lifestyle remarkably well. Its engaging gameplay can easily distract you from the workout you’re doing, making those treadmill or biking sessions feel less like a chore. Moreover, the controller compatibility ensures that a solid workout doesn’t mean you compromise on your gaming enjoyment. Just be mindful of your computer's specifications to optimize your experience. Overall, Forza Horizon 5 checks all the right boxes for gamers who love to stay active.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Forza Horizon 5 - By Taylor Owen Dorsett

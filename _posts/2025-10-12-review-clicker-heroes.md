@@ -44,7 +44,3 @@ Clicker Heroes is not particularly demanding in terms of computer resources. It 
 Clicker Heroes proves to be an enjoyable, simple, and non-intrusive gaming experience while you’re engaged in a workout. Its gameplay does allow for multitasking, and its low computer demands mean you can easily integrate it into your exercise routine without worrying about lag or performance issues. While there are a few slow moments, the click-and-watch nature keeps you engaged enough to power through those calories. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Clicker Heroes - By Taylor Owen Dorsett

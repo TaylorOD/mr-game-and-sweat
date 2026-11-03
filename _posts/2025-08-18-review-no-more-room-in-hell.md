@@ -43,7 +43,3 @@ The game has controller compatibility, and it’s adaptable enough for players w
 In conclusion, "No More Room in Hell" delivers a unique blend of immersive gameplay, cooperative challenges, and manageable system requirements—all while being reasonably adaptable to your treadmill or bike setup. The engaging nature of the game keeps you absorbed, which is great for motivation, even if it requires some quick reactions at times. All in all, it’s a solid choice for anyone looking to marry fitness with gaming during their cardio sessions.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: No More Room in Hell - By Taylor Owen Dorsett

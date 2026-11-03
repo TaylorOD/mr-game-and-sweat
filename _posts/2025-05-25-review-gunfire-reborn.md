@@ -44,7 +44,3 @@ Gunfire Reborn is reasonably lightweight in terms of system demands. It can run 
 Overall, Gunfire Reborn is a fantastic choice for anyone looking to combine their love for gaming with exercise routines. The engaging gameplay, controller compatibility, and manageable computer requirements all contribute to a thrilling experience that keeps you moving. If you're looking for a way to spice up your treadmill or biking sessions, this game might just be the adrenaline boost you need.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Gunfire Reborn - By Taylor Owen Dorsett

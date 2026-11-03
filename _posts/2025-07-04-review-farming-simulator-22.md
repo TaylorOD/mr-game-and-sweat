@@ -44,7 +44,3 @@ Farming Simulator 22 isn't overly demanding in terms of hardware, meaning it can
 Farming Simulator 22 is an unexpectedly suitable game for those who want to keep active when gaming. With engaging gameplay that doesn’t distract too much from running or biking, it's a perfect companion for your workouts. While it has a couple of minor drawbacks, its solid controller compatibility and moderate system requirements ensure that players can focus on fun, relaxing farming while they keep those legs moving.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Farming Simulator 22 - By Taylor Owen Dorsett

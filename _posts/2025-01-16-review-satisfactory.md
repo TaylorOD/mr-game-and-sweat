@@ -47,7 +47,3 @@ In terms of computer requirements, "Satisfactory" does demand a decent system to
 "Satisfactory" offers a unique blend of engaging gameplay and moderate exercise compatibility, making it a worthy addition to the gamer's fitness regimen. With seamless mechanics that allow for both productive factory management and immersive exploration, it provides an excellent distraction during workouts. However, players must ensure that their computer systems are capable of running the game optimally to maintain a smooth experience while exercising. 
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Satisfactory - By Taylor Owen Dorsett

@@ -49,7 +49,3 @@ In conclusion, Starbound presents itself as an engaging option for gamers seekin
 ### Overall Score: 2.3 out of 3
 
 Whether you're exploring the cosmos or honing your gym routine, Starbound is a stellar choice that keeps you entertained while you keep moving!
-
----
-
-Mr. Game and Sweat Reviews: Starbound - By Taylor Owen Dorsett

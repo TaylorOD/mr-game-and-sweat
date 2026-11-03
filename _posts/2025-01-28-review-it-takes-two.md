@@ -48,7 +48,3 @@ When it comes to system demands, "It Takes Two" isn’t overly taxing on your ha
 In summary, "It Takes Two" is a joyful yet dynamic game that manages to keep you engaged while you work on your fitness. While some gameplay moments may momentarily redirect your focus, it excels in delivering an immersive experience without lengthy interruptions. Perfect for couples looking to bond over exercise and gaming, this title stands as a testament to cooperative play. It's an experience that cleverly intertwines physical activity with playful creativity.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: It Takes Two - By Taylor Owen Dorsett

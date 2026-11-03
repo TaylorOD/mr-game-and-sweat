@@ -44,7 +44,3 @@ On the tech side, Path of Exile is relatively modest. While it offers stunning g
 In conclusion, Path of Exile is an excellent game for those looking to enjoy a rich gaming experience while getting a workout in. Its engaging gameplay and seamless treadmill/bike compatibility make it a prime choice for anyone wanting to balance fitness and entertainment. While computer requirements are moderately demanding, they won't necessarily hinder your ability to enjoy the game while exercising. 
 
 ### Overall Score: 2.7 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Path of Exile - By Taylor Owen Dorsett

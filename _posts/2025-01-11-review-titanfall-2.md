@@ -42,7 +42,3 @@ Titanfall 2 is moderately demanding on PC systems, featuring impressive graphics
 Titanfall 2 stands out as an exhilarating choice for those looking to integrate fitness with gaming. Its engaging gameplay keeps you immersed, while its compatibility with treadmill and bike setups is commendable, although demanding on your system. It's clear that this game is not just another title; it's an experience designed to complement your active lifestyle. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Titanfall 2 - By Taylor Owen Dorsett

@@ -45,7 +45,3 @@ GTA IV is relatively demanding, with its requirements reflecting its impressive 
 In conclusion, Grand Theft Auto IV: The Complete Edition provides an engaging and immersive gaming experience with a thrilling story and a richly detailed world. While it has moments that can be a little distracting with lengthy cutscenes, the exhilarating gameplay can help keep you motivated during your workout. It might not be the most seamless blend of fitness and gaming, given certain moments that demand quick reflexes, but it certainly strikes a balance that is enjoyable for casual exercise when approached correctly. For players looking to dive into this classic while on the move, with a bit of focus, it can prove to be an entertaining choice.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Grand Theft Auto IV: The Complete Edition - By Taylor Owen Dorsett

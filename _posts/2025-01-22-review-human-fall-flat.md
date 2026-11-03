@@ -44,7 +44,3 @@ The computer requirements for "Human: Fall Flat" are relatively modest, meaning 
 "Human: Fall Flat" offers a refreshing gaming experience that complements physical exercise beautifully. With its engaging gameplay and robust compatibility with treadmill and bike workouts, it's a game that ensures you can enjoy some laughs while burning calories. The gentle system requirements make it accessible for virtually anyone. If you’re looking for a fun way to stay active, this game is definitely one to add to your routine!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Human Fall Flat - By Taylor Owen Dorsett

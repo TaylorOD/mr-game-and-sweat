@@ -50,7 +50,3 @@ Tom Clancy's Rainbow Six Siege delivers an exciting tactical shooter experience 
 ### Overall Score: 2 out of 3
 
 In summary, if you're looking to elevate your workout experience while immersing yourself in thrilling tactical gameplay, Rainbow Six Siege is well worth a try—just prepare to master the art of juggling both worlds!
-
----
-
-Mr. Game and Sweat Reviews: Tom Clancy's Rainbow Six Siege - By Taylor Owen Dorsett

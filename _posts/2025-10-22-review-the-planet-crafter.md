@@ -45,7 +45,3 @@ While "The Planet Crafter" isn’t the most demanding game on the market, it doe
 Overall, "The Planet Crafter" provides an engaging gaming experience that perfectly complements a workout routine. Its immersion and engaging mechanics help keep your mind occupied while you exercise without sacrificing performance or enjoyment. Pairing beautifully with your treadmill or bike, it encourages both physical fitness and a substantial gaming experience. Minor flaws exist in system requirements, but they do not detract significantly from the overall enjoyment, making this title a worthy pick for exercise gamers.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Planet Crafter - By Taylor Owen Dorsett

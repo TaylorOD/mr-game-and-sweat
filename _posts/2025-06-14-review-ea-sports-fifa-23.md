@@ -44,7 +44,3 @@ For those considering playing FIFA 23 on a computer, the system requirements are
 Overall, “EA SPORTS FIFA 23” provides an exciting soccer simulation that can complement your treadmill or bike workouts. The fast-paced action and controller compatibility make it a suitable choice for those looking to stay active while enjoying a robust gaming experience. While longer cut scenes can occasionally disrupt your flow, the pros significantly outweigh the cons. If you have a decent gaming setup, you’ll find FIFA 23 to be an enjoyable addition to your exercise regime.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: EA SPORTS FIFA 23 - By Taylor Owen Dorsett

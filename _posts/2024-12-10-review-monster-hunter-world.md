@@ -43,7 +43,3 @@ In terms of computer specifications, Monster Hunter: World is moderately demandi
 Monster Hunter: World is an excellent choice for gamers who want to meld their love for gaming with their fitness goals. The engaging gameplay and solid compatibility with workout equipment allow for a seamless blend of exercise and entertainment. While there are some demands on your computer, it can still be enjoyed on moderately powerful systems. Overall, if you're looking to make your treadmill or bike workouts more thrilling, Monster Hunter: World presents an enticing option.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Monster Hunter: World - By Taylor Owen Dorsett

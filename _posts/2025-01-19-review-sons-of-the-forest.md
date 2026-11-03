@@ -46,7 +46,3 @@ In summary, "Sons Of The Forest" successfully blends immersive gameplay with the
 ### Overall Score: 2.33 out of 3 
 
 With its engaging gameplay and immersive world, “Sons Of The Forest” might just be the perfect companion for your next workout session. Just remember to pace yourself!
-
----
-
-Mr. Game and Sweat Reviews: Sons Of The Forest - By Taylor Owen Dorsett

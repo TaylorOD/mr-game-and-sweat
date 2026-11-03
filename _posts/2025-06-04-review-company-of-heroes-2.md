@@ -43,7 +43,3 @@ The game is moderately demanding on system resources. To enjoy a smooth experien
 In conclusion, "Company of Heroes 2" delivers a compelling blend of strategy and immersive gameplay that can keep you engaged for hours. While it has appealing elements for exercise enthusiasts, such as periods of relaxation to plan your next moves, the pacing can occasionally detract from a consistent workout. With moderate system requirements and mouse and keyboard controls, it might not find its ideal rhythm on the treadmill or bike for everyone. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Company of Heroes 2 - By Taylor Owen Dorsett

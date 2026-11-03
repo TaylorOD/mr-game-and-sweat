@@ -46,7 +46,3 @@ Broforce is not just a fun, explosive adventure filled with nostalgic nods to cl
 ### Overall Score: 3 out of 3 
 
 If you’re looking for a game to break the monotony of your exercise routine, Broforce is hands-down one of the best choices! Get ready to sweat while saving the day in true action-hero style.
-
----
-
-Mr. Game and Sweat Reviews: Broforce - By Taylor Owen Dorsett

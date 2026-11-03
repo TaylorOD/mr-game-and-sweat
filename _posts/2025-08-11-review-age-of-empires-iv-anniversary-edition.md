@@ -52,7 +52,3 @@ Age of Empires IV: Anniversary Edition does a commendable job of blending engagi
 Overall, whether you’re biding your time on a treadmill or cycling away, it proves to be an entertaining companion amid your cardio sessions. 
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Age of Empires IV: Anniversary Edition - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ In terms of computer requirements, "Manor Lords" is fairly demanding but managea
 "Manor Lords" presents an enjoyable experience that combines rich medieval simulation with engaging gameplay mechanics, perfect for those looking to sweat it out while gaming. It effectively balances excitement and strategy without overwhelming players, aligning well with workout routines. Its compatibility with controllers and its ability to maintain focus on exercising contribute to a solid experience. Whether you’re two miles into your run or enjoying a leisurely bike, you can feel confident that "Manor Lords" will enhance your workout rather than detract from it.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Manor Lords - By Taylor Owen Dorsett

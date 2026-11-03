@@ -46,7 +46,3 @@ Overall, Mafia: Definitive Edition is a beautifully crafted and engaging title t
 ### Overall Score: 2 out of 3
 
 In conclusion, if you're a fan of narrative-driven experiences and can manage the pacing, Mafia: Definitive Edition can be a fitting companion on your fitness journey. Just prepare for moments where you might find yourself taking a breather—or, more accurately, a seat—while the story unfolds.
-
----
-
-Mr. Game and Sweat Reviews: Mafia: Definitive Edition - By Taylor Owen Dorsett

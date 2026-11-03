@@ -44,7 +44,3 @@ Killing Floor 2 is not overly demanding but does have some requirements to keep 
 Killing Floor 2 is a visceral and enthralling experience that caters well to those who want to blend gaming with fitness. It successfully keeps players on their toes with constant action while allowing for an engaging workout session. Although it has some limitations regarding quick movements and hardware requirements, it ultimately strikes a balance between exhilarating gameplay and compatibility for treadmill and bike exercises. If you’re looking for a game to pump up your workout routine, Killing Floor 2 is a fantastic choice.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Killing Floor 2 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ In terms of computer requirements, "Like a Dragon Infinite Wealth" is fairly dem
 As a result, we give "Like a Dragon Infinite Wealth" an overall score of 2.35 out of 3. It excels in many areas but requires some adjustments for those integrating it into their exercise routine.
 
 ### Overall Score: 2.35 our of 3
-
----
-
-Mr. Game and Sweat Reviews: Like a Dragon Infinite Wealth - By Taylor Owen Dorsett

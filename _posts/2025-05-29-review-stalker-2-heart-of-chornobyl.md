@@ -43,7 +43,3 @@ On the tech side of things, "S.T.A.L.K.E.R. 2" does come with some hefty system 
 "S.T.A.L.K.E.R. 2: Heart of Chornobyl" delivers an engrossing experience that appeals to both survival horror fans and those looking to incorporate gaming into their fitness routines. Its blend of engaging gameplay, reasonable compatibility with fitness equipment, and stunning graphics make for an enjoyable session. While it does have some areas that could slow down your pace, the overall balance allows players to push through their workouts effectively.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: S.T.A.L.K.E.R. 2: Heart of Chornobyl - By Taylor Owen Dorsett

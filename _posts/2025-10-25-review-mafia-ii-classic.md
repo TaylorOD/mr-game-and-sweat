@@ -43,7 +43,3 @@ As for the computer requirements, Mafia II (Classic) is quite forgiving. It’s 
 In conclusion, Mafia II (Classic) provides a gripping experience that can entertain during your workout, though it has its share of distractions with lengthy cutscenes and intense action. While it’s generally compatible with a treadmill or bike, you might need to ensure you maintain a steady pace to fully enjoy the game. Its low system requirements are a significant advantage, making the gaming experience even easier to integrate into your fitness routine. Overall, it’s a fun but occasionally challenging choice for those looking to enjoy a story while staying active.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mafia II (Classic) - By Taylor Owen Dorsett

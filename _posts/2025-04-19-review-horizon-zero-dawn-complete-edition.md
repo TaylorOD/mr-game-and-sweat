@@ -48,7 +48,3 @@ Horizon Zero Dawn is visually stunning, but this level of detail does come with 
 Horizon Zero Dawn Complete Edition is a striking game that offers an exhilarating blend of action and exploration. While it does have some pacing issues and hardware requirements that could impact gameplay, it provides a rewarding experience that can be enjoyed while exercising. With a solid balance of combat and narrative, it manages to engage players, albeit with slightly challenging compatibility for those focused on fitness.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Horizon Zero Dawn Complete Edition - By Taylor Owen Dorsett

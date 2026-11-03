@@ -48,7 +48,3 @@ Metro 2033 Redux is not excessively demanding, especially considering its age. R
 Overall, Metro 2033 Redux presents a thrilling narrative and compelling gameplay loop that pulls you into its world, but may not be the best companion for high-intensity workouts on a treadmill or bike. While it’s gripping and graphically impressive, the slower pacing during critical storytelling moments could be a distraction for those trying to maintain their physical routines. However, if you can balance your stride with the game's rhythm, you can truly appreciate the blend of tension and storytelling this game provides.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Metro 2033 Redux - By Taylor Owen Dorsett

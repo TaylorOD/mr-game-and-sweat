@@ -43,7 +43,3 @@ Dyson Sphere Program has moderate computer requirements. While it doesn't demand
 In conclusion, Dyson Sphere Program is an incredibly engaging strategy game that keeps you entertained without overwhelming your focus. Its gameplay is ideally suited to those exercising on treadmills or bikes, thanks to its relaxed pace and mouse-driven controls. While the computer requirements are reasonable, having a mid-range setup can enhance your experience significantly. Overall, the game perfectly blends cognitive engagement with physical activity, making it a solid addition to your gaming and workout routine.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dyson Sphere Program - By Taylor Owen Dorsett

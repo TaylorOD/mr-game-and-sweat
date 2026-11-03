@@ -48,7 +48,3 @@ Overall, Subnautica strikes a brilliant balance between captivating gameplay and
 ### Overall Score: 2.33 out of 3 
 
 If you're looking for a game that enhances your workout experience, definitely give Subnautica a try. You’ll not only break a sweat but also dive into an unforgettable adventure.
-
----
-
-Mr. Game and Sweat Reviews: Subnautica - By Taylor Owen Dorsett

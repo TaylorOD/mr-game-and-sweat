@@ -48,7 +48,3 @@ Deep Rock Galactic isn’t particularly demanding on computer resources, which i
 Deep Rock Galactic delivers exhilarating, cooperative gameplay with minimal disruption to your exercise routine. Its engaging mission design keeps you invested while allowing you to focus on running or biking without feeling like you’re sacrificing entertainment. While occasional quick reactions are necessary, the overall experience complements an active workout. With reasonable computer requirements, it's accessible without hefty demands on your system.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Deep Rock Galactic - By Taylor Owen Dorsett

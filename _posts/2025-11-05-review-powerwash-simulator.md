@@ -42,7 +42,3 @@ The minimum specs call for a GeForce GTX 760 or AMD R7 260X, plus 4 GB of RAM. T
 PowerWash Simulator makes a relaxed workout companion if you enjoy slow, repetitive tasks and have a steady setup. If you want a game that keeps your heart rate up with quick action, this hose is not going to do the job.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: PowerWash Simulator - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ On the technical side, "Wallpaper Engine" is not overly demanding. It’s design
 In conclusion, "Wallpaper Engine" presents a unique solution for those looking to enhance their gaming experience while exercising. While it might not deliver traditional gameplay mechanics, it excels in creating an engaging visual environment that can nurture your motivation as you bike or run. The app has its limitations in terms of ongoing engagement during a workout, but once set up with a selection of attractive wallpapers, it enhances rather than distracts from your fitness journey.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Wallpaper Engine - By Taylor Owen Dorsett

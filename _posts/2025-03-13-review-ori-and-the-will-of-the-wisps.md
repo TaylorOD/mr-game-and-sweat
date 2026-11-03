@@ -44,7 +44,3 @@ On a treadmill or bike, "Ori and the Will of the Wisps" shines when it comes to 
 In conclusion, "Ori and the Will of the Wisps" is an enchanting experience filled with tight platforming mechanics and a heartwarming story. While some cutscenes might temporarily take you out of the action, the overall solid gameplay allows for a decent exercise experience on a treadmill or bike. Its light hardware demands ensure that most can enjoy this gorgeous adventure without the need for a top-of-the-line setup. This title is one that you'll want to indulge in while getting your heart rate up.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ori and the Will of the Wisps - By Taylor Owen Dorsett

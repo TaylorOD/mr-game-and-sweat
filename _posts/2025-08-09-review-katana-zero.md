@@ -50,7 +50,3 @@ Overall, Katana ZERO is an outstanding choice for gamers who like to integrate t
 ### Overall Score: 2.67 out of 3 
 
 If you’re searching for a game that can keep your heart rate up while simultaneously delivering a captivating story, Katana ZERO is a perfect pick!
-
----
-
-Mr. Game and Sweat Reviews: Katana ZERO - By Taylor Owen Dorsett

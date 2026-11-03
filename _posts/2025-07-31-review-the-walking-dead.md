@@ -44,7 +44,3 @@ From a compatibility perspective, "The Walking Dead" excels with its simple poin
 While "The Walking Dead" provides an engaging and immersive experience featuring tough choices and emotional storytelling, its pacing may occasionally disrupt your workout flow. However, because it caters well to casual gameplay, and given its low system demands, you’ll find it’s still a great choice for playing on the treadmill or bike. Just be prepared for some cutscenes that may cause you to momentarily lose momentum!
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Walking Dead - By Taylor Owen Dorsett

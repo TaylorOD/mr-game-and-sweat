@@ -43,7 +43,3 @@ On the technical side, *Getting Over It* is not overly demanding. The game can r
 *Getting Over It with Bennett Foddy* offers a challenging yet fresh experience for fitness enthusiasts, keeping you actively engaged without the nuisances of long cutscenes or unnecessary downtime. Despite some hurdles in handling a mouse or controller while maintaining your exercise intensity, it stands out as a fun and engaging way to integrate gaming and fitness. The game's accessibility to less powerful computers also makes it a viable option for a wide audience. For those who relish overcoming hurdles—both in-game and in fitness—this title provides a worthy adventure.
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Getting Over It with Bennett Foddy - By Taylor Owen Dorsett

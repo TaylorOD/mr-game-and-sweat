@@ -44,7 +44,3 @@ Detroit: Become Human is graphically intensive and demands a solid gaming rig to
 Detroit: Become Human is a masterpiece in narrative design that offers a compelling experience, but it may not be the best choice for those trying to stay active while gaming. Its cutscenes and slower moments require a degree of attention that may disrupt your exercise flow. If you’re committed to immersing yourself in its story while keeping a chill-paced workout, it can be a decent option; just don’t expect a high-intensity experience.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Detroit: Become Human - By Taylor Owen Dorsett

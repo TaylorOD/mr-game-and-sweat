@@ -42,7 +42,3 @@ In terms of computer requirements, Eternal Return is relatively light, making it
 Eternal Return provides a lively, engaging experience for gamers looking to exercise simultaneously. With its speedy gameplay, reasonable hardware requirements, and decent compatibility with exercise machines, it checks many boxes for a fit-friendly gaming experience. The only caveat is the occasional distraction from exercising demands a higher level of concentration. However, the game’s captivating combat and strategic depth make it easy to keep your fitness journey fun and rewarding.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Eternal Return - By Taylor Owen Dorsett

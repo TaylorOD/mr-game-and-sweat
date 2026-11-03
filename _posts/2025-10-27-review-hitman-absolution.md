@@ -43,7 +43,3 @@ Hitman: Absolution demands a solid level of performance from your system. It req
 In conclusion, Hitman: Absolution thrives in its blend of engaging gameplay and immersive environments, making it a worthy addition to your workout session. While there are a few pacing issues and minimal demands on your computer, it provides an enjoyable experience that keeps you occupied throughout your cardio routine. So lace up those shoes or hop on that bike; Agent 47 awaits.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hitman: Absolution - By Taylor Owen Dorsett

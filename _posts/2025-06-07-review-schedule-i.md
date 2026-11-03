@@ -46,7 +46,3 @@ In terms of computer specifications, "Schedule I" strikes a balance that is acce
 Overall, “Schedule I” proves to be a standout game that keeps you moving both in gameplay and fitness!
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Schedule I - By Taylor Owen Dorsett

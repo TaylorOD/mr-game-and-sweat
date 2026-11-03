@@ -44,7 +44,3 @@ The game features full controller compatibility, which is a significant bonus fo
 "Cyberpunk 2077" offers a riveting experience that can indeed accompany your workouts, but it requires a level of caution with its pacing and gameplay style. While the fast-paced action can spike your adrenaline, be wary of longer cutscenes and demanding reflexes that might break your rhythm. Overall, if you're prepared for the requirements, you can enjoy a thrilling ride through Night City while breaking a sweat.
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cyberpunk 2077 - By Taylor Owen Dorsett

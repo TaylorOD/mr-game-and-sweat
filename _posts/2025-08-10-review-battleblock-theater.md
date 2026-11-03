@@ -44,7 +44,3 @@ BattleBlock Theater is not particularly demanding on system resources. It can ru
 In conclusion, BattleBlock Theater is an engaging platformer that excels at providing a delightful gaming experience while you exercise. Its quick levels keep you active without pulling focus from your workout, and its compatibility with a variety of control setups makes it a breeze to play during cardio sessions. With minimal technical requirements, this game stands out as a fantastic choice for a fun and effective way to combine physical fitness with gaming entertainment.  
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: BattleBlock Theater - By Taylor Owen Dorsett

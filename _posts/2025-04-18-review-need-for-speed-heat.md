@@ -45,7 +45,3 @@ In conclusion, Need for Speed Heat successfully combines excitement and engageme
 ### Overall Score: 2.33 out of 3
 
 For those looking to burn calories while tearing through the streets, Need for Speed Heat is a high-octane choice that needs to be on your playlist!
-
----
-
-Mr. Game and Sweat Reviews: Need for Speed Heat - By Taylor Owen Dorsett

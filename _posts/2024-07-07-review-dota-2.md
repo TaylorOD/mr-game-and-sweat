@@ -45,7 +45,3 @@ Dota 2 is relatively accessible when it comes to computer requirements. While yo
 Dota 2 stands out as a compelling choice for gamers who wish to balance their passion for video games with physical activity. With intense gameplay that rarely requires you to pause for cutscenes, it’s a game able to keep you engaged while on the move. While it does present some challenges regarding quick reactions, those who can balance their dedication to both gaming and exercise will find it a fulfilling endeavor. If you're looking to elevate your gaming experience without losing sight of your fitness goals, Dota 2 is a game worth introducing to your regimen.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dota 2 - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ As for computer requirements, "Spec Ops: The Line" is fairly moderate in its dem
 In conclusion, "Spec Ops: The Line" offers a compelling and thought-provoking narrative, combined with engaging gameplay that has its ups and downs for fitness enthusiasts. While it has its moments of brilliance, the slower-paced sections and need for precision could disrupt your workout flow. However, its compatibility with basic gaming setups makes it a contender for treadmill or biking sessions if you manage your pace wisely.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Spec Ops: The Line - By Taylor Owen Dorsett

@@ -50,7 +50,3 @@ In summary, Core Keeper proves to be an excellent choice for those looking for a
 Whether you're building your underground empire or exploring the depths of the cavern with friends, Core Keeper offers an excellent balance of challenge and enjoyment, all while keeping your heart rate up.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Core Keeper - By Taylor Owen Dorsett

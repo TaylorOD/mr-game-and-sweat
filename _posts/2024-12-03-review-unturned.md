@@ -43,7 +43,3 @@ In terms of compatibility with running or biking, "Unturned" shines with its con
 Overall, "Unturned" is a fun and engaging game that can be adapted to an exercise routine effectively. While it may have some moments that require quick reactions, it largely keeps your interest through its dynamic gameplay and exploration. Its low system requirements ensure that more users can join in without hardware concerns. With immersive gameplay that distracts from the workout but maintains a level of light intensity, "Unturned" makes for a solid addition to your exercise gaming library.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Unturned - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ HELLDIVERS 2 runs on Unreal Engine 5, pushing the limits of graphical fidelity a
 In conclusion, HELLDIVERS 2 is a fun, fast-paced shooter that serves well as an exercise companion. Its engaging and comedic gameplay keeps you entertained while the cooperative elements foster teamwork – a great way to have fun with friends while working up a sweat. The controller compatibility makes it manageable on treadmill or biking sessions and its modest system requirements mean most gamers can jump right in without a hitch. Overall, while it has some minor drawbacks that could distract during exercise, it’s a worthy addition to your fitness gaming library.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: HELLDIVERS 2 - By Taylor Owen Dorsett

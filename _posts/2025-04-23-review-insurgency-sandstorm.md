@@ -44,7 +44,3 @@ Insurgency: Sandstorm is relatively demanding in terms of computer specs. For op
 Insurgency: Sandstorm effectively combines intense tactical gameplay with engaging mechanics that can distract you from your exercise routine—perfect for those looking to boost their fitness while gaming. While it has its few slow moments and demands a capable PC to run smoothly, it offers a thrilling backdrop that enhances your workout experience. Just keep in mind the need for precise movements, as it requires a bit more focus than some casual games. Overall, if you're looking to elevate your time on the treadmill or bike, Insurgency: Sandstorm is definitely worth picking up.
 
 ### Overall Score: 2.17 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Insurgency: Sandstorm - By Taylor Owen Dorsett

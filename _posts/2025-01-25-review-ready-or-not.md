@@ -44,7 +44,3 @@ When it comes to playing "Ready or Not" on a treadmill or bike, the game fares r
 In conclusion, "Ready or Not" offers a thrilling, tactical experience that seamlessly integrates into your exercise routine. Its engaging gameplay keeps you focused and makes the time fly, while its compatibility with treadmills and bikes allows for an enjoyable experience without straining your cardio commitments. The computer requirements may pose a slight challenge for some, but the overall benefits outweigh those considerations. For anyone looking to elevate their workouts while enjoying a challenging tactical shooter, "Ready or Not" is an excellent choice.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ready or Not - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ When it comes to playing *Hotline Miami 2* while running on a treadmill or bikin
 In conclusion, *Hotline Miami 2: Wrong Number* offers a captivating experience filled with visceral gameplay and a rich narrative interspersed with action. While it provides a thrilling adrenaline rush, its tendency towards cutscenes and moments of slower pacing can impact your workout rhythm. If you’re someone who thrives on intense challenge while exercising, this title might just keep you engaged, but be cautious of those interruptions! Overall, it’s a fun ride when played right, but it may not completely complement your fitness goals.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hotline Miami 2: Wrong Number - By Taylor Owen Dorsett

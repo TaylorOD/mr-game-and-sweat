@@ -43,7 +43,3 @@ Crusader Kings III isn’t the most demanding game out there, but it still calls
 Crusader Kings III deftly balance the line between engaging gameplay and workout compatibility. You can easily lose track of time as you make decisions that shape your dynasty, all while getting in some good exercise. While some strategizing might take focus away from your workout intensity at times, the controller-friendly setup and lack of overwhelming cutscenes provide a good fit for those on the move. Overall, it's a game that pairs well with your fitness routine, allowing for both mental and physical endurance.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Crusader Kings III - By Taylor Owen Dorsett

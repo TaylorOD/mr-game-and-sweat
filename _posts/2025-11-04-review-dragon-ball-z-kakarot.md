@@ -42,7 +42,3 @@ The minimum specs call for a GeForce GTX 750 Ti or Radeon HD 7950, along with 4 
 KAKAROT gives you lively fights and a lot of Dragon Ball Z story, with downtime between the action. It works best for a steady bike session where you can focus during fights and keep moving through the cutscenes.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DRAGON BALL Z: KAKAROT - By Taylor Owen Dorsett

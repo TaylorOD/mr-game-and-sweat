@@ -44,7 +44,3 @@ State of Decay 2: Juggernaut Edition isn’t particularly demanding, making it a
 State of Decay 2: Juggernaut Edition successfully blends survival mechanics with exciting gameplay that keeps you on edge, perfect for those looking to enjoy some thrilling action while exercising. While slow moments can interrupt your treadmill pace, the engaging combat and resource management add complexity to both your gaming and workout experience. Easily accessible for various systems ensures you don't compromise your performance either. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: State of Decay 2: Juggernaut Edition - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ FTL is lightly demanding on your computer's hardware, making it accessible on mo
 FTL: Faster Than Light is a remarkable balance of strategic gameplay and engaging immersion that keeps your mind engaged and your body active. While not perfectly optimized for multiplayer configurations on treadmills or bikes, its thoughtful pacing allows for smooth gameplay during exercise. The minimal computer demands mean you can integrate this game seamlessly into your fitness routine without sacrifice. Overall, FTL stands as a fulfilling addition for those looking to expand their gaming library while staying fit.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: FTL: Faster Than Light - By Taylor Owen Dorsett

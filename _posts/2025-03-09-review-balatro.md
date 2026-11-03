@@ -44,7 +44,3 @@ On the technical side, Balatro is relatively light on system requirements. It ru
 Balatro stands out as an excellent choice for gamers looking to stay active while enjoying their time in front of a screen. It marries engaging gameplay with a supportive structure for treadmill and biking routines. With minimal computer demands and a perfect balance between action and strategy, this game is a delightful addition to your fitness gaming library. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Balatro - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ With regards to computer specifications, Conan Exiles is fairly demanding compar
 Conan Exiles offers a captivating blend of survival mechanics, exploration, and combat, making it a solid option for gamers who want to stay active while indulging in a richly crafted world. Its engaging gameplay keeps you on your toes, and the compatibility with a controller allows for a comfortable experience during exercise. While it requires a decent system to run optimally, the overall experience is rewarding enough to justify the requirements.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Conan Exiles - By Taylor Owen Dorsett

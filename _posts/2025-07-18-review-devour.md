@@ -48,7 +48,3 @@ DEVOUR is relatively light on system requirements, making it accessible to a wid
 In summary, “DEVOUR” is a captivating blend of horror, teamwork, and frantic gameplay that makes it suitable for gamers looking to boost their exercise routine. Its engaging nature keeps the adrenaline pumping while you stay active, ensuring you remain engaged without facing tedious gameplay segments. While it could use some fine-tuning for specific fitness setups, it is definitely a worthy addition to your gaming library for those who want to combine the thrill of horror with their workout.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: DEVOUR - By Taylor Owen Dorsett

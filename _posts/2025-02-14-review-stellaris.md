@@ -43,7 +43,3 @@ From a technical standpoint, Stellaris isn’t overly demanding. It can be run c
 In conclusion, Stellaris proves to be an engaging yet relaxing cosmic strategy game that is well-suited for fitness gamers managing their workout on a treadmill or bike. Its captivating gameplay keeps your mind engaged without being overly demanding on your reflexes. You might find your pacing slowing down during research waits or lengthy construction times, but those moments are minimal compared to the overall experience. With good compatibility and accessible computer requirements, it's a solid title to keep in the rotation while you get your sweat on.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Stellaris - By Taylor Owen Dorsett

@@ -42,7 +42,3 @@ Playing "Risk of Rain" while on a treadmill or bike is an intense experience. Th
 Overall, we give "Risk of Rain" a score of 2.65 out of 3. It excels in engagement and accessibility but requires some adjustment for fitness-focused play.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Risk of Rain - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ NieR:Automata requires a decent setup to run smoothly, particularly if you want 
 NieR:Automata is a phenomenal game that captivates with its storytelling and gameplay mechanics. However, its blend of intense action and slower narrative moments may disrupt your exercise routine on a treadmill or bike. If you're focused on your workout, you might face challenges staying engaged due to some cutscenes and intense combat mechanics. That being said, it's a captivating experience that makes it worth a play when you're not specifically focused on exercise.
 
 ### Overall Score: 1.83 out of 3
-
----
-
-Mr. Game and Sweat Reviews: NieR:Automata - By Taylor Owen Dorsett

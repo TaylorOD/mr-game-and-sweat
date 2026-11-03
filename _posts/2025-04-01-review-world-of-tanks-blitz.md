@@ -43,7 +43,3 @@ In terms of computer specifications, World of Tanks Blitz is not particularly de
 Overall, World of Tanks Blitz is perfectly tailored for players looking to combine exercise with gaming. Its engaging gameplay, friendly compatibility with exercise setups, and low computer requirements make it a standout choice for those who want to get their heart rates up while partaking in some tank warfare. Whether you're on the treadmill or biking, this game will keep your adrenaline pumping.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: World of Tanks Blitz - By Taylor Owen Dorsett

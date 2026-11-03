@@ -51,7 +51,3 @@ In summary, **Project Zomboid** excels in its engaging gameplay, making it a per
 Overall, **Project Zomboid** is a gem for fitness-oriented gamers who hunger for an immersive survival challenge without sacrificing their daily physical activity.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Project Zomboid - By Taylor Owen Dorsett

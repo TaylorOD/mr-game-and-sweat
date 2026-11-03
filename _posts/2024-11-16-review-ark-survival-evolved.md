@@ -46,7 +46,3 @@ ARK: Survival Evolved is known for its demanding requirements, particularly due 
 ARK: Survival Evolved offers an engaging survival experience with plenty of room for exploration, crafting, and taming prehistoric creatures. While it allows for controlled gaming while you work on your cardio, the more intense moments may demand undivided attention that could distract from your fitness efforts. Additionally, the higher computer requirements may pose a hurdle for some players. Overall, ARK provides an entertaining experience, but be mindful of when to pause your workout for those dino battles.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: ARK: Survival Evolved - By Taylor Owen Dorsett

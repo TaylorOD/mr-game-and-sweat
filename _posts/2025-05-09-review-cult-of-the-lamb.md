@@ -42,7 +42,3 @@ While Cult of the Lamb isn't the most demanding title on the market, it does req
 Cult of the Lamb offers a fantastic balance of engaging gameplay, compatibility with exercise routines, and reasonable computer demands. Its engaging action fits perfectly for gamers looking to maintain their fitness while being entertained. Whether you’re slicing demons or managing your beloved flock, this game will keep you motivated and invested during your workouts. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cult of the Lamb - By Taylor Owen Dorsett

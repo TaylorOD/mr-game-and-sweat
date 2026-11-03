@@ -44,7 +44,3 @@ Rec Room is relatively modest in terms of computer requirements, making it acces
 Rec Room is a fantastic option for fitness-minded gamers looking to combine their love for video games with an active lifestyle. Its engaging gameplay keeps you moving without slowing down the action, and its compatibility with treadmill setups adds to the versatility of exercise options available. While bike compatibility could be improved, the accessible computer requirements allow for a wide audience to enjoy the game. Overall, Rec Room successfully bridges the gap between gaming and fitness, making it a must-try for anyone looking to get active while having fun.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Rec Room - By Taylor Owen Dorsett

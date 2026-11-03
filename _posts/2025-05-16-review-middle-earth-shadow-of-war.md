@@ -44,7 +44,3 @@ Middle-earth: Shadow of War is relatively demanding when it comes to system requ
 Overall, Middle-earth: Shadow of War offers an engaging experience that brilliantly combines action and story. However, the frequent cut scenes and occasional need for quick reflexes might interrupt your workout routine. Pairing the game with a solid exercise strategy and awareness of when to focus could lead to a successful treadmill or biking session. 
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Middle-earth: Shadow of War - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Content Warning isn’t too demanding on your computer, which is another strong 
 Overall, Content Warning is a thought-provoking game that successfully intertwines an engaging narrative with a fitness-oriented experience. Its pacing accommodates workouts well, and the interactive decision-making enhances, rather than detracts from, your exercise routine. Add in a low barrier for hardware requirements, and you have a game that is ideal for health-minded gamers. While not perfect, its strong gameplay and compatibility with physical activities make it a noteworthy addition to your collection.
 
 ### Overall Score: 2.57 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Content Warning - By Taylor Owen Dorsett

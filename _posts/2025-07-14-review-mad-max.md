@@ -44,7 +44,3 @@ Mad Max is moderately demanding on your system, featuring dynamic visuals and ex
 Overall, Mad Max excels in delivering an engaging experience that balances thrilling gameplay and exploration in a striking wasteland. While certain slower moments and the game's hardware requirements could pose minor drawbacks, the action-packed moments and intuitive controls make it a worthwhile choice for exercising while gaming. Whether you're cruising through the sands in your customized Magnum Opus or taking down marauders, you'll find plenty of intensity to keep your heart racing. 
 
 ### Overall Score: 2.2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mad Max - By Taylor Owen Dorsett

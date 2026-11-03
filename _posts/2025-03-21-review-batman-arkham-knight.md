@@ -46,7 +46,3 @@ When it comes to compatibility with treadmills and bikes, "Arkham Knight" holds 
 ### Overall Score: 2 out of 3
 
 In the end, if you’re a Batman enthusiast who enjoys the thrill of exercise, just be wary of the moments where Gotham's narrative might make you pause.
-
----
-
-Mr. Game and Sweat Reviews: Batman: Arkham Knight - By Taylor Owen Dorsett

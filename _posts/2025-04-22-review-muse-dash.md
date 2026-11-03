@@ -45,7 +45,3 @@ Muse Dash isn't particularly demanding on your computer. It has relatively low s
 Overall, Muse Dash is a bright and engaging rhythm game that brings together action and exercise effectively. While it may need some adjustment when it comes to syncing intensity with gaming demands on a treadmill or bike, the overall experience is thoroughly enjoyable. With its engaging gameplay, accessible specs, and lively atmosphere, it's a solid choice for those who like their cardio with a splash of fun.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Muse Dash - By Taylor Owen Dorsett

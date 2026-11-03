@@ -48,7 +48,3 @@ Life is Strange is relatively forgiving when it comes to hardware specifications
 ### Overall Score: 2.33 out of 3
 
 In summary, it’s a fantastic game for those who enjoy storytelling, but if you’re looking for something to keep the heart rate up, you may want to save this one for a lighter exercise day.
-
----
-
-Mr. Game and Sweat Reviews: Life is Strange - Episode 1 - By Taylor Owen Dorsett

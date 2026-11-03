@@ -43,7 +43,3 @@ When it comes to treadmill and bike compatibility, *Dishonored* holds its ground
 In conclusion, *Dishonored* serves up a rich and immersive experience that offers plenty of engaging gameplay, though it's occasionally interrupted by slower sections. Its compatibility with controllers makes it easier to play while exercising, though quick reflex requirements can disrupt your routine. Overall, with reasonable computer requirements, it’s a fantastic choice for gamers and fitness enthusiasts alike, just be prepared for those moments where you might need to slow down a bit.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Dishonored - By Taylor Owen Dorsett

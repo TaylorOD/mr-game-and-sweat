@@ -42,7 +42,3 @@ Halo Infinite demands a mid-range PC to run effectively, with recommended specif
 In summary, Halo Infinite seamlessly blends engaging gameplay and a fitness-friendly approach that is hard to resist. Its compatibility with a controller makes multitasking enjoyable, while its open-world design keeps you focused and active. If you’re looking for a game that allows you to work out while enjoying a rich narrative and thrilling combat, Halo Infinite should definitely be on your radar.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Halo Infinite - By Taylor Owen Dorsett

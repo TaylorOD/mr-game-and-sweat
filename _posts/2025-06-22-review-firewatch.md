@@ -44,7 +44,3 @@ Firewatch isn't particularly demanding, making it accessible for a variety of se
 Firewatch is an excellent choice for gamers who want an immersive narrative experience without losing focus on their workout. While there are moments of slower pacing that could interrupt the flow for those engaged in intense exercises, its gripping story and beautiful visuals largely compensate for these moments. With fantastic compatibility on treadmill and bike, along with relaxed hardware requirements, Firewatch stands out in the realm of exercise gaming. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Firewatch - By Taylor Owen Dorsett

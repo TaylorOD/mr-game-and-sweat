@@ -43,7 +43,3 @@ While TABS is not the most graphically demanding title available, it does requir
 Totally Accurate Battle Simulator is an enjoyable, light-hearted title that perfectly complements an active lifestyle. Its engaging gameplay keeps you entertained without pulling your focus away from your workout efforts on the treadmill or bike. The game's compatibility with various controllers and lack of intense reflex requirements make it an excellent choice for those looking to unwind and have a good time while burning calories. Just keep in mind the computer requirements; players with older systems may need to upgrade to fully enjoy the mayhem.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Totally Accurate Battle Simulator - By Taylor Owen Dorsett

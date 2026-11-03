@@ -46,7 +46,3 @@ Black Myth: Wukong is an enigmatic combination of captivating storytelling, resp
 ### Overall Score: 2 out of 3
 
 In summary, if you’re looking for a game to dive into while you exercise, and you value an immersive experience, Black Myth: Wukong is worth trying. Just be prepared to slow things down a bit and focus fully on your workout!
-
----
-
-Mr. Game and Sweat Reviews: Black Myth: Wukong - By Taylor Owen Dorsett

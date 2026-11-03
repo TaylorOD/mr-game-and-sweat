@@ -46,7 +46,3 @@ In summary, Saints Row: The Third stands out as an excellent choice for gamers l
 ### Overall Score: 2.33 out of 3
 
 In conclusion, lace up those running shoes or hop on that bike, and prepare for a wild ride with Saints Row: The Third, where chaotic fun meets a great workout!
-
----
-
-Mr. Game and Sweat Reviews: Saints Row: The Third - By Taylor Owen Dorsett

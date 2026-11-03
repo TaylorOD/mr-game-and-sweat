@@ -44,7 +44,3 @@ The computer requirements for Ori and the Blind Forest: Definitive Edition are r
 Ori and the Blind Forest: Definitive Edition strikes an exceptional balance between a deeply immersive experience and a workout-friendly accessibility that caters to fitness-focused gamers. The engaging gameplay and thoughtful design encourage exploration, while the moderate demands on your computer ensure that many users can enjoy this beautiful journey. In terms of treadmill and bike compatibility, it ticks most of the boxes, making it a great partner for your exercise sessions.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Ori and the Blind Forest: Definitive Edition - By Taylor Owen Dorsett

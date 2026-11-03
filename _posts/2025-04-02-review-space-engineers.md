@@ -43,7 +43,3 @@ Space Engineers is moderately demanding on computer hardware. While you could ru
 Overall, Space Engineers is an engaging title that successfully combines creativity with survival gameplay. Though it can occasionally distract you from your workout, it offers the flexibility to pause and adapt to your exercise needs. With good controller compatibility and manageable requirements for most systems, it's a solid choice for those looking to build and explore while being active. Just remember to find a balance—you don't want to miss out on your treadmill session because you're lost in space!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Space Engineers - By Taylor Owen Dorsett

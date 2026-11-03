@@ -44,7 +44,3 @@ Playing *Persona 5 Royal* on a treadmill or bike is quite feasible. The game sup
 In summary, *Persona 5 Royal* delivers an engaging mix of storytelling and gameplay that is enjoyable during workout sessions. While it has its share of slow moments, the overall experience remains captivating without becoming too distracting. It suits moderate-paced exercises well, provided you are ready for some occasional pauses. With easy computer requirements, it’s accessible for most players looking to combine fitness and gaming. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Persona 5 Royal - By Taylor Owen Dorsett

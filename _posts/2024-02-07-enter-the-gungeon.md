@@ -43,7 +43,3 @@ Playing "Enter the Gungeon" while running on a treadmill or riding an exercise b
 As a result, we give "Enter the Gungeon" an overall score of 2 out of 3. It excels in providing a unique and challenging experience but may not be the best choice for those looking to integrate gaming into their exercise routine.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Enter the Gungeon - By Jonas

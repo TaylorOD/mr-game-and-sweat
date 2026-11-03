@@ -44,7 +44,3 @@ When it comes to compatibility with treadmill running or biking, "Little Nightma
 In summary, "Little Nightmares" is a phenomenal choice for gamers who are looking to combine their love for immersive storytelling and puzzle-solving with a workout. Its engaging gameplay, excellent treadmill and bike compatibility, as well as low system demands make it an appealing option for fitness enthusiasts keen on gaming. Whether you’re sprinting through its nightmarish levels or cycling steadily, the game keeps you enthralled and physically active.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Little Nightmares - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Deceit is not overly demanding, making it accessible for many users. The game re
 "Deceit" offers an exciting blend of strategy, teamwork, and deception that thrives on social interaction, making it a perfect match for those looking to combine gaming with cardio workouts. The absence of long cutscenes and slow gameplay keeps you glued to your screen while you run or cycle, making it a solid choice for exercise gamers. While the controller compatibility is great, be prepared to stay steady during those tense moments, and rest assured, your computer likely won't struggle too much to run it. Overall, this game delivers an exhilarating and engaging experience that can be enjoyed while working up a sweat.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Deceit - By Taylor Owen Dorsett

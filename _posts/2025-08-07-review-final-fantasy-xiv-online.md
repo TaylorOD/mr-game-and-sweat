@@ -43,7 +43,3 @@ As a modern MMORPG, FINAL FANTASY XIV does have some system demands you should c
 In conclusion, FINAL FANTASY XIV Online marries a richly woven narrative and engaging gameplay with a level of compatibility that allows players to maintain an active lifestyle. Although some slow sections might hinder the flow of an intense workout, the game remains a solid choice for those wanting to enjoy a great story while staying fit on a treadmill or bike. Minor Computer requirements are also a consideration, but overall, it’s a game that can celebrate both your virtual adventures and your fitness goals.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: FINAL FANTASY XIV Online - By Taylor Owen Dorsett

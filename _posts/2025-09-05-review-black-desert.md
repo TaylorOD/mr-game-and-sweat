@@ -43,7 +43,3 @@ Being a visually rich game, Black Desert does have significant demands on your c
 Black Desert is undeniably captivating and possesses a thrilling gameplay experience that can work alongside your exercise regime, with some caveats. While it keeps players engaged and is compatible with controllers, the fast-paced nature of the game and its higher computer requirements might challenge serious exercise enthusiasts. 
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Black Desert - By Taylor Owen Dorsett

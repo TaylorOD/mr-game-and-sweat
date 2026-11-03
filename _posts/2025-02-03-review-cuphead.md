@@ -46,7 +46,3 @@ Cuphead's system requirements are relatively modest, which works to its advantag
 Cuphead delivers an engaging experience paired with eye-catching art, but its demanding gameplay might not always complement a workout routine. While it’s an excellent choice for those looking for visual stimulation while exercising, the need for quick reflexes can make it challenging to balance both aspects. However, with a solid computer requirement setup, it's accessible to many. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cuphead - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ Hotline Miami is refreshingly light on resources, making it accessible on a vari
 Hotline Miami transcends the typical indie game experience, combining engaging and brisk gameplay with minimal technical demand. While it ensures you stay hooked while exercising, the intensity of its mechanics may affect your performance if you are not careful. Still, if you’re looking to spice up your cardio sessions with an adrenaline rush, this game is a solid choice. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hotline Miami - By Taylor Owen Dorsett

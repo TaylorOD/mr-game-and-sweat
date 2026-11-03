@@ -48,7 +48,3 @@ Enshrouded is an exceptional game that captures the essence of survival and expl
 ### Overall Score: 2.33 out of 3 
 
 In summary, Enshrouded is a delightful addition to any workout-friendly gaming library, expertly balancing excitement and fitness in one compelling package. So gear up and get ready to explore while you stay active!
-
----
-
-Mr. Game and Sweat Reviews: Enshrouded - By Taylor Owen Dorsett

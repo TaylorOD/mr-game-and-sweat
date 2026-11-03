@@ -43,7 +43,3 @@ Playing "Vampire Survivors" while running on a treadmill or riding an exercise b
 As a result, we give "Vampire Survivors" an overall score of 3 out of 3. It excels in providing a unique and challenging experience while exercising.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Vampire Survivors - By Jonas

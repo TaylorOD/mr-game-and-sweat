@@ -43,7 +43,3 @@ Rust is known for its steep system requirements. To run it smoothly, you’ll ne
 Rust offers an exciting and highly immersive experience that pairs well with your fitness routine, provided you can manage the dual focus of survival and movement. The intense gameplay will keep you engaged without the need for long pauses or distractions, making it an excellent choice for those looking to burn calories while keeping themselves entertained. While there are some constraints regarding quick movements, with practice, players can find a rhythm that works. Just be aware of Rust's demanding computer requirements to maximize your enjoyment.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Rust - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ Battlefield 4 is known for its impressive visuals, which does come with fairly h
 Battlefield 4 beautifully combines thrilling, engaging gameplay with the potential for enjoyable exercising. While it’s not without its slower moments, the game’s immersive combat scenarios and ability to facilitate a tight connection with your workout leave a positive impression. It may not be perfectly optimized for light sessions on a treadmill or bike, but it certainly doesn’t detract from a solid workout experience either. Grab your controller, find your rhythm, and gear up for battle while burning those calories!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Battlefield 4 - By Taylor Owen Dorsett

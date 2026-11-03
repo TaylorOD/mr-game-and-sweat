@@ -43,7 +43,3 @@ When it comes to computer requirements, RimWorld is relatively light on resource
 In conclusion, RimWorld stands out as a fantastic choice for those who want to merge fitness and gaming seamlessly. The constant flow of challenges and strategic thinking keeps you engaged without overwhelming you while working out. Its smooth gameplay and relaxed mechanics make it easy to jump into while on a treadmill or bike, all while not demanding high-end hardware. 
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: RimWorld - By Taylor Owen Dorsett

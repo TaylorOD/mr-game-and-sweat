@@ -44,7 +44,3 @@ Resident Evil 7 is not overly demanding on hardware, making it moderately access
 Resident Evil 7 Biohazard is an exhilarating horror experience that successfully keeps your adrenaline flowing—and that’s a significant factor for those looking to maintain a workout routine. However, it does have its moments of slow pacing and requires a certain level of focus that might detract from your exercise goals. Still, if you're able to balance your workout with the heart-pounding moments the game provides, it can be an entertaining complement to your physical endeavor. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil 7 Biohazard - By Taylor Owen Dorsett

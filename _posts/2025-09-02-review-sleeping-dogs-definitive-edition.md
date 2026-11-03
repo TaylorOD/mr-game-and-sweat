@@ -48,7 +48,3 @@ Sleeping Dogs: Definitive Edition is demanding yet accessible. It requires at le
 Sleeping Dogs: Definitive Edition stands out as a compelling choice for active gamers. Its engaging gameplay and reasonable selection of fitness-compatible elements make it a worthwhile investments for those looking to exercise while indulging in a gripping story. Though it’s not perfectly suited for distraction-free exercise, it hits most marks effectively. 
 
 ### Overall Score: 2.33 out of 3  
-
----
-
-Mr. Game and Sweat Reviews: Sleeping Dogs: Definitive Edition - By Taylor Owen Dorsett

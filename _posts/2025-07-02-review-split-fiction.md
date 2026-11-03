@@ -42,7 +42,3 @@ On the technical side, "Split Fiction" boasts reasonable system requirements tha
 "Split Fiction" is an impressive workout companion that harmoniously blends engaging gameplay with the exhilarating experience of exercising. Its careful pacing keeps enthusiasts invested while allowing you to focus on your physical activity. The compatibility for treadmills and bikes rounds out its appeal, proving that gaming doesn’t have to take a backseat to fitness. The only slight detraction is its moderately demanding specs, which could limit accessibility for some players. Overall, this game strikes a perfect balance for those looking to stay active while diving into a thrilling narrative.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Split Fiction - By Taylor Owen Dorsett

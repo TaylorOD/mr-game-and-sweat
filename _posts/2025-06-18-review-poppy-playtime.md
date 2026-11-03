@@ -45,7 +45,3 @@ In conclusion, Poppy Playtime successfully creates an engaging and atmospheric h
 ### Overall Score: 2 out of 3 
 
 If you’re seeking a spooky gaming experience that can keep you entertained while staying fit, Poppy Playtime is worth a go! Just remember to amp up your pace during those thrilling chases!
-
----
-
-Mr. Game and Sweat Reviews: Poppy Playtime - By Taylor Owen Dorsett

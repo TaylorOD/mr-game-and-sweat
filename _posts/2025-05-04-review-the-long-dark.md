@@ -44,7 +44,3 @@ The Long Dark isn’t particularly demanding—it runs smoothly on a range of sy
 The Long Dark stands out for its engaging survival mechanics, making it a fantastic choice for gamers seeking an immersive experience while they exercise. Its compatibility with both treadmill and bike setups ensures that you can maintain your workout while enjoying the intricacies of survival. Although it may require a reasonable computer setup, its accessibility can be considered a plus. Overall, if you're in search of a game that brings you closer to nature—and the thrill of survival—while you enhance your fitness routine, The Long Dark is a remarkable option.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Long Dark - By Taylor Owen Dorsett

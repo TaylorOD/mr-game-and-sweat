@@ -43,7 +43,3 @@ Stumble Guys is not a graphically demanding game, which is excellent news for pl
 In summary, Stumble Guys offers an engaging and entertaining experience that's perfect for gamers looking to combine fun with exercise. While it has its chaotic moments that could distract from your workout, the lighthearted gameplay and controller compatibility make it a reasonable choice for those using a treadmill or bike. Plus, its low system requirements ensure that almost anyone can join in on the fun without any technical hitches.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Stumble Guys - By Taylor Owen Dorsett

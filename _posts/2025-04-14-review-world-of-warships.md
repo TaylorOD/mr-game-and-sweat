@@ -45,7 +45,3 @@ Overall, "World of Warships" provides a fun, engaging, and visually appealing na
 ### Overall Score: 2 out of 3
 
 Set your course for an engaging battle on the seas, and let "World of Warships" transform your workout into an exhilarating voyage!
-
----
-
-Mr. Game and Sweat Reviews: World of Warships - By Taylor Owen Dorsett

@@ -42,7 +42,3 @@ The game is relatively compatible with treadmill and bike setups, especially sin
 In conclusion, "METAL GEAR RISING: REVENGEANCE" delivers a thrilling experience that successfully merges fast-paced action and an engaging storyline, making it a fun addition to your gaming workout routine. With manageable gameplay requirements and decent compatibility for treadmill and bike users, you can seamlessly enjoy the intense action while keeping up with your exercise regimen. A couple of minor cut scenes may arise, but they don't weigh heavily on the experience. Overall, this game offers a great way to stay active while enjoying a high-octane adventure.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: METAL GEAR RISING: REVENGEANCE - By Taylor Owen Dorsett

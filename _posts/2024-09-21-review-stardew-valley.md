@@ -44,7 +44,3 @@ In terms of computer requirements, Stardew Valley is quite forgiving. It is ligh
 Overall, Stardew Valley is an excellent choice for gamers who want to maintain an active lifestyle while enjoying delightful gameplay. It keeps you engaged without valuable exercise time being hijacked by cut scenes or complex mechanics. With its high compatibility for treadmill and bike use and minimal computer requirements, it's a wholesome and absorbing experience.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Stardew Valley - By Taylor Owen Dorsett

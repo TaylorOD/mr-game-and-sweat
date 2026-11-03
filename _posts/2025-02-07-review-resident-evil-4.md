@@ -44,7 +44,3 @@ As for computer requirements, Resident Evil 4 is relatively forgiving. The game 
 In summary, Resident Evil 4 provides a thrilling experience with strong gameplay mechanics that can keep you entertained while you run or cycle. While there are moments of slower pacing, the thrilling action makes up for it, and its decent compatibility with workout regimens speaks to its design. With easy computer requirements, it strikes the right balance between gaming intensity and your exercise routine. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Resident Evil 4 - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Playing "Cobalt Core" during a treadmill or bike session is a great experience. 
 Overall, we give "Cobalt Core" a perfect score of 3 out of 3. It’s a stellar addition to any gamer’s library, especially for those who want to stay active while enjoying top-tier gameplay.
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Cobalt Core - By Taylor Owen Dorsett

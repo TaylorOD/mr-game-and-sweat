@@ -44,7 +44,3 @@ When it comes to computer demands, No Man's Sky has reasonable requirements that
 Overall, No Man's Sky offers a perfect blend of engaging exploration with the flexibility to play while exercising. It’s easy to lose yourself in the vastness of space, and the control scheme makes it a great fit for users on treadmills or bikes. You can keep your heart rate up while discovering new worlds without becoming frustrated by overly demanding mechanics. While it has some demands on system hardware, most players will be able to enjoy it without needing a top-of-the-line rig.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: No Man's Sky - By Taylor Owen Dorsett

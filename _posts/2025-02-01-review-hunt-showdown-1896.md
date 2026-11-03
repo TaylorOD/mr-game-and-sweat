@@ -50,7 +50,3 @@ This title requires a decent setup for you to fully appreciate its graphics and 
 Hunt: Showdown 1896 offers an immersive, adrenaline-pumping experience that manages to remain largely compatible with treadmill and bike workouts. While the focus on strategy means you won’t miss out on the intensity while exercising, it does require your attention whether you’re tracking a monster or opposing hunters. Coupled with reasonable computer requirements, this game makes for an exciting workout companion, but it's vital to maintain a steady pace to avoid losing your footing amidst the chaos.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Hunt: Showdown 1896 - By Taylor Owen Dorsett

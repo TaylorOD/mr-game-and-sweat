@@ -47,7 +47,3 @@ AdVenture Capitalist is not a demanding game in terms of computer requirements. 
 AdVenture Capitalist is a delightful and light-hearted way to engage with gaming while incorporating physical activity into your day. While it may not be the most engaging during longer workout sessions, its low demand and idle gameplay style make it easy to play and stay active at the same time. The game’s simplicity and compatibility with various exercise machines earn it solid scores overall.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: AdVenture Capitalist - By Taylor Owen Dorsett

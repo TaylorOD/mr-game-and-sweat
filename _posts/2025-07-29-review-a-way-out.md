@@ -44,7 +44,3 @@ A Way Out is not overly demanding concerning hardware specifications. It require
 In conclusion, A Way Out provides an engaging and immersive experience perfect for those looking to combine fitness with gaming. Its cooperative dynamics and balanced gameplay keep you on your toes while allowing for a distraction-free workout. Though there are some slower sections and moments that require focus, they do not significantly detract from the overall experience. With moderate computer requirements and enjoyable gameplay, it serves as an excellent choice for gamers who enjoy active play. 
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: A Way Out - By Taylor Owen Dorsett

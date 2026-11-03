@@ -43,7 +43,3 @@ This game requires a decent rig to ensure smooth performance. Recommended specif
 "Warhammer 40,000: Darktide" brilliantly intertwines engaging, cooperative gameplay with the excitement of the Warhammer universe, providing a workout-friendly experience. While it succeeds on multiple fronts, minor quibbles about focus during gameplay and hardware requirements hold it back from a perfect score. All in all, it's an exhilarating ride, whether you’re jogging in place or pedaling away as you mow down hordes of enemies.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Warhammer 40,000: Darktide - By Taylor Owen Dorsett

@@ -46,7 +46,3 @@ Overall, “Friday the 13th: The Game” provides a decent experience for those 
 ### Overall Score: 2 out of 3
 
 Whether you want to escape Jason on foot or from a stationary bike, this game is guilty of providing both thrills and moderate engagement—perfect for gamers looking to inject some cardio into their evening gaming sessions. Just be prepared for a few moments of calm amidst the chaos!
-
----
-
-Mr. Game and Sweat Reviews: Friday the 13th: The Game - By Taylor Owen Dorsett

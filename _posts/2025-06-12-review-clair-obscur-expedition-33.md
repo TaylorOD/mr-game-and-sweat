@@ -44,7 +44,3 @@ On the technical side, "Clair Obscur: Expedition 33" is not excessively demandin
 In conclusion, "Clair Obscur: Expedition 33" successfully marries captivating gameplay with compatibility for an active lifestyle. With minimal distractions to your workout, responsive controls, and reasonable computer requirements, it caters beautifully to gamers looking to exercise simultaneously. Whether you're pounding out miles on a treadmill or cranking up the resistance on a bike, this game has got you covered. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Clair Obscur: Expedition 33 - By Taylor Owen Dorsett

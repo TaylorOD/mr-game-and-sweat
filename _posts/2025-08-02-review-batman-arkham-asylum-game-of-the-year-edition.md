@@ -43,7 +43,3 @@ As for computer requirements, the "Game of the Year" edition is accommodating. W
 In summary, "Batman: Arkham Asylum Game of the Year Edition" lives up to its hype, providing a riveting experience that holds your attention while you work out. While it excels in gameplay and is reasonably compatible with exercise equipment, some twitchy gameplay elements might momentarily distract you from your cardio goals. Nevertheless, it strikes the right balance for those looking to combine gaming with fitness.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Batman: Arkham Asylum Game of the Year Edition - By Taylor Owen Dorsett

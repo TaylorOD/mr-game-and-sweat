@@ -46,7 +46,3 @@ Overcooked! 2 is a fantastic option for those who want to enjoy a vibrant, actio
 ### Overall Score: 2.33 out of 3
 
 If you're looking for a game that juggles frantic kitchen antics with a good dose of fun and camaraderie while you work up a sweat, Overcooked! 2 shouldn’t be missed! Grab your friends, hit that treadmill, and get cooking!
-
----
-
-Mr. Game and Sweat Reviews: Overcooked! 2 - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ War Thunder does have a range of system requirements, but it can run smoothly on
 War Thunder is an engaging game that seamlessly combines history and strategy with rapid-fire action, making it a fantastic choice for players who want to enjoy their gaming sessions while getting a workout in. With controller compatibility making exercise feasible while you battle it out in the skies and on the ground, players are sure to remain entertained and motivated. Just keep an eye on the computer requirements to ensure smooth sailing through your exercise routines.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: War Thunder - By Taylor Owen Dorsett

@@ -48,7 +48,3 @@ From a technical standpoint, Battlefield 2042 can be quite demanding. Players wi
 In conclusion, Battlefield 2042 delivers a thrilling experience that aligns well with exercising on a treadmill or bike. The fast-paced gameplay keeps your heart rate up, and controller compatibility ensures you can glide through battles while maintaining physical activity. Though the game’s demands on hardware might require investment and ensure you’ve got a capable setup, the overall enjoyment and engagement offered by the game more than compensate for that.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Battlefield 2042 - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ For those looking to play the Legendary Edition on a computer, it’s not overly
 Mass Effect Legendary Edition is an outstanding experience that seamlessly combines narrative depth with invigorating gameplay. Its ability to keep players engaged while exercising makes it a great fit for those who want to multitask and avoid the mundane treadmill blues. Coupled with fair hardware demands, it opens doors for a broad audience to enjoy this remastered classic. Whether you’re a long-time fan or new to the franchise, this edition is worth suiting up for some intergalactic adventure, all while getting those steps in.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mass Effect Legendary Edition - By Taylor Owen Dorsett

@@ -44,7 +44,3 @@ As for computer requirements, Divinity: Original Sin 2 isn’t the most demandin
 In conclusion, Divinity: Original Sin 2 - Definitive Edition excels in terms of gameplay and compatibility with exercising, making it an excellent choice for those who want to immerse themselves in a rich RPG world while staying active. Its turn-based combat allows for seamless integration with treadmill or bike workouts, ensuring you can focus on your fitness goals without sacrificing gameplay. However, be mindful of the system requirements to avoid any performance issues.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Divinity: Original Sin 2 - Definitive Edition - By Taylor Owen Dorsett

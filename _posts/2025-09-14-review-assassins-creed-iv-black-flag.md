@@ -6,7 +6,7 @@ comments: false
 disqus: false
 date:   2025-09-14T00:10:08.825Z
 categories: [ review, game ]
-excerpt: "Ahoy, gamers and fitness enthusiasts!"
+excerpt: "Ahoy, gamers and fitness enthusiasts! If you're looking for an exhilarating experience that combines historical intrigue with high seas adventure, look no further than \"Assassin’s Creed IV: Black Flag.\" This..."
 score_gameplay: 2
 score_treadmill: 2
 score_computer: 2
@@ -43,7 +43,3 @@ Being a game released in 2013, "Assassin’s Creed IV: Black Flag" does have mod
 "Assassin’s Creed IV: Black Flag" strikes a brilliant balance between engaging gameplay and rich storytelling, making it a worthwhile addition for gamers who want to keep their heart rates up while navigating pirate-infested waters. Though it has moments that could interrupt your workout flow, the combination of exploration and action ensures you’ll have more engaging than dull moments. Grab your controller, strap on those fitness shoes, and prepare to become a legend in the golden age of piracy!
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assassin’s Creed IV Black Flag - By Taylor Owen Dorsett

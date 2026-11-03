@@ -43,7 +43,3 @@ Unity is relatively demanding, especially given its stunning graphical fidelity.
 Assassin's Creed Unity offers a fantastic blend of rich storytelling and engaging gameplay that can fit within an exercise routine—albeit with a few minor interruptions due to cutscenes. With its controller compatibility and a structure that allows for a steady workout pace, it successfully engages players without demanding their full attention all the time. While some segments could be distracting, the overall experience offers enough thrill and immersion to keep your feet moving whether you’re on a treadmill or a bike. 
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Assassin's Creed Unity - By Taylor Owen Dorsett

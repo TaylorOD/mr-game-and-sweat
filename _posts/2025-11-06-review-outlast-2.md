@@ -45,7 +45,3 @@ The minimum requirements call for a 64 bit version of Windows, 4 GB of memory, a
 Outlast 2 has enough tension to hold your attention, but its chases and stealth make it a poor choice for exercising at a steady pace. It fits better on a bike than a treadmill, where you can ease off when things get rough.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Outlast 2 - By Taylor Owen Dorsett

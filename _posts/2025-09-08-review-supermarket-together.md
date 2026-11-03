@@ -43,7 +43,3 @@ In terms of computer requirements, Supermarket Together is relatively modest. Th
 Supermarket Together offers an engaging, fun, and energetic gaming experience that pairs perfectly with exercising on a treadmill or bike. With its fast-paced gameplay and easy compatibility, it allows players to stay active and entertained at the same time. While the game has slightly less demanding computer requirements, it stands out for its ability to blend cooperation and physical activity seamlessly. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Supermarket Together - By Taylor Owen Dorsett

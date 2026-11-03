@@ -44,7 +44,3 @@ The listed graphics requirements start at old dedicated cards like the NVIDIA 86
 Max Payne 3 is a strong action game, but its mix of long scenes and precision shooting makes it a fussy workout companion. The complete edition includes the original game and all previously released downloadable content. Choose it for a steady bike session, not a run where you want to zone out.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Max Payne 3 - By Taylor Owen Dorsett

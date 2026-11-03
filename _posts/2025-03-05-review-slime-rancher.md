@@ -42,7 +42,3 @@ From a technical perspective, "Slime Rancher" is quite forgiving. It doesn’t d
 In conclusion, "Slime Rancher" is an enjoyable and visually stunning game that strikes a balance between engaging gameplay and a relaxed atmosphere, making it a solid choice for those looking to incorporate gaming into their workout routines. Its compatibility with treadmill and bike setups is excellent, paired with reasonable computer requirements, allowing you to play without hassle. While it might not hold your attention every second due to the game’s laid-back pace, its charm and strategy make it a fun companion on your fitness journey.
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Slime Rancher - By Taylor Owen Dorsett

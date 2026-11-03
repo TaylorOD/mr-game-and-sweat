@@ -43,7 +43,3 @@ Despite its engaging gameplay, SCP: Secret Laboratory is relatively light on sys
 SCP: Secret Laboratory delivers a gripping and captivating gameplay experience that keeps you engaged, making it a perfect fit for those looking to exercise on a treadmill or bike while diving into a world of suspense. Its compatibility with controllers ensures a seamless experience without compromising the intensity that keeps you coming back for more. While it could enhance its treadmill compatibility with slightly smoother transitions during gameplay, it performs admirably overall. 
 
 ### Overall Score: 2.5 out of 3
-
----
-
-Mr. Game and Sweat Reviews: SCP: Secret Laboratory - By Taylor Owen Dorsett

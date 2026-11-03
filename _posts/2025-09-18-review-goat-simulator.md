@@ -44,7 +44,3 @@ Goat Simulator isn't incredibly demanding on system resources, making it accessi
 In summary, Goat Simulator offers delightful gameplay that serves as an engaging distraction while you sweat it out on a treadmill or bike. It strikes a perfect balance between fun and fitness, allowing you to laugh your way through chaos without compromising your workout routine. The game’s low system requirements add to its charm, ensuring almost anyone can join in on the fun. Whether you're a fitness fanatic or a gamer looking for some absurdity to mix with your cardio, Goat Simulator is worth a try.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Goat Simulator - By Taylor Owen Dorsett

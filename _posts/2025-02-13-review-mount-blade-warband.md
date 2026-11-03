@@ -43,7 +43,3 @@ Mount & Blade: Warband is not particularly demanding on system resources. It’s
 In conclusion, Mount & Blade: Warband stands out as a fantastic choice for gamers who wish to stay active while indulging in deep, strategic gameplay. The combination of immersive mechanics and moderate pacing ensures that you can maintain a workout routine without getting lost in prolonged cutscenes or frantic gameplay. It allows for an enjoyable gaming experience while running or biking, making it a worthwhile addition to any exercise program.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Mount & Blade: Warband - By Taylor Owen Dorsett

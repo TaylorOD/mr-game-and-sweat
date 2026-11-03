@@ -42,7 +42,3 @@ The game's pixel-art style keeps it visually appealing without demanding high-en
 If you're looking for a game that enhances your workout experience rather than detracts from it, "Don't Starve Together" is an excellent choice. With its engaging gameplay, perfect compatibility for treadmill or bike workouts, and low computer demands, it caters to fitness enthusiasts without compromising on fun. Just be prepared to keep an eye on the clock as you dive deeper into survival—a tantalizing world of crafting awaits that can easily keep you playing well past your workout time!
 
 ### Overall Score: 3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Don't Starve Together - By Taylor Owen Dorsett

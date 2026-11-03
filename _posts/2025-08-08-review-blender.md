@@ -43,7 +43,3 @@ Blender is not particularly demanding on computer hardware, which is usually a c
 Overall, Blender provides a unique experience that can be enjoyed during a workout. Its engaging gameplay and moderate computer requirements make it a good fit for those looking to combine creativity with cardio. There are minor interruptions in the flow due to the need for occasional concentrated focus, but they're manageable. If you're seeking a fun way to distract yourself while exercising, Blender could be an excellent addition to your gaming library.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Blender - By Taylor Owen Dorsett

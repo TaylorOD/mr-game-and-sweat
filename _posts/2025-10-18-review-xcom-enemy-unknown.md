@@ -44,7 +44,3 @@ Fortunately, XCOM: Enemy Unknown isn't particularly demanding on your computer. 
 XCOM: Enemy Unknown offers an engaging blend of strategic gameplay and intense squad-based action that can complement your exercise routine well. With a good compatibility score for controllers and a forgiving demand on computer resources, it’s a solid choice for gamers looking to burn calories while leading their troops to victory. Just remember to balance your focus on the game and your workout intensity, and you’ll find yourself enjoying every moment of this tactical adventure.
 
 ### Overall Score: 2.3 out of 3
-
----
-
-Mr. Game and Sweat Reviews: XCOM: Enemy Unknown - By Taylor Owen Dorsett

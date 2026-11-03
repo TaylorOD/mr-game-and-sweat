@@ -43,7 +43,3 @@ Noita's computer requirements are relatively moderate compared to many modern ti
 Noita delivers a delightful roguelike experience filled with magic and mayhem, perfectly suited for gamers who want to elevate their workout sessions. Its fast-paced gameplay caters well to the treadmill and bike compatibility, allowing players to engage with the game without losing momentum in their exercise routines. Although there are minor quirks when controlling it while exercising, the immersive gaming experience it offers outweighs these concerns. As a title that blends both excitement and accessibility, Noita scores high in our fitness-friendly gaming category.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Noita - By Taylor Owen Dorsett

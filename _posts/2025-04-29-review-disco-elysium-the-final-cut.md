@@ -50,7 +50,3 @@ Disco Elysium - The Final Cut is a beautifully crafted experience that offers a 
 ### Overall Score: 2.33 out of 3
 
 If you're looking for a narrative-driven game to enjoy while exercising, Disco Elysium - The Final Cut offers a unique experience that can keep your mind engaged, just be prepared for the slower pacing that might shift your focus during those critical running or biking moments.
-
----
-
-Mr. Game and Sweat Reviews: Disco Elysium - The Final Cut - By Taylor Owen Dorsett

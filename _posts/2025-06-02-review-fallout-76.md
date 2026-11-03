@@ -51,7 +51,3 @@ In conclusion, Fallout 76 offers a thrilling, albeit sometimes cumbersome, journ
 Overall, if you enjoy a good RPG and want to combine it with your workout, Fallout 76 is definitely a worthy pick, but be prepared for some bumps along the way.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Fallout 76 - By Taylor Owen Dorsett

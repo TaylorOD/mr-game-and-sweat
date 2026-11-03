@@ -44,7 +44,3 @@ The minimum calls for a 64 bit Windows 10 system, 4 GB of memory, and an older d
 Rising Storm 2: Vietnam has tense, varied battles, but its demanding aim and unpausable multiplayer make it a poor workout companion. Save it for when you can give the match your full attention.
 
 ### Overall Score: 1.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Rising Storm 2: Vietnam - By Taylor Owen Dorsett

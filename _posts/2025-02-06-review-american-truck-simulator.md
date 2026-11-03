@@ -47,7 +47,3 @@ American Truck Simulator isn’t overly demanding on your computer, which is gre
 American Truck Simulator provides a relaxing simulation experience that is perfect for gamers who want to incorporate fitness into their daily routine. With its engaging gameplay, excellent compatibility with treadmill and bike workouts, and reasonable computer requirements, ATS strikes a perfect balance between working out and gaming. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: American Truck Simulator - By Taylor Owen Dorsett

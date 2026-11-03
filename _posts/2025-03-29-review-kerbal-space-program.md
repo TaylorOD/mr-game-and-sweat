@@ -47,7 +47,3 @@ KSP isn’t extravagant in demanding computer specifications, meaning it can run
 Kerbal Space Program is a fantastic title that seamlessly balances engaging gameplay with compatibility for an active lifestyle. Its lack of cut scenes ensures you remain focused whether you’re building your next rocket or jogging on the treadmill. While certain precision tasks may take slight attention away from your workout, overall, it provides a highly immersive experience that complements physical activity rather well. 
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Kerbal Space Program - By Taylor Owen Dorsett

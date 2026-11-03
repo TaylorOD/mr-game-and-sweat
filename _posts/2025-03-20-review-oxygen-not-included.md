@@ -51,7 +51,3 @@ This accessibility makes it easier for those with modest setups to enjoy the gam
 ### Overall Score: 2.67 out of 3
 
 In summary, if you're looking for a game that lets you exercise while keeping your mind sharp, "Oxygen Not Included" is a solid investment. It’s rich in strategy and creativity, ensuring that every workout is invigorating both physically and mentally!
-
----
-
-Mr. Game and Sweat Reviews: Oxygen Not Included - By Taylor Owen Dorsett

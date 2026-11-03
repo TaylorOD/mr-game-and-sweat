@@ -44,7 +44,3 @@ On the technical side, Halo: MCC requires a decent rig to run smoothly, but it's
 Halo: The Master Chief Collection is an exciting option for gamers looking to elevate their exercise sessions. With engaging gameplay that mostly keeps you moving, combined with the flexibility for controllers and palatable computer requirements, it makes for a compelling workout companion. Just be aware of the occasional slower sections, which might disrupt the rhythm of your treadmill run or bike ride. All in all, if you want to mix exercise with classic gaming, MCC is an excellent pick.
 
 ### Overall Score: 2.57 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Halo: The Master Chief Collection - By Taylor Owen Dorsett

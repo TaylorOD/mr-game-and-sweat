@@ -44,7 +44,3 @@ Insurgency isn't overly demanding on your hardware, which is good news for gamer
 In summary, Insurgency delivers a gripping experience that successfully combines engaging gameplay with the potential to improve your fitness routine. With minimal downtime and a steady pace that can be comfortably matched with your exercise, it will keep you both entertained and motivated. While it doesn't score a perfect trifecta in all categories, it holds its ground as an excellent option for gamers who like to put in the miles while shooting their way through immersive environments.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Insurgency - By Taylor Owen Dorsett

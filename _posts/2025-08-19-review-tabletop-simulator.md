@@ -44,7 +44,3 @@ Tabletop Simulator is quite forgiving in terms of its computer requirements. It 
 Tabletop Simulator is a unique blend of fun and fitness-friendly gameplay, especially for board game enthusiasts. While it might not be the most fast-paced choice for keeping your heart racing, its flexibility allows for reasonably interactive sessions while you exercise. The computer requirements are very accommodating, which adds further appeal. If you’re in search of a platform that enables recreation while still keeping you on the move, Tabletop Simulator is a solid pick.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Tabletop Simulator - By Taylor Owen Dorsett

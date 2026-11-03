@@ -43,7 +43,3 @@ In terms of computer requirements, Soundpad is pretty lightweight. It doesn't de
 In conclusion, Soundpad offers an engaging and energetic experience that aligns well with the needs of those looking to stay fit while enjoying gaming. Its smooth gameplay keeps you focused and moving, while its moderate hardware requirements ensure accessibility for most users. If you’re seeking a unique way to elevate your treadmill runs or cycling sessions with the excitement of sound manipulation, this game is a top contender. It supports a rhythmically charged atmosphere without overcomplicating controls, making it an excellent addition to your exercise gaming rotation.
 
 ### Overall Score: 2.67 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Soundpad - By Taylor Owen Dorsett

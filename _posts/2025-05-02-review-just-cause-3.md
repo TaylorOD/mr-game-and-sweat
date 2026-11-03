@@ -48,7 +48,3 @@ On the technical front, Just Cause 3 requires a decent setup to run smoothly. Th
 In conclusion, Just Cause 3 offers a thrilling gaming experience filled with chaos and explosive fun, which can fit well into an exercise routine — provided you can maintain focus through some quieter moments. While the treadmill or bike compatibility is decent, players should be cautious about how those moments may impact overall engagement in your workout. Technology-wise, ensure your computer can handle the demands of this action-packed title to maximize enjoyment without interruptions.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Just Cause 3 - By Taylor Owen Dorsett

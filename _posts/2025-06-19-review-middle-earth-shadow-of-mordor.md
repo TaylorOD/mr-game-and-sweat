@@ -43,7 +43,3 @@ Shadow of Mordor is moderately demanding on your system, and while it won’t ne
 In summary, Middle-earth: Shadow of Mordor provides an exhilarating experience, with engaging gameplay that can occasionally disrupt your workout rhythm due to its slower segments and need for concentration. Still, it offers enough dynamic action to keep your heart rate up while you navigate Talion’s quest for vengeance. If you're ready to tread and slay foes in Mordor, just be sure to manage the slower moments wisely.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Middle-earth: Shadow of Mordor - By Taylor Owen Dorsett

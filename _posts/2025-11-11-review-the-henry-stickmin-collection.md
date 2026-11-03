@@ -41,7 +41,3 @@ The minimum specs ask for an Intel HD 4000, 4 GB of RAM, and just 1 GB of storag
 The Henry Stickmin Collection is a funny, low demand game with lots of branching choices and silly failures. It is better for an easy workout than a fast run, since the timed prompts can pull your attention away from your pace.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: The Henry Stickmin Collection - By Taylor Owen Dorsett

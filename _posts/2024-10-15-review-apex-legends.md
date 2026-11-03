@@ -44,7 +44,3 @@ When it comes to system demands, Apex Legends requires a decent setup for optima
 Overall, Apex Legends offers an adrenaline-fueled experience that keeps you engaged and challenges your teamwork skills while allowing for an energetic workout. While certain gameplay mechanics may require some adjustments to maintain a steady pace, the game’s flow and lack of interruptions will help keep your heart rate up. With a solid middle ground for both your fitness and gaming needs, Apex Legends is a worthy title for any gamer's workout playlist.
 
 ### Overall Score: 2.33 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Apex Legends - By Taylor Owen Dorsett

@@ -43,7 +43,3 @@ Elite Dangerous is relatively demanding on computer hardware, especially at high
 In conclusion, Elite Dangerous effectively combines the exploration of a vast universe with engaging enough gameplay that keeps you interested. While there are moments that may slow down your exercise routine, the overall experience is rewarding enough to make up for it. With its good compatibility for controllers, you can easily navigate your ship while maintaining your workout. Just make sure your computer can handle the graphical demands, especially if you want to enjoy it fully while getting fit.
 
 ### Overall Score: 2 out of 3
-
----
-
-Mr. Game and Sweat Reviews: Elite Dangerous - By Taylor Owen Dorsett
