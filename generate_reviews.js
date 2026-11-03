@@ -215,13 +215,13 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
   ${steamFacts ? `\n  Facts from the store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
   ${options.desk ? `This review is for our Great Games, Bad Workouts series. This is a great game that you should not play while exercising, because of things like needing a mouse and keyboard, careful thinking or a lot of reading. Be honest about what makes it great, then be clear about why that works against a workout. The Treadmill and Bike Compatibility score must be 0 or 1. Scores are about workouts, not how good the game is, so low scores are fine. End the conclusion by telling people to play it at their desk.\n\n  ` : ''}Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
 
-  Scores are whole numbers. Be a tough critic and use the whole scale. Most games should score 1 or 2 in a category. A 3 is rare. Do not give 2 by default, pick the score the rubric below gives you.
+  Scores are whole numbers. Plenty of games should get a 2 or higher. A 3 means I enjoyed it and would tell you to play it, not that its perfect, and a perfect 3 in every category should be somewhat rare. A 1 means there is a real problem you would warn a friend about. Pick the score the rubric below gives you.
 
-  Gameplay: 3 means constant action with almost no cut scenes or waiting. 2 means engaging with some slow parts. 1 means long cut scenes, a lot of reading or a lot of waiting. 0 means mostly menus, story or sitting still.
+  Gameplay: 3 means a great game that keeps you busy and has few cut scenes or waiting. 2 means a good game with some slow parts. 1 means long cut scenes, a lot of reading or a lot of waiting get in the way. 0 means mostly menus, story or sitting still.
 
-  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means full controller support but some sections need focus or timing. 1 means no controller support, fast reactions, precise aiming, stealth, horror chases, or competitive multiplayer you cant pause. 0 means you basically cant play it while moving.
+  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means it works with a controller but some sections need focus, timing, fast reactions or aiming. 1 means no controller support, or the game punishes you hard for any mistake you make while moving, like competitive multiplayer you cant pause. 0 means you basically cant play it while moving.
 
-  Computer Requirements: use the minimum requirements. 3 means it runs on integrated graphics. 2 means an old or basic dedicated graphics card is enough. 1 means a mid range graphics card or better. 0 means a high end gaming PC.
+  Computer Requirements: use the minimum requirements. 3 means it runs on integrated graphics or a very old graphics card. 2 means a normal mid range graphics card from the last several years is enough. 1 means it needs a recent, strong graphics card. 0 means only a high end gaming PC will do.
 
   Always include these sections in your review, using these exact headings:
 
