@@ -738,6 +738,8 @@ body {
 .best-list-image img {
 	display: block;
 	width: 100%;
+	aspect-ratio: 460 / 215;
+	object-fit: cover;
 	border-radius: 8px;
 }
 .article-post .best-list a {
