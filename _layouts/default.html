@@ -149,5 +149,6 @@
 		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+		{% if site.chat_api_url %}{% include chat.html %}{% endif %}
 	</body>
 </html>
