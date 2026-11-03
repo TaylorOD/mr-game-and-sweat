@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761890
 
 Albion Online presents itself as a sandbox MMORPG that offers a unique player-driven economy and an immersive world. But for the fitness-minded gamer, the key question remains: how well does it accommodate gameplay while you exercise? Let’s dive into the details.
 
-# Gameplay
+## Gameplay
 
 Albion Online's gameplay revolves around exploration, crafting, gathering resources, and engaging in PvP battles. Its open-world format allows for a leisurely pace, which is excellent for those looking to chat or strategize while on a treadmill or stationary bike. However, the game also features real-time combat and dynamic player interactions, which can become quite engaging. 
 
@@ -28,7 +28,7 @@ The game does feature a fair amount of slow sections, especially when you’re g
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Albion Online is well-suited for both treadmill and bike usage. The game supports both keyboard and mouse inputs as well as controller compatibility, which is a significant plus for those wanting to maintain their posture while exercising. The gameplay does not require rapid reflexes or excessive hand-eye coordination, meaning you can comfortably alternate your focus between the screen and your workout.
 
@@ -36,13 +36,13 @@ The combat system is relatively straightforward, allowing for some level of play
 
 ### Category Score: 2.5 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 Albion Online is not overly demanding on hardware, making it accessible for a broader range of players. Minimum specifications include a 2.0 GHz processor with at least 4GB of RAM, while recommended specs bump it up to a more modern setup with a dedicated graphics card. This low barrier of entry means you won't be overloading your system, which could lead to lag that distracts you from your workout.
 
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Albion Online successfully marries an engaging MMORPG experience with a relatively low-impact gaming style that suits those looking to exercise at the same time. While there are moments of slower gameplay, it keeps the interaction fun without requiring excessive focus that could detract from your workout. This game can be a solid companion during your gym sessions, provided you approach it with an understanding of its mechanics.
 

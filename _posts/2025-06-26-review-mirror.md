@@ -18,7 +18,7 @@ session_length: Medium
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644560/header.jpg
 ---
 
-# Gameplay
+## Gameplay
 
 "Mirror" is a visually striking puzzle-platformer that immerses players in an enigmatic world filled with reflective surfaces and intricate levels. The gameplay is engaging, as players manipulate their character's abilities to traverse various landscapes. The mechanics encourage exploration and problem-solving without overwhelming the player. 
 
@@ -26,7 +26,7 @@ One of the standout features is that it maintains a steady rhythm throughout, mi
 
 ### Category Score: 2.5 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 "Mirror" seamlessly integrates with treadmill and bike setups due to its simple controls. It can be played with a game controller or keyboard, making it versatile for different gaming environments. The gameplay is not overly reliant on quick reflexes or rapid movements, which is ideal for maintaining rhythm while exercising. This means you can enjoy the game without having to make abrupt motions that could throw off your stride or cadence on a treadmill or bike.
 
@@ -34,13 +34,13 @@ However, some puzzles may require players to lean into the gameplay more acutely
 
 ### Category Score: 2.5 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 While "Mirror" presents a visually rich experience, it is relatively light on system resources. The game's art style allows for impressive graphics while not demanding top-tier hardware. Players will be able to run it smoothly on mid-range setups without significant lag or stuttering. Moreover, the game's optimized performance means you can focus on your workout without worrying about technical hitches that might distract you or disrupt your flow.
 
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 In conclusion, "Mirror" offers a compelling blend of engaging mechanics, compatibility with physical exercise, and low computer demands, making it an excellent choice for those looking to sweat it out while enjoying a vibrant gaming experience. Its minor drawbacks in puzzle complexity are easily outweighed by the overall enjoyment and functionality it provides for treadmill and bike use.
 

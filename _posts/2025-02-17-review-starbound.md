@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211820
 
 Starbound is an indie exploration and sandbox game that invites players to traverse procedurally generated worlds across the cosmos. Created by Chucklefish, this pixel-art-styled adventure captivates the imagination and encourages creativity in a universe filled with alien societies, treasures, and the constant thrill of discovery. But how well does it hold up when paired with your treadmill or bike? Let’s delve into the details.
 
-# Gameplay
+## Gameplay
 
 Starbound offers an engaging gameplay experience filled with endless possibilities. Players can mine resources, craft items, and build anything from humble abodes to massive fortresses while exploring diverse worlds. The exploration aspect is exhilarating, and there’s a constantly changing environment that keeps players on their toes. The core mechanics are intuitive, with many tasks involving simple clicks and navigation, making it easy to keep your focus even when running or biking.
 
@@ -28,7 +28,7 @@ One of the standout features is the absence of tedious cutscenes; when you're on
 
 ### Category Score: 2.5 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Starbound shines in its compatibility with treadmill and bike gameplay. With compatible controller options available, you can effortlessly navigate the immersive worlds without straining yourself. The control scheme is flexible, which means you can adjust your play style depending on your exercise intensity.
 
@@ -36,13 +36,13 @@ That said, the gameplay does involve frequent direction changes and occasional c
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 Starbound isn't particularly demanding, making it accessible for a wide range of computers. The pixel art style allows the game to run smoothly on even modest hardware, with low system requirements ensuring that players can dive into the action without needing an expensive setup. This means you can easily run it on your gaming laptop while enjoying a workout session.
 
 ### Category Score: 2.5 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 In conclusion, Starbound presents itself as an engaging option for gamers seeking both adventure and the ability to exercise. With its fluid gameplay, compatibility with exercise routines, and relatively low system demands, it becomes a delightful companion during runs or bike sessions. While speed and quick reactions can require a little attention, the game manages to provide enough distraction to keep the sweat flowing and the fun levels high.
 

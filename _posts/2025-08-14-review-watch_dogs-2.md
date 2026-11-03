@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040
 
 Set in the vibrant city of San Francisco, "Watch_Dogs 2" has emerged as a fascinating blend of technology, action, and social commentary. For gamers who are looking to maintain their exercise routines while engaging in thrilling gameplay, the nuances of this title can make for a uniquely enjoyable experience. 
 
-# Gameplay
+## Gameplay
 
 The gameplay in "Watch_Dogs 2" is incredibly engaging and keeps players on their toes with its dynamic mission structure and open-world design. The game encourages exploration and offers a multitude of objectives that can be approached in various ways. Whether you choose stealth, hacking, or outright combat, your preferred style can seamlessly shift based on how you're feeling that day—perfect for keeping your mind occupied while running or biking. 
 
@@ -28,7 +28,7 @@ The game's pacing is mostly speedy, with action-packed sequences that will make 
 
 ### Category Score: 2.5 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 One of the best features of "Watch_Dogs 2" is its compatibility with controllers, which is a definite plus for those who wish to maintain their grip and focus even while exercising. What’s more, the game does not demand pixel-perfect reflexes or an excessive amount of fine motor control, which is advantageous for players trying to multitask on a treadmill or bike. 
 
@@ -36,13 +36,13 @@ The open-world exploration allows you to take your time—perfect for moderate-p
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 While "Watch_Dogs 2" isn’t the most graphically demanding game out there, it nonetheless has modest requirements that may necessitate a halfway decent computer to run smoothly. You'll want a mid-range gaming setup to enjoy the game in its full glory: a decent graphics card, a capable CPU, and enough RAM. Players using higher-end equipment will find it easy to keep the framerate steady, which is crucial when you're focusing more on your workout than the game itself.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 "Watch_Dogs 2" taps into an exhilarating formula that encourages exploration and a feel of liberation through its world-building and gameplay mechanics. It strikes a fine balance for gamers looking to exercise while entertained; its engaging nature, coupled with controls friendly enough for those maintaining a workout pace, makes it a solid choice. While there are areas that could be refined, the overall experience is worthwhile and invigorating.
 

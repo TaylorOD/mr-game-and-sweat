@@ -20,7 +20,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/117262
 
 Ahoy, fellow adventurers and fitness enthusiasts! "Sea of Thieves: 2024 Edition" has set sail with some exciting updates that's bound to have you hoisting a pirate flag while raising your heart rate. This multiplayer pirate adventure allows players to explore vast seas, conquer rival crews, and seek treasure, all while you aim to get some exercise in. Let’s dive into the nitty-gritty!
 
-# Gameplay
+## Gameplay
 
 The core gameplay of "Sea of Thieves" remains as engaging as ever. You and your crew will take to the seas, embarking on quests filled with treasure hunts, skeleton battles, and epic ship-to-ship combat. The thrill of discovering hidden islands and rumored treasures ensures that your focus is kept on the gameplay. Whether you're fending off hostile ships or strategizing over a map, the action is fairly continuous, keeping your adrenaline levels high and motivation strong.
 
@@ -28,7 +28,7 @@ That said, there are a few slower sections of the game, particularly during trav
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 One of the best features of "Sea of Thieves: 2024 Edition" is its compatibility with standard controllers. This means you can easily set up a gaming station on your treadmill or bike. While the game does require some quick reflexes for ship maneuvers and combat situations, the pacing allows for moments of breathing room, which is a plus for maintaining your exercise regime.
 
@@ -36,13 +36,13 @@ However, players should note that timing a lot of quick movements might not be i
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 "Sea of Thieves: 2024 Edition" isn’t overly demanding on your hardware, making it accessible to a broad audience of gamers. You’ll need at least an Intel i3-4170 processor, a GTX 650 or equivalent graphics card, and around 4 GB of RAM. This means most mid-range laptops and desktops should handle it with ease. However, for the best experience with high frame rates and improved graphics, you’ll want something a bit more powerful. This should make it easy for users to integrate gaming into their fitness routine without requiring a top-tier setup.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 In conclusion, "Sea of Thieves: 2024 Edition" delivers a rip-roaring, immersive multiplayer experience that keeps you engaged while working up a sweat. While there are moments that may distract you from your workout, the blend of action and slower segments offers a unique balance that's manageable during exercise. With its controller support and moderate system requirements, it respects both your gaming passion and fitness goals.
 

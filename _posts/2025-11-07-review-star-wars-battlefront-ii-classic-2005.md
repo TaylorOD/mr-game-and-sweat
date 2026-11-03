@@ -21,19 +21,19 @@ session_length: Short
 
 STAR WARS Battlefront II gives you large, busy battles that can keep your legs moving. But aiming at enemies while you exercise takes more focus than a relaxed bike ride.
 
-# Gameplay
+## Gameplay
 
 You fight through battles as part of Darth Vader’s 501st Legion, with infantry, vehicles, and heroes adding variety to the action. The campaign has some slower story moments, but most missions get you back into the fight quickly. ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 The battles are hectic, and aiming accurately takes attention and quick reactions. You can keep moving through the chaos, but missed shots and sudden threats make this a poor fit for running or biking without slowing down. ### Category Score: 1 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 The minimum asks for a 1.5 GHz Pentium 4 or similar, 256 MB of memory, and a 64 MB graphics card with shader support. That is very modest by modern standards, but it still calls for a basic dedicated graphics card rather than integrated graphics. ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Battlefront II has a strong mix of battlefield action and a campaign centered on the 501st. It is easy to recommend as a game, but aiming under exercise is the catch. Save it for a slower pace or a workout where you can focus on the screen.
 

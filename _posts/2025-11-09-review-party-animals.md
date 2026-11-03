@@ -22,25 +22,25 @@ session_length: Short
 
 Party Animals gives you short bursts of silly brawling, so it can keep a workout from feeling dull. But the frantic scrambles may pull your attention away from the treadmill.
 
-# Gameplay
+## Gameplay
 
 You fight other players as floppy animals, using punches, throws, and the physics driven arena to knock them around. Matches are lively, though the action comes in rounds with breaks between them. It is fun chaos, but you may find yourself focusing more on the fight than your pace.
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Full controller support makes it easy to play without reaching for a keyboard. The trouble is that fights need quick reactions, and online matches are competitive and cannot be paused, so a bike is a safer fit than a treadmill.
 
 ### Category Score: 1 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 The minimum specs call for an Intel Core i5 or AMD equivalent, 8 GB of memory, and a GTX 750 Ti or RX 550 with 2 GB of video memory. That is an older, basic dedicated graphics card, not integrated graphics.
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Party Animals is a good pick for a lively bike session if you are fine with giving the matches your attention. On a treadmill, the frantic fighting makes it a risky choice.
 

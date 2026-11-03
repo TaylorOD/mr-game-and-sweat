@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950
 
 As a lover of both exercise and video games, Katana ZERO offers a unique blend of action and storytelling that surprisingly accommodates an active gaming experience. Set in a neo-noir world, this game pushes you to engage both your mind and body in an exhilarating combat-driven narrative that melds beautifully with treadmill or biking workouts. Let’s delve into how this game performs across various categories.
 
-# Gameplay
+## Gameplay
 
 Katana ZERO is a fast-paced action platformer that beautifully combines swordplay, time manipulation, and stealth mechanics. The engaging narrative unfolds through stylish pixel art featuring sleek gameplay sequences that require both quick thinking and dexterity. The game is imbued with an adrenaline-fueled rhythm that syncs well with a workout, making the combat a perfect distraction from the drudgery of running or cycling. 
 
@@ -29,7 +29,7 @@ The levels are bite-sized, encouraging you to stay focused without overwhelming 
 
 ### Category Score: 3 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 Katana ZERO is particularly well-suited for players who are running or biking, especially due to its simple control scheme and responsive interactions. You can easily play with a controller, allowing you to maintain a natural grip while you exercise. The game does require some rapid movements and reflexes, but it’s mostly about timing rather than precise input. 
 
@@ -37,13 +37,13 @@ This alleviates the concern for those who might find twitch gameplay difficult w
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 Katana ZERO is relatively light on resources, making it accessible on a wide range of computers. The pixel art design and chiptune soundtrack provide charm without demanding a high-end graphics card. A standard gaming setup should easily handle the game, meaning you can hop on your treadmill or bike without worrying about performance drops during your intense sessions.
 
 ### Category Score: 3 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Overall, Katana ZERO is an outstanding choice for gamers who like to integrate their workout with their gameplay. Its fast-paced, engaging mechanics keep you entertained without losing focus, making each session more enjoyable. While it does require some quick reflexes, it strikes a great balance that accommodates physical activity, and the minimal system requirements mean you can play without compromise.
 

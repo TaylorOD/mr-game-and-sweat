@@ -21,7 +21,7 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550
 
 Tom Clancy's Rainbow Six Siege is a tactical shooter that emphasizes teamwork, strategy, and precision over traditional shooter mayhem. With its blend of intense gameplay and operator-based mechanics, it presents an exciting challenge not just for your gaming skills, but also for those looking to stay active on a treadmill or bike.
 
-# Gameplay
+## Gameplay
 
 Rainbow Six Siege is characterized by its round-based setup, where players assume the roles of various operators with unique abilities. The pace of the game is highly engaging, with each match stimulating your requirements for quick thinking, coordination, and strategic planning. The focus on objective-based gameplay means that there are minimal slow sections; every round is frenetic and requires players to communicate and react rapidly, keeping you on your toes—for better or for worse.  
 
@@ -29,7 +29,7 @@ This constant engagement is a double-edged sword when you're trying to maintain 
 
 ### Category Score: 2 out of 3
 
-# Treadmill and Bike Compatibility
+## Treadmill and Bike Compatibility
 
 When it comes to compatibility with exercise equipment, Rainbow Six Siege fares reasonably well. Most players will likely be using a controller, which means you won't have to rely on a keyboard and mouse—an advantage when your body is in constant motion. 
 
@@ -37,13 +37,13 @@ However, the game does require quick reflexes and immediate responses, which mig
 
 ### Category Score: 2 out of 3
 
-# Computer Requirements
+## Computer Requirements
 
 In terms of computer specifications, Rainbow Six Siege is relatively accessible. It runs on mid-range PCs seamlessly and doesn’t demand top-of-the-line hardware for a decent experience. However, remember that the more complex the graphics settings, the more resources your machine will use. If you're playing on older hardware, you may need to adjust some settings to ensure smooth gameplay—especially since you’ll want to stay engaged without any lag while working out. 
 
 ### Category Score: 2 out of 3
 
-# Conclusion and Score
+## Conclusion and Score
 
 Tom Clancy's Rainbow Six Siege delivers an exciting tactical shooter experience that can keep your mind racing and your heart pumping, even as you run or bike. It strikes a decent balance between engaging gameplay and physical activity, but it may require some adjustment in how you manage your workout alongside the frantic pace of the game. 
 
