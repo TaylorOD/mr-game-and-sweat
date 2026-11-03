@@ -627,8 +627,8 @@ body {
 	color: var(--text-soft);
 	font-size: 0.8rem;
 }
-.post-meta time + .post-genre {
-	margin-left: 0.4rem;
+.post-meta > span:first-child {
+	margin-right: 0.4rem;
 }
 .article-post h3[id^='category-score'] {
 	margin-top: -0.5rem;

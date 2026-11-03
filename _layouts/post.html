@@ -24,7 +24,7 @@ post_class: post-template
 			<div class="mainheading">
 				<h1 class="posttitle">{{ page.title }}</h1>
 				<p class="post-meta">
-					<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.added %}, added {{ page.added | date: "%b %Y" }}{% endif %}{% for genre in page.genres limit: 3 %}<span class="post-genre">{{ genre }}</span>{% endfor %}
+					<span><time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.added %}, added {{ page.added | date: "%b %Y" }}{% endif %}</span>{% for genre in page.genres limit: 3 %}<span class="post-genre">{{ genre }}</span>{% endfor %}
 				</p>
 			</div>
 
