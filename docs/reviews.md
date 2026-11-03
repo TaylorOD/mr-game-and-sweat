@@ -70,8 +70,14 @@ Reviews of great games you shouldnt play while exercising, like RTS games and po
 * They use the normal format and scoring. Treadmill and bike has to be 0 or 1, and the score box says Great game, bad workout.
 * The **Publish Extra Posts** workflow runs it.
 
+## Extra posts schedule
+
+`publish-extras.yml` runs at 15:41 UTC on the 1st and 15th of each month. Each run writes 1 Great Games, Bad Workouts review and 1 guide, so we get 2 of each a month on top of normal reviews. When a list runs out, the run logs it and writes nothing for that list.
+
 ## Guides
 
-Guides are hand written posts with `categories: [ guide ]`, an `excerpt` and art in `assets/images/guides/`. They use the same layout with no score box, and they follow the same no invented stories rule. Facts like calorie numbers need a real source.
+Guides are posts with `categories: [ guide ]`, an `excerpt` and art in `assets/images/guides/`. They use the same layout with no score box, and they follow the same no invented stories rule. Facts like calorie numbers need a real source.
 
-Guide art is hosted by us, so run the resize script. See [images.md](images.md).
+Scheduled guides come from the topics in `_data/guide_topics.json`, so add more there. `generate_extras.js` writes the text and the art, and the job makes the image sizes. The prompt tells it to leave out numbers, studies and product specs, since nobody checks a guide before it goes live.
+
+If you add art by hand, run the resize script. See [images.md](images.md).

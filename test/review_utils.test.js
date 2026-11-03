@@ -9,6 +9,8 @@ const {
   emptyDays,
   pickUnreviewedGames,
   topGamesByGenre,
+  nextGuideTopics,
+  buildGuidePost,
   buildReviewPost,
   fixInlineScores,
 } = require('../lib/review_utils');
@@ -87,6 +89,23 @@ const deskPost = buildReviewPost({
 assert.ok(deskPost.includes('categories: [ review, game, desk ]'));
 assert.ok(deskPost.includes('store_url: https://example.com/'));
 assert.ok(!deskPost.includes('steam_appid'));
+
+// Guides skip topics we already wrote and only get one top level heading
+assert.deepStrictEqual(
+  nextGuideTopics([{ title: 'One' }, { title: 'Two' }, { title: 'Three' }], [{ title: 'One' }], 1),
+  [{ title: 'Two' }]
+);
+const guidePost = buildGuidePost({
+  title: 'Two',
+  excerpt: 'Short "quote"',
+  body: '# Heading\n\nText',
+  image: 'assets/images/guides/two.jpg',
+  date: new Date('2026-11-03T00:00:00Z'),
+});
+assert.ok(guidePost.includes('categories: [ guide ]'));
+assert.ok(guidePost.includes('excerpt: "Short \\"quote\\""'));
+assert.ok(guidePost.includes('\n## Heading\n'));
+assert.ok(!guidePost.includes('added:'));
 
 // Top games of every genre, best first, no repeats
 assert.deepStrictEqual(
