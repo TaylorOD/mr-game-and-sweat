@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ''
 url: 'https://mrgameandsweat.com'
 permalink: '/:title/'
-logo: 'assets/images/logos/logo.png'
+logo: 'assets/images/logos/logo-on-dark.png'
 favicon: 'assets/images/favicon.ico'
 author: Taylor Owen Dorsett
 paginate: 30
