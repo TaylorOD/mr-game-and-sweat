@@ -51,7 +51,8 @@ The scores in the text have to match the front matter. Only the page title is a 
 
 ## Scoring
 
-* Be tough and use the whole scale. Most games land on 1 or 2, and a 3 is rare.
+* Plenty of games should get a 2 or higher. A 3 means we enjoyed it and would tell you to play it, not that its perfect.
+* A perfect 3 in every category should be somewhat rare. A 1 means there is a real problem worth warning a friend about.
 * A game with no controller support scores 1 on treadmill and bike.
 * We dont change old scores just to rescale them.
 
