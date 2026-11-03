@@ -23,6 +23,9 @@
 	var matches = [];
 	var shown = 0;
 	var searchRequested = false;
+	var searchLoaded = false;
+	var empty = document.getElementById('review-empty');
+	var emptyGrid = document.getElementById('review-empty-grid');
 
 	// Lowercase with no accents, hyphens or apostrophes, so rogue-like finds roguelike
 	function clean(text) {
@@ -80,10 +83,13 @@
 					var item = entry.guide ? entry : byUrl[entry.url];
 					if (item) item.cleanText = clean(entry.text);
 				});
+				searchLoaded = true;
 				apply();
 			})
 			.catch(function () {
 				// Names, genres and summaries still work without it
+				searchLoaded = true;
+				apply();
 			});
 	}
 
@@ -116,6 +122,7 @@
 			guideList.appendChild(item);
 		});
 		guideResults.hidden = found.length === 0;
+		return found.length;
 	}
 
 	function tier(score) {
@@ -179,6 +186,32 @@
 		more.hidden = shown >= matches.length;
 	}
 
+	function showTopRated() {
+		if (emptyGrid.firstChild) return;
+		reviews
+			.filter(function (review) {
+				return review.treadmill >= 2;
+			})
+			.sort(function (a, b) {
+				return b.score - a.score;
+			})
+			.slice(0, 3)
+			.forEach(function (review) {
+				emptyGrid.appendChild(card(review));
+			});
+	}
+
+	function clearAll() {
+		Object.keys(URL_FIELDS).forEach(function (key) {
+			var field = fields[URL_FIELDS[key]];
+			if (field.options) field.selectedIndex = 0;
+			else field.value = '';
+		});
+		fields.controller.checked = false;
+		apply();
+		fields.search.focus();
+	}
+
 	function apply() {
 		var terms = clean(fields.search.value).split(' ').filter(Boolean);
 		if (terms.length) loadSearch();
@@ -214,7 +247,10 @@
 
 		var active = [genre, pause, session, minimum, controllerOnly].filter(Boolean).length;
 		toggle.textContent = active ? 'Filters (' + active + ')' : 'Filters';
-		showGuides(terms, active);
+		var guidesFound = showGuides(terms, active);
+		var stillLoading = terms.length && !searchLoaded;
+		empty.hidden = matches.length > 0 || guidesFound > 0 || stillLoading;
+		if (!empty.hidden) showTopRated();
 
 		grid.textContent = '';
 		shown = 0;
@@ -269,6 +305,7 @@
 			fields[name].addEventListener(name === 'search' ? 'input' : 'change', apply);
 		});
 		more.addEventListener('click', showMore);
+		document.getElementById('review-clear').addEventListener('click', clearAll);
 		toggle.addEventListener('click', function () {
 			var open = filtersMore.classList.toggle('open');
 			toggle.setAttribute('aria-expanded', String(open));
