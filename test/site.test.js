@@ -108,7 +108,9 @@ if (!homePage.includes(`rel="next" href="${SITE_URL}/page2/"`)) report('index.ht
 const robots = fs.readFileSync(path.join(siteDir, 'robots.txt'), 'utf8');
 if (/^Disallow:\s*\S/m.test(robots)) report('robots.txt', 'should not block anything');
 if (!robots.includes(`Sitemap: ${SITE_URL}/sitemap.xml`)) report('robots.txt', 'should point to the sitemap');
-if (!fs.existsSync(path.join(siteDir, 'humans.txt'))) report('humans.txt', 'is missing');
+for (const file of ['humans.txt', 'llms.txt', 'opensearch.xml', '21c8004707a78a9a3024cfb310828a10.txt']) {
+  if (!fs.existsSync(path.join(siteDir, file))) report(file, 'is missing');
+}
 
 // Removed duplicates should send people to the review we kept
 for (const [gone, kept] of [
