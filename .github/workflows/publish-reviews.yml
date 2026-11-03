@@ -35,6 +35,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BACKFILL_COUNT: ${{ github.event.schedule == '0 12 * * *' && '15' || inputs.backfill_count || '0' }}
 
+      - name: Check the new posts
+        run: node test/posts.test.js
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
