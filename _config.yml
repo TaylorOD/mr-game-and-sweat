@@ -68,6 +68,7 @@ exclude:
   - test
   - lib
   - generate_reviews.js
+  - generate_extras.js
   - steamData.json
   - package.json
   - package-lock.json

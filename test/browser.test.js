@@ -163,6 +163,11 @@ async function run(base) {
     assert.ok(art.includes('steamstatic.com'), art);
   });
 
+  await test('great games bad workouts page lists games', async (page) => {
+    await page.goto(`${base}/great-games-bad-workouts/`);
+    assert.ok((await page.textContent('h1')).includes('Bad Workouts'));
+  });
+
   await test('removed reviews redirect', async (page) => {
     const response = await page.request.get(`${base}/review-sea-of-thieves-2024-edition/`);
     const html = await response.text();

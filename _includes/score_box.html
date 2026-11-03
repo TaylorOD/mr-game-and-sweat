@@ -1,5 +1,5 @@
 {% if page.score_overall %}
-{% assign box_score = page.score_overall | plus: 0 %}{% if box_score >= 2.5 %}{% assign box_tier = 'great' %}{% assign box_word = 'Great workout game' %}{% elsif box_score >= 2 %}{% assign box_tier = 'good' %}{% assign box_word = 'Good workout game' %}{% elsif box_score >= 1.5 %}{% assign box_tier = 'okay' %}{% assign box_word = 'Okay workout game' %}{% else %}{% assign box_tier = 'low' %}{% assign box_word = 'Tough workout game' %}{% endif %}
+{% assign box_score = page.score_overall | plus: 0 %}{% if box_score >= 2.5 %}{% assign box_tier = 'great' %}{% assign box_word = 'Great workout game' %}{% elsif box_score >= 2 %}{% assign box_tier = 'good' %}{% assign box_word = 'Good workout game' %}{% elsif box_score >= 1.5 %}{% assign box_tier = 'okay' %}{% assign box_word = 'Okay workout game' %}{% else %}{% assign box_tier = 'low' %}{% assign box_word = 'Tough workout game' %}{% endif %}{% if page.categories contains 'desk' %}{% assign box_word = 'Great game, bad workout' %}{% endif %}
 <aside class="score-box">
 	<div class="score-box-main">
 		<span class="score-number score-{{ box_tier }}">{{ box_score | round: 1 }}</span>
@@ -22,6 +22,8 @@
 	{% endif %}
 	{% if page.steam_appid %}
 	<a class="btn btn-accent score-box-steam" target="_blank" rel="noopener" href="https://store.steampowered.com/app/{{ page.steam_appid }}/">See it on Steam</a>
+	{% elsif page.store_url %}
+	<a class="btn btn-accent score-box-steam" target="_blank" rel="noopener" href="{{ page.store_url }}">See it on {{ page.store_name }}</a>
 	{% endif %}
 </aside>
 {% endif %}

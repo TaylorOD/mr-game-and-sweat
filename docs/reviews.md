@@ -62,6 +62,14 @@ The scores in the text have to match the front matter. Only the page title is a 
 * **No duplicates.** To remove one, delete the post and add `redirect_from: ["/old-url/"]` to the one we keep.
 * Dont change a review's URL without a redirect.
 
+## Great Games, Bad Workouts
+
+Reviews of great games you shouldnt play while exercising, like RTS games and point and click adventures. They live at `/great-games-bad-workouts/` and have `desk` in their categories.
+
+* `generate_extras.js` writes them from the list in `_data/desk_games.json`, so add more there. A game not on Steam needs `store_url`, `store_name`, `image`, `genres` and `facts`.
+* They use the normal format and scoring. Treadmill and bike has to be 0 or 1, and the score box says Great game, bad workout.
+* The **Publish Extra Posts** workflow runs it.
+
 ## Guides
 
 Guides are hand written posts with `categories: [ guide ]`, an `excerpt` and art in `assets/images/guides/`. They use the same layout with no score box, and they follow the same no invented stories rule. Facts like calorie numbers need a real source.

@@ -77,7 +77,7 @@ for (const post of posts) {
   // Reviews
   checkUnique(seenNames, normalizeGameName(title), file, 'game');
   if (front.steam_appid) checkUnique(seenAppIds, front.steam_appid, file, 'Steam app');
-  else report(file, 'review has no Steam app');
+  else if (!front.store_url) report(file, 'review has no Steam app or store link');
 
   const headings = [...body.matchAll(/^## (.+)$/gm)].map((match) => match[1]);
   for (const section of SECTIONS) {

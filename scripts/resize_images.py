@@ -12,6 +12,7 @@ from PIL import Image
 
 WIDTHS = {
     'assets/images/guides/*.jpg': [480, 960, 1536],
+    'assets/images/reviews/*.jpg': [480, 960],
     'assets/images/authors/*.jpg': [128, 256],
     'assets/images/logos/logo-on-dark.png': [100, 220],
 }

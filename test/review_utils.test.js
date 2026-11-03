@@ -74,6 +74,20 @@ assert.deepStrictEqual(
   ['Portal']
 );
 
+// Great Games, Bad Workouts posts carry their category, and can live off Steam
+const deskPost = buildReviewPost({
+  game: { name: 'StarCraft II', store_url: 'https://example.com/', store_name: 'Battle.net' },
+  steam: { genres: ['Strategy'], image: 'assets/images/reviews/starcraft-ii.jpg' },
+  workout: null,
+  body: 'Text',
+  scores: [1, 0, 2],
+  reviewDate: new Date('2026-11-03T00:00:00Z'),
+  desk: true,
+});
+assert.ok(deskPost.includes('categories: [ review, game, desk ]'));
+assert.ok(deskPost.includes('store_url: https://example.com/'));
+assert.ok(!deskPost.includes('steam_appid'));
+
 // Top games of every genre, best first, no repeats
 assert.deepStrictEqual(
   topGamesByGenre(
