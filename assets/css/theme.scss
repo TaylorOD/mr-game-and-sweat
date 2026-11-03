@@ -17,14 +17,10 @@ body {
 	background: #fff;
 	font-size: 17px;
 	transition: all 200ms linear;
-	font-family: 'PT Sans', sans-serif;
 	line-height: 1.7;
 	color: #333;
 	overflow-x: hidden;
 	padding-top: 116px;
-}
-.serif-font {
-	font-family: PT Serif;
 }
 @media (max-width: 1366px) {
 	.container-xl,
@@ -618,7 +614,6 @@ ul.tags li a:hover {
 .article-post h5,
 .article-post h6 {
 	font-weight: 600;
-	font-family: PT Sans;
 	margin-top: 3rem;
 }
 
