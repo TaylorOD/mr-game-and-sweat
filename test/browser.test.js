@@ -58,6 +58,7 @@ async function run(base) {
     await page.goto(base);
     assert.ok((await page.locator('.card').count()) >= 10, 'Not enough cards');
     assert.ok((await page.locator('.card .score-badge').count()) >= 1, 'No score badges');
+    assert.ok((await page.locator('.card .score-great').count()) >= 1, 'Score badges should be color coded');
     assert.ok((await page.title()).includes('Treadmill'), 'Home title should say what the site is');
     const first = page.locator('.card .card-title a').first();
     const title = (await first.textContent()).trim();
