@@ -1,4 +1,11 @@
-{% assign candidates = site.posts | where_exp: "p", "p.score_treadmill >= 2" | sort: "score_overall" | reverse %}
+{% assign candidates = site.posts | where_exp: "p", "p.score_treadmill >= 2" %}
+{% assign filter_pause = include.pause %}
+{% assign filter_session = include.session %}
+{% assign filter_genre = include.genre %}
+{% if filter_pause %}{% assign candidates = candidates | where_exp: "p", "p.pause_friendly == filter_pause" %}{% endif %}
+{% if filter_session %}{% assign candidates = candidates | where_exp: "p", "p.session_length == filter_session" %}{% endif %}
+{% if filter_genre %}{% assign candidates = candidates | where_exp: "p", "p.genres contains filter_genre" %}{% endif %}
+{% assign candidates = candidates | sort: "score_overall" | reverse %}
 {% assign shown = 0 %}
 {% assign score_levels = "3,2" | split: "," %}
 <ol class="best-list">
