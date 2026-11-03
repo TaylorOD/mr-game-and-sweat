@@ -114,7 +114,7 @@ const plain = buildReviewPost({
 });
 assert.ok(!plain.includes('added:'));
 assert.ok(!plain.includes('pause_friendly'));
-assert.ok(plain.includes('image: null\n'));
+assert.ok(plain.includes('image: assets/images/logos/mr-game-and-sweat.png\n'));
 
 // Scores stuck on the end of a paragraph get their own line
 assert.strictEqual(
