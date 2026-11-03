@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: No Man's Sky"
+title:  "No Man's Sky"
 author: taylor
 comments: false
 disqus: false

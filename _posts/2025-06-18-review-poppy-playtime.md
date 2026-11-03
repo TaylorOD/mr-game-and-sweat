@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Poppy Playtime"
+title:  "Poppy Playtime"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Geometry Dash"
+title:  "Geometry Dash"
 author: taylor
 comments: false
 disqus: false

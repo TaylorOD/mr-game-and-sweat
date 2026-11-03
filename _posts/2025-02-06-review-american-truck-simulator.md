@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: American Truck Simulator"
+title:  "American Truck Simulator"
 author: taylor
 comments: false
 disqus: false

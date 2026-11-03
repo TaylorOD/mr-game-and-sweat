@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Wolfenstein: The New Order"
+title:  "Wolfenstein: The New Order"
 author: taylor
 comments: false
 disqus: false

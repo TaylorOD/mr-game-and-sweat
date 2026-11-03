@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cry of Fear"
+title:  "Cry of Fear"
 author: taylor
 comments: false
 disqus: false

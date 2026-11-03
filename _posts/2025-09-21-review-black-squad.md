@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Black Squad"
+title:  "Black Squad"
 author: taylor
 comments: false
 disqus: false

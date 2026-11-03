@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tom Clancy’s The Division"
+title:  "Tom Clancy’s The Division"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Warface: Clutch"
+title:  "Warface: Clutch"
 author: taylor
 comments: false
 disqus: false

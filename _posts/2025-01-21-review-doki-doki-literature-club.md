@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Doki Doki Literature Club!"
+title:  "Doki Doki Literature Club!"
 author: taylor
 comments: false
 disqus: false

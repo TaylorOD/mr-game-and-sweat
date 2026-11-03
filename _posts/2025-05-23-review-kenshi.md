@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kenshi"
+title:  "Kenshi"
 author: taylor
 comments: false
 disqus: false

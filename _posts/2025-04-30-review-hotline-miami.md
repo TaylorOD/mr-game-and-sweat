@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Hotline Miami"
+title:  "Hotline Miami"
 author: taylor
 comments: false
 disqus: false

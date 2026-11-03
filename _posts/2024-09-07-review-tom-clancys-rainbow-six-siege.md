@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tom Clancy's Rainbow Six Siege"
+title:  "Tom Clancy's Rainbow Six Siege"
 author: taylor
 comments: false
 disqus: false

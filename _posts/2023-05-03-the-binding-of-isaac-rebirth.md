@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Binding of Isaac: Rebirth"
+title:  "The Binding of Isaac: Rebirth"
 author: taylor
 categories: [ review, action, roguelike, indie ]
 comments: false

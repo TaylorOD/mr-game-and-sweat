@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mad Max"
+title:  "Mad Max"
 author: taylor
 comments: false
 disqus: false

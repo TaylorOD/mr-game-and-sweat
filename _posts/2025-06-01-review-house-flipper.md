@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: House Flipper"
+title:  "House Flipper"
 author: taylor
 comments: false
 disqus: false

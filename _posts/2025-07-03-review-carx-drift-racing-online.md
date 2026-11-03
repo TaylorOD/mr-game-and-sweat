@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: CarX Drift Racing Online"
+title:  "CarX Drift Racing Online"
 author: taylor
 comments: false
 disqus: false

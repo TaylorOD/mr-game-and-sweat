@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DOOM"
+title:  "DOOM"
 author: taylor
 comments: false
 disqus: false

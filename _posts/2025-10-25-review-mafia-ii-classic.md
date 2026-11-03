@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mafia II (Classic)"
+title:  "Mafia II (Classic)"
 author: taylor
 comments: false
 disqus: false

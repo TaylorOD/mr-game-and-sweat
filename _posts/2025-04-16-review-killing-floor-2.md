@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Killing Floor 2"
+title:  "Killing Floor 2"
 author: taylor
 comments: false
 disqus: false

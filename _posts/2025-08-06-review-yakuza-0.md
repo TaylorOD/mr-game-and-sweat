@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Yakuza 0"
+title:  "Yakuza 0"
 author: taylor
 comments: false
 disqus: false

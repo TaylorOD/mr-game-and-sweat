@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Core Keeper"
+title:  "Core Keeper"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Devil May Cry 5"
+title:  "Devil May Cry 5"
 author: taylor
 comments: false
 disqus: false

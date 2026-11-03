@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Ori and the Blind Forest: Definitive Edition"
+title:  "Ori and the Blind Forest: Definitive Edition"
 author: taylor
 comments: false
 disqus: false

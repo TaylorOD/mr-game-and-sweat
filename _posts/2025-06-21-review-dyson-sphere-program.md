@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dyson Sphere Program"
+title:  "Dyson Sphere Program"
 author: taylor
 comments: false
 disqus: false

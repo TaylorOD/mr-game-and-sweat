@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Supermarket Together"
+title:  "Supermarket Together"
 author: taylor
 comments: false
 disqus: false

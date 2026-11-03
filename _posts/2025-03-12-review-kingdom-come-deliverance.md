@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Kingdom Come: Deliverance"
+title:  "Kingdom Come: Deliverance"
 author: taylor
 comments: false
 disqus: false

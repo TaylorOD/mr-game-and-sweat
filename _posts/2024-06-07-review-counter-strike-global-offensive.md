@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Counter-Strike: Global Offensive"
+title:  "Counter-Strike: Global Offensive"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Mass Effect Legendary Edition"
+title:  "Mass Effect Legendary Edition"
 author: taylor
 comments: false
 disqus: false

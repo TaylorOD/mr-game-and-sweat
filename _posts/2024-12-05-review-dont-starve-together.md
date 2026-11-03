@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Don't Starve Together"
+title:  "Don't Starve Together"
 author: taylor
 comments: false
 disqus: false

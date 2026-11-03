@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Rise of the Tomb Raider"
+title:  "Rise of the Tomb Raider"
 author: taylor
 comments: false
 disqus: false

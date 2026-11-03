@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Broforce"
+title:  "Broforce"
 author: taylor
 comments: false
 disqus: false

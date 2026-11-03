@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Counter-Strike: Source"
+title:  "Counter-Strike: Source"
 author: taylor
 comments: false
 disqus: false

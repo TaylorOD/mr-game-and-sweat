@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Stick Fight: The Game"
+title:  "Stick Fight: The Game"
 author: taylor
 comments: false
 disqus: false

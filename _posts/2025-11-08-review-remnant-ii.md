@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: REMNANT II"
+title:  "REMNANT II"
 author: taylor
 comments: false
 disqus: false

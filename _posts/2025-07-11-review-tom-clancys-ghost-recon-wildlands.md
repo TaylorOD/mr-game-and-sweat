@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Tom Clancy's Ghost Recon Wildlands"
+title:  "Tom Clancy's Ghost Recon Wildlands"
 author: taylor
 comments: false
 disqus: false

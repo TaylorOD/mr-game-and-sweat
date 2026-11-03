@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Outlast"
+title:  "Outlast"
 author: taylor
 comments: false
 disqus: false

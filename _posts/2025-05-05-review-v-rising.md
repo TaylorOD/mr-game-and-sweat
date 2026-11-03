@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: V Rising"
+title:  "V Rising"
 author: taylor
 comments: false
 disqus: false

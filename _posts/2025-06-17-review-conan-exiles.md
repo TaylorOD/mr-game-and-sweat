@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Conan Exiles"
+title:  "Conan Exiles"
 author: taylor
 comments: false
 disqus: false

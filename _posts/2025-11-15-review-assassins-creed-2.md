@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Assassin's Creed 2"
+title:  "Assassin's Creed 2"
 author: taylor
 comments: false
 disqus: false

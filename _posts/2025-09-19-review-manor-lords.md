@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Manor Lords"
+title:  "Manor Lords"
 author: taylor
 comments: false
 disqus: false

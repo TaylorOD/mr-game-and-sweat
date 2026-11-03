@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Little Nightmares"
+title:  "Little Nightmares"
 author: taylor
 comments: false
 disqus: false

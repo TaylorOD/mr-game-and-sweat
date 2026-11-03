@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Dragon's Dogma 2"
+title:  "Dragon's Dogma 2"
 author: taylor
 comments: false
 disqus: false

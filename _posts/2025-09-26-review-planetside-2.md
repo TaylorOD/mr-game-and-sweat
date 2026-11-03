@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: PlanetSide 2"
+title:  "PlanetSide 2"
 author: taylor
 comments: false
 disqus: false

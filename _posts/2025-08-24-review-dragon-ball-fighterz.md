@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DRAGON BALL FighterZ"
+title:  "DRAGON BALL FighterZ"
 author: taylor
 comments: false
 disqus: false

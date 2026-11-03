@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Outer Wilds"
+title:  "Outer Wilds"
 author: taylor
 comments: false
 disqus: false

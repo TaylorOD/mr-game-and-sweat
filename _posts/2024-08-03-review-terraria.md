@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Terraria"
+title:  "Terraria"
 author: taylor
 comments: false
 disqus: false

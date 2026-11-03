@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Golf With Your Friends"
+title:  "Golf With Your Friends"
 author: taylor
 comments: false
 disqus: false

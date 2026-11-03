@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: EA SPORTS FC 24"
+title:  "EA SPORTS FC 24"
 author: taylor
 comments: false
 disqus: false

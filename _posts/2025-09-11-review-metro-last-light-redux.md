@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Metro: Last Light Redux"
+title:  "Metro: Last Light Redux"
 author: taylor
 comments: false
 disqus: false

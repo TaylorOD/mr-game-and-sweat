@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Far Cry 5"
+title:  "Far Cry 5"
 author: taylor
 comments: false
 disqus: false

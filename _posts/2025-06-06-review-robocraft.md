@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Robocraft"
+title:  "Robocraft"
 author: taylor
 comments: false
 disqus: false

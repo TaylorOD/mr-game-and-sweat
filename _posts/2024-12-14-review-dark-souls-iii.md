@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DARK SOULS III"
+title:  "DARK SOULS III"
 author: taylor
 comments: false
 disqus: false

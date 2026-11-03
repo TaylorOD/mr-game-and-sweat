@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Papers, Please"
+title:  "Papers, Please"
 author: taylor
 comments: false
 disqus: false

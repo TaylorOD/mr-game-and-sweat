@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Middle-earth: Shadow of War"
+title:  "Middle-earth: Shadow of War"
 author: taylor
 comments: false
 disqus: false

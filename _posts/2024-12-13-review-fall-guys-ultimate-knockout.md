@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fall Guys: Ultimate Knockout"
+title:  "Fall Guys: Ultimate Knockout"
 author: taylor
 comments: false
 disqus: false

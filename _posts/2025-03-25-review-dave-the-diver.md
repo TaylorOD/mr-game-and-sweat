@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: DAVE THE DIVER"
+title:  "DAVE THE DIVER"
 author: taylor
 comments: false
 disqus: false

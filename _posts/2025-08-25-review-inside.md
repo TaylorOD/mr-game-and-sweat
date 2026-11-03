@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: INSIDE"
+title:  "INSIDE"
 author: taylor
 comments: false
 disqus: false

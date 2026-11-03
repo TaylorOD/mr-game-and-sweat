@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grounded"
+title:  "Grounded"
 author: taylor
 comments: false
 disqus: false

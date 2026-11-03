@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sekiro: Shadows Die Twice - GOTY Edition"
+title:  "Sekiro: Shadows Die Twice - GOTY Edition"
 author: taylor
 comments: false
 disqus: false

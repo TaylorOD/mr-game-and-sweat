@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: It Takes Two"
+title:  "It Takes Two"
 author: taylor
 comments: false
 disqus: false

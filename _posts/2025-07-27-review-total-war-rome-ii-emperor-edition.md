@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Total War: ROME II - Emperor Edition"
+title:  "Total War: ROME II - Emperor Edition"
 author: taylor
 comments: false
 disqus: false

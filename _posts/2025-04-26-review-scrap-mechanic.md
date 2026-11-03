@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Scrap Mechanic"
+title:  "Scrap Mechanic"
 author: taylor
 comments: false
 disqus: false

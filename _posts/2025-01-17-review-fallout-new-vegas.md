@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Fallout: New Vegas"
+title:  "Fallout: New Vegas"
 author: taylor
 comments: false
 disqus: false

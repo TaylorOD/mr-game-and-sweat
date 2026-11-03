@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: NARAKA: BLADEPOINT"
+title:  "NARAKA: BLADEPOINT"
 author: taylor
 comments: false
 disqus: false

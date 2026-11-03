@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: 7 Days to Die"
+title:  "7 Days to Die"
 author: taylor
 comments: false
 disqus: false

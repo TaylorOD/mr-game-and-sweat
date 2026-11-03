@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Total War: WARHAMMER III"
+title:  "Total War: WARHAMMER III"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: MORDHAU"
+title:  "MORDHAU"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Grand Theft Auto V"
+title:  "Grand Theft Auto V"
 author: taylor
 comments: false
 disqus: false

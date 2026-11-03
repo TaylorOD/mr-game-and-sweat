@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Clair Obscur: Expedition 33"
+title:  "Clair Obscur: Expedition 33"
 author: taylor
 comments: false
 disqus: false

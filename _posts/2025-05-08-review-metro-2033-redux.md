@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Metro 2033 Redux"
+title:  "Metro 2033 Redux"
 author: taylor
 comments: false
 disqus: false

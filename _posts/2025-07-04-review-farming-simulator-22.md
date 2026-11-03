@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Farming Simulator 22"
+title:  "Farming Simulator 22"
 author: taylor
 comments: false
 disqus: false

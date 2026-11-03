@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Black Myth: Wukong"
+title:  "Black Myth: Wukong"
 author: taylor
 comments: false
 disqus: false

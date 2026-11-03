@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Totally Accurate Battle Simulator"
+title:  "Totally Accurate Battle Simulator"
 author: taylor
 comments: false
 disqus: false

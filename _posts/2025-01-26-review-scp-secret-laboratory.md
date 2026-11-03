@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: SCP: Secret Laboratory"
+title:  "SCP: Secret Laboratory"
 author: taylor
 comments: false
 disqus: false

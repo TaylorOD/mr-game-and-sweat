@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Trove"
+title:  "Trove"
 author: taylor
 comments: false
 disqus: false

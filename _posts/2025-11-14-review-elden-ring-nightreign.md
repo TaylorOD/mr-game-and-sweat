@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: ELDEN RING NIGHTREIGN"
+title:  "ELDEN RING NIGHTREIGN"
 author: taylor
 comments: false
 disqus: false

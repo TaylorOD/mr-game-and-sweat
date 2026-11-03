@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Shadow of the Tomb Raider: Definitive Edition"
+title:  "Shadow of the Tomb Raider: Definitive Edition"
 author: taylor
 comments: false
 disqus: false

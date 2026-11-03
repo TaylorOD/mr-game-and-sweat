@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Wallpaper Engine"
+title:  "Wallpaper Engine"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Elder Scrolls V: Skyrim Special Edition"
+title:  "The Elder Scrolls V: Skyrim Special Edition"
 author: taylor
 comments: false
 disqus: false

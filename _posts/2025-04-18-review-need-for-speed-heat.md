@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Need for Speed Heat"
+title:  "Need for Speed Heat"
 author: taylor
 comments: false
 disqus: false

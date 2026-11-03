@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Cities: Skylines"
+title:  "Cities: Skylines"
 author: taylor
 comments: false
 disqus: false

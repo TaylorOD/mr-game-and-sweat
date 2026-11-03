@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Battlefield 4"
+title:  "Battlefield 4"
 author: taylor
 comments: false
 disqus: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+title:  "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
 author: taylor
 comments: false
 disqus: false

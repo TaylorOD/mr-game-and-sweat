@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Sid Meier’s Civilization VI"
+title:  "Sid Meier’s Civilization VI"
 author: taylor
 comments: false
 disqus: false

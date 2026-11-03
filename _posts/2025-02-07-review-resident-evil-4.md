@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Resident Evil 4"
+title:  "Resident Evil 4"
 author: taylor
 comments: false
 disqus: false

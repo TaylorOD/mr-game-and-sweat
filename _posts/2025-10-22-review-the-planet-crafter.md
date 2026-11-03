@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: The Planet Crafter"
+title:  "The Planet Crafter"
 author: taylor
 comments: false
 disqus: false

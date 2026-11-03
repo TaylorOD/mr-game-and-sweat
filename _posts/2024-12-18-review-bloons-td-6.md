@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: Bloons TD 6"
+title:  "Bloons TD 6"
 author: taylor
 comments: false
 disqus: false

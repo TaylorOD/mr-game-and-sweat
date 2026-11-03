@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Game and Sweat Reviews: BattleBlock Theater"
+title:  "BattleBlock Theater"
 author: taylor
 comments: false
 disqus: false
