@@ -40,6 +40,8 @@ post_class: post-template
 
 			
 
+			{% include score_box.html %}
+
 			<!-- Post Content -->
 			<div class="article-post serif-font">
 				{{content}}
@@ -74,6 +76,8 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
+
+            {% include related_reviews.html %}
             
             
              <!-- Author Box -->
