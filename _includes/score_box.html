@@ -13,10 +13,10 @@
 	</ul>
 	{% if page.pause_friendly %}
 	<ul class="score-box-facts">
-		<li><span>Pause friendly</span><strong>{{ page.pause_friendly }}</strong></li>
+		<li><span>Pause friendly</span><strong><a href="{{ site.baseurl }}/reviews/?pause={{ page.pause_friendly | url_encode }}">{{ page.pause_friendly }}</a></strong></li>
 		<li>
 			<span>Session length</span>
-			<strong>{% case page.session_length %}{% when 'Short' %}Under 30 min{% when 'Medium' %}30 to 60 min{% when 'Long' %}Over 60 min{% endcase %}</strong>
+			<strong><a href="{{ site.baseurl }}/reviews/?session={{ page.session_length | url_encode }}">{% case page.session_length %}{% when 'Short' %}Under 30 min{% when 'Medium' %}30 to 60 min{% when 'Long' %}Over 60 min{% endcase %}</a></strong>
 		</li>
 	</ul>
 	{% endif %}

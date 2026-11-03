@@ -77,6 +77,18 @@ async function run(base) {
     assert.ok(related.every((score) => parseFloat(score) >= 2), related.join());
   });
 
+  await test('genres and facts on a review open filtered lists', async (page) => {
+    await page.goto(`${base}/review-far-cry-4/`);
+    await page.click('.post-meta a.post-genre');
+    await page.waitForSelector('#review-grid .card');
+    assert.ok(page.url().includes('/reviews/?genre=Action'), page.url());
+    assert.strictEqual(await page.inputValue('#filter-genre'), 'Action');
+    await page.goto(`${base}/review-far-cry-4/`);
+    await page.click('.score-box-facts a[href*="session="]');
+    await page.waitForSelector('#review-grid .card');
+    assert.notStrictEqual(await page.inputValue('#filter-session'), '');
+  });
+
   await test('search finds games', async (page) => {
     await page.goto(`${base}/reviews/`);
     await page.waitForSelector('#review-grid .card');
