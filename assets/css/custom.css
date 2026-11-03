@@ -58,3 +58,36 @@ Just customize your theme here.
 		flex: 1 1 100%;
 	}
 }
+
+/* Cards */
+.card-image-link {
+	display: block;
+	position: relative;
+}
+.card-image-link img {
+	display: block;
+	width: 100%;
+	aspect-ratio: 460 / 215;
+	object-fit: cover;
+}
+.score-badge {
+	display: inline-block;
+	margin-bottom: 0.75rem;
+	padding: 0.15rem 0.6rem;
+	border-radius: 4px;
+	background: #343a40;
+	color: #fff;
+	font-weight: 700;
+	font-size: 0.95rem;
+}
+.score-badge small {
+	margin-left: 1px;
+	font-size: 0.75em;
+	font-weight: 400;
+}
+.card-image-link img + .score-badge {
+	position: absolute;
+	top: 0.5rem;
+	right: 0.5rem;
+	margin: 0;
+}

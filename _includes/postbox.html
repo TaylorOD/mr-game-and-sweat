@@ -1,8 +1,9 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="card">
-    <a href="{{ post.url | absolute_url }}">
-        {% if post.image %} <img class="rounded mb-4" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title | escape }}"> {% endif %}
+    <a class="card-image-link" href="{{ post.url | absolute_url }}">
+        {% if post.image %} <img class="rounded mb-3" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title | escape }}"> {% endif %}
+        {% if post.score_overall %}<span class="score-badge">{{ post.score_overall }}<small>/3</small></span>{% endif %}
     </a>
     <div class="card-block">
         <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
