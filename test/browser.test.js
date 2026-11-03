@@ -143,6 +143,15 @@ async function run(base) {
     assert.strictEqual(await page.locator('.card img').count(), 10);
   });
 
+  await test('our own images load as webp and game art comes from Steam', async (page) => {
+    await page.goto(`${base}/how-to-set-up-your-treadmill-for-gaming/`);
+    const own = await page.$eval('.post-banner img', (image) => image.currentSrc);
+    assert.ok(own.endsWith('.webp'), own);
+    await page.goto(`${base}/review-far-cry-4/`);
+    const art = await page.getAttribute('.post-banner img', 'src');
+    assert.ok(art.includes('steamstatic.com'), art);
+  });
+
   await test('removed reviews redirect', async (page) => {
     const response = await page.request.get(`${base}/review-sea-of-thieves-2024-edition/`);
     const html = await response.text();
