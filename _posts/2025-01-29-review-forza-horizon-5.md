@@ -15,7 +15,7 @@ score_overall: 2.67
 steam_appid: 1551360
 controller: full
 genres: ["Action", "Adventure", "Racing", "Simulation", "Sports"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Medium
 best_for: Both
 ---

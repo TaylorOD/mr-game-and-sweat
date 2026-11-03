@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.33
 steam_appid: 391540
 genres: ["Indie", "RPG"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Bike
 ---

@@ -15,7 +15,7 @@ score_overall: 2.33
 steam_appid: 236390
 controller: full
 genres: ["Action", "Massively Multiplayer", "Simulation", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Bike
 ---

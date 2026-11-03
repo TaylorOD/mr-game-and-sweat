@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.67
 steam_appid: 644560
 genres: ["Adventure", "Indie", "RPG"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

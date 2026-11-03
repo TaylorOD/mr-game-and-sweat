@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.5
 steam_appid: 761890
 genres: ["Massively Multiplayer", "RPG", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Both
 ---

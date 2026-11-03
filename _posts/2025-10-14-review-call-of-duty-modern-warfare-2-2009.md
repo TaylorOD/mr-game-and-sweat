@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2
 steam_appid: 10190
 genres: ["Action"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Short
 best_for: Bike
 ---

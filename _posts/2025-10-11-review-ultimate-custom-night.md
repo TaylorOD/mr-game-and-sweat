@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.67
 steam_appid: 871720
 genres: ["Action", "Free To Play", "Indie"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Short
 best_for: Bike
 ---

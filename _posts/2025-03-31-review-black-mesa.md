@@ -14,7 +14,7 @@ score_computer: 2.5
 score_overall: 2.58
 steam_appid: 362890
 genres: ["Action", "Adventure", "Indie"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

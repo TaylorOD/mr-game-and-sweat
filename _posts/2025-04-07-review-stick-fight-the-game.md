@@ -14,7 +14,7 @@ score_computer: 2.5
 score_overall: 2.67
 steam_appid: 674940
 genres: ["Action", "Casual", "Indie"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Short
 best_for: Bike
 ---

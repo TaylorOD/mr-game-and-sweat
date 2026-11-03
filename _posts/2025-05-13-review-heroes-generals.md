@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 227940
 genres: ["Action", "Free To Play", "Indie", "Massively Multiplayer", "Strategy"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Medium
 best_for: Bike
 ---

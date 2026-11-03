@@ -15,7 +15,7 @@ score_overall: 2.67
 steam_appid: 613100
 controller: full
 genres: ["Action", "Adventure", "Casual", "Indie", "Massively Multiplayer", "Simulation", "Strategy"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

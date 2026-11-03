@@ -11,7 +11,7 @@ score_gameplay: 3
 score_treadmill: 2
 score_computer: 3
 score_overall: 2.67
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Medium
 best_for: Bike
 ---

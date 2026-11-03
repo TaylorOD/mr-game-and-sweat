@@ -14,7 +14,7 @@ score_computer: 1.5
 score_overall: 2.0
 steam_appid: 513710
 genres: ["Action", "Adventure", "Indie", "Massively Multiplayer"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Bike
 ---

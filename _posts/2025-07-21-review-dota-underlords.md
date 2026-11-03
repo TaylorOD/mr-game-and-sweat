@@ -14,7 +14,7 @@ score_computer: 2.5
 score_overall: 2.67
 steam_appid: 1046930
 genres: ["Casual", "Strategy", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Medium
 best_for: Both
 ---

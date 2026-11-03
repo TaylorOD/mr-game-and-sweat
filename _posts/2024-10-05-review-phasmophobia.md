@@ -14,7 +14,7 @@ score_overall: 2.5
 steam_appid: 739630
 controller: full
 genres: ["Action", "Indie", "Early Access"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Both
 ---

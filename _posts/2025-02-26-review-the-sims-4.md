@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.7
 steam_appid: 1222670
 genres: ["Adventure", "Casual", "Simulation", "Free To Play"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

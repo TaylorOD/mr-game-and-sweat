@@ -15,7 +15,7 @@ score_overall: 2.67
 steam_appid: 363970
 controller: full
 genres: ["Adventure", "Casual", "Indie", "RPG", "Simulation", "Strategy", "Free To Play"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

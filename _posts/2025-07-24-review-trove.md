@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.67
 steam_appid: 304050
 genres: ["Action", "Adventure", "Casual", "Massively Multiplayer", "RPG", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Both
 ---

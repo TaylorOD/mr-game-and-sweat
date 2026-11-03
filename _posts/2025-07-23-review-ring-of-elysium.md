@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.2
 steam_appid: 755790
 genres: ["Action", "Free To Play", "Massively Multiplayer"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Both
 ---

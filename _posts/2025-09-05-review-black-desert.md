@@ -14,7 +14,7 @@ score_computer: 1
 score_overall: 1.67
 steam_appid: 582660
 genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Strategy"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Bike
 ---

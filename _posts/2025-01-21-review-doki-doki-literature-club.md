@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.33
 steam_appid: 698780
 genres: ["Casual", "Free To Play", "Indie"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

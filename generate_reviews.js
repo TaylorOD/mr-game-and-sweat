@@ -320,7 +320,7 @@ async function generateReviewContent(game, imageUrl, reviewDate, addedDate) {
 			game.appid && `steam_appid: ${game.appid}`,
 			steam && steam.controller && `controller: ${steam.controller}`,
 			steam && steam.genres.length > 0 && `genres: ${JSON.stringify(steam.genres)}`,
-			workout && `pause_friendly: ${workout.pause_friendly}`,
+			workout && `pause_friendly: ${JSON.stringify(workout.pause_friendly)}`,
 			workout && `session_length: ${workout.session_length}`,
 			workout && `best_for: ${workout.best_for}`,
 		]

@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.17
 steam_appid: 284160
 genres: ["Racing", "Simulation", "Early Access"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Bike
 ---

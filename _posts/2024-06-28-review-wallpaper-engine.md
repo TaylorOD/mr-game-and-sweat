@@ -13,7 +13,7 @@ score_computer: 3
 score_overall: 2.3
 steam_appid: 431960
 genres: ["Casual", "Indie", "Animation & Modeling", "Design & Illustration", "Photo Editing", "Utilities"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

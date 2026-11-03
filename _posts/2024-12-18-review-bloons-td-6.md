@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 3
 steam_appid: 960090
 genres: ["Strategy"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

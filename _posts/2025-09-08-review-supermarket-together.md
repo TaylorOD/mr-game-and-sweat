@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.67
 steam_appid: 2709570
 genres: ["Casual", "Indie", "Simulation", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Both
 ---

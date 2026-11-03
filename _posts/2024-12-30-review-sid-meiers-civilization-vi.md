@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.67
 steam_appid: 289070
 genres: ["Strategy"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

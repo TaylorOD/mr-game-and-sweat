@@ -13,7 +13,7 @@ score_computer: 2.5
 score_overall: 2.67
 steam_appid: 227300
 genres: ["Indie", "Simulation"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

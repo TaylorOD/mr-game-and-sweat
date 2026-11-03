@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.67
 steam_appid: 282070
 genres: ["Adventure", "Indie", "Simulation"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Both
 ---

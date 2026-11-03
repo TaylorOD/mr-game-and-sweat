@@ -14,7 +14,7 @@ score_computer: 2.5
 score_overall: 2.6
 steam_appid: 646910
 genres: ["Action", "Massively Multiplayer", "Racing"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Short
 best_for: Both
 ---

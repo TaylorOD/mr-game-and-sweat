@@ -15,7 +15,7 @@ score_overall: 2.67
 steam_appid: 435150
 controller: full
 genres: ["Adventure", "RPG", "Strategy"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

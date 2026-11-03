@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 244210
 genres: ["Indie", "Racing", "Simulation", "Sports"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Short
 best_for: Bike
 ---

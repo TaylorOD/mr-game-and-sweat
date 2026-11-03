@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.67
 steam_appid: 240
 genres: ["Action"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Bike
 ---

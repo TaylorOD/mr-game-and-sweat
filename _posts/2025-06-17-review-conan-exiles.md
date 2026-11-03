@@ -15,7 +15,7 @@ score_overall: 2
 steam_appid: 440900
 controller: full
 genres: ["Action", "Adventure", "Massively Multiplayer", "RPG", "Simulation", "Strategy"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
 ---

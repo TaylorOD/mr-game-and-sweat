@@ -14,7 +14,7 @@ score_overall: 3
 steam_appid: 550
 controller: full
 genres: ["Action"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
 ---

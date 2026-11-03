@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 3
 steam_appid: 648800
 genres: ["Adventure", "Indie", "Simulation"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Bike
 ---

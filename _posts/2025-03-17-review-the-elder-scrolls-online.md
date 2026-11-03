@@ -14,7 +14,7 @@ score_computer: 2.5
 score_overall: 2.6
 steam_appid: 306130
 genres: ["Action", "Adventure", "Massively Multiplayer", "RPG"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Long
 best_for: Both
 ---

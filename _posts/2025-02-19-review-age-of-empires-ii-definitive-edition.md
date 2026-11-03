@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.33
 steam_appid: 813780
 genres: ["Strategy"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Medium
 best_for: Bike
 ---

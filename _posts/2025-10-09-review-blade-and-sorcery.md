@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 629730
 genres: ["Action", "Adventure", "Indie", "RPG", "Simulation"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Medium
 best_for: Bike
 ---

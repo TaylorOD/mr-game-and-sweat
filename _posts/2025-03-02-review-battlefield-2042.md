@@ -15,7 +15,7 @@ score_overall: 2.3
 steam_appid: 1517290
 controller: full
 genres: ["Action", "Adventure", "Casual"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Bike
 ---

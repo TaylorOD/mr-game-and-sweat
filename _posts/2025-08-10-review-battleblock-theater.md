@@ -15,7 +15,7 @@ score_overall: 3
 steam_appid: 238460
 controller: full
 genres: ["Action", "Adventure", "Casual", "Indie"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Short
 best_for: Both
 ---

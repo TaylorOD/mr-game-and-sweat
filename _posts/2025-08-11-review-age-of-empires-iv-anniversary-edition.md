@@ -15,7 +15,7 @@ score_overall: 2.17
 steam_appid: 1466860
 controller: full
 genres: ["Strategy"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Medium
 best_for: Bike
 ---

@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 3
 steam_appid: 466560
 genres: ["Adventure", "Indie", "Simulation", "Strategy"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Medium
 best_for: Both
 ---

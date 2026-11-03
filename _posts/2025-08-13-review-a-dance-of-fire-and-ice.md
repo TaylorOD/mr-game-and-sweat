@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 3
 steam_appid: 977950
 genres: ["Indie"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Short
 best_for: Both
 ---

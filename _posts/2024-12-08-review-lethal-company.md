@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 1966720
 genres: ["Action", "Adventure", "Indie", "Early Access"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Medium
 best_for: Bike
 ---

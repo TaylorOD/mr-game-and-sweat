@@ -15,7 +15,7 @@ score_overall: 2.3
 steam_appid: 588430
 controller: full
 genres: ["RPG", "Simulation", "Free To Play"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Short
 best_for: Bike
 ---

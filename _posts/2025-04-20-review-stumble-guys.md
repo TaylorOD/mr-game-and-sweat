@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 2.5
 steam_appid: 1677740
 genres: ["Action", "Casual", "Indie", "Massively Multiplayer", "Racing", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Bike
 ---

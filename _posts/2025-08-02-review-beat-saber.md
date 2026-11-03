@@ -14,7 +14,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 620980
 genres: ["Indie"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Short
 best_for: Bike
 ---

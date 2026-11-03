@@ -14,7 +14,7 @@ score_computer: 3
 score_overall: 3
 steam_appid: 444200
 genres: ["Action", "Massively Multiplayer", "Simulation", "Strategy", "Free To Play"]
-pause_friendly: No
+pause_friendly: "No"
 session_length: Short
 best_for: Bike
 ---

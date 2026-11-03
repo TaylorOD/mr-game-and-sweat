@@ -14,7 +14,7 @@ score_overall: 3
 steam_appid: 413150
 controller: full
 genres: ["Indie", "RPG", "Simulation"]
-pause_friendly: Yes
+pause_friendly: "Yes"
 session_length: Long
 best_for: Both
 ---

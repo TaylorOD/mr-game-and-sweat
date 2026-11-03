@@ -13,7 +13,7 @@ score_computer: 2
 score_overall: 2.33
 steam_appid: 4000
 genres: ["Casual", "Indie", "Simulation"]
-pause_friendly: Sometimes
+pause_friendly: "Sometimes"
 session_length: Long
 best_for: Bike
 ---
