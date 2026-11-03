@@ -1,4 +1,5 @@
 ---
+redirect_from: ["/review-grand-theft-auto-v-legacy/"]
 layout: post
 title:  "Grand Theft Auto V"
 author: taylor
