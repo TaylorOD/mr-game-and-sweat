@@ -15,6 +15,7 @@
                 </span>               
                 <div class="clearfix"></div>
             </div>
+            {% if post.added %}<small class="text-muted">added {{ post.added | date: "%b %Y" }}</small>{% endif %}
         </div>
     </div>
 </div>

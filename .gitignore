@@ -6,3 +6,5 @@ _site
 Gemfile.lock
 .DS_Store
 .env
+
+node_modules
