@@ -43,6 +43,7 @@ Badges round to one decimal, so 2.33 shows as 2.3. Best of ranks use a small # s
 | Any image | `_includes/image.html`, see [images.md](images.md) |
 | Primary and outline buttons | `btn btn-accent` and `btn btn-ghost` |
 | Pill links | `browse-chips` |
+| Header search | `header-search` in `_layouts/default.html`. It sends people to `/reviews/?q=` and hides on that page |
 
 Add a page to the header or footer in `_data/menus.yml`. Add a best of list in `_data/best_lists.yml`.
 
