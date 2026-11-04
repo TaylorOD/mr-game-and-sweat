@@ -11,10 +11,13 @@ const {
 	pickUnreviewedGames,
 	topGamesByGenre,
 	buildReviewPost,
+	copiesVoiceLine,
 } = require('./lib/review_utils');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+// The voice doc lives in a private repo. The workflows check it out to .voice
+const VOICE_DIR = process.env.VOICE_DIR || path.join(__dirname, '.voice');
 const STEAMSPY_API_URL = 'https://steamspy.com/api.php';
 // We review anything in the top of any Steam genre
 const GENRES = [
@@ -208,18 +211,20 @@ ${review}`,
 }
 
 async function generateReviewContent(game, reviewDate, addedDate, options = {}) {
+	const voice = fs.readFileSync(path.join(VOICE_DIR, 'voice.md'), 'utf8');
+	const reviewRules = fs.readFileSync(path.join(__dirname, 'lib', 'review_voice.md'), 'utf8');
 	const steam = await fetchSteamFacts(game);
 	const steamFacts = steam && steam.text;
 	const prompt = `Write a game review for the game "${game.name}". This review is for a site that focuses on helping users exercise, by running on a treadmill or biking, while playing video games. 
   
   ${steamFacts ? `\n  Facts from the store page. Use them, and dont contradict them:\n${steamFacts}\n\n  Steam leaves controller support blank for plenty of games that work fine with a controller. If it isnt listed above, dont say Steam lists no controller support. Only say a game has no controller support if you know that for sure.\n` : ''}
-  ${options.desk ? `This review is for our Great Games, Bad Workouts series. This is a great game that you should not play while exercising, because of things like needing a mouse and keyboard, careful thinking or a lot of reading. Be honest about what makes it great, then be clear about why that works against a workout. The Treadmill and Bike Compatibility score must be 0 or 1. Scores are about workouts, not how good the game is, so low scores are fine. End the conclusion by telling people to play it at their desk.\n\n  ` : ''}Start with one or two sentences about what makes this game good or bad for a workout. Say something specific to this game. Do not add a title or a greeting.
+  ${options.desk ? `This review is for our Great Games, Bad Workouts series. This is a great game that you should not play while exercising, because of things like needing a mouse and keyboard, careful thinking or a lot of reading. Be honest about what makes it great, then be clear about why that works against a workout. The Treadmill and Bike Compatibility score must be 0 or 1. Scores are about workouts, not how good the game is, so low scores are fine. End the conclusion by telling people to play it at their desk.\n\n  ` : ''}Start with one or two sentences with the first thing you would say to a friend about doing a workout with this game. Say something specific to this game. The first word cannot be the name of the game. Do not add a title or a greeting.
 
   Scores are whole numbers. Plenty of games should get a 2 or higher. A 3 means I enjoyed it and would tell you to play it, not that its perfect, and a perfect 3 in every category should be somewhat rare. A 1 means there is a real problem you would warn a friend about. Pick the score the rubric below gives you.
 
-  Gameplay: 3 means a great game that keeps you busy and has few cut scenes or waiting. 2 means a good game with some slow parts. 1 means long cut scenes, a lot of reading or a lot of waiting get in the way. 0 means mostly menus, story or sitting still.
+  Gameplay: 3 means a great game that keeps you busy most of the time, and the slow parts are short or easy to skip. A great action or racing game with little story usually gets this. 2 means a good game with some slow parts, a lot of menus, a lot to learn or stretches where you need to stop and think. 1 means long cut scenes, a lot of reading or a lot of waiting get in the way. 0 means mostly menus, story or sitting still.
 
-  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. 2 means it works with a controller but some sections need focus, timing, fast reactions or aiming. 1 means no controller support, or the game punishes you hard for any mistake you make while moving, like competitive multiplayer you cant pause. 0 means you basically cant play it while moving.
+  Treadmill and Bike Compatibility: 3 means full controller support and it stays fun with loose, imprecise inputs. Games you can play with simple controls, or that wait for you, should get this, and we want to see it. 2 means it works with a controller but some sections need focus, timing, fast reactions or aiming. 1 means no controller support, or the game punishes you hard for any mistake you make while moving, like competitive multiplayer you cant pause. 0 means you basically cant play it while moving.
 
   Computer Requirements: use the minimum requirements. 3 means it runs on integrated graphics or a very old graphics card. 2 means a normal mid range graphics card from the last several years is enough. 1 means it needs a recent, strong graphics card. 0 means only a high end gaming PC will do.
 
@@ -227,25 +232,29 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 
   ## Gameplay
 
-  {Insert details about the gameplay. Is it engaging? Does it distract you from running? Great. Are there a lot of slow sections or long cut scenes? That is bad.}
+  {Say what you think of this game and why. Assume the reader can look up what it is, so only bring up a mechanic to say how you feel about it. Does it distract you from running? Great. Are there a lot of slow sections or long cut scenes? That is bad.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
   ## Treadmill and Bike Compatibility
 
-  {Insert details about how well the game works with a treadmill or bike. Does it have controller compatibility? That is good. Does it require a lot of quick movements or twitch gameplay? That is bad.}
+  {Say what would actually happen if you played this on a treadmill or bike, what you'd change and what you'd skip. Does it have controller compatibility? That is good. Does it require a lot of quick movements or twitch gameplay? That is bad.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
   ## Computer Requirements
 
-  {Insert details about how demanding the game is on a computer}
+  {Say in two or three sentences if a normal computer can run it and the one thing to check. Do not list the specs.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
   ## Conclusion and Score
 
-  {Insert conclusion here. Do not write an overall score, we add that ourselves.}
+  {Insert conclusion here. Do not write an overall score, we add that ourselves. Do not start it with "I", "If" or the name of the game. Start with your honest bottom line, in words you haven't already used. Do not start it with "People who", "Honestly", "I'd tell you" or "I'd recommend".}
+
+  Before you finish, check these. Never say a score in your own sentences, the score lines handle that. Paragraphs should look different from each other. Some are long, some are two sentences, and once or twice a paragraph is one short line. A long sentence followed by a short flat one is a move to use two or three times in the whole review, not at the end of every paragraph. Hedge like a person, with "I think", "I feel like", "probably" or "I don't know" spread through the review, and don't use the same one twice in a row. Aim for a small joke in about every other paragraph, and let the rest just be you talking. Say "I don't know" at least twice as part of a real thought, and "I like that" at most once. Work in, naturally, something you're not great at and something you just flat out like. Don't announce either one. Every paragraph should have an actual opinion a person could disagree with.
+
+  Keep the exact heading lines. Every one of the three score lines must be written exactly like "### Category Score: 2 out of 3" and on its own line. Don't start more than two sentences in a row with "I".
   `;
 
 	try {
@@ -256,8 +265,7 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 				messages: [
 					{
 						role: 'system',
-						content:
-							'You write game reviews for Mr. Game and Sweat, a site about playing video games while running on a treadmill or riding a bike. Our tagline is "Get fit while gaming! Take that mom and dad!"\n\nWrite like a gamer telling a friend what they think. Casual and plain. Give a real opinion and say it straight. A little dry humor is good when it fits, but dont force jokes. Talk to the reader as "you".\n\nNever use em dashes or semicolons, and dont use hyphens unless they are part of a game name. Reword instead. No marketing words like immersive, captivating, thrilling, stunning or stands out. No "whether you\'re" and no "its not just X, its Y".\n\nDont make up personal stories or claim you played it on a certain day or ran a certain distance. Write a long, detailed review of about 600 to 900 words. Talk about specific systems, modes and moments from this game.',
+						content: `${voice}\n\n${reviewRules}`,
 					},
 					{ role: 'user', content: prompt },
 				],
@@ -277,6 +285,9 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 		}
 
 		const body = stripOverallScore(choice.message.content);
+		if (copiesVoiceLine(body, voice)) {
+			throw new Error(`${game.name} copied a line from the voice doc`);
+		}
 		const scores = extractCategoryScores(body);
 		if (scores.length !== 3) {
 			throw new Error('Review did not have three category scores');

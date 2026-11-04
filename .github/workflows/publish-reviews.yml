@@ -21,6 +21,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Get the voice doc
+        uses: actions/checkout@v4
+        with:
+          repository: TaylorOD/voice
+          ssh-key: ${{ secrets.VOICE_DEPLOY_KEY }}
+          persist-credentials: false
+          path: .voice
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
