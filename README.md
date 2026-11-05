@@ -4,6 +4,46 @@
 
 It's a Jekyll site hosted on GitHub Pages. A scheduled GitHub Action publishes new reviews. There's no server and no database.
 
+## What I used to build this
+
+Here's everything this runs on and what each piece does. Most of it is free, and I'd pick free and boring over clever for a site like this.
+
+### The site
+
+| What | What it does |
+|---|---|
+| [Jekyll](https://jekyllrb.com) | Turns Markdown posts into the site, with plugins for the feed, sitemap, pagination, SEO tags, archives and redirects |
+| [GitHub Pages](https://pages.github.com) | Free hosting |
+| [name.com](https://www.name.com) | The domain and DNS |
+| [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) | Came with the old template and still run the layout and menus |
+| [Google Fonts](https://fonts.google.com) | The fonts |
+
+### Writing and publishing reviews
+
+| What | What it does |
+|---|---|
+| [GitHub Actions](https://github.com/features/actions) | Publishes reviews on a schedule, and runs the checks and previews on every PR |
+| [Node.js](https://nodejs.org) with axios and dotenv | Runs the review generator |
+| [OpenAI](https://openai.com) | `gpt-6-luna` writes the reviews and guides, and `gpt-image-2` makes guide images |
+| My podcast | Transcripts from [The Professional Technical Interviewee](https://www.youtube.com/results?search_query=The+Professional+Technical+Interviewee) got distilled into a voice doc in a private repo, so reviews try to sound like me |
+| [Steam](https://store.steampowered.com) store API | Controller support, genres, requirements and the game art |
+| [SteamSpy](https://steamspy.com) | Which games to review next |
+| [IndexNow](https://www.indexnow.org) | Tells search engines when there's a new review |
+| Python with [Pillow](https://python-pillow.org) | Makes the WebP image sizes and the list of reviews to post on our [Steam curator page](https://store.steampowered.com/curator/45035411/) |
+
+### Everything else
+
+| What | What it does |
+|---|---|
+| [Playwright](https://playwright.dev) | Clicks through the built site in a real browser on every PR |
+| [GitHub Copilot](https://github.com/features/copilot) | Reviews PRs, and it catches real stuff |
+| [Claude Code](https://claude.com/claude-code) | A lot of the recent building, testing and PRs |
+| [Google Analytics](https://analytics.google.com) and [Search Console](https://search.google.com/search-console) | Who shows up and what they searched for |
+| [Formspree](https://formspree.io) | The contact form, since there's no server to send it to |
+| [Mailchimp](https://mailchimp.com) | The email signup, which is off until I finish setting it up |
+
+The chat bubble is [its own project](https://github.com/TaylorOD/ask_game_and_sweat) with its own list.
+
 ## Docs
 
 | Doc | Read it when you're working on |
