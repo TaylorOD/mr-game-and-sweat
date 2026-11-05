@@ -11,13 +11,15 @@ const {
 	pickUnreviewedGames,
 	topGamesByGenre,
 	buildReviewPost,
-	copiesVoiceLine,
+	reviewProblem,
 } = require('./lib/review_utils');
 require('dotenv').config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // The voice doc lives in a private repo. The workflows check it out to .voice
 const VOICE_DIR = process.env.VOICE_DIR || path.join(__dirname, '.voice');
+// The model sometimes drops a score line, so a bad review gets another shot
+const REVIEW_TRIES = 3;
 const STEAMSPY_API_URL = 'https://steamspy.com/api.php';
 // We review anything in the top of any Steam genre
 const GENRES = [
@@ -258,43 +260,41 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
   `;
 
 	try {
-		const response = await axios.post(
-			'https://api.openai.com/v1/chat/completions',
-			{
-				model: 'gpt-6-luna',
-				messages: [
-					{
-						role: 'system',
-						content: `${voice}\n\n${reviewRules}`,
-					},
-					{ role: 'user', content: prompt },
-				],
-				max_completion_tokens: 16000, // Reasoning counts toward this too
-			},
-			{
-				headers: {
-					Authorization: `Bearer ${OPENAI_API_KEY}`,
-					'Content-Type': 'application/json',
+		let body;
+		for (let attempt = 1; ; attempt++) {
+			const response = await axios.post(
+				'https://api.openai.com/v1/chat/completions',
+				{
+					model: 'gpt-6-luna',
+					messages: [
+						{
+							role: 'system',
+							content: `${voice}\n\n${reviewRules}`,
+						},
+						{ role: 'user', content: prompt },
+					],
+					max_completion_tokens: 16000, // Reasoning counts toward this too
 				},
+				{
+					headers: {
+						Authorization: `Bearer ${OPENAI_API_KEY}`,
+						'Content-Type': 'application/json',
+					},
+				}
+			);
+
+			const choice = response.data.choices[0];
+			if (choice.finish_reason !== 'stop') {
+				throw new Error('Review did not finish');
 			}
-		);
 
-		const choice = response.data.choices[0];
-		if (choice.finish_reason !== 'stop') {
-			throw new Error('Review did not finish');
-		}
-
-		const body = stripOverallScore(choice.message.content);
-		if (copiesVoiceLine(body, voice)) {
-			throw new Error(`${game.name} copied a line from the voice doc`);
+			body = stripOverallScore(choice.message.content);
+			const problem = reviewProblem(body, voice, options.desk);
+			if (!problem) break;
+			if (attempt === REVIEW_TRIES) throw new Error(`${game.name}: ${problem}`);
+			console.log(`Trying ${game.name} again: ${problem}`);
 		}
 		const scores = extractCategoryScores(body);
-		if (scores.length !== 3) {
-			throw new Error('Review did not have three category scores');
-		}
-		if (options.desk && scores[1] > 1) {
-			throw new Error(`${game.name} scored too high to be a bad workout`);
-		}
 
 		const workout = await fetchWorkoutDetails(game, body);
 		return buildReviewPost({
