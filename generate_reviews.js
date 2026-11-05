@@ -246,7 +246,7 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 
   ## Computer Requirements
 
-  {Say in two or three sentences if a normal computer can run it and the one thing to check. Do not list the specs.}
+  {Say in two or three sentences what kind of computer can run it and what you'd look at first. Do not list the specs.}
 
   ### Category Score: {insert a 0-3 score here} out of 3
 
@@ -254,7 +254,7 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 
   {Insert conclusion here. Do not write an overall score, we add that ourselves. Do not start it with "I", "If" or the name of the game. Start with your honest bottom line, in words you haven't already used. Do not start it with "People who", "Honestly", "I'd tell you" or "I'd recommend".}
 
-  Before you finish, check these. Never say a score in your own sentences, the score lines handle that. Paragraphs should look different from each other. Some are long, some are two sentences, and once or twice a paragraph is one short line. A long sentence followed by a short flat one is a move to use two or three times in the whole review, not at the end of every paragraph. Hedge like a person, with "I think", "I feel like", "probably" or "I don't know" spread through the review, and don't use the same one twice in a row. Aim for a small joke in about every other paragraph, and let the rest just be you talking. Say "I don't know" at least twice as part of a real thought, and "I like that" at most once. Work in, naturally, something you're not great at and something you just flat out like. Don't announce either one. Every paragraph should have an actual opinion a person could disagree with.
+  Before you finish, check these. Never say a score in your own sentences, the score lines handle that. Paragraphs should look different from each other. Some are long, some are two sentences, and once or twice a paragraph is one short line. A long sentence followed by a short flat one is a move to use two or three times in the whole review, not at the end of every paragraph. Hedge like a person, with "I think", "I feel like", "probably" or "I don't know" spread through the review, and don't use the same one twice in a row. Aim for a small joke in about every other paragraph, and let the rest just be you talking. Say "I don't know" a couple of times as part of a real thought, worded differently each time, and "I like that" at most once. Only admit you're bad at something when it really comes up in this game, and make it about this game. Say plainly what you like about it, in your own words. Every paragraph should have an actual opinion a person could disagree with.
 
   Keep the exact heading lines. Every one of the three score lines must be on its own line in the form "### Category Score: N out of 3", where N is the score you picked for that section. Don't start more than two sentences in a row with "I".
   `;
