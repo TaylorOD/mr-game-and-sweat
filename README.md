@@ -70,6 +70,27 @@ The chat bubble is [its own project](https://github.com/TaylorOD/ask_game_and_sw
 | `test/` | Tests |
 | `.github/workflows/` | Publishing, checks and previews |
 
+## What tech?
+
+| Tech | What it does |
+| --- | --- |
+| Jekyll and Liquid | Builds the site |
+| HTML, CSS, JavaScript, Bootstrap and jQuery | The front end |
+| GitHub Pages | Hosting |
+| GitHub Actions | Publishes reviews on a schedule, runs tests and builds PR previews |
+| Node.js | Runs the review generator and the tests |
+| OpenAI `gpt-6-luna` | Writes the reviews and guides |
+| OpenAI `gpt-image-2` | Makes the guide art |
+| Steam store API | Game facts and game art |
+| Playwright | Browser tests |
+| Python and Pillow | Makes WebP sizes for images we host |
+| IndexNow | Tells Bing, Yandex and others about new reviews |
+| Google Analytics | Traffic numbers |
+| Google Fonts | Barlow Semi Condensed and Inter |
+| Mailchimp | The newsletter |
+
+The chatbot is its own project, [ask_game_and_sweat](https://github.com/TaylorOD/ask_game_and_sweat), with its own tech list.
+
 ## How we work
 
 * Every change gets its own branch and its own PR, merged on its own. No big mixed branches.
