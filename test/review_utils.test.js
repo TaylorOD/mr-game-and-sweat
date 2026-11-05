@@ -240,6 +240,7 @@ const oldSections = [{ text: 'one two three [link](/a)' }, { text: 'four five' }
 const rewrite = (...sections) => ({ excerpt: 'Short opener.', sections });
 assert.strictEqual(rewriteProblem(rewrite('one two three more [link](/a)', 'four five'), oldSections, retryVoice), null);
 assert.strictEqual(rewriteProblem(rewrite('just one [link](/a)', 'two'), oldSections, retryVoice), 'got shorter');
+assert.strictEqual(rewriteProblem(rewrite('the original review says [link](/a)', 'four five'), oldSections, retryVoice), 'mentioned the rewrite');
 assert.strictEqual(rewriteProblem(rewrite('one two three four five six'), oldSections, retryVoice), 'wrong number of sections');
 assert.strictEqual(rewriteProblem(rewrite('one two three four five', 'six seven'), oldSections, retryVoice), 'changed a link');
 assert.strictEqual(rewriteProblem(rewrite('one; two three [link](/a)', 'four five'), oldSections, retryVoice), 'banned punctuation');

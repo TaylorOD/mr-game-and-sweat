@@ -42,7 +42,7 @@ Keep the same opinions and the facts already in the review. You can add your own
 
 Our scores out of 3, which your words must agree with: gameplay ${field(front, 'score_gameplay')}, treadmill and bike ${field(front, 'score_treadmill')}, computer requirements ${field(front, 'score_computer')}, overall ${field(front, 'score_overall')}.
 
-Paragraphs should look different from each other, some long, some two sentences and once or twice one short line. Hedge like a person and don't use the same hedge twice in a row. Every paragraph should have an actual opinion a person could disagree with. Never say a score in your own sentences.
+Paragraphs should look different from each other, some long, some two sentences and once or twice one short line. Hedge like a person and don't use the same hedge twice in a row. Every paragraph should have an actual opinion a person could disagree with. Never say a score in your own sentences. Write it as your own review, and never mention an original review or that this is a rewrite.
 
 Return an excerpt of one or two sentences with the first thing you would say to a friend about doing a workout with this game, plus exactly ${sections.length} rewritten sections in the same order. Dont include headings, scores or a title.
 

@@ -24,7 +24,7 @@ jobs:
           if git ls-remote --exit-code --heads origin rewrite-in-my-voice; then
             git checkout -B rewrite-in-my-voice origin/rewrite-in-my-voice
             # Always run the script and rules from the branch this was started on
-            git checkout "$GITHUB_SHA" -- scripts lib
+            git restore --source "$GITHUB_SHA" --worktree -- scripts lib
           else
             git checkout -b rewrite-in-my-voice
           fi
