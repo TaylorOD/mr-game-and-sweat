@@ -17,6 +17,7 @@ const {
   joinReview,
   needsRewrite,
   copiesVoiceLine,
+  reviewProblem,
 } = require('../lib/review_utils');
 
 // Editions of a game we already reviewed count as the same game
@@ -220,5 +221,17 @@ const shortVoice = '# Real examples of Taylor\n\n"I blame my homeschooling."\n\n
 assert.ok(copiesVoiceLine('Honestly, I blame my homeschooling for that.', shortVoice));
 assert.ok(!copiesVoiceLine('I blame my homeschool friends for that.', shortVoice));
 assert.ok(!copiesVoiceLine('Not this one either.', shortVoice));
+
+// A review with a problem gets tried again instead of publishing
+const retryVoice = '# Real examples\n\nthe quick brown fox jumps over the lazy dog today\n\n# Next\n';
+const scoreLines = (a, b, c) => [a, b, c].map((n) => `### Category Score: ${n} out of 3`).join('\n\n');
+assert.strictEqual(reviewProblem(scoreLines(2, 2, 3), retryVoice), null);
+assert.strictEqual(reviewProblem('### Category Score: 3 out of 3', retryVoice), 'did not have three category scores');
+assert.strictEqual(
+  reviewProblem(`${scoreLines(2, 2, 3)}\n\nthe quick brown fox jumps over the lazy dog`, retryVoice),
+  'copied a line from the voice doc'
+);
+assert.strictEqual(reviewProblem(scoreLines(3, 2, 3), retryVoice, true), 'scored too high to be a bad workout');
+assert.strictEqual(reviewProblem(scoreLines(3, 1, 3), retryVoice, true), null);
 
 console.log('review utils checks passed');
