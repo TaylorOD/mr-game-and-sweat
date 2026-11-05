@@ -18,6 +18,7 @@ const {
   needsRewrite,
   copiesVoiceLine,
   reviewProblem,
+  rewriteProblem,
 } = require('../lib/review_utils');
 
 // Editions of a game we already reviewed count as the same game
@@ -233,5 +234,18 @@ assert.strictEqual(
 );
 assert.strictEqual(reviewProblem(scoreLines(3, 2, 3), retryVoice, true), 'scored too high to be a bad workout');
 assert.strictEqual(reviewProblem(scoreLines(3, 1, 3), retryVoice, true), null);
+
+// A rewrite cant cut a review down or lift a line from the voice doc
+const oldSections = [{ text: 'one two three [link](/a)' }, { text: 'four five' }];
+const rewrite = (...sections) => ({ excerpt: 'Short opener.', sections });
+assert.strictEqual(rewriteProblem(rewrite('one two three more [link](/a)', 'four five'), oldSections, retryVoice), null);
+assert.strictEqual(rewriteProblem(rewrite('just one [link](/a)', 'two'), oldSections, retryVoice), 'got shorter');
+assert.strictEqual(rewriteProblem(rewrite('one two three four five six'), oldSections, retryVoice), 'wrong number of sections');
+assert.strictEqual(rewriteProblem(rewrite('one two three four five', 'six seven'), oldSections, retryVoice), 'changed a link');
+assert.strictEqual(rewriteProblem(rewrite('one; two three [link](/a)', 'four five'), oldSections, retryVoice), 'banned punctuation');
+assert.strictEqual(
+  rewriteProblem(rewrite('the quick brown fox jumps over the lazy dog [link](/a)', 'four five'), oldSections, retryVoice),
+  'copied a line from the voice doc'
+);
 
 console.log('review utils checks passed');
