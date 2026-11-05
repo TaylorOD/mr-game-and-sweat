@@ -254,7 +254,7 @@ async function generateReviewContent(game, reviewDate, addedDate, options = {}) 
 
   Before you finish, check these. Never say a score in your own sentences, the score lines handle that. Paragraphs should look different from each other. Some are long, some are two sentences, and once or twice a paragraph is one short line. A long sentence followed by a short flat one is a move to use two or three times in the whole review, not at the end of every paragraph. Hedge like a person, with "I think", "I feel like", "probably" or "I don't know" spread through the review, and don't use the same one twice in a row. Aim for a small joke in about every other paragraph, and let the rest just be you talking. Say "I don't know" at least twice as part of a real thought, and "I like that" at most once. Work in, naturally, something you're not great at and something you just flat out like. Don't announce either one. Every paragraph should have an actual opinion a person could disagree with.
 
-  Keep the exact heading lines. Every one of the three score lines must be written exactly like "### Category Score: 2 out of 3" and on its own line. Don't start more than two sentences in a row with "I".
+  Keep the exact heading lines. Every one of the three score lines must be on its own line in the form "### Category Score: N out of 3", where N is the score you picked for that section. Don't start more than two sentences in a row with "I".
   `;
 
 	try {
