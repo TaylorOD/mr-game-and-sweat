@@ -73,7 +73,10 @@ async function rewriteFile(file, today) {
 	for (let attempt = 0; attempt < 3; attempt++) {
 		const result = await rewriteOnce(parts.front, sections);
 		lastProblem = rewriteProblem(result, sections, VOICE);
-		if (lastProblem) continue;
+		if (lastProblem) {
+			console.log(`${file} try ${attempt + 1}: ${lastProblem}`);
+			continue;
+		}
 		sections.forEach((section, index) => {
 			section.text = result.sections[index].trim();
 		});
