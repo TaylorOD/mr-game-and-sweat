@@ -53,7 +53,7 @@ The scores in the text have to match the front matter. Only the page title is a 
 
 Reviews are written in first person and should sound like Taylor. How Taylor sounds lives in the private `TaylorOD/voice` repo, distilled from every episode of The Professional Technical Interviewee. The publish workflows check it out to `.voice` with the `VOICE_DEPLOY_KEY` secret. To run the generator on your own computer, clone it and set `VOICE_DIR` to the folder.
 
-The rules for reviews live in `lib/review_voice.md` and get added on top of that. Dont paste real lines or stories from the show into this repo, its public. A review that copies a line from the voice doc fails instead of publishing.
+The rules for reviews live in `lib/review_voice.md` and get added on top of that. Dont paste real lines or stories from the show into this repo, its public. A review that copies a line from the voice doc or loses a score line gets tried again, up to 3 times, and then fails instead of publishing.
 
 ## Length
 
