@@ -21,11 +21,21 @@ jobs:
 
       - name: Keep going on the rewrite branch if it exists
         run: |
-          if git ls-remote --exit-code --heads origin rewrite-old-reviews; then
-            git checkout -B rewrite-old-reviews origin/rewrite-old-reviews
+          if git ls-remote --exit-code --heads origin rewrite-in-my-voice; then
+            git checkout -B rewrite-in-my-voice origin/rewrite-in-my-voice
+            # Always run the script and rules from the branch this was started on
+            git restore --source "$GITHUB_SHA" --worktree -- scripts lib
           else
-            git checkout -b rewrite-old-reviews
+            git checkout -b rewrite-in-my-voice
           fi
+
+      - name: Get the voice doc
+        uses: actions/checkout@v4
+        with:
+          repository: TaylorOD/voice
+          ssh-key: ${{ secrets.VOICE_DEPLOY_KEY }}
+          persist-credentials: false
+          path: .voice
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -54,4 +64,4 @@ jobs:
             exit 0
           fi
           git commit -m "rewrite old reviews"
-          git push origin rewrite-old-reviews
+          git push origin rewrite-in-my-voice
