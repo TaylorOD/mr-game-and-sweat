@@ -49,9 +49,15 @@ The body needs these `##` sections, with a `### Category Score: N out of 3` line
 
 The scores in the text have to match the front matter. Only the page title is a top level heading.
 
+## Voice
+
+Reviews are written in first person and should sound like Taylor. How Taylor sounds lives in the private `TaylorOD/voice` repo, distilled from every episode of The Professional Technical Interviewee. The publish workflows check it out to `.voice` with the `VOICE_DEPLOY_KEY` secret. To run the generator on your own computer, clone it and set `VOICE_DIR` to the folder.
+
+The rules for reviews live in `lib/review_voice.md` and get added on top of that. Dont paste real lines or stories from the show into this repo, its public. A review that copies a line from the voice doc fails instead of publishing.
+
 ## Length
 
-Reviews are long and detailed, about 600 to 900 words.
+Reviews are long and detailed, about 750 to 900 words.
 
 ## Scoring
 
@@ -63,7 +69,7 @@ Reviews are long and detailed, about 600 to 900 words.
 ## Rules that matter
 
 * **Backdated posts always keep the small `added` note.** Never remove it or backdate without it.
-* **No invented personal stories.** Dont make up things that happened to Taylor or anyone else.
+* **No invented personal stories.** Opinions in first person are fine, like "I love this" or "I wouldnt play this on a bike". Dont make up things that happened to Taylor or anyone else, like a certain run, day or number of hours. The voice doc has the short list of real facts it can use.
 * **No duplicates.** To remove one, delete the post and add `redirect_from: ["/old-url/"]` to the one we keep.
 * Dont change a review's URL without a redirect.
 

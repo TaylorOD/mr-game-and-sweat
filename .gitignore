@@ -10,3 +10,4 @@ Gemfile.lock
 node_modules
 
 curator_queue.csv
+.voice

@@ -16,6 +16,7 @@ const {
   splitReview,
   joinReview,
   needsRewrite,
+  copiesVoiceLine,
 } = require('../lib/review_utils');
 
 // Editions of a game we already reviewed count as the same game
@@ -207,5 +208,17 @@ assert.ok(!needsRewrite('2026-11-03-review-game.md', 'score_overall: 2'));
 assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\nadded: 2026-11-02'));
 assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\nlast_modified_at: 2026-11-03'));
 assert.ok(!needsRewrite('2025-01-01-review-game.md', 'score_overall: 2\ncategories: [ review, desk ]'));
+
+const voiceDoc = '# How it sounds\n\nSay it plainly right here in this part.\n\n# Real examples of Taylor\n\n"They paid for my dinner that night and I got to see the town."\n\n# What is true\n\nThings.\n';
+assert.ok(copiesVoiceLine('So anyway, they paid for my dinner that night and I got to see it.', voiceDoc));
+assert.ok(copiesVoiceLine('THEY PAID for my dinner, that night and I got!', voiceDoc));
+assert.ok(!copiesVoiceLine('They paid for my dinner and that is fine.', voiceDoc));
+assert.ok(!copiesVoiceLine('Say it plainly right here in this part.', voiceDoc));
+assert.ok(!copiesVoiceLine('Anything at all goes here for this one test.', 'no examples in this doc'));
+assert.ok(copiesVoiceLine('they paid for my—dinner that night and I got', voiceDoc));
+const shortVoice = '# Real examples of Taylor\n\n"I blame my homeschooling."\n\n# Next\n\n"Not this one either."\n';
+assert.ok(copiesVoiceLine('Honestly, I blame my homeschooling for that.', shortVoice));
+assert.ok(!copiesVoiceLine('I blame my homeschool friends for that.', shortVoice));
+assert.ok(!copiesVoiceLine('Not this one either.', shortVoice));
 
 console.log('review utils checks passed');
