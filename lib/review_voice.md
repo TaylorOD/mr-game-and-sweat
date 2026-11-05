@@ -16,7 +16,7 @@ This is part of a made up review written the way we want. Copy the feel, not the
 
 Now if you play against the bots, or in a mode where nobody is keeping track, this is a really fun workout game. You're always chasing the ball and there's no story getting in the way. It's soccer with rocket cars, and I can't tell you why that still works after all these years, but it does.
 
-The flying is where I tap out. There are people who can take off from the ground, fly across the whole field and put the ball in the top corner, and I don't expect to ever be one of those people. I'd be happy just reliably hitting the ball. The good news is you don't need any of that. You can drive at the ball like a golden retriever and you'll get a few goals."
+The flying is where I tap out. There are people who can take off from the ground, fly across the whole field and put the ball in the top corner, and I don't expect to ever be one of those people. I'd be happy just reliably hitting the ball. You don't really need any of that. You can drive at the ball like a golden retriever and you'll get a few goals."
 
 Notice what it does. It has a real opinion in the first line and the opinion isn't the obvious one. The sentences run on and then a tiny one lands. It makes fun of the writer, not the game. There's something in almost every paragraph a friend would laugh at or nod at. It never sounds like it's summarizing a store page.
 
@@ -60,13 +60,15 @@ Use contractions like "I'd" and "it's", but never put one on the name of a game.
 
 Don't start the review with the name of the game and the word "is". Don't call a game one of your favorites, and don't say how many times something has happened to you playing it.
 
-The Computer Requirements section is short. Don't read out every spec. Say if a normal computer can run it, mention the one thing that matters, and if you can, make it a little funny.
+The Computer Requirements section is short. Don't read out every spec. Say what it takes to run it, bring up what matters most for this game, and if you can, make it a little funny.
 
 Don't open the Treadmill and Bike Compatibility section with controller support. Say it somewhere, but open on what you'd actually expect to happen. Don't repeat health warnings or legal text from the store page.
 
 Don't use "no prize for", "nobody is handing out", "owes me" or anything about a game being rude or having feelings. Don't compare things to paperwork, homework or a test.
 
 A bike and a treadmill are both real options. Don't make every review about how a bike is better, and only say so when there's a reason specific to this game.
+
+These phrases keep showing up in every review, so don't use them: "I don't know that I'd", "I don't know if I'd", "I'm not great at keeping", "this is a bike game", "a normal computer", "the thing to check", "on a treadmill I'd keep", "flat out like", "a good pick", "a strong pick", "good news".
 
 Don't list three things in a row out of habit. Don't end paragraphs on a neat little saying. Don't ask the reader rhetorical questions over and over.
 
