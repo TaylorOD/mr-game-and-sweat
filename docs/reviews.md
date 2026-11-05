@@ -105,4 +105,4 @@ If you add art by hand, run the resize script. See [images.md](images.md).
 
 ## Rewriting old reviews
 
-The `Rewrite Old Reviews` workflow rewrites old generated reviews in our current voice and pushes them to the `rewrite-old-reviews` branch for a look. Scores, headings, dates and URLs stay the same, and it sets `last_modified_at` so it wont redo a review. It skips posts whose file name doesnt start with `review-`, since those are older and have people's own words in them.
+The `Rewrite Old Reviews` workflow rewrites old generated reviews with the same voice doc and rules as new ones and pushes them to the `rewrite-in-my-voice` branch for a look. Scores, headings, dates and URLs stay the same, a rewrite thats shorter than the original gets tried again, and it sets `last_modified_at` so it wont redo a review. Every run costs money, so try it with a `limit` first. It skips posts whose file name doesnt start with `review-`, since those are older and have people's own words in them.
