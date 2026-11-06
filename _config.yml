@@ -57,7 +57,7 @@ plugins:
   - jekyll-redirect-from
 
 # Chat bubble. Leave this blank to hide the bubble
-chat_api_url:
+chat_api_url: https://ask-game-and-sweat.onrender.com
 
 # Repo files that shouldnt end up on the site
 exclude:
