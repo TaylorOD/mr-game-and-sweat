@@ -36,8 +36,6 @@ Here's everything this runs on and what each piece does. Most of it is free, and
 | What | What it does |
 |---|---|
 | [Playwright](https://playwright.dev) | Clicks through the built site in a real browser on every PR |
-| [GitHub Copilot](https://github.com/features/copilot) | Reviews PRs, and it catches real stuff |
-| [Claude Code](https://claude.com/claude-code) | A lot of the recent building, testing and PRs |
 | [Google Analytics](https://analytics.google.com) and [Search Console](https://search.google.com/search-console) | Who shows up and what they searched for |
 | [Formspree](https://formspree.io) | The contact form, since there's no server to send it to |
 | [Mailchimp](https://mailchimp.com) | The email signup, which is off until I finish setting it up |
@@ -69,27 +67,6 @@ The chat bubble is [its own project](https://github.com/TaylorOD/ask_game_and_sw
 | `scripts/resize_images.py` | Makes sizes for images we host |
 | `test/` | Tests |
 | `.github/workflows/` | Publishing, checks and previews |
-
-## What tech?
-
-| Tech | What it does |
-| --- | --- |
-| Jekyll and Liquid | Builds the site |
-| HTML, CSS, JavaScript, Bootstrap and jQuery | The front end |
-| GitHub Pages | Hosting |
-| GitHub Actions | Publishes reviews on a schedule, runs tests and builds PR previews |
-| Node.js | Runs the review generator and the tests |
-| OpenAI `gpt-6-luna` | Writes the reviews and guides |
-| OpenAI `gpt-image-2` | Makes the guide art |
-| Steam store API | Game facts and game art |
-| Playwright | Browser tests |
-| Python and Pillow | Makes WebP sizes for images we host |
-| IndexNow | Tells Bing, Yandex and others about new reviews |
-| Google Analytics | Traffic numbers |
-| Google Fonts | Barlow Semi Condensed and Inter |
-| Mailchimp | The newsletter |
-
-The chatbot is its own project, [ask_game_and_sweat](https://github.com/TaylorOD/ask_game_and_sweat), with its own tech list.
 
 ## How we work
 
