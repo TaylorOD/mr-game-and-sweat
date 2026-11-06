@@ -52,7 +52,7 @@
 	}
 
 	// Answers only ever go into the page as text nodes and links back to this site, never as HTML
-	const INLINE = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|(https?:\/\/[^\s)]+[^\s).,!?])|\*\*(.+?)\*\*/g;
+	const INLINE = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|【?(https?:\/\/[^\s)】]+[^\s).,!?】])】?|\*\*(.+?)\*\*/g;
 
 	function addInline(parent, text) {
 		let last = 0;
