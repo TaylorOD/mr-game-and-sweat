@@ -2,6 +2,8 @@
 
 [mrgameandsweat.com](https://mrgameandsweat.com) reviews video games you can play while running on a treadmill or riding an exercise bike. Every game gets scored out of 3 on gameplay, treadmill and bike fit, and computer requirements.
 
+![The Mr. Game and Sweat home page](docs/home.jpg)
+
 It's a Jekyll site hosted on GitHub Pages. A scheduled GitHub Action publishes new reviews. There's no server and no database.
 
 ## What I used to build this
