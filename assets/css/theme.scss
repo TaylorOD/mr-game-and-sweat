@@ -686,3 +686,30 @@ span.navigation:before {
 	transition: all 0.3s;
 	opacity: 0.8;
 }
+
+/* Newsletter: preserve Brevo's validation hooks while matching the site. */
+.newsletter { margin: 3rem auto; padding: 2rem; max-width: 760px; border: 1px solid #ddd; border-radius: 8px; background: #f7f8f7; }
+.newsletter h2 { font-size: 1.65rem; }
+.newsletter #sib-form { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1rem; }
+.newsletter .sib-input { flex: 1 1 260px; min-width: 0; }
+.newsletter .entry__label { display: block; font-weight: 700; }
+.newsletter .input { width: 100%; min-height: 48px; padding: .65rem; border: 1px solid #777; border-radius: 4px; font: inherit; }
+.newsletter button[type=submit] { margin-top: 1.85rem; min-height: 48px; padding: .65rem 1.4rem; border: 0; border-radius: 4px; background: #1c9963; color: #fff; font: inherit; font-weight: 700; cursor: pointer; }
+.newsletter button:disabled { opacity: .6; cursor: wait; }
+.newsletter :focus-visible { outline: 3px solid #155e43; outline-offset: 3px; }
+.newsletter .sib-form-message-panel { display: none; padding: 1rem; margin-bottom: 1rem; border-radius: 4px; }
+.newsletter .sib-form-message-panel--active { display: block; }
+.newsletter #error-message, .newsletter .entry__error { color: #8b2020; }
+.newsletter #error-message { background: #ffeded; }
+.newsletter #success-message { color: #085229; background: #e7faf0; }
+.newsletter .entry__error { display: block; font-size: .9rem; }
+.newsletter-trap { position: absolute; left: -5000px; }
+.newsletter .small { margin: 1rem 0 0; }
+@media (max-width: 575px) {
+  .newsletter { padding: 1.25rem; }
+  .newsletter #sib-form { display: block; }
+  .newsletter button[type=submit] { width: 100%; margin-top: .75rem; }
+}
+
+.newsletter .progress-indicator__icon { width: 1em; height: 1em; margin-right: .5rem; fill: currentColor; }
+.newsletter .sib-hide-loader-icon { display: none; }

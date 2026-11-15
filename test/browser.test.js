@@ -54,6 +54,25 @@ async function run(base) {
     await context.close();
   }
 
+  for (const [name, width, height] of [['desktop', 1440, 1000], ['phone', 390, 844]]) {
+    await test(`newsletter is usable on ${name}`, async (page) => {
+      await page.setViewportSize({ width, height });
+      await page.goto(base);
+      const form = page.locator('#sib-form');
+      assert.strictEqual(await form.count(), 1);
+      assert.ok((await form.getAttribute('action')).startsWith('https://2096c721.sibforms.com/serve/'));
+      assert.strictEqual(await form.locator('[name="email_address_check"]').count(), 1);
+      await page.locator('#EMAIL').fill('invalid');
+      assert.strictEqual(await page.locator('#EMAIL').evaluate(e => e.checkValidity()), false);
+      await page.locator('#EMAIL').fill('');
+      await page.locator('.newsletter').scrollIntoViewIfNeeded();
+      const box = await form.boundingBox();
+      assert.ok(box.x >= 0 && box.x + box.width <= width, 'Form overflows the viewport');
+      fs.mkdirSync('newsletter-screenshots', { recursive: true });
+      await page.screenshot({ path: `newsletter-screenshots/${name}.png` });
+    });
+  }
+
   await test('home page lists reviews and links to one', async (page) => {
     await page.goto(base);
     assert.ok((await page.locator('.card').count()) >= 10, 'Not enough cards');
