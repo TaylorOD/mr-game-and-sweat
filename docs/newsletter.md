@@ -18,7 +18,7 @@ The newsletter uses Brevo Free. Mailchimp was closed on November 14, 2026.
 ## Sending and limits
 
 Automatic sending is OFF. The draft RSS integration is named `Mr. Game and Sweat weekly digest`.
-Proposed cadence: Sunday 9 a.m. America/Denver, pending owner approval.
+Draft cadence: Sunday 9 a.m. America/Denver, pending owner approval. Manual campaign sending is selected and the integration is saved inactive.
 Free costs $0, includes Brevo branding and 300 total sends/day (including confirmations/tests). A campaign over 300 recipients does not automatically reach everyone; monitor list size and remaining quota before activation. Do not start a paid trial or upgrade without approval.
 
 ## Feed and backfill
@@ -44,4 +44,4 @@ Review bounces, complaints, quota, and subscriber count regularly. Keep suppress
 
 ## Validation status
 
-Local helper, security-log, and 599-post validation passed. This environment lacks Ruby and cannot launch Chromium, so the full Jekyll build and browser checks must run in PR CI. Browser screenshots are required before merge. Delivery, membership, sample email, unsubscribe, and backfill tests remain pending. This document intentionally records incomplete checks rather than claiming production readiness.
+Local helper, security-log, and 599-post validation passed. The PR CI Jekyll build, site checks, and desktop/phone browser checks also passed on the first commit. Screenshot inspection caught a contrast issue that was corrected to use the site’s dark-theme tokens; fresh CI screenshots must be reviewed before merge. Delivery, membership, sample email, unsubscribe, and backfill tests remain pending. This document intentionally records incomplete checks rather than claiming production readiness.

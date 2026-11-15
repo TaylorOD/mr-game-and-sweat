@@ -65,6 +65,7 @@ async function run(base) {
       await page.locator('#EMAIL').fill('invalid');
       assert.strictEqual(await page.locator('#EMAIL').evaluate(e => e.checkValidity()), false);
       await page.locator('#EMAIL').fill('');
+      await page.locator('#EMAIL').blur();
       await page.locator('.newsletter').scrollIntoViewIfNeeded();
       const box = await form.boundingBox();
       assert.ok(box.x >= 0 && box.x + box.width <= width, 'Form overflows the viewport');
