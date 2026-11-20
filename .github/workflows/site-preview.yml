@@ -27,3 +27,9 @@ jobs:
       - run: npm install --no-save --no-audit --no-fund playwright@1.64.1
       - run: npx playwright install --with-deps chromium
       - run: node test/browser.test.js _site
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: newsletter-screenshots
+          path: newsletter-screenshots
+          if-no-files-found: ignore
