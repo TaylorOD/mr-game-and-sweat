@@ -17,7 +17,7 @@ The information is used to enhance the visitor's experience when using the websi
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
-E-mail may be sent to inform you of new reviews.
+If you sign up for the newsletter, your email address and subscription consent are processed by Brevo to send confirmation emails and updates about new reviews and guides. You must confirm your email before joining the newsletter list. Every newsletter includes an unsubscribe link. Brevo may process email delivery and engagement information to operate the service. See [Brevo’s privacy policy](https://www.brevo.com/legal/privacypolicy/).
 
 ### Visitor Options
 If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
